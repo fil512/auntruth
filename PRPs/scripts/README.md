@@ -64,6 +64,17 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Fixes CSS references that were missed
 - Final cleanup for all /AuntRuth/ patterns
 
+### 003-remove-cgi-counters.py
+**Purpose:** Task 003 - Remove CGI counter script references
+**Usage:** `python3 003-remove-cgi-counters.py [--dry-run] [--target-dir docs/htm]`
+**Features:**
+- Removes all /cgi-bin/counter.pl references from HTML files
+- GitHub Pages compatibility (CGI scripts don't work in static hosting)
+- Processed 1,517 files with regex pattern matching
+- Progress reporting every 100 files
+- Dry-run mode with sample preview
+- Test mode for sample file verification
+
 ### fix-github-pages-paths.py
 **Purpose:** General GitHub Pages path compatibility fixes
 **Usage:** `python3 fix-github-pages-paths.py`
