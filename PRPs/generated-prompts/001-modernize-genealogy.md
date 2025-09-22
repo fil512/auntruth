@@ -1,4 +1,4 @@
-# Modernize Genealogy Site Task: {{task_name}}
+# Modernize Genealogy Site Task: fix-absolute-paths
 
 ## ⚠️ CRITICAL WARNING ⚠️
 This repository contains ~11,000 HTML files in nested directories.
@@ -10,26 +10,26 @@ This repository contains ~11,000 HTML files in nested directories.
 **Starting edits without complete analysis = TASK FAILURE**
 
 ## Task Overview
-**Item:** {{item_number}}
-**Task:** {{task_name}}
-**Description:** {{description}}
+**Item:** 001
+**Task:** fix-absolute-paths
+**Description:** Replace Windows-style and absolute paths with relative paths
 
 ## Background Context
 This is part of modernizing a genealogy website (AuntieRuth.com) for GitHub Pages. The site contains ~11,000 HTML files with family history data from 2002-2005 that need to be updated for modern web standards and GitHub Pages compatibility.
 
 ## Current Issue
-{{description}}
+Replace Windows-style and absolute paths with relative paths
 
 ## Target Directory
-Work in: `{{target_directory}}`
+Work in: `docs/htm`
 
 ## Search Pattern
-Look for: `{{search_pattern}}`
+Look for: `\\auntruth\\htm\\`
 
 ## MANDATORY SCOPE ANALYSIS (DO NOT SKIP)
 
 ### STOP! Complete this analysis before proceeding:
-1. **Search ALL subdirectories recursively** - Use Grep with count mode: `{{search_pattern}}` in `{{target_directory}}`
+1. **Search ALL subdirectories recursively** - Use Grep with count mode: `\\auntruth\\htm\\` in `docs/htm`
 2. **Document the exact count** of files affected
 3. **Document the total occurrences** across all files
 4. **List all affected directories** to understand the scope
@@ -40,13 +40,13 @@ Look for: `{{search_pattern}}`
 ### Required Analysis Commands
 ```bash
 # Count files containing the pattern
-grep -r "{{search_pattern}}" {{target_directory}} --include="*.htm" --include="*.html" -l | wc -l
+grep -r "\\auntruth\\htm\\" docs/htm --include="*.htm" --include="*.html" -l | wc -l
 
 # Count total occurrences
-grep -r "{{search_pattern}}" {{target_directory}} --include="*.htm" --include="*.html" -c
+grep -r "\\auntruth\\htm\\" docs/htm --include="*.htm" --include="*.html" -c
 
 # List affected files for verification
-grep -r "{{search_pattern}}" {{target_directory}} --include="*.htm" --include="*.html" -l
+grep -r "\\auntruth\\htm\\" docs/htm --include="*.htm" --include="*.html" -l
 ```
 
 ## Tool Selection Guide (MANDATORY CHECK)
@@ -80,7 +80,7 @@ When creating or using scripts for mass operations:
 ## Pre-Execution Checklist (MANDATORY)
 
 **Before making ANY file changes, confirm:**
-- [ ] I have verified I'm working in the correct git branch: `task-{{item_number}}-{{task_name}}`
+- [ ] I have verified I'm working in the correct git branch: `task-001-fix-absolute-paths`
 - [ ] I have checked that tracking shows this task as "IN PROGRESS"
 - [ ] I have searched ALL subdirectories recursively using Grep
 - [ ] I have counted the TOTAL number of affected files: ___ files
@@ -94,7 +94,7 @@ When creating or using scripts for mass operations:
 
 **Note: The parent workflow has already created the git branch and updated tracking. You are working in an existing branch.**
 
-1. **Verify setup**: Confirm you're in branch `task-{{item_number}}-{{task_name}}` and tracking shows "IN PROGRESS"
+1. **Verify setup**: Confirm you're in branch `task-001-fix-absolute-paths` and tracking shows "IN PROGRESS"
 2. **Check existing scripts**: Read PRPs/scripts/README.md to see if suitable script exists
 3. **MANDATORY SCOPE ANALYSIS**: Complete the analysis section above - count ALL affected files recursively
 4. **Determine scale**: Use the file count to select appropriate tool from decision gate
@@ -228,7 +228,7 @@ def process_files_batch(target_dir, pattern, replacement, dry_run=True):
 - Keep the genealogical content and structure intact
 
 ## Success Criteria
-- All instances of `{{search_pattern}}` are properly addressed
+- All instances of `\\auntruth\\htm\\` are properly addressed
 - No broken links or missing resources
 - Changes are compatible with GitHub Pages static hosting
 - HTML remains valid and functional

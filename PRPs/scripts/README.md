@@ -3,6 +3,38 @@
 ## Overview
 This directory contains scripts for handling mass file operations during the genealogy site modernization project. All scripts are designed with safety protocols for handling thousands of files.
 
+## CRITICAL: Scope Analysis Before Tool Selection
+
+### Why This Matters
+With 11,000+ files in this repository, assuming "just a few files" is DANGEROUS.
+A pattern that seems rare might appear in thousands of files across subdirectories.
+
+### Mandatory Analysis Process
+1. **Never assume** - Always count first using recursive search
+2. **Search recursively** - Patterns may be in nested folders (docs/htm has many subdirectories)
+3. **Use grep count mode** - Get exact numbers before deciding on tools
+4. **Document findings** - Report file count before starting work
+5. **Follow decision gate** - Use the tool selection table based on actual file counts
+
+### Red Flags (Stop if you see these)
+- Starting to edit files without knowing the total count
+- Using Edit/MultiEdit for more than 10 files
+- Not checking subdirectories with recursive search
+- Assuming a pattern is rare without verification
+- Skipping the mandatory scope analysis section
+
+### Proper Scope Analysis Commands
+```bash
+# Count files containing pattern (most important)
+grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l | wc -l
+
+# Count total occurrences
+grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -c
+
+# List affected files for verification
+grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
+```
+
 ## Available Scripts
 
 ### mass_file_processor.py

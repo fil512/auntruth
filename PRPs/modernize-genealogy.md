@@ -16,7 +16,18 @@
 
 ### Step 5: Execute the PRP in subcontext
 - Launch a general-purpose agent with the Task tool
-- Agent task: "Execute the PRP document PRPs/generated-prompts/{{ITEM_NUMBER}}-modernize-genealogy.md. IMPORTANT: You MUST read PRPs/scripts/README.md first to check for existing scripts before creating new ones. Work in the current git branch and commit your changes."
+- Agent task: "Execute the PRP document PRPs/generated-prompts/{{ITEM_NUMBER}}-modernize-genealogy.md.
+
+  CRITICAL REQUIREMENTS:
+  1. You are working in an EXISTING git branch: task-{{ITEM_NUMBER}}-{{task_name}}
+  2. The tracking CSV already shows this task as IN PROGRESS
+  3. You MUST complete full recursive scope analysis FIRST before choosing tools
+  4. You MUST read PRPs/scripts/README.md first to check for existing scripts
+  5. You MUST NOT start editing files until you've counted ALL occurrences in ALL subdirectories
+  6. You MUST report the file count and tool selection in your first response before taking any action
+  7. If >100 files are affected, you MUST use a Python script (Edit/MultiEdit = TASK FAILURE)
+  8. Complete the mandatory pre-execution checklist before proceeding
+  9. Commit your changes in the current branch - DO NOT create new branches"
 - Wait for the agent to complete and return its final report
 - Store the final report in PRPs/reports/{{ITEM_NUMBER}}-modernize-genealogy-report.md
 - Agent should commit all changes to the feature branch
