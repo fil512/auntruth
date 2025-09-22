@@ -29,19 +29,19 @@ def fix_github_pages_paths_in_file(file_path):
         # GitHub Pages serves from /auntruth/ base path
         old_content = content
 
-        # Fix various absolute path patterns
-        content = re.sub(r'(href|src|value)="(/htm/)', r'\1="/auntruth\2', content)
-        content = re.sub(r'(href|src|value)="(/jpg/)', r'\1="/auntruth\2', content)
-        content = re.sub(r'(href|src|value)="(/css/)', r'\1="/auntruth\2', content)
-        content = re.sub(r'(href|src|value)="(/mpg/)', r'\1="/auntruth\2', content)
-        content = re.sub(r'(href|src|value)="(/au/)', r'\1="/auntruth\2', content)
+        # Fix various absolute path patterns - handle both with and without spaces around =
+        content = re.sub(r'(href|src|value)\s*=\s*"(/htm/)', r'\1="/auntruth\2', content)
+        content = re.sub(r'(href|src|value)\s*=\s*"(/jpg/)', r'\1="/auntruth\2', content)
+        content = re.sub(r'(href|src|value)\s*=\s*"(/css/)', r'\1="/auntruth\2', content)
+        content = re.sub(r'(href|src|value)\s*=\s*"(/mpg/)', r'\1="/auntruth\2', content)
+        content = re.sub(r'(href|src|value)\s*=\s*"(/au/)', r'\1="/auntruth\2', content)
 
         # Fix single quotes too
-        content = re.sub(r"(href|src|value)='(/htm/)", r"\1='/auntruth\2", content)
-        content = re.sub(r"(href|src|value)='(/jpg/)", r"\1='/auntruth\2", content)
-        content = re.sub(r"(href|src|value)='(/css/)", r"\1='/auntruth\2", content)
-        content = re.sub(r"(href|src|value)='(/mpg/)", r"\1='/auntruth\2", content)
-        content = re.sub(r"(href|src|value)='(/au/)", r"\1='/auntruth\2", content)
+        content = re.sub(r"(href|src|value)\s*=\s*'(/htm/)", r"\1='/auntruth\2", content)
+        content = re.sub(r"(href|src|value)\s*=\s*'(/jpg/)", r"\1='/auntruth\2", content)
+        content = re.sub(r"(href|src|value)\s*=\s*'(/css/)", r"\1='/auntruth\2", content)
+        content = re.sub(r"(href|src|value)\s*=\s*'(/mpg/)", r"\1='/auntruth\2", content)
+        content = re.sub(r"(href|src|value)\s*=\s*'(/au/)", r"\1='/auntruth\2", content)
 
         # Fix home links - be careful not to double-fix
         content = re.sub(r'href="/"(?!auntruth)', 'href="/auntruth/"', content)
@@ -76,8 +76,8 @@ def main():
                     with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
                         content = f.read()
                         # Check for absolute paths that need GitHub Pages prefix
-                        if (re.search(r'(href|src|value)="(/htm/|/jpg/|/css/|/mpg/|/au/)', content) or
-                            re.search(r"(href|src|value)='(/htm/|/jpg/|/css/|/mpg/|/au/)", content) or
+                        if (re.search(r'(href|src|value)\s*=\s*"(/htm/|/jpg/|/css/|/mpg/|/au/)', content) or
+                            re.search(r"(href|src|value)\s*=\s*'(/htm/|/jpg/|/css/|/mpg/|/au/)", content) or
                             re.search(r'href="/"(?!auntruth)', content) or
                             re.search(r"href='/'(?!auntruth)", content)):
                             affected_files.append(file_path)
