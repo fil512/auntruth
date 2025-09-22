@@ -1,0 +1,37 @@
+-----------------------------------
+Release Notes
+
+Microsoft(R) ODBC Driver for Oracle
+-----------------------------------
+
+(c) 1998 Microsoft Corporation
+	  
+------------------------
+How to Use This Document
+------------------------
+
+To view the Readme file in Windows Notepad, maximize the Notepad window and click Word Wrap on the Edit menu. To print the Readme file, open it in Notepad or another word processor, and then use the Print command on the File menu.
+
+For changes from earlier versions of this driver, see the "What's New" section of this file.
+
+--------
+Overview
+--------
+
+The Microsoft ODBC Driver for Oracle conforms to the Open Database Connectivity (ODBC) specification described in the ODBC Programmer's Reference (Version 2.0 or later) for your platform. The Oracle driver allows you to connect your ODBC-compliant application to an Oracle database.
+
+
+-------------------
+System Requirements
+-------------------
+
+To use the Microsoft ODBC Driver for Oracle, you must have Oracle Client Software, version 7.3 or higher, installed on your Windows system. The Microsoft ODBC Driver for Oracle supports only SQL*Net 2.3 or later. For more information about Oracle products, refer to your Oracle documentation set.
+
+----------
+What's New
+----------
+
+This version of the Microsoft ODBC Driver for Oracle includes several improvements to performance and stability. No new functinality has been added.
+
+This version of the Microsoft ODBC Driver for Oracle has greater stability because it has been tested against more environments, such as Microsoft Transaction Server and Internet Information Server.
+

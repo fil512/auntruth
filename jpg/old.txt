@@ -1,0 +1,50 @@
+
+ Volume in drive D has no label
+ Volume Serial Number is 1601-1862
+ Directory of D:\Inetpub\wwwroot\treeme\jpg
+
+P1       JPG        12,707  11-02-96  8:02p p1.jpg
+P3       JPG        10,245  03-07-96 11:08a p3.jpg
+P2       JPG        12,621  11-02-96  8:03p p2.jpg
+P15      JPG        60,402  11-02-96  3:31p p15.jpg
+P5       JPG        52,301  11-02-96  3:33p p5.jpg
+P8       JPG        43,269  11-02-96  3:36p p8.jpg
+P10      JPG        22,871  11-02-96  8:16p p10.jpg
+P14      JPG        27,522  11-02-96  8:18p p14.jpg
+P212     JPG        37,232  11-02-96  8:31p p212.jpg
+P169     JPG        56,420  11-02-96  4:03p p169.jpg
+P23      JPG        52,028  11-02-96  4:05p p23.jpg
+P21      JPG        15,723  11-02-96  8:21p p21.jpg
+P20      JPG        41,014  11-02-96  4:08p p20.jpg
+P209     JPG         3,728  06-02-99  9:25a p209.jpg
+P4       JPG        27,851  11-02-96  8:03p p4.jpg
+P302     JPG        11,907  03-07-96 11:08a p302.jpg
+P306     JPG         6,290  03-07-96 11:08a p306.jpg
+P303     JPG        12,178  03-07-96 11:08a p303.jpg
+P305     JPG        12,144  03-07-96 11:09a p305.jpg
+P208     JPG        94,332  02-27-99  2:43p p208.jpg
+P210     JPG         5,074  06-02-99  9:25a p210.jpg
+P11      JPG        60,748  11-02-96  4:34p p11.jpg
+P55      JPG        35,290  11-02-96  4:37p p55.jpg
+P597     JPG        59,468  11-02-96  8:32p p597.jpg
+P55A     JPG        32,986  11-02-96  4:38p p55a.jpg
+P73      JPG        47,793  11-02-96  8:23p p73.jpg
+P171     JPG        49,876  11-02-96  6:25p p171.jpg
+P67      JPG        60,255  11-02-96  6:27p p67.jpg
+P170     JPG        59,194  11-02-96  6:28p p170.jpg
+P173     JPG        32,168  11-02-96  8:27p p173.jpg
+P184     JPG        34,390  11-02-96  8:28p p184.jpg
+P190     JPG        35,663  11-02-96  8:29p p190.jpg
+P177     JPG        32,190  11-02-96  8:28p p177.jpg
+P195     JPG        28,934  11-02-96  8:30p p195.jpg
+P101     JPG        37,584  11-02-96  7:04p p101.jpg
+P154     JPG        25,118  11-02-96  7:06p p154.jpg
+P140     JPG        53,012  11-02-96  7:08p p140.jpg
+P141     JPG        60,800  11-02-96  7:10p p141.jpg
+P6       JPG         7,957  11-02-96  8:04p p6.jpg
+P209A    JPG        19,718  11-02-96  8:20p p209a.jpg
+P202     JPG        86,237  04-09-99 11:43a p202.jpg
+DHAGBORG JPG        94,332  02-27-99  2:43p dhagborg.jpg
+P532     JPG        60,800  06-01-99  7:30p p532.jpg
+        43 file(s)      1,632,372 bytes
+         0 dir(s)       10,374.85 MB free
