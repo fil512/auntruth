@@ -1,0 +1,43 @@
+---------------------------------------------------
+Microsoft(R) Data Link API version 2.1 Readme File
+---------------------------------------------------
+
+(c) 1998 Microsoft Corporation. All rights reserved.
+
+This document provides late-breaking or other information that supplements the Microsoft Data Link API documentation.
+
+--------
+CONTENTS
+--------
+
+1. PRODUCT DESCRIPTION
+   
+2. NEW FEATURES
+   
+3. TECHNICAL NOTES
+
+4. KNOWN BUGS, LIMITATIONS, AND WORKAROUNDS
+
+----------------------
+1. PRODUCT DESCRIPTION
+----------------------
+Microsoft Data Link API provides a common user interface for defining and managing connections to OLE DB data sources. This user interface can also be called using an application programming interface, the Data Link API.
+
+You can save the connection information to a data link file (.udl).  Then you can modify these files through the Data Links Property page, and applications can use them in creating connections to various OLE DB data stores. The Data Link API provides applications the ability to select, load, or save .udl files. 
+
+The same user interface used to manage connection information in .udl files can be used by applications to gather connection information from users when doing ad-hoc connections to OLE DB data stores. The Data Link API allows applications to obtain a string version of the connection information from an existing OLE DB datasource object, create a datasource object from an existing connection string, or use the Data Links dialog box to edit the connection properties of an uninitialized OLE DB data source object.
+
+---------------
+2. NEW FEATURES
+---------------
+IDBPromptInitialize::PromptDataSource now supports both provider and provider type filters.
+
+------------------
+3. TECHNICAL NOTES
+------------------
+None
+
+-------------------------------------------
+4. KNOWN BUGS, LIMITATIONS, AND WORKAROUNDS
+-------------------------------------------
+Limitation: The 2.1 release of the Data Link API does not support creating remote providers. Calling IDataInitialize::CreateDBInstanceEx for anything other than a local provider will fail.

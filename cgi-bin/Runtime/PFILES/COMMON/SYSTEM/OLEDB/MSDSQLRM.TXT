@@ -1,0 +1,41 @@
+-------------------------------------------------
+Microsoft(R) OLE DB Provider for ODBC Readme File
+-------------------------------------------------
+
+(c) 1998 Microsoft Corporation. All rights reserved.
+
+This document provides late-breaking or other information that supplements the Microsoft OLE DB Provider for ODBC documentation.
+
+Please see the Data Access SDK readme file for additional information about OLE DB.
+
+--------
+CONTENTS
+--------
+1. PRODUCT DESCRIPTION
+
+2. NEW FEATURES
+
+3. TECHNICAL NOTES
+
+4. KNOWN LIMITATIONS
+
+
+----------------------
+1. PRODUCT DESCRIPTION
+----------------------
+The ODBC Provider delivers rich, high-performance access to any ODBC database. 
+
+---------------
+2. NEW FEATURES
+---------------
+The 2.1 version of this provider contains better handling of long data as well as performance and scaling enhancements. 
+
+------------------
+3. TECHNICAL NOTES
+------------------
+None
+
+--------------------
+4. KNOWN LIMITATIONS
+--------------------
+None
