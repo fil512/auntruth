@@ -34,22 +34,23 @@ def fix_paths_in_file(file_path):
         if content != old_content:
             changes_made.append("Fixed primary pattern: \\auntruth\\htm\\")
 
-        # 2. Fix /AuntRuth/ absolute paths to relative paths
+        # 2. Fix /AuntRuth/ absolute paths to correct absolute paths
         old_content = content
-        # These need to be converted based on GitHub Pages structure
-        # /AuntRuth/htm/ -> ./  (from docs/htm/)
-        # /AuntRuth/css/ -> ../css/  (from docs/htm/ to docs/css/)
-        # /AuntRuth/jpg/ -> ../jpg/  (from docs/htm/ to docs/jpg/)
-        # /AuntRuth/mpg/ -> ../mpg/  (from docs/htm/ to docs/mpg/)
-        # /AuntRuth/au/ -> ../au/   (from docs/htm/ to docs/au/)
-        content = re.sub(r'/AuntRuth/htm/', './', content)
-        content = re.sub(r'/AuntRuth/css/', '../css/', content)
-        content = re.sub(r'/AuntRuth/jpg/', '../jpg/', content)
-        content = re.sub(r'/AuntRuth/mpg/', '../mpg/', content)
-        content = re.sub(r'/AuntRuth/au/', '../au/', content)
-        content = re.sub(r"href='/AuntRuth/'", "href='../'", content)  # Home links
+        # Since docroot is /docs, absolute URLs should be:
+        # /AuntRuth/htm/ -> /htm/
+        # /AuntRuth/css/ -> /css/
+        # /AuntRuth/jpg/ -> /jpg/
+        # /AuntRuth/mpg/ -> /mpg/
+        # /AuntRuth/au/ -> /au/
+        # /AuntRuth/ -> /
+        content = re.sub(r'/AuntRuth/htm/', '/htm/', content)
+        content = re.sub(r'/AuntRuth/css/', '/css/', content)
+        content = re.sub(r'/AuntRuth/jpg/', '/jpg/', content)
+        content = re.sub(r'/AuntRuth/mpg/', '/mpg/', content)
+        content = re.sub(r'/AuntRuth/au/', '/au/', content)
+        content = re.sub(r"href='/AuntRuth/'", "href='/'", content)  # Home links
         if content != old_content:
-            changes_made.append("Fixed /AuntRuth/ absolute paths to relative paths")
+            changes_made.append("Fixed /AuntRuth/ absolute paths to correct absolute paths")
 
         # 3. Fix Windows backslashes to Unix forward slashes in all attributes
         old_content = content
