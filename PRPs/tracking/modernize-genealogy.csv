@@ -1,6 +1,6 @@
 item_number,status,task_name,description,target_directory,search_pattern
 001,COMPLETE,fix-absolute-paths,Replace Windows-style and absolute paths with relative paths,docs/htm,\\auntruth\\htm\\
-002,INCOMPLETE,fix-auntruuth-paths,Convert /AuntRuth/ references to work from /auntruth/ base,docs/htm,/AuntRuth/
+002,IN PROGRESS,fix-auntruuth-paths,Convert /AuntRuth/ references to work from /auntruth/ base,docs/htm,/AuntRuth/
 003,INCOMPLETE,remove-cgi-counters,Remove CGI counter script references,docs/htm,/cgi-bin/counter.pl
 004,INCOMPLETE,remove-java-applets,Remove Java applet sound players,docs/htm,.au
 005,INCOMPLETE,fix-background-image-paths,Correct background image relative paths,docs/htm,../jpg/backruth.jpg
