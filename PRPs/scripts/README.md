@@ -37,24 +37,46 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 
 ## Available Scripts
 
-### mass_file_processor.py
-**Purpose:** Template script for processing large numbers of HTML files safely
-**Usage:** `python3 mass_file_processor.py --pattern "search" --replacement "replace" --target-dir "docs/htm" [--dry-run]`
+### 001-fix-path-format.py
+**Purpose:** Task 001 - Fix absolute paths and path format issues
+**Usage:** `python3 001-fix-path-format.py`
 **Features:**
-- Automatic backup creation with timestamps
-- Dry-run mode for testing
+- Replaces \auntruth\htm\ with relative paths
+- Converts /AuntRuth/ absolute paths to relative paths
+- Converts Windows backslashes to Unix forward slashes
+- Fixes case sensitivity issues (l0-l9 to L0-L9)
+- Progress reporting and error handling
+
+### 002-complete-auntruuth-fix.py
+**Purpose:** Task 002 - Complete /AuntRuth/ path fixing
+**Usage:** `python3 002-complete-auntruuth-fix.py`
+**Features:**
+- Handles remaining /AuntRuth/ patterns
+- Fixes /AuntRuth/index.htm -> /index.htm
 - Progress reporting every 100 files
 - Error logging and recovery
-- Rollback capability
 
-### validate_changes.py
-**Purpose:** Validates HTML files after mass changes
-**Usage:** `python3 validate_changes.py --target-dir "docs/htm" [--sample-size 50]`
+### 002-final-auntruuth-cleanup.py
+**Purpose:** Task 002 - Final cleanup for remaining /AuntRuth/ references
+**Usage:** `python3 002-final-auntruuth-cleanup.py`
 **Features:**
-- HTML validation
-- Link checking
-- Sample-based verification
-- Change reporting
+- Handles .HTM files (uppercase)
+- Fixes CSS references that were missed
+- Final cleanup for all /AuntRuth/ patterns
+
+### fix-github-pages-paths.py
+**Purpose:** General GitHub Pages path compatibility fixes
+**Usage:** `python3 fix-github-pages-paths.py`
+**Features:**
+- GitHub Pages specific path corrections
+- Case sensitivity fixes for static hosting
+
+### test-fix-paths.py
+**Purpose:** Testing script for path fixes
+**Usage:** `python3 test-fix-paths.py`
+**Features:**
+- Test path correction logic
+- Validation of changes
 
 ## Script Standards
 
@@ -110,7 +132,7 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - **>1000 files**: Phased execution with checkpoints required
 
 ### Script Creation Process
-1. Copy mass_file_processor.py as template
+1. Copy an existing task script (e.g., 001-fix-path-format.py) as template
 2. Modify for specific task requirements
 3. Test on 5 sample files first
 4. Run dry-run to verify scope
@@ -177,15 +199,17 @@ git revert <commit-hash>
 ## Script Templates
 
 ### Basic Mass File Processor Template
-See `mass_file_processor.py` for the standard template that includes:
+See `001-fix-path-format.py` for the standard template that includes:
 - Argument parsing with required safety flags
-- Backup creation and verification
+- Git branch verification
 - Progress reporting and error handling
 - Dry-run and sample testing capabilities
 - Rollback instructions generation
 
-### Validation Script Template
-See `validate_changes.py` for HTML validation and verification
+### Task-Specific Templates
+- **001-fix-path-format.py**: Comprehensive path format fixes
+- **002-complete-auntruuth-fix.py**: Specific pattern replacements
+- **002-final-auntruuth-cleanup.py**: Final cleanup operations
 
 ## Documentation Requirements
 
