@@ -10,6 +10,7 @@ import http.server
 import socketserver
 import os
 import sys
+import signal
 from urllib.parse import unquote
 from pathlib import Path
 
@@ -84,8 +85,20 @@ def start_server(port=8000):
     print("-" * 50)
 
     try:
-        with socketserver.TCPServer(("", port), GenealogyHTTPRequestHandler) as httpd:
-            httpd.serve_forever()
+        httpd = socketserver.TCPServer(("", port), GenealogyHTTPRequestHandler)
+        httpd.allow_reuse_address = True
+
+        def signal_handler(signum, frame):
+            print("\nShutting down server...")
+            httpd.shutdown()
+            httpd.server_close()
+            sys.exit(0)
+
+        # Set up signal handlers for graceful shutdown
+        signal.signal(signal.SIGINT, signal_handler)
+        signal.signal(signal.SIGTERM, signal_handler)
+
+        httpd.serve_forever()
     except KeyboardInterrupt:
         print("\nServer stopped.")
     except OSError as e:
@@ -95,6 +108,9 @@ def start_server(port=8000):
         else:
             print(f"Error starting server: {e}")
         sys.exit(1)
+    finally:
+        if 'httpd' in locals():
+            httpd.server_close()
 
 if __name__ == "__main__":
     import argparse
