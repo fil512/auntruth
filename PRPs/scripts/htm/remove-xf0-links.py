@@ -33,10 +33,12 @@ def remove_xf0_links(content):
     # Pattern to match anchor tags pointing to XF0.htm
     # This handles various path formats:
     # - /auntruth/htm/L0/XF0.htm
+    # - /AuntRuth/htm/L1/XF0.htm
     # - ./L0/XF0.htm
+    # - ./XF0.htm
     # - ../L0/XF0.htm
     # - L0/XF0.htm
-    pattern = r'<a\s+[^>]*href\s*=\s*["\'][^"\']*L0[/\\]XF0\.htm[^"\']*["\'][^>]*>(.*?)</a>'
+    pattern = r'<a\s+[^>]*href\s*=\s*["\'][^"\']*XF0\.htm[^"\']*["\'][^>]*>(.*?)</a>'
 
     def replace_func(match):
         # Return just the content inside the anchor tag
