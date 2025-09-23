@@ -104,6 +104,18 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Post-execution validation of changes
 - Handles massive scale (>5000 files) with safety protocols
 
+### 012-validate-case-sensitivity.py
+**Purpose:** Task 012 - Validate case sensitivity and path resolution issues
+**Usage:** `python3 012-validate-case-sensitivity.py [--target-dir docs/htm] [--detailed]`
+**Features:**
+- Scans all 11,361 HTML files for internal links (404,678 total links found)
+- Validates link resolution and case sensitivity for GitHub Pages
+- **CRITICAL FINDING**: Discovered 398,380 broken links (not just case issues!)
+- Identifies remaining Windows paths (\AuntRuth\), missing CSS files, incorrect absolute paths
+- Shows this is not just case sensitivity but fundamental path resolution problems
+- Provides detailed reporting with sample issues and validation summary
+- **Status**: Task 012 requires major fixes beyond case sensitivity
+
 ### 011-add-doctype.py
 **Purpose:** Task 011 - Add DOCTYPE declarations to HTML files for modern web standards
 **Usage:** `python3 011-add-doctype.py [--dry-run] [--test-mode] [--execute] [--yes] [--validate]`
