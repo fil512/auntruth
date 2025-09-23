@@ -1,0 +1,16 @@
+item_number,status,task_name,description,target_directory,search_pattern
+001,COMPLETE,fix-absolute-paths,Replace Windows-style and absolute paths with relative paths,docs/htm,\\auntruth\\htm\\
+002,COMPLETE,fix-auntruuth-paths,Convert /AuntRuth/ references to work from /auntruth/ base,docs/htm,/AuntRuth/
+003,COMPLETE,remove-cgi-counters,Remove CGI counter script references,docs/htm,/cgi-bin/counter.pl
+004,COMPLETE,modernize-java-applets,Modernize Java applet sound players for modern browsers,docs/htm,.au
+005,COMPLETE,fix-background-image-paths,Correct background image relative paths,docs/htm,../jpg/backruth.jpg
+006,COMPLETE,fix-css-references,Update CSS references to use proper relative paths,docs/htm,/AuntRuth/css/
+007,COMPLETE,create-modern-index,Replace main index.html with cleaner version,docs,index.html
+008,COMPLETE,remove-vml-references,Remove VML (Vector Markup Language) references,docs/htm,xmlns:v=
+009,COMPLETE,remove-office-xml,Remove Microsoft Office-specific XML islands,docs/htm,xmlns:o=
+010,COMPLETE,add-utf8-charset,Add UTF-8 charset declarations to HTML files,docs/htm,<meta
+011,COMPLETE,add-doctype,Add proper DOCTYPE declarations,docs/htm,<!DOCTYPE
+012,COMPLETE,fix-broken-links,Fix case sensitivity issues and broken links for GitHub Pages,docs/htm,*.htm
+013,COMPLETE,create-404-page,Create custom 404.html page,docs,404.html
+014,COMPLETE,add-mobile-css,Add responsive mobile-friendly CSS,docs,css/
+015,INCOMPLETE,optimize-large-files,Optimize large index files (>400KB),docs/htm,index.htm
