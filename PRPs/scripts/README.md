@@ -104,6 +104,20 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Post-execution validation of changes
 - Handles massive scale (>5000 files) with safety protocols
 
+### 010-convert-to-utf8.py
+**Purpose:** Task 010 - Convert Windows-1252 encoded files to UTF-8
+**Usage:** `python3 010-convert-to-utf8.py [dry-run|execute|validate]`
+**Features:**
+- Converts Windows-1252 encoded characters to proper Unicode (fixes garbled characters)
+- Updates charset declarations from windows-1252 to utf-8
+- Handles smart quotes, copyright symbols, and other special characters
+- Fixes specific garbled text patterns (e.g., "China�" → "China"")
+- GitHub Pages compatible UTF-8 encoding
+- Processes 23+ files with charset issues
+- Multiple execution modes (dry-run, execute, validate)
+- Character-level conversion with Windows-1252 to Unicode mapping
+- Progress reporting and comprehensive error handling
+
 ### fix-github-pages-paths.py
 **Purpose:** General GitHub Pages path compatibility fixes
 **Usage:** `python3 fix-github-pages-paths.py`
