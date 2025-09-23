@@ -6,13 +6,17 @@
    ========================================================================== */
 
 .top-nav {
-    position: sticky;
+    position: fixed;
     top: 0;
+    left: 0;
+    right: 0;
     z-index: 1000;
     background: #fff;
     border-bottom: 1px solid #ddd;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     transition: box-shadow 0.3s ease;
+    width: 100%;
+    display: block; /* Ensure it's always visible */
 }
 
 .nav-container {
@@ -97,7 +101,7 @@
 .sidebar {
     position: fixed;
     top: 60px;
-    left: -320px;
+    left: -320px; /* Force hidden by default */
     width: 300px;
     height: calc(100vh - 60px);
     background: #f8f9fa;
@@ -106,10 +110,13 @@
     overflow-y: auto;
     z-index: 999;
     box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    transform: none; /* Prevent any transform overrides */
+    visibility: hidden; /* Hide but maintain positioning */
 }
 
 .sidebar.open {
     left: 0;
+    visibility: visible;
 }
 
 .sidebar-header {
@@ -272,6 +279,54 @@
 }
 
 /* ==========================================================================
+   Main Content Layout
+   ========================================================================== */
+
+body .main-content,
+body main.page-content,
+body main#main-content {
+    margin-top: 0; /* Remove excessive top margin */
+    padding-top: 80px; /* Space for fixed top navigation */
+    margin-left: 0; /* Ensure content starts at left edge */
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    min-height: calc(100vh - 60px);
+    background: #fff;
+    width: 100%; /* Ensure full width */
+    box-sizing: border-box;
+}
+
+/* Page headers positioned properly below navigation */
+body main.page-content .page-header,
+body main#main-content .page-header,
+body main.main-content h1 {
+    margin-top: 0; /* No extra margin needed */
+    padding-top: 0;
+}
+
+/* Remove any spacing before the page header */
+body main.page-content > *:first-child,
+body main#main-content > *:first-child {
+    margin-top: 0;
+}
+
+/* Specifically target elements that might create spacing */
+body main.page-content > br:first-child,
+body main.page-content > center:empty,
+body main#main-content > br:first-child,
+body main#main-content > center:empty {
+    display: none;
+}
+
+/* Adjust main content when sidebar is open */
+@media (min-width: 769px) {
+    .sidebar.open ~ .main-content {
+        margin-left: 300px;
+    }
+}
+
+/* ==========================================================================
    Search Interface
    ========================================================================== */
 
@@ -280,6 +335,45 @@
     max-width: 600px;
     margin: 1rem auto;
     padding: 0 1rem;
+    display: none; /* Hidden by default */
+}
+
+.search-container.active {
+    display: block;
+}
+
+.search-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #ddd;
+}
+
+.search-header h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.search-close {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: background-color 0.2s ease;
+}
+
+.search-close:hover {
+    background-color: #f0f0f0;
 }
 
 .search-wrapper {
@@ -570,10 +664,10 @@
     .search-container,
     .mobile-menu-toggle,
     .sidebar-overlay {
-        display: none !important;
+        display: none;
     }
 
     body {
-        padding-top: 0 !important;
+        padding-top: 0;
     }
 }
