@@ -16,17 +16,23 @@
 ## Step 5: Execute the PRP in subcontext
 - Launch a general-purpose agent with the Task tool
 - Agent task: "Execute the PRP document PRPs/generated-prompts/{{ITEM_NUMBER}}-broken-links-fix.md"
+- **CRITICAL**: Ensure the agent processes BOTH docs/htm AND docs/new directories
 - Wait for the agent to complete and return its final report
 - Store the final report in PRPs/reports/{{ITEM_NUMBER}}-broken-links-fix-report.md
 
-## Step 6: Update tracking to COMPLETE
+## Step 6: Validation URLs
+- Provide test URLs in localhost format: http://localhost:8000/auntruth/htm/... and http://localhost:8000/auntruth/new/htm/...
+- Include representative URLs from BOTH original (docs/htm) and modernized (docs/new) sites
+- Wait for user validation before marking complete
+
+## Step 7: Update tracking to COMPLETE
 - Mark that item as COMPLETE in PRPs/tracking/broken-links-fix.csv
 
-## Step 7: Repeat for remaining items
+## Step 8: Repeat for remaining items
 - Return to Step 2 and repeat all steps for the next INCOMPLETE item
 - Continue until no INCOMPLETE items remain in the tracking file
 
-## Step 8: Create final summary report
+## Step 9: Create final summary report
 - Once all items are COMPLETE, create PRPs/reports/broken-links-fix-summary-report.md
 - Include:
   - Overview of all processed items

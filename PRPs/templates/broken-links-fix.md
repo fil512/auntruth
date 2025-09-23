@@ -13,25 +13,39 @@ This is part of the systematic broken links fix plan for AuntieRuth.com genealog
 
 ### Step 1: Create the Script
 Create the script `PRPs/scripts/{{script_name}}` based on the requirements below.
+**CRITICAL**: Place script in appropriate subdirectory:
+- `PRPs/scripts/both/` if it works with both docs/htm and docs/new
+- `PRPs/scripts/htm/` if it only works with docs/htm
+- `PRPs/scripts/new/` if it only works with docs/new
 
 ### Step 2: Test the Script (Dry Run)
-Run the script in dry-run mode to show what changes would be made without actually modifying files.
+Run the script in dry-run mode on BOTH directories to show what changes would be made without actually modifying files.
+- Test on docs/htm directory
+- Test on docs/new directory
 
 ### Step 3: Apply the Script
-Run the script to apply the changes to the website files.
+Run the script to apply the changes to the website files in BOTH directories.
+- Process docs/htm directory completely
+- Process docs/new directory completely
+- Verify zero remaining references in both directories
 
 ### Step 4: Select Test URLs
-Select 3-5 representative URLs from the most affected files to test the changes. Provide these URLs to the user for validation.
+Select 5-10 representative URLs from the most affected files to test the changes.
+**CRITICAL**: Provide URLs in localhost format for both sites:
+- Original site: http://localhost:8000/auntruth/htm/L2/FILENAME.htm
+- Modernized site: http://localhost:8000/auntruth/new/htm/L2/FILENAME.htm
+Include representative URLs from BOTH original (docs/htm) and modernized (docs/new) sites.
 
 ### Step 5: MANDATORY User Validation
 **CRITICAL**: You must WAIT for user validation before proceeding. The user must test the provided URLs and confirm no functionality is broken.
 
 ### Step 6: Report Results
 Provide a summary of:
-- Number of files modified
-- Number of fixes applied
+- Number of files modified in docs/htm
+- Number of files modified in docs/new
+- Total number of fixes applied across both directories
 - Any issues encountered
-- Representative test URLs provided to user
+- Representative test URLs provided to user (in localhost format)
 
 ## Script-Specific Requirements
 
@@ -84,7 +98,10 @@ Provide a summary of:
 - Changes are ready for git commit
 
 ## IMPORTANT NOTES
+- **CRITICAL**: Process BOTH docs/htm AND docs/new directories completely
 - NEVER proceed without user validation
-- Select diverse test URLs from different affected areas
+- Select diverse test URLs from different affected areas of BOTH sites
+- Provide URLs in localhost format (http://localhost:8000/auntruth/htm/... and http://localhost:8000/auntruth/new/htm/...)
 - Provide clear before/after examples where helpful
 - If any issues are found during user testing, investigate and fix before proceeding
+- Verify zero remaining references in both directories before completion
