@@ -11,6 +11,6 @@ item_number,status,task_name,description,target_directory,search_pattern
 010,COMPLETE,add-utf8-charset,Add UTF-8 charset declarations to HTML files,docs/htm,<meta
 011,COMPLETE,add-doctype,Add proper DOCTYPE declarations,docs/htm,<!DOCTYPE
 012,COMPLETE,fix-broken-links,Fix case sensitivity issues and broken links for GitHub Pages,docs/htm,*.htm
-013,INCOMPLETE,optimize-large-files,Optimize large index files (>400KB),docs/htm,index.htm
-014,INCOMPLETE,create-404-page,Create custom 404.html page,docs,404.html
-015,INCOMPLETE,add-mobile-css,Add responsive mobile-friendly CSS,docs,css/
+013,INCOMPLETE,create-404-page,Create custom 404.html page,docs,404.html
+014,INCOMPLETE,add-mobile-css,Add responsive mobile-friendly CSS,docs,css/
+015,INCOMPLETE,optimize-large-files,Optimize large index files (>400KB),docs/htm,index.htm
