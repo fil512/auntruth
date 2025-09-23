@@ -7,7 +7,7 @@ item_number,status,task_name,description,target_directory,search_pattern
 006,COMPLETE,fix-css-references,Update CSS references to use proper relative paths,docs/htm,/AuntRuth/css/
 007,COMPLETE,create-modern-index,Replace main index.html with cleaner version,docs,index.html
 008,COMPLETE,remove-vml-references,Remove VML (Vector Markup Language) references,docs/htm,xmlns:v=
-009,INCOMPLETE,remove-office-xml,Remove Microsoft Office-specific XML islands,docs/htm,xmlns:o=
+009,IN PROGRESS,remove-office-xml,Remove Microsoft Office-specific XML islands,docs/htm,xmlns:o=
 010,INCOMPLETE,add-utf8-charset,Add UTF-8 charset declarations to HTML files,docs/htm,<meta
 011,INCOMPLETE,add-doctype,Add proper DOCTYPE declarations,docs/htm,<!DOCTYPE
 012,INCOMPLETE,fix-case-sensitivity,Fix case sensitivity issues for GitHub Pages,docs/htm,*.htm
