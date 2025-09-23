@@ -4,7 +4,7 @@ item_number,status,task_name,description,target_directory,search_pattern
 003,COMPLETE,remove-cgi-counters,Remove CGI counter script references,docs/htm,/cgi-bin/counter.pl
 004,COMPLETE,modernize-java-applets,Modernize Java applet sound players for modern browsers,docs/htm,.au
 005,COMPLETE,fix-background-image-paths,Correct background image relative paths,docs/htm,../jpg/backruth.jpg
-006,INCOMPLETE,fix-css-references,Update CSS references to use proper relative paths,docs/htm,/AuntRuth/css/
+006,COMPLETE,fix-css-references,Update CSS references to use proper relative paths,docs/htm,/AuntRuth/css/
 007,INCOMPLETE,create-modern-index,Replace main index.html with cleaner version,docs,index.html
 008,INCOMPLETE,remove-vml-references,Remove VML (Vector Markup Language) references,docs/htm,xmlns:v=
 009,INCOMPLETE,remove-office-xml,Remove Microsoft Office-specific XML islands,docs/htm,xmlns:o=
