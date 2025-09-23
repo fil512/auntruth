@@ -90,12 +90,49 @@ Based on analysis of the broken links reports from 2025-09-23, we have identifie
 
 ## Implementation Order
 
+Each step includes MANDATORY VALIDATION before proceeding:
+
 1. **Remove XF0.htm links** (remove anchor tags, preserve content)
+   - Apply script changes
+   - Select representative test URLs from affected files
+   - **WAIT FOR USER VALIDATION** - user must test URLs and confirm no breakage
+   - Git commit only after user approval
+   - Proceed to next step only after commit
+
 2. **Fix path format issues** (backslashes, double paths)
+   - Apply script changes
+   - Select representative test URLs from affected files
+   - **WAIT FOR USER VALIDATION** - user must test URLs and confirm no breakage
+   - Git commit only after user approval
+   - Proceed to next step only after commit
+
 3. **Remove obsolete technology** (CGI counters)
+   - Apply script changes
+   - Select representative test URLs from affected files
+   - **WAIT FOR USER VALIDATION** - user must test URLs and confirm no breakage
+   - Git commit only after user approval
+   - Proceed to next step only after commit
+
 4. **Create missing index files** (L0-L9 index.htm)
+   - Apply script changes
+   - Select representative test URLs from new/modified files
+   - **WAIT FOR USER VALIDATION** - user must test URLs and confirm no breakage
+   - Git commit only after user approval
+   - Proceed to next step only after commit
+
 5. **Update lineage references** (XI to correct directories)
+   - Apply script changes
+   - Select representative test URLs from affected files
+   - **WAIT FOR USER VALIDATION** - user must test URLs and confirm no breakage
+   - Git commit only after user approval
+   - Proceed to next step only after commit
+
 6. **Clean up artifacts** (Word temporary files)
+   - Apply script changes
+   - Select representative test URLs from affected files
+   - **WAIT FOR USER VALIDATION** - user must test URLs and confirm no breakage
+   - Git commit only after user approval
+   - Implementation complete
 
 ## Expected Results
 
