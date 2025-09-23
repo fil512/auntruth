@@ -88,6 +88,22 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Progress reporting and error handling
 - Dry-run mode with sample preview
 
+### 007-modernize-index-references.py
+**Purpose:** Task 007 - Fix broken index.htm references for GitHub Pages
+**Usage:** `python3 007-modernize-index-references.py [--dry-run] [--execute] [--test-mode] [--validate]`
+**Features:**
+- Fixes ~5,225 files with broken `\AuntRuth\index.htm` references
+- Converts Windows-style absolute paths to proper relative paths
+- Calculates correct relative paths for each file's location
+- GitHub Pages compatible static hosting paths
+- Phased execution with checkpoint commits every 500 files
+- Progress reporting every 100 files
+- Comprehensive error logging and recovery
+- Dry-run mode with detailed preview of changes
+- Test mode for processing only 5 files first
+- Post-execution validation of changes
+- Handles massive scale (>5000 files) with safety protocols
+
 ### fix-github-pages-paths.py
 **Purpose:** General GitHub Pages path compatibility fixes
 **Usage:** `python3 fix-github-pages-paths.py`
