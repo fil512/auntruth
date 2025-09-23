@@ -132,6 +132,28 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Post-execution validation of changes
 - Handles massive scale (>11,000 files) with full safety protocols
 
+### 014-add-mobile-css.py
+**Purpose:** Task 014 - Add mobile-responsive CSS and fix CSS path references
+**Usage:** `python3 014-add-mobile-css.py [--dry-run] [--test-mode] [--execute] [--yes] [--validate]`
+**Features:**
+- Modernizes CSS with mobile-responsive design patterns
+- Fixes ~10,183 HTML files with broken `/auntruth/css/htm.css` absolute paths
+- Calculates correct relative CSS paths for each file's directory depth
+- GitHub Pages compatible relative path references
+- Adds comprehensive mobile breakpoints (768px, 480px)
+- Touch-friendly interface improvements for mobile devices
+- Responsive table layouts and image scaling
+- Phased execution with checkpoint commits every 500 files
+- Progress reporting every 100 files
+- Comprehensive error logging and recovery
+- Dry-run mode with detailed preview of changes
+- Test mode for processing 5 sample files first
+- Auto-confirmation mode for non-interactive environments
+- Post-execution validation of changes
+- Handles massive scale (>10,000 files) with full safety protocols
+- Mobile-first CSS with desktop fallbacks
+- Improved typography and spacing for mobile readability
+
 ### 010-convert-to-utf8.py
 **Purpose:** Task 010 - Convert Windows-1252 encoded files to UTF-8
 **Usage:** `python3 010-convert-to-utf8.py [dry-run|execute|validate]`
