@@ -30,7 +30,16 @@ class NavigationComponent {
             return;
         }
 
-        this.injectNavigation();
+        // Check if we have a proper main content structure (from our fixed HTML)
+        const mainContent = document.querySelector('main#main-content');
+        if (mainContent) {
+            // We have proper structure, inject navigation properly
+            this.injectNavigationClean();
+        } else {
+            // Fallback to original injection method
+            this.injectNavigation();
+        }
+
         this.highlightCurrentSection();
         this.setupEventListeners();
         this.setupMobileMenu();
@@ -133,6 +142,34 @@ class NavigationComponent {
         this.isNavigationInjected = true;
     }
 
+    injectNavigationClean() {
+        // Clean injection for properly structured HTML - TOP NAV ONLY
+        const topNav = this.createTopNavigation();
+
+        // Insert navigation at the beginning of body, before main content
+        const mainContent = document.querySelector('main#main-content, main.main-content');
+        if (mainContent) {
+            console.log('Main content found, injecting top navigation only...');
+
+            // Insert only the top navigation
+            document.body.insertAdjacentHTML('afterbegin', topNav);
+
+            // Scroll to show the header properly positioned below navigation
+            const header = mainContent.querySelector('.page-header, h1');
+            if (header) {
+                // Scroll to show header at top of viewport, just below nav
+                header.scrollIntoView({ behavior: 'instant', block: 'start' });
+            }
+        }
+
+        this.isNavigationInjected = true;
+
+        // No sidebar - just ensure content is positioned properly
+        setTimeout(() => {
+            console.log('Top navigation only - no sidebar to manage');
+        }, 100);
+    }
+
     createTopNavigation() {
         const currentPath = this.currentPage.path;
         const isNew = currentPath.includes('/new/');
@@ -146,10 +183,10 @@ class NavigationComponent {
                     </div>
                     <ul class="nav-links">
                         <li><a href="${basePath}" ${currentPath === basePath ? 'class="active"' : ''}>Home</a></li>
-                        <li><a href="#" id="browse-trigger" aria-haspopup="true">Browse Lineages</a></li>
+                        <li><a href="${basePath}htm/L0/">Base</a></li>
+                        <li><a href="${basePath}htm/L1/">Hagborg-Hansson</a></li>
+                        <li><a href="${basePath}htm/L2/">Nelson</a></li>
                         <li><a href="#" id="search-trigger" aria-haspopup="true">Search People</a></li>
-                        <li><a href="${basePath}timeline.html">Timeline</a></li>
-                        <li><a href="${basePath}about.html">About</a></li>
                         <li><a href="/auntruth/htm/">Original Site</a></li>
                     </ul>
                     <button class="mobile-menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false">
@@ -235,17 +272,24 @@ class NavigationComponent {
             });
         }
 
-        // Search trigger (focus search if visible, or show search)
+        // Search trigger (toggle search interface)
         const searchTrigger = document.getElementById('search-trigger');
         if (searchTrigger) {
             searchTrigger.addEventListener('click', (e) => {
                 e.preventDefault();
+                const searchContainer = document.querySelector('.search-container');
                 const searchInput = document.getElementById('people-search');
-                if (searchInput) {
-                    searchInput.focus();
+
+                if (searchContainer) {
+                    // Toggle search container visibility
+                    searchContainer.classList.toggle('active');
+
+                    // Focus search input if now visible
+                    if (searchContainer.classList.contains('active') && searchInput) {
+                        setTimeout(() => searchInput.focus(), 100);
+                    }
                 } else {
-                    // TODO: Show search interface
-                    console.log('Search interface not yet implemented');
+                    console.log('Search container not found');
                 }
             });
         }

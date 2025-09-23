@@ -66,16 +66,36 @@ class SearchComponent {
         this.searchInput = document.getElementById('people-search');
         this.searchResults = document.getElementById('search-results');
         this.searchFilters = document.querySelectorAll('.search-filters input[type="checkbox"]');
+        this.searchContainer = document.querySelector('.search-container');
 
         if (!this.searchInput) {
             console.warn('Search input not found - search functionality disabled');
             return;
+        }
+
+        // Hide search interface by default
+        if (this.searchContainer) {
+            this.searchContainer.classList.remove('active');
+        }
+
+        // Setup close button
+        const searchClose = document.querySelector('.search-close');
+        if (searchClose) {
+            searchClose.addEventListener('click', () => {
+                if (this.searchContainer) {
+                    this.searchContainer.classList.remove('active');
+                }
+            });
         }
     }
 
     getSearchHTML() {
         return `
             <div class="search-container">
+                <div class="search-header">
+                    <h3>Search Family Members</h3>
+                    <button class="search-close" aria-label="Close search">&times;</button>
+                </div>
                 <div class="search-wrapper">
                     <input type="search"
                            id="people-search"
@@ -160,6 +180,7 @@ class SearchComponent {
         }
 
         try {
+            const searchData = this.searchData; // Capture reference for closure
             this.searchIndex = lunr(function() {
                 this.field('name', { boost: 10 });
                 this.field('birthDate', { boost: 5 });
@@ -172,9 +193,10 @@ class SearchComponent {
                 this.ref('id');
 
                 // Add documents to index
-                this.searchData.people.forEach(person => {
-                    this.add(person);
-                }, this);
+                const lunrBuilder = this;
+                searchData.people.forEach(function(person) {
+                    lunrBuilder.add(person);
+                });
             });
 
             console.log('Search index built successfully');
