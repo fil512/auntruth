@@ -1,0 +1,33 @@
+*          {font-size:10pt; font-family: Verdana;}
+a          {color:#0000FF; text-decoration:none; font-weight:normal; }
+a:visited  {color:#0000FF; text-decoration:none; }
+a:hover    {text-decoration:underline; }
+a.current  {color:#000000; text-decoration:none; font-weight:normal; }
+a.inactive {color:#000000; text-decoration:none; font-weight:normal; }
+img        {border:0; }
+body       {margin:3 0 0 0; background-color: #FFFFFF}
+h3         {margin:0 0 10 0;font-size:12pt;}
+h4         {margin:0 0 0 0; padding:0 0 0 0; font-size:12pt;}
+form       {margin:0 0 0 0; padding:0 0 0 0; }
+table      {border-collapse:collapse;}
+ul.item    {margin:0 0 0 15; list-style:none; padding:0 0 0 0;}
+ul.last    {margin:0 0 0 15; list-style:none; padding:0 0 0 0;}
+select     {margin:5 0 0 15;}
+/*top right bottom left*/
+#main td         {vertical-align: top;padding:3 8 8 8; }
+#singleImage     {padding:3 8 8 8; width:450px; text-align:center;margin:0 0 0 0;}
+#left            {padding:3 8 8 8; border-bottom:2px solid #000; border-top:2px solid #000; border-right:2px solid #000; width:210; vertical-align:top;}
+#right           {padding:3 8 8 8; border-bottom:2px solid #000; margin:0 0 0 0;}
+#right img       {border: 2px solid #5A5; }
+#right li        {display:inline; margin: 0; }
+#list            {font-size:12pt; border:1px solid #5A5; border-collapse:collapse;}
+#list td         {padding:0 10 0 10; border:1px solid #5A5;}
+#images          {margin:0;}
+#images div      {float:left; margin:5 2 5 10; text-align:center;}
+#main            {margin: 0 0 0 0;}
+#main a          {vertical-align: top; text-align: center; }
+#main div        {float: left; margin: 8 8 8 8;}
+#header .right {padding-right:28px;font-size:12pt;margin-right:0;}
+#header td.right {text-align:right; margin:0 0 10 0;}
+#headlinks a {font-size:12pt;}
+tr.contact {margin-right: 5px; margin-left:5px;}
