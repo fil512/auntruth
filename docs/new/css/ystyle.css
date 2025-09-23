@@ -1,0 +1,61 @@
+body { margin:3 0 0 0; font-size:8pt;}
+h3   { margin:0 0 10 0;font-size:12pt;}
+h4   { margin:0 0 10 0;font-size:12pt;}
+li.detail {margin-left: 15px;}
+
+#main td{
+	padding-left: 8px;
+	padding-right: 8px;
+	padding-bottom: 0px;
+	vertical-align: top;
+}
+
+#right      { width:400px; border-bottom:2px solid #5A5;}
+#left       { border-bottom:2px solid #5A5; border-right: 2px solid #5A5;}
+#images div { float:left; margin:8 8 8 8;}
+div.contact { /*border-top: 1px solid #00F; */}
+ul.item     { list-style:none; padding:0 0 0 0; margin:0 0 0 0; }
+ul.last     { list-style:none; padding:0 0 0 0; margin:0 0 0 0; }
+dd.small    { margin:0 0 0 0; white-space:0 0 0 0; padding:0 0 0 0; border: 0 0 0 0;}
+select      { margin:0 0 3 15;}
+
+li { font-size:8pt;}
+span { font-size:8pt;}
+
+#main { margin: 0 0 0 0; padding: 0 0 0 0; }
+#images { margin: 0 0 0 0; padding: 0 0 0 0; }
+
+#right li { margin: 0; }
+
+#main a { vertical-align: top; text-align: center; }
+
+#main div { float: left; margin: 8 8 8 8; text-align: center;}
+
+#right img { vertical-align: bottom; color:#5A5; border:2px solid #5A5; }
+
+#right a { vertical-align: top; text-align: center; }
+
+#left div.item {
+	border-bottom: 1px solid #00F;
+	margin-bottom: 10px;
+}
+#left div.artist {
+	/*border-right: 1px solid #00F;
+	border-bottom: 1px solid #00F;*/
+	height: 100%;
+}
+
+/*
+#left img.vborder { width:2px; height:450px; border:0px;}
+#left img.hborder { width:500px; height:3px; border:0px;}
+
+#left div.item {
+	border-bottom: 1px solid #00F;
+	margin-bottom: 10px;
+}
+#left div.artist {
+	/*border-right: 1px solid #00F;
+	border-bottom: 1px solid #00F;*/
+	height: 100%;
+}
+*/

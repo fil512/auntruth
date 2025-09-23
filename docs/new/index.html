@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AuntieRuth.com - Modern Genealogy Experience</title>
+    <meta name="description" content="Explore the modernized AuntieRuth.com genealogy database with enhanced navigation, search capabilities, and mobile-responsive design.">
+    <link href="/auntruth/new/css/main.css" rel="stylesheet">
+    <link href="/auntruth/new/css/navigation.css" rel="stylesheet">
+
+    <!-- Preload critical resources -->
+    <link rel="preload" href="/auntruth/new/js/navigation.js" as="script">
+    <link rel="preload" href="/auntruth/new/js/search.js" as="script">
+    <link rel="preload" href="/auntruth/new/js/data.json" as="fetch" crossorigin>
+
+    <!-- Open Graph meta tags -->
+    <meta property="og:title" content="AuntieRuth.com - Modern Genealogy Experience">
+    <meta property="og:description" content="Explore family history with enhanced navigation and search capabilities">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://hagborg.github.io/auntruth/new/">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+</head>
+<body>
+    <!-- Skip link for accessibility -->
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <!-- Enhanced Navigation will be injected by JavaScript -->
+    <noscript>
+        <nav class="fallback-nav" style="background: #fff; padding: 1rem; border-bottom: 1px solid #ddd;">
+            <a href="/auntruth/new/">Home</a> |
+            <a href="/auntruth/new/htm/L0/">Base</a> |
+            <a href="/auntruth/new/htm/L1/">Hagborg-Hansson</a> |
+            <a href="/auntruth/new/htm/L2/">Nelson</a> |
+            <a href="/auntruth/new/htm/L3/">Lineage 3</a> |
+            <a href="/auntruth/new/htm/L4/">Lineage 4</a> |
+            <a href="/auntruth/new/htm/L5/">Lineage 5</a> |
+            <a href="/auntruth/new/htm/L6/">Lineage 6</a> |
+            <a href="/auntruth/new/htm/L7/">Lineage 7</a> |
+            <a href="/auntruth/new/htm/L8/">Lineage 8</a> |
+            <a href="/auntruth/new/htm/L9/">Lineage 9</a>
+        </nav>
+    </noscript>
+
+    <!-- Main content -->
+    <main id="main-content" class="main-content" role="main">
+        <!-- Hero section -->
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Welcome to AuntieRuth.com</h1>
+                <p class="hero-subtitle">Modernized Genealogy Experience</p>
+                <p class="hero-description">
+                    Explore family history spanning from 16th Century Danmark to 2003 Canada
+                    with enhanced navigation, powerful search, and mobile-responsive design.
+                </p>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <strong>2,985</strong>
+                        <span>Family Members</span>
+                    </div>
+                    <div class="stat">
+                        <strong>10</strong>
+                        <span>Lineages</span>
+                    </div>
+                    <div class="stat">
+                        <strong>11,069</strong>
+                        <span>Pages</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Search section -->
+        <section class="search-section">
+            <h2>Search Family Database</h2>
+            <p>Find people, dates, locations, and relationships across all lineages</p>
+            <!-- Search interface will be injected by JavaScript -->
+        </section>
+
+        <!-- Features section -->
+        <section class="features">
+            <h2>Enhanced Features</h2>
+            <div class="features-grid">
+                <div class="feature">
+                    <h3>🔍 Powerful Search</h3>
+                    <p>Search across all 2,985 family members with intelligent autocomplete and filtering by names, dates, locations, and lineages.</p>
+                </div>
+                <div class="feature">
+                    <h3>📱 Mobile Responsive</h3>
+                    <p>Optimized for all devices with touch-friendly navigation and responsive design that works on phones, tablets, and desktops.</p>
+                </div>
+                <div class="feature">
+                    <h3>🧭 Smart Navigation</h3>
+                    <p>Sticky navigation bar, collapsible sidebar, and contextual quick links make exploring family connections intuitive.</p>
+                </div>
+                <div class="feature">
+                    <h3>♿ Accessible</h3>
+                    <p>WCAG 2.1 AA compliant with keyboard navigation, screen reader support, and proper focus management.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Lineages overview -->
+        <section class="lineages">
+            <h2>Family Lineages</h2>
+            <p>Browse family history organized by lineage</p>
+            <div class="lineages-grid">
+                <a href="/auntruth/new/htm/L0/" class="lineage-card">
+                    <h3>Base Lineage</h3>
+                    <p>Foundation lineage with 81 family members</p>
+                    <span class="lineage-code">L0</span>
+                </a>
+                <a href="/auntruth/new/htm/L1/" class="lineage-card featured">
+                    <h3>Hagborg-Hansson</h3>
+                    <p>From Danmark to Canada - 385 family members</p>
+                    <span class="lineage-code">L1</span>
+                </a>
+                <a href="/auntruth/new/htm/L2/" class="lineage-card">
+                    <h3>Nelson</h3>
+                    <p>309 family members across generations</p>
+                    <span class="lineage-code">L2</span>
+                </a>
+                <a href="/auntruth/new/htm/L3/" class="lineage-card">
+                    <h3>Lineage 3</h3>
+                    <p>406 family members with rich history</p>
+                    <span class="lineage-code">L3</span>
+                </a>
+                <a href="/auntruth/new/htm/L4/" class="lineage-card">
+                    <h3>Lineage 4</h3>
+                    <p>Largest lineage with 686 family members</p>
+                    <span class="lineage-code">L4</span>
+                </a>
+                <a href="/auntruth/new/htm/L5/" class="lineage-card">
+                    <h3>Lineage 5</h3>
+                    <p>123 family members</p>
+                    <span class="lineage-code">L5</span>
+                </a>
+                <a href="/auntruth/new/htm/L6/" class="lineage-card">
+                    <h3>Lineage 6</h3>
+                    <p>379 family members</p>
+                    <span class="lineage-code">L6</span>
+                </a>
+                <a href="/auntruth/new/htm/L7/" class="lineage-card">
+                    <h3>Lineage 7</h3>
+                    <p>148 family members</p>
+                    <span class="lineage-code">L7</span>
+                </a>
+                <a href="/auntruth/new/htm/L8/" class="lineage-card">
+                    <h3>Lineage 8</h3>
+                    <p>77 family members</p>
+                    <span class="lineage-code">L8</span>
+                </a>
+                <a href="/auntruth/new/htm/L9/" class="lineage-card">
+                    <h3>Lineage 9</h3>
+                    <p>391 family members</p>
+                    <span class="lineage-code">L9</span>
+                </a>
+            </div>
+        </section>
+
+        <!-- Recent updates -->
+        <section class="updates">
+            <h2>What's New</h2>
+            <div class="updates-content">
+                <div class="update">
+                    <h3>Modern Navigation</h3>
+                    <p>Enhanced with sticky navigation bar, sidebar panel, and contextual quick links for easier browsing.</p>
+                </div>
+                <div class="update">
+                    <h3>Advanced Search</h3>
+                    <p>Powerful client-side search with autocomplete across all 2,985 family members, dates, and locations.</p>
+                </div>
+                <div class="update">
+                    <h3>Mobile Experience</h3>
+                    <p>Fully responsive design optimized for phones and tablets with touch-friendly interfaces.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Legacy section -->
+        <section class="legacy">
+            <h2>About This Site</h2>
+            <div class="legacy-content">
+                <p>
+                    AuntieRuth.com preserves family history spanning from 16th Century Danmark to 2003 Canada.
+                    This modernized version enhances the original genealogy database with contemporary web technologies
+                    while maintaining the integrity of the historical data.
+                </p>
+                <p>
+                    The site contains detailed family records, photographs, and lineage information carefully
+                    compiled and maintained over many years. The original site remains available for reference.
+                </p>
+                <div class="legacy-links">
+                    <a href="/auntruth/htm/" class="legacy-link">
+                        View Original Site
+                    </a>
+                    <a href="/auntruth/new/about.html" class="legacy-link">
+                        Learn More
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-content">
+            <p>&copy; 2003-2025 AuntieRuth.com - All Rights Reserved</p>
+            <p>
+                <a href="http://www.hagborg.com">Hagborg Community Systems Ltd.</a> |
+                <a href="/auntruth/htm/">Original Site</a> |
+                <a href="/auntruth/new/about.html">About</a>
+            </p>
+            <p class="footer-note">
+                Modernized with enhanced navigation and search capabilities while preserving historical integrity.
+            </p>
+        </div>
+    </footer>
+
+    <!-- Enhanced navigation and search scripts -->
+    <script src="/auntruth/new/js/navigation.js" defer></script>
+    <script src="/auntruth/new/js/search.js" defer></script>
+
+    <style>
+        /* Landing page specific styles */
+        .hero {
+            background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+            padding: 3rem 0;
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .hero-content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            color: #333;
+            margin-bottom: 0.5rem;
+            font-family: Georgia, serif;
+        }
+
+        .hero-subtitle {
+            font-size: 1.2rem;
+            color: #666;
+            margin-bottom: 1rem;
+            font-weight: 300;
+        }
+
+        .hero-description {
+            font-size: 1.1rem;
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 2rem;
+        }
+
+        .hero-stats {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            text-align: center;
+        }
+
+        .stat strong {
+            display: block;
+            font-size: 2rem;
+            color: #0066cc;
+            font-weight: bold;
+        }
+
+        .stat span {
+            font-size: 0.9rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .search-section {
+            background: #fff;
+            padding: 2rem;
+            margin: 2rem 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .search-section h2 {
+            margin-bottom: 0.5rem;
+            color: #333;
+        }
+
+        .features, .lineages, .updates, .legacy {
+            margin: 3rem 0;
+            padding: 0 1rem;
+        }
+
+        .features h2, .lineages h2, .updates h2, .legacy h2 {
+            text-align: center;
+            margin-bottom: 2rem;
+            color: #333;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .feature {
+            background: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .feature h3 {
+            margin-bottom: 1rem;
+            color: #333;
+            font-size: 1.1rem;
+        }
+
+        .feature p {
+            color: #666;
+            line-height: 1.5;
+        }
+
+        .lineages-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .lineage-card {
+            background: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.3s ease;
+            position: relative;
+            border: 2px solid transparent;
+        }
+
+        .lineage-card:hover, .lineage-card:focus {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+            border-color: #0066cc;
+            text-decoration: none;
+        }
+
+        .lineage-card.featured {
+            border-color: #0066cc;
+            background: linear-gradient(135deg, #f0f8ff 0%, #e7f3ff 100%);
+        }
+
+        .lineage-card h3 {
+            margin-bottom: 0.5rem;
+            color: #333;
+            font-size: 1rem;
+        }
+
+        .lineage-card p {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+
+        .lineage-code {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            background: #0066cc;
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            font-weight: bold;
+        }
+
+        .updates-content {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .update {
+            background: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .update h3 {
+            margin-bottom: 1rem;
+            color: #333;
+        }
+
+        .update p {
+            color: #666;
+            line-height: 1.5;
+        }
+
+        .legacy {
+            background: #f8f9fa;
+            padding: 3rem 2rem;
+            border-radius: 8px;
+            text-align: center;
+        }
+
+        .legacy-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .legacy-content p {
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+        }
+
+        .legacy-links {
+            margin-top: 2rem;
+        }
+
+        .legacy-link {
+            display: inline-block;
+            background: #0066cc;
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 4px;
+            text-decoration: none;
+            margin: 0 0.5rem;
+            transition: background 0.3s ease;
+        }
+
+        .legacy-link:hover, .legacy-link:focus {
+            background: #0056b3;
+            text-decoration: none;
+        }
+
+        .site-footer {
+            background: #333;
+            color: #fff;
+            padding: 2rem 0;
+            text-align: center;
+            margin-top: 3rem;
+        }
+
+        .footer-content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        .footer-content p {
+            margin-bottom: 0.5rem;
+        }
+
+        .footer-content a {
+            color: #ccc;
+            text-decoration: none;
+        }
+
+        .footer-content a:hover {
+            color: #fff;
+            text-decoration: underline;
+        }
+
+        .footer-note {
+            font-size: 0.9rem;
+            color: #aaa;
+            font-style: italic;
+        }
+
+        /* Mobile responsive */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .hero-stats {
+                gap: 1rem;
+            }
+
+            .stat strong {
+                font-size: 1.5rem;
+            }
+
+            .features-grid,
+            .lineages-grid,
+            .updates-content {
+                grid-template-columns: 1fr;
+            }
+
+            .hero {
+                padding: 2rem 0;
+            }
+
+            .legacy {
+                padding: 2rem 1rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .hero-stats {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .lineage-card {
+                padding: 1rem;
+            }
+
+            .legacy-link {
+                display: block;
+                margin: 0.5rem 0;
+            }
+        }
+    </style>
+</body>
+</html>
