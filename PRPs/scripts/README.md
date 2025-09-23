@@ -75,6 +75,19 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Dry-run mode with sample preview
 - Test mode for sample file verification
 
+### 004-modernize-java-applets.py
+**Purpose:** Task 004 - Modernize Java applet sound players to HTML5 audio
+**Usage:** `python3 004-modernize-java-applets.py [--dry-run] [--target-dir docs/htm]`
+**Features:**
+- Replaces Java applet sound players with HTML5 audio elements
+- Converts `<APPLET CODE='hcslsond.class'>` to `<audio controls>` tags
+- Preserves all .au audio files in their original location
+- Modern browser compatibility without Java dependencies
+- GitHub Pages compatible (no Java applet support needed)
+- Processed 12 files with specific Java applet patterns
+- Progress reporting and error handling
+- Dry-run mode with sample preview
+
 ### fix-github-pages-paths.py
 **Purpose:** General GitHub Pages path compatibility fixes
 **Usage:** `python3 fix-github-pages-paths.py`
