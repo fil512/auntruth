@@ -80,9 +80,33 @@ def resolve_link_path(base_file_path, link):
 
     # Handle different types of links
     if link.startswith('/'):
-        # Absolute path from repository root
-        repo_root = os.path.dirname(os.path.dirname(base_dir))  # Go up from docs/htm to repo root
-        resolved_path = os.path.join(repo_root, link.lstrip('/'))
+        # Absolute path - GitHub Pages serves docs/ as web root /auntruth/
+        # Find the docs directory from any file in the repo
+        current_path = base_file_path
+        while current_path != '/':
+            parent = os.path.dirname(current_path)
+            if os.path.basename(parent) == 'docs':
+                docs_root = parent
+                break
+            current_path = parent
+        else:
+            # Fallback: assume we're already in docs structure
+            docs_root = base_dir
+            while 'docs' not in docs_root and docs_root != '/':
+                docs_root = os.path.dirname(docs_root)
+                if os.path.basename(docs_root) == 'docs':
+                    break
+
+        if link.startswith('/auntruth/'):
+            # /auntruth/... -> docs/...
+            relative_path = link[len('/auntruth/'):]
+            resolved_path = os.path.join(docs_root, relative_path)
+        elif link == '/index.htm' or link == '/':
+            # Root index -> docs/index.html
+            resolved_path = os.path.join(docs_root, 'index.html')
+        else:
+            # Other absolute paths from docs root
+            resolved_path = os.path.join(docs_root, link.lstrip('/'))
     else:
         # Relative path
         resolved_path = os.path.join(base_dir, link)
