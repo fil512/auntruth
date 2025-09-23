@@ -12,5 +12,5 @@ item_number,status,task_name,description,target_directory,search_pattern
 011,COMPLETE,add-doctype,Add proper DOCTYPE declarations,docs/htm,<!DOCTYPE
 012,COMPLETE,fix-broken-links,Fix case sensitivity issues and broken links for GitHub Pages,docs/htm,*.htm
 013,COMPLETE,create-404-page,Create custom 404.html page,docs,404.html
-014,INCOMPLETE,add-mobile-css,Add responsive mobile-friendly CSS,docs,css/
+014,IN PROGRESS,add-mobile-css,Add responsive mobile-friendly CSS,docs,css/
 015,INCOMPLETE,optimize-large-files,Optimize large index files (>400KB),docs/htm,index.htm
