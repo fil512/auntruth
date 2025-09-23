@@ -3,6 +3,13 @@
 ## Overview
 This directory contains scripts for handling mass file operations during the genealogy site modernization project. All scripts are designed with safety protocols for handling thousands of files.
 
+## Directory Organization
+Scripts are organized into subdirectories based on which documentation they target:
+
+- **`htm/`** - Scripts that work exclusively with `docs/htm` directory
+- **`new/`** - Scripts that work exclusively with `docs/new` directory
+- **`both/`** - Scripts that can work with either directory or provide options for both
+
 ## CRITICAL: Scope Analysis Before Tool Selection
 
 ### Why This Matters
@@ -37,9 +44,12 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 
 ## Available Scripts
 
-### 001-fix-path-format.py
+## HTM Directory Scripts (`htm/`)
+These scripts work exclusively with the `docs/htm` directory:
+
+### htm/001-fix-path-format.py
 **Purpose:** Task 001 - Fix absolute paths and path format issues
-**Usage:** `python3 001-fix-path-format.py`
+**Usage:** `python3 htm/001-fix-path-format.py`
 **Features:**
 - Replaces \auntruth\htm\ with relative paths
 - Converts /AuntRuth/ absolute paths to relative paths
@@ -47,26 +57,26 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Fixes case sensitivity issues (l0-l9 to L0-L9)
 - Progress reporting and error handling
 
-### 002-complete-auntruuth-fix.py
+### htm/002-complete-auntruuth-fix.py
 **Purpose:** Task 002 - Complete /AuntRuth/ path fixing
-**Usage:** `python3 002-complete-auntruuth-fix.py`
+**Usage:** `python3 htm/002-complete-auntruuth-fix.py`
 **Features:**
 - Handles remaining /AuntRuth/ patterns
 - Fixes /AuntRuth/index.htm -> /index.htm
 - Progress reporting every 100 files
 - Error logging and recovery
 
-### 002-final-auntruuth-cleanup.py
+### htm/002-final-auntruuth-cleanup.py
 **Purpose:** Task 002 - Final cleanup for remaining /AuntRuth/ references
-**Usage:** `python3 002-final-auntruuth-cleanup.py`
+**Usage:** `python3 htm/002-final-auntruuth-cleanup.py`
 **Features:**
 - Handles .HTM files (uppercase)
 - Fixes CSS references that were missed
 - Final cleanup for all /AuntRuth/ patterns
 
-### 003-remove-cgi-counters.py
+### htm/003-remove-cgi-counters.py
 **Purpose:** Task 003 - Remove CGI counter script references
-**Usage:** `python3 003-remove-cgi-counters.py [--dry-run] [--target-dir docs/htm]`
+**Usage:** `python3 htm/003-remove-cgi-counters.py [--dry-run] [--target-dir docs/htm]`
 **Features:**
 - Removes all /cgi-bin/counter.pl references from HTML files
 - GitHub Pages compatibility (CGI scripts don't work in static hosting)
@@ -75,9 +85,9 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Dry-run mode with sample preview
 - Test mode for sample file verification
 
-### 004-modernize-java-applets.py
+### htm/004-modernize-java-applets.py
 **Purpose:** Task 004 - Modernize Java applet sound players to HTML5 audio
-**Usage:** `python3 004-modernize-java-applets.py [--dry-run] [--target-dir docs/htm]`
+**Usage:** `python3 htm/004-modernize-java-applets.py [--dry-run] [--target-dir docs/htm]`
 **Features:**
 - Replaces Java applet sound players with HTML5 audio elements
 - Converts `<APPLET CODE='hcslsond.class'>` to `<audio controls>` tags
@@ -88,9 +98,9 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Progress reporting and error handling
 - Dry-run mode with sample preview
 
-### 007-modernize-index-references.py
-**Purpose:** Task 007 - Fix broken index.htm references for GitHub Pages
-**Usage:** `python3 007-modernize-index-references.py [--dry-run] [--execute] [--test-mode] [--validate]`
+### htm/011-add-doctype.py
+**Purpose:** Task 011 - Add DOCTYPE declarations to HTML files for modern web standards
+**Usage:** `python3 htm/011-add-doctype.py [--dry-run] [--test-mode] [--execute] [--yes] [--validate]`
 **Features:**
 - Fixes ~5,225 files with broken `\AuntRuth\index.htm` references
 - Converts Windows-style absolute paths to proper relative paths
@@ -104,9 +114,9 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Post-execution validation of changes
 - Handles massive scale (>5000 files) with safety protocols
 
-### 012-validate-case-sensitivity.py
+### htm/012-validate-case-sensitivity.py
 **Purpose:** Task 012 - Validate case sensitivity and path resolution issues
-**Usage:** `python3 012-validate-case-sensitivity.py [--target-dir docs/htm] [--detailed]`
+**Usage:** `python3 htm/012-validate-case-sensitivity.py [--target-dir docs/htm] [--detailed]`
 **Features:**
 - Scans all 11,361 HTML files for internal links (404,678 total links found)
 - Validates link resolution and case sensitivity for GitHub Pages
@@ -116,9 +126,9 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Provides detailed reporting with sample issues and validation summary
 - **Status**: Task 012 requires major fixes beyond case sensitivity
 
-### 011-add-doctype.py
-**Purpose:** Task 011 - Add DOCTYPE declarations to HTML files for modern web standards
-**Usage:** `python3 011-add-doctype.py [--dry-run] [--test-mode] [--execute] [--yes] [--validate]`
+### htm/014-add-mobile-css.py
+**Purpose:** Task 014 - Add mobile-responsive CSS and fix CSS path references
+**Usage:** `python3 htm/014-add-mobile-css.py [--dry-run] [--test-mode] [--execute] [--yes] [--validate]`
 **Features:**
 - Adds HTML5 DOCTYPE declarations to ~11,000 HTML files
 - GitHub Pages compatible modern web standards
@@ -132,9 +142,9 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Post-execution validation of changes
 - Handles massive scale (>11,000 files) with full safety protocols
 
-### 014-add-mobile-css.py
-**Purpose:** Task 014 - Add mobile-responsive CSS and fix CSS path references
-**Usage:** `python3 014-add-mobile-css.py [--dry-run] [--test-mode] [--execute] [--yes] [--validate]`
+### htm/fix-audio-absolute-paths.py
+**Purpose:** Fix audio file absolute paths in HTML files
+**Usage:** `python3 htm/fix-audio-absolute-paths.py`
 **Features:**
 - Modernizes CSS with mobile-responsive design patterns
 - Fixes ~10,183 HTML files with broken `/auntruth/css/htm.css` absolute paths
@@ -154,9 +164,104 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Mobile-first CSS with desktop fallbacks
 - Improved typography and spacing for mobile readability
 
-### 010-convert-to-utf8.py
+### htm/fix-audio-paths.py
+**Purpose:** Fix audio file path references in HTML files
+**Usage:** `python3 htm/fix-audio-paths.py`
+
+### htm/fix-backslash-paths.py
+**Purpose:** Convert Windows backslash paths to forward slashes
+**Usage:** `python3 htm/fix-backslash-paths.py`
+
+### htm/fix-github-pages-paths.py
+**Purpose:** General GitHub Pages path compatibility fixes
+**Usage:** `python3 htm/fix-github-pages-paths.py`
+
+### htm/fix-xi-lineage-refs.py
+**Purpose:** Fix Xi lineage reference links
+**Usage:** `python3 htm/fix-xi-lineage-refs.py`
+
+### htm/remove-cgi-counters.py
+**Purpose:** Remove CGI counter references (duplicate of 003)
+**Usage:** `python3 htm/remove-cgi-counters.py`
+
+### htm/remove-word-artifacts.py
+**Purpose:** Remove Microsoft Word HTML artifacts
+**Usage:** `python3 htm/remove-word-artifacts.py`
+
+### htm/remove-xf0-links.py
+**Purpose:** Remove invalid xf0 link references
+**Usage:** `python3 htm/remove-xf0-links.py`
+
+### htm/test-fix-paths.py
+**Purpose:** Testing script for path fixes
+**Usage:** `python3 htm/test-fix-paths.py`
+
+### htm/update-audio-to-mp3.py
+**Purpose:** Update audio references from .au to .mp3 format
+**Usage:** `python3 htm/update-audio-to-mp3.py`
+
+## NEW Directory Scripts (`new/`)
+These scripts work exclusively with the `docs/new` directory:
+
+### new/fix_carousel_navigation.py
+**Purpose:** Fix carousel navigation functionality
+**Usage:** `python3 new/fix_carousel_navigation.py`
+
+### new/fix_gallery_json.py
+**Purpose:** Fix gallery JSON data structures
+**Usage:** `python3 new/fix_gallery_json.py`
+
+### new/fix_missing_carousel_css.py
+**Purpose:** Add missing CSS for carousel components
+**Usage:** `python3 new/fix_missing_carousel_css.py`
+
+### new/fix_onclick_syntax.py
+**Purpose:** Fix onclick JavaScript syntax issues
+**Usage:** `python3 new/fix_onclick_syntax.py`
+
+### new/fix_thumbnails.py
+**Purpose:** Fix thumbnail image references and paths
+**Usage:** `python3 new/fix_thumbnails.py`
+
+### new/generate_search_index.py
+**Purpose:** Generate search index for site content
+**Usage:** `python3 new/generate_search_index.py`
+**Output:** `docs/new/js/data.json`
+
+### new/modernize_image_pages.py
+**Purpose:** Modernize image gallery pages
+**Usage:** `python3 new/modernize_image_pages.py`
+
+### new/update_carousel_css.py
+**Purpose:** Update carousel CSS styling
+**Usage:** `python3 new/update_carousel_css.py`
+
+### new/update_navigation.py
+**Purpose:** Update navigation system and injection
+**Usage:** `python3 new/update_navigation.py`
+
+## Multi-Directory Scripts (`both/`)
+These scripts can work with either directory or provide options for both:
+
+### both/007-modernize-index-references.py
+**Purpose:** Task 007 - Fix broken index.htm references for GitHub Pages
+**Usage:** `python3 both/007-modernize-index-references.py [--dry-run] [--execute] [--test-mode] [--validate]`
+**Features:**
+- Fixes ~5,225 files with broken `\AuntRuth\index.htm` references
+- Converts Windows-style absolute paths to proper relative paths
+- Calculates correct relative paths for each file's location
+- GitHub Pages compatible static hosting paths
+- Phased execution with checkpoint commits every 500 files
+- Progress reporting every 100 files
+- Comprehensive error logging and recovery
+- Dry-run mode with detailed preview of changes
+- Test mode for processing only 5 files first
+- Post-execution validation of changes
+- Handles massive scale (>5000 files) with safety protocols
+
+### both/010-convert-to-utf8.py
 **Purpose:** Task 010 - Convert Windows-1252 encoded files to UTF-8
-**Usage:** `python3 010-convert-to-utf8.py [dry-run|execute|validate]`
+**Usage:** `python3 both/010-convert-to-utf8.py [dry-run|execute|validate]`
 **Features:**
 - Converts Windows-1252 encoded characters to proper Unicode (fixes garbled characters)
 - Updates charset declarations from windows-1252 to utf-8
@@ -168,19 +273,69 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Character-level conversion with Windows-1252 to Unicode mapping
 - Progress reporting and comprehensive error handling
 
-### fix-github-pages-paths.py
-**Purpose:** General GitHub Pages path compatibility fixes
-**Usage:** `python3 fix-github-pages-paths.py`
-**Features:**
-- GitHub Pages specific path corrections
-- Case sensitivity fixes for static hosting
+### both/012-fix-all-home-links.py
+**Purpose:** Fix all home page link references
+**Usage:** `python3 both/012-fix-all-home-links.py`
 
-### test-fix-paths.py
-**Purpose:** Testing script for path fixes
-**Usage:** `python3 test-fix-paths.py`
+### both/012-fix-home-links-correct.py
+**Purpose:** Correct home page link fixes
+**Usage:** `python3 both/012-fix-home-links-correct.py`
+
+### both/analyze-remaining-links.py
+**Purpose:** Analyze remaining broken links
+**Usage:** `python3 both/analyze-remaining-links.py`
+
+### both/check-image-case.py
+**Purpose:** Check image file case sensitivity issues
+**Usage:** `python3 both/check-image-case.py`
+
+### both/comprehensive_html_cleanup.py
+**Purpose:** Comprehensive HTML structure cleanup
+**Usage:** `python3 both/comprehensive_html_cleanup.py`
+
+### both/convert-au-to-mp3.py
+**Purpose:** Convert .au audio files to .mp3 format
+**Usage:** `python3 both/convert-au-to-mp3.py`
+
+### both/find-broken-links.py
+**Purpose:** Find all broken links in the site
+**Usage:** `python3 both/find-broken-links.py [--site=htm|new|both] [--timeout=5]`
 **Features:**
-- Test path correction logic
-- Validation of changes
+- Finds all broken links in the AuntieRuth.com genealogy site
+- Ensures each URL is only checked once and provides progress feedback
+- Can target htm, new, or both directories
+
+### both/fix_duplicate_scripts.py
+**Purpose:** Remove duplicate script references
+**Usage:** `python3 both/fix_duplicate_scripts.py`
+
+### both/fix_missing_css.py
+**Purpose:** Add missing CSS file references
+**Usage:** `python3 both/fix_missing_css.py`
+
+### both/fix_navigation_injection.py
+**Purpose:** Fix navigation injection system
+**Usage:** `python3 both/fix_navigation_injection.py`
+
+### both/fix_nested_main_tags.py
+**Purpose:** Fix nested main tag issues
+**Usage:** `python3 both/fix_nested_main_tags.py`
+
+### both/linkchecker.py
+**Purpose:** Comprehensive link validation tool
+**Usage:** `python3 both/linkchecker.py`
+
+### both/quick-linkcheck.py
+**Purpose:** Quick link validation check
+**Usage:** `python3 both/quick-linkcheck.py`
+
+### both/remove_duplicates.py
+**Purpose:** Remove duplicate content and files
+**Usage:** `python3 both/remove_duplicates.py`
+
+### both/validate_navigation.py
+**Purpose:** Validate navigation system functionality
+**Usage:** `python3 both/validate_navigation.py`
 
 ## Script Standards
 
@@ -236,12 +391,13 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - **>1000 files**: Phased execution with checkpoints required
 
 ### Script Creation Process
-1. Copy an existing task script (e.g., 001-fix-path-format.py) as template
+1. Copy an existing task script (e.g., htm/001-fix-path-format.py) as template
 2. Modify for specific task requirements
 3. Test on 5 sample files first
 4. Run dry-run to verify scope
 5. Execute with full safety protocols
-6. Update this README with new script documentation
+6. Place in appropriate subdirectory (htm/, new/, or both/)
+7. Update this README with new script documentation
 
 ## Safety Checklist
 
@@ -303,7 +459,7 @@ git revert <commit-hash>
 ## Script Templates
 
 ### Basic Mass File Processor Template
-See `001-fix-path-format.py` for the standard template that includes:
+See `htm/001-fix-path-format.py` for the standard template that includes:
 - Argument parsing with required safety flags
 - Git branch verification
 - Progress reporting and error handling
@@ -311,9 +467,9 @@ See `001-fix-path-format.py` for the standard template that includes:
 - Rollback instructions generation
 
 ### Task-Specific Templates
-- **001-fix-path-format.py**: Comprehensive path format fixes
-- **002-complete-auntruuth-fix.py**: Specific pattern replacements
-- **002-final-auntruuth-cleanup.py**: Final cleanup operations
+- **htm/001-fix-path-format.py**: Comprehensive path format fixes
+- **htm/002-complete-auntruuth-fix.py**: Specific pattern replacements
+- **htm/002-final-auntruuth-cleanup.py**: Final cleanup operations
 
 ## Documentation Requirements
 
