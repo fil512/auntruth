@@ -88,16 +88,16 @@ class NavigationComponent {
         if (lineageMatch) {
             const lineageNumber = lineageMatch[1];
             const lineageNames = {
-                '0': 'Base',
+                '0': 'All',
                 '1': 'Hagborg-Hansson',
                 '2': 'Nelson',
-                '3': 'Lineage 3',
-                '4': 'Lineage 4',
-                '5': 'Lineage 5',
-                '6': 'Lineage 6',
-                '7': 'Lineage 7',
-                '8': 'Lineage 8',
-                '9': 'Lineage 9'
+                '3': 'Pringle-Hambley',
+                '4': 'Lathrop-Lothropp',
+                '5': 'Ward',
+                '6': 'Selch-Weiss',
+                '7': 'Stebbe',
+                '8': 'Lentz',
+                '9': 'Phoenix-Rogerson'
             };
 
             return {
@@ -183,9 +183,23 @@ class NavigationComponent {
                     </div>
                     <ul class="nav-links">
                         <li><a href="${basePath}" ${currentPath === basePath ? 'class="active"' : ''}>Home</a></li>
-                        <li><a href="${basePath}htm/L0/">Base</a></li>
-                        <li><a href="${basePath}htm/L1/">Hagborg-Hansson</a></li>
-                        <li><a href="${basePath}htm/L2/">Nelson</a></li>
+                        <li class="nav-dropdown">
+                            <a href="#" class="dropdown-toggle" aria-haspopup="true" aria-expanded="false">
+                                Lineages <span class="dropdown-arrow">▼</span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+                                <li><a href="${basePath}htm/L1/" role="menuitem">Hagborg-Hansson</a></li>
+                                <li><a href="${basePath}htm/L2/" role="menuitem">Nelson</a></li>
+                                <li><a href="${basePath}htm/L3/" role="menuitem">Pringle-Hambley</a></li>
+                                <li><a href="${basePath}htm/L4/" role="menuitem">Lathrop-Lothropp</a></li>
+                                <li><a href="${basePath}htm/L5/" role="menuitem">Ward</a></li>
+                                <li><a href="${basePath}htm/L6/" role="menuitem">Selch-Weiss</a></li>
+                                <li><a href="${basePath}htm/L7/" role="menuitem">Stebbe</a></li>
+                                <li><a href="${basePath}htm/L8/" role="menuitem">Lentz</a></li>
+                                <li><a href="${basePath}htm/L9/" role="menuitem">Phoenix-Rogerson</a></li>
+                                <li><a href="${basePath}htm/L0/" role="menuitem">All</a></li>
+                            </ul>
+                        </li>
                         <li><a href="#" id="search-trigger" aria-haspopup="true">Search People</a></li>
                         <li><a href="/auntruth/htm/">Original Site</a></li>
                     </ul>
@@ -257,6 +271,9 @@ class NavigationComponent {
         // Keyboard navigation
         document.addEventListener('keydown', this.handleKeydown);
 
+        // Dropdown menu functionality
+        this.setupDropdownMenu();
+
         // Browse trigger (opens sidebar with lineage focus)
         const browseTriger = document.getElementById('browse-trigger');
         if (browseTriger) {
@@ -293,6 +310,92 @@ class NavigationComponent {
                 }
             });
         }
+    }
+
+    setupDropdownMenu() {
+        const dropdownToggle = document.querySelector('.dropdown-toggle');
+        const dropdownMenu = document.querySelector('.dropdown-menu');
+        const navDropdown = document.querySelector('.nav-dropdown');
+
+        if (!dropdownToggle || !dropdownMenu || !navDropdown) return;
+
+        // Toggle dropdown on click
+        dropdownToggle.addEventListener('click', (e) => {
+            e.preventDefault();
+            const isOpen = navDropdown.classList.contains('open');
+
+            // Close all other dropdowns first
+            document.querySelectorAll('.nav-dropdown.open').forEach(dropdown => {
+                dropdown.classList.remove('open');
+                const toggle = dropdown.querySelector('.dropdown-toggle');
+                if (toggle) toggle.setAttribute('aria-expanded', 'false');
+            });
+
+            if (!isOpen) {
+                navDropdown.classList.add('open');
+                dropdownToggle.setAttribute('aria-expanded', 'true');
+                // Focus first menu item
+                const firstMenuItem = dropdownMenu.querySelector('a');
+                if (firstMenuItem) {
+                    setTimeout(() => firstMenuItem.focus(), 100);
+                }
+            } else {
+                navDropdown.classList.remove('open');
+                dropdownToggle.setAttribute('aria-expanded', 'false');
+            }
+        });
+
+        // Close dropdown when clicking outside
+        document.addEventListener('click', (e) => {
+            if (!navDropdown.contains(e.target)) {
+                navDropdown.classList.remove('open');
+                dropdownToggle.setAttribute('aria-expanded', 'false');
+            }
+        });
+
+        // Keyboard navigation for dropdown
+        dropdownMenu.addEventListener('keydown', (e) => {
+            const menuItems = dropdownMenu.querySelectorAll('a');
+            const currentIndex = Array.from(menuItems).indexOf(document.activeElement);
+
+            switch (e.key) {
+                case 'ArrowDown':
+                    e.preventDefault();
+                    const nextIndex = (currentIndex + 1) % menuItems.length;
+                    menuItems[nextIndex].focus();
+                    break;
+                case 'ArrowUp':
+                    e.preventDefault();
+                    const prevIndex = currentIndex > 0 ? currentIndex - 1 : menuItems.length - 1;
+                    menuItems[prevIndex].focus();
+                    break;
+                case 'Escape':
+                    e.preventDefault();
+                    navDropdown.classList.remove('open');
+                    dropdownToggle.setAttribute('aria-expanded', 'false');
+                    dropdownToggle.focus();
+                    break;
+                case 'Tab':
+                    if (e.shiftKey && currentIndex === 0) {
+                        // Tab backwards from first item - close dropdown
+                        navDropdown.classList.remove('open');
+                        dropdownToggle.setAttribute('aria-expanded', 'false');
+                    } else if (!e.shiftKey && currentIndex === menuItems.length - 1) {
+                        // Tab forwards from last item - close dropdown
+                        navDropdown.classList.remove('open');
+                        dropdownToggle.setAttribute('aria-expanded', 'false');
+                    }
+                    break;
+            }
+        });
+
+        // Close dropdown on escape from toggle
+        dropdownToggle.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                navDropdown.classList.remove('open');
+                dropdownToggle.setAttribute('aria-expanded', 'false');
+            }
+        });
     }
 
     setupMobileMenu() {
@@ -424,16 +527,16 @@ class NavigationComponent {
         if (!lineageNav) return;
 
         const lineages = [
-            { number: '0', name: 'Base', path: '/auntruth/new/htm/L0/' },
             { number: '1', name: 'Hagborg-Hansson', path: '/auntruth/new/htm/L1/' },
             { number: '2', name: 'Nelson', path: '/auntruth/new/htm/L2/' },
-            { number: '3', name: 'Lineage 3', path: '/auntruth/new/htm/L3/' },
-            { number: '4', name: 'Lineage 4', path: '/auntruth/new/htm/L4/' },
-            { number: '5', name: 'Lineage 5', path: '/auntruth/new/htm/L5/' },
-            { number: '6', name: 'Lineage 6', path: '/auntruth/new/htm/L6/' },
-            { number: '7', name: 'Lineage 7', path: '/auntruth/new/htm/L7/' },
-            { number: '8', name: 'Lineage 8', path: '/auntruth/new/htm/L8/' },
-            { number: '9', name: 'Lineage 9', path: '/auntruth/new/htm/L9/' }
+            { number: '3', name: 'Pringle-Hambley', path: '/auntruth/new/htm/L3/' },
+            { number: '4', name: 'Lathrop-Lothropp', path: '/auntruth/new/htm/L4/' },
+            { number: '5', name: 'Ward', path: '/auntruth/new/htm/L5/' },
+            { number: '6', name: 'Selch-Weiss', path: '/auntruth/new/htm/L6/' },
+            { number: '7', name: 'Stebbe', path: '/auntruth/new/htm/L7/' },
+            { number: '8', name: 'Lentz', path: '/auntruth/new/htm/L8/' },
+            { number: '9', name: 'Phoenix-Rogerson', path: '/auntruth/new/htm/L9/' },
+            { number: '0', name: 'All', path: '/auntruth/new/htm/L0/' }
         ];
 
         const currentLineageNumber = this.currentLineage?.number;
