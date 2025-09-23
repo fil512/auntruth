@@ -104,6 +104,22 @@ grep -r "PATTERN" TARGET_DIR --include="*.htm" --include="*.html" -l
 - Post-execution validation of changes
 - Handles massive scale (>5000 files) with safety protocols
 
+### 011-add-doctype.py
+**Purpose:** Task 011 - Add DOCTYPE declarations to HTML files for modern web standards
+**Usage:** `python3 011-add-doctype.py [--dry-run] [--test-mode] [--execute] [--yes] [--validate]`
+**Features:**
+- Adds HTML5 DOCTYPE declarations to ~11,000 HTML files
+- GitHub Pages compatible modern web standards
+- Phased execution with checkpoint commits every 500 files
+- Processed 11,065 files (5 already had DOCTYPE declarations)
+- Progress reporting every 100 files
+- Comprehensive error logging and recovery
+- Dry-run mode with detailed preview of changes
+- Test mode for processing only 5 files first
+- Auto-confirmation mode for non-interactive environments
+- Post-execution validation of changes
+- Handles massive scale (>11,000 files) with full safety protocols
+
 ### 010-convert-to-utf8.py
 **Purpose:** Task 010 - Convert Windows-1252 encoded files to UTF-8
 **Usage:** `python3 010-convert-to-utf8.py [dry-run|execute|validate]`
