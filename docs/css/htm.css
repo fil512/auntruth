@@ -1,34 +1,333 @@
-* {font-size:10pt;font-family:Verdana;}
-a {font-weight:normal;color:#0000FF;text-decoration:none;}
-a:visited {color:#0000FF;text-decoration:none;}
-a:hover {text-decoration:underline;}
-a.current {font-weight:normal;color:#000000;text-decoration:none;}
-a.inactive {font-weight:normal;color:#000000;text-decoration:none;}
-img {border:0;}
-body {margin:3 0 0 0;background-color:C1CFBA;}
-h3 {font-size:12pt;margin:0 0 10 0;}
-h4 {font-size:12pt;margin:0 0 0 0;padding:0 0 0 0;}
-form {margin:0 0 0 0;padding:0 0 0 0;}
-table {border-collapse:collapse;}
-ul.item {margin:0 0 0 15;padding:0 0 0 0;list-style:none;}
-ul.last {margin:0 0 0 15;padding:0 0 0 0;list-style:none;}
-select {margin:5 0 0 15;}
-#main td {padding:3 8 8 8;vertical-align:top;}
-#singleImage {text-align:center;margin:0 0 0 0;padding:3 8 8 8;width:450px;}
-#left {border-bottom:2px solid #000;border-top:2px solid #000;border-right:2px solid #000;padding:3 8 8 8;vertical-align:top;width:210;}
-#right {border-bottom:2px solid #000;margin:0 0 0 0;padding:3 8 8 8;}
-#right img {border:2px solid #5A5;}
-#right li {margin:0;display:inline;}
-#list {font-size:12pt;border:1px solid #5A5;border-collapse:collapse;}
-#list td {border:1px solid #5A5;padding:0 10 0 10;}
-#images {margin:0;}
-#images div {text-align:center;margin:5 2 5 10;float:left;}
-#main {margin:0 0 0 0;}
-#main a {text-align:center;vertical-align:top;}
-#main div {margin:8 8 8 8;float:left;}
-#header .right {font-size:12pt;margin-right:0;padding-right:28px;}
-#header td.right {text-align:right;margin:0 0 10 0;}
-#headlinks a {font-size:12pt;}
-tr.contact {margin-right:5px;margin-left:5px;}
-h1 {font-size:16pt;font-weight:bold;}
-h2 {font-size:14pt;font-weight:bold;}
+/* Base Styles - Desktop First */
+* {
+    font-size: 10pt;
+    font-family: Verdana, Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+a {
+    font-weight: normal;
+    color: #0000FF;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0000FF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a.current {
+    font-weight: normal;
+    color: #000000;
+    text-decoration: none;
+}
+
+a.inactive {
+    font-weight: normal;
+    color: #000000;
+    text-decoration: none;
+}
+
+img {
+    border: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    margin: 3px 0 0 0;
+    background-color: #C1CFBA;
+    line-height: 1.4;
+}
+
+h1 {
+    font-size: 16pt;
+    font-weight: bold;
+    margin: 0.5em 0;
+}
+
+h2 {
+    font-size: 14pt;
+    font-weight: bold;
+    margin: 0.5em 0;
+}
+
+h3 {
+    font-size: 12pt;
+    margin: 0 0 10px 0;
+}
+
+h4 {
+    font-size: 12pt;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    overflow-x: auto;
+}
+
+ul.item {
+    margin: 0 0 0 15px;
+    padding: 0;
+    list-style: none;
+}
+
+ul.last {
+    margin: 0 0 0 15px;
+    padding: 0;
+    list-style: none;
+}
+
+select {
+    margin: 5px 0 0 15px;
+    max-width: 100%;
+}
+
+#main td {
+    padding: 3px 8px 8px 8px;
+    vertical-align: top;
+}
+
+#singleImage {
+    text-align: center;
+    margin: 0;
+    padding: 3px 8px 8px 8px;
+    width: 100%;
+    max-width: 450px;
+}
+
+#left {
+    border-bottom: 2px solid #000;
+    border-top: 2px solid #000;
+    border-right: 2px solid #000;
+    padding: 3px 8px 8px 8px;
+    vertical-align: top;
+    width: 210px;
+    min-width: 200px;
+}
+
+#right {
+    border-bottom: 2px solid #000;
+    margin: 0;
+    padding: 3px 8px 8px 8px;
+}
+
+#right img {
+    border: 2px solid #5A5;
+}
+
+#right li {
+    margin: 0;
+    display: inline;
+}
+
+#list {
+    font-size: 12pt;
+    border: 1px solid #5A5;
+    border-collapse: collapse;
+    width: 100%;
+    overflow-x: auto;
+    display: block;
+}
+
+#list td {
+    border: 1px solid #5A5;
+    padding: 0 10px 0 10px;
+    word-wrap: break-word;
+}
+
+#images {
+    margin: 0;
+}
+
+#images div {
+    text-align: center;
+    margin: 5px 2px 5px 10px;
+    float: left;
+}
+
+#main {
+    margin: 0;
+}
+
+#main a {
+    text-align: center;
+    vertical-align: top;
+}
+
+#main div {
+    margin: 8px;
+    float: left;
+}
+
+#header .right {
+    font-size: 12pt;
+    margin-right: 0;
+    padding-right: 28px;
+}
+
+#header td.right {
+    text-align: right;
+    margin: 0 0 10px 0;
+}
+
+#headlinks a {
+    font-size: 12pt;
+}
+
+tr.contact {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+/* Mobile-First Responsive Design */
+@media screen and (max-width: 768px) {
+    * {
+        font-size: 12pt;
+    }
+
+    body {
+        margin: 5px;
+        padding: 0;
+    }
+
+    h1 {
+        font-size: 18pt;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 16pt;
+        text-align: center;
+    }
+
+    h3 {
+        font-size: 14pt;
+    }
+
+    table {
+        display: block;
+        overflow-x: auto;
+        white-space: nowrap;
+        border: 1px solid #5A5;
+    }
+
+    #list {
+        display: table;
+        width: 100%;
+        table-layout: fixed;
+    }
+
+    #list td {
+        padding: 8px 5px;
+        font-size: 11pt;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+
+    #left {
+        width: 100%;
+        border-right: none;
+        border-bottom: 2px solid #000;
+        margin-bottom: 10px;
+    }
+
+    #right {
+        width: 100%;
+        border-top: 2px solid #000;
+    }
+
+    #singleImage {
+        width: 100%;
+        padding: 5px;
+    }
+
+    #main div {
+        float: none;
+        margin: 5px;
+    }
+
+    #images div {
+        float: none;
+        margin: 5px auto;
+        width: 100%;
+    }
+
+    select {
+        width: 100%;
+        margin: 5px 0;
+        font-size: 12pt;
+    }
+
+    form {
+        margin: 10px 0;
+    }
+
+    #headlinks a {
+        font-size: 14pt;
+        display: block;
+        margin: 5px 0;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    * {
+        font-size: 11pt;
+    }
+
+    body {
+        margin: 3px;
+    }
+
+    h1 {
+        font-size: 16pt;
+    }
+
+    h2 {
+        font-size: 14pt;
+    }
+
+    h3 {
+        font-size: 12pt;
+    }
+
+    #list td {
+        padding: 5px 3px;
+        font-size: 10pt;
+    }
+
+    select {
+        font-size: 11pt;
+    }
+
+    #headlinks a {
+        font-size: 12pt;
+    }
+}
+
+/* Touch-friendly targets */
+@media (hover: none) and (pointer: coarse) {
+    a, button, select {
+        min-height: 44px;
+        min-width: 44px;
+        padding: 8px;
+    }
+
+    #list td a {
+        display: block;
+        padding: 10px 5px;
+    }
+}
