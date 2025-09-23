@@ -243,6 +243,23 @@ These scripts work exclusively with the `docs/new` directory:
 ## Multi-Directory Scripts (`both/`)
 These scripts can work with either directory or provide options for both:
 
+### both/normalize-file-extensions.py
+**Purpose:** Normalize all file extensions to lowercase across the entire site
+**Usage:** `python3 both/normalize-file-extensions.py [--target-dir docs] [--dry-run] [--files-only] [--refs-only] [--limit N]`
+**Features:**
+- Renames files with uppercase extensions (.HTM→.htm, .JPG→.jpg, etc.)
+- Updates all internal references in HTML/CSS/JS files to use lowercase extensions
+- Handles file collisions by keeping newer files and deleting older duplicates
+- Comprehensive collision reporting saved to PRPs/scripts/reports/
+- Supports all common web file extensions (HTM, HTML, JPG, JPEG, PNG, CSS, JS, etc.)
+- Safe processing with git-based rollback capability
+- Progress reporting every 100 files for large operations
+- Dry-run mode for testing before execution
+- Can process files-only, references-only, or both
+- Collision resolution strategy: keep newer file, delete older file
+- Generated collision reports include timestamps, file sizes, and decisions made
+- Processed 135 JPG files and 1,711+ extension references successfully
+
 ### both/007-modernize-index-references.py
 **Purpose:** Task 007 - Fix broken index.htm references for GitHub Pages
 **Usage:** `python3 both/007-modernize-index-references.py [--dry-run] [--execute] [--test-mode] [--validate]`
