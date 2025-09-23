@@ -1,0 +1,1 @@
+- never chmod python scripts. just execute them as an argument to python3
