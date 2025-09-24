@@ -1,0 +1,29 @@
+Malformed Path Fix Report - 2025-09-24 01:03:38
+============================================================
+
+Files processed: 252
+Files modified: 252
+Total changes: 252
+Pattern: src/href="./" → src/href=""
+
+Sample of files modified:
+  docs/new/htm/L6/XF838.htm
+  docs/new/htm/L6/PICS1916.htm
+  docs/new/htm/L6/PICS1925.htm
+  docs/new/htm/L6/CXChurch.htm
+  docs/new/htm/L6/THME.htm
+  docs/new/htm/L6/PICSG9.htm
+  docs/new/htm/L6/PICSF0.htm
+  docs/new/htm/L6/THVatica.htm
+  docs/new/htm/L6/CXMontpe.htm
+  docs/new/htm/L6/CXLondon.htm
+  docs/new/htm/L6/XF837.htm
+  docs/new/htm/L6/THS0.htm
+  docs/new/htm/L6/THVD.htm
+  docs/new/htm/L6/THNelson.htm
+  docs/new/htm/L6/PICS1912.htm
+  docs/new/htm/L6/THSoutho.htm
+  docs/new/htm/L6/THOstiaN.htm
+  docs/new/htm/L6/TH1917.htm
+  docs/new/htm/L6/CXLacLem.htm
+  docs/new/htm/L6/THHagest.htm

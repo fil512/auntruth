@@ -1,0 +1,29 @@
+Malformed Path Fix Report - 2025-09-24 01:03:28
+============================================================
+
+Files processed: 100
+Files modified: 100
+Total changes: 100
+Pattern: src/href="./" → src/href=""
+
+Sample of files modified:
+  docs/404.html
+  docs/htm/all.htm
+  docs/htm/selch.htm
+  docs/htm/david.htm
+  docs/htm/index.html
+  docs/htm/pringle.htm
+  docs/htm/hagborg.htm
+  docs/htm/brandy.htm
+  docs/htm/L1/lastcall/index.htm
+  docs/new/htm/all.htm
+  docs/new/htm/selch.htm
+  docs/new/htm/david.htm
+  docs/new/htm/index.html
+  docs/new/htm/pringle.htm
+  docs/new/htm/hagborg.htm
+  docs/new/htm/brandy.htm
+  docs/new/htm/L2/XF2725.htm
+  docs/new/htm/L2/PICS1967.htm
+  docs/new/htm/L2/PICS1971.htm
+  docs/new/htm/L6/CXPosita.htm
