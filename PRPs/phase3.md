@@ -2,11 +2,11 @@
 
 ## Overview
 
-Phase 3 addresses the systematic fixing of broken links across the AuntieRuth.com genealogy site through targeted, data-driven approaches. Based on comprehensive analysis of broken link reports, this phase can potentially fix **7,953+ broken links** (95%+ improvement) through pattern-based corrections.
+Phase 3 addresses the systematic fixing of broken links across the AuntieRuth.com genealogy site through targeted, data-driven approaches. Based on comprehensive analysis of broken link reports, this phase can potentially fix **1,400+ broken links** (60%+ improvement) through pattern-based corrections.
 
 ## Current State Analysis
 
-**Total Broken Links: 5,416**
+**Total Broken Links: 2,356**
 - HTM site: 183 broken links
 - NEW site: 5,233 broken links
 
