@@ -25,3 +25,4 @@
   - **both/** - if script can work with either directory or has options for both
 - Follow the safety protocols and templates documented in PRPs/scripts/README.md
 - Update PRPs/scripts/README.md with documentation for any new script
+- Never run the link checker yourself. Always ask me to do it.
