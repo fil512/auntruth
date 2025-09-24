@@ -46,7 +46,13 @@ Include representative URLs from BOTH original (docs/htm) and modernized (docs/n
 ### Step 5: MANDATORY User Validation
 **CRITICAL**: You must WAIT for user validation before proceeding. The user must test the provided URLs and confirm no functionality is broken.
 
-### Step 6: Report Results
+### Step 6: Git Commit Changes
+After user validation, commit all changes to git:
+- Add all modified files to git staging
+- Create a descriptive commit message summarizing the fixes applied
+- Commit the changes to preserve the work
+
+### Step 7: Report Results
 Provide a summary of:
 - Number of files modified in docs/htm
 - Number of files modified in docs/new
