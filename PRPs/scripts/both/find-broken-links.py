@@ -285,32 +285,58 @@ def main():
     print(f"Checking {len(sites_to_check)} site(s)")
     print(f"Timeout: {args.timeout} seconds")
 
-    total_broken = 0
+    total_unique_broken = 0
+    total_broken_references = 0
     csv_reports = []
+    site_results = []
 
     for site_name, site_dir in sites_to_check:
         broken_links, total_files, total_links = find_broken_links(
             site_dir, site_name, args.timeout
         )
 
-        total_broken += len(broken_links)
+        # Count unique URLs and total references for this site
+        unique_count = len(broken_links)
+        reference_count = sum(len(data['sources']) for data in broken_links.values())
+
+        total_unique_broken += unique_count
+        total_broken_references += reference_count
+
+        site_results.append({
+            'name': site_name,
+            'unique': unique_count,
+            'references': reference_count
+        })
+
         csv_file = generate_report(broken_links, site_name, total_files, total_links)
         csv_reports.append(csv_file)
 
-    # Summary
+    # Detailed Summary
     print(f"\n=== FINAL SUMMARY ===")
     print(f"Sites checked: {len(sites_to_check)}")
-    print(f"Total broken links: {total_broken}")
+    print()
+
+    for result in site_results:
+        print(f"{result['name'].upper()} site:")
+        print(f"  Unique broken URLs: {result['unique']}")
+        print(f"  Total broken references: {result['references']}")
+        print()
+
+    print("TOTALS:")
+    print(f"  Unique broken URLs: {total_unique_broken}")
+    print(f"  Total broken references: {total_broken_references}")
+    print()
+
     print(f"CSV reports generated:")
     for csv_report in csv_reports:
         print(f"  📄 {csv_report}")
 
-    if total_broken == 0:
+    if total_unique_broken == 0:
         print("🎉 All links are working correctly!")
     else:
         print("⚠️  Broken links found. See CSV reports for complete details.")
 
-    return 0 if total_broken == 0 else 1
+    return 0 if total_unique_broken == 0 else 1
 
 if __name__ == "__main__":
     sys.exit(main())
