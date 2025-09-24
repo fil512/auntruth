@@ -15,7 +15,7 @@ This document captures key insights and best practices learned from successfully
 - Use `curl` to test both broken and working URLs
 - Examine actual HTML files to see current link patterns
 - Read recent broken link reports to understand real issues
-- Test assumptions with small samples before full execution
+- **CRITICAL**: Test your theory with curl before writing ANY code
 
 **Example:**
 ```bash
@@ -136,22 +136,95 @@ patterns_to_fix = [
 
 ## ⚠️ Common Pitfalls to Avoid
 
-### 1. **Fixing Non-Problems**
+### 1. **Writing Code Before Testing Assumptions**
+❌ **Fatal mistake**: Writing a script based on documentation or assumptions
+✅ **Correct approach**: Test your theory with curl first, then write code
+
+**Example of the wrong approach:**
+```bash
+# DON'T DO THIS - writing code without testing
+python3 script.py  # This might make things worse!
+```
+
+**Example of the right approach:**
+```bash
+# DO THIS - test first, then implement
+curl -s -o /dev/null -w "%{http_code}" http://localhost:8000/suspected/broken/url
+curl -s -o /dev/null -w "%{http_code}" http://localhost:8000/potential/fix/url
+# Only after confirming your theory with curl, then write the script
+```
+
+### 2. **Fixing Non-Problems**
 - Don't fix links that already work correctly
 - Verify problems exist before implementing solutions
 
-### 2. **Over-Broad Pattern Matching**
+### 3. **Over-Broad Pattern Matching**
 - Using `.*` where specific patterns would be safer
 - Using case-insensitive matching when case is the actual problem
 
-### 3. **Not Testing Edge Cases**
+### 4. **Not Testing Edge Cases**
 - Single vs double quotes in HTML attributes
 - Different directory structures
 - Files that don't follow expected patterns
 
-### 4. **Batch Processing Without Validation**
+### 5. **Batch Processing Without Validation**
 - Always test on small samples first
 - Validate improvements before proceeding to larger batches
+
+### 6. **Over-Engineering Solutions for Isolated Cases**
+❌ **Wrong approach**: Create complex automated fix for every broken link pattern
+✅ **Right approach**: Analyze frequency first, manually fix isolated cases
+
+**Example:**
+```bash
+# Analyze pattern frequency first
+cut -d',' -f1 broken_links.csv | sort | uniq -c | sort -nr | head -20
+
+# If a pattern appears only a few times, consider manual fixes
+# 111 instances of XF533.htm in wrong directory → maybe just one file to move
+# 2006 instances of missing index.htm → create the file instead of fixing refs
+```
+
+### 7. **Misunderstanding Relative Path Resolution**
+Web servers resolve relative paths based on context. A link `/htm/L0/file.htm` in a page served from `/auntruth/htm/` won't work correctly.
+
+**The Issue:**
+- Source file has: `href="/htm/L0/file.htm"`
+- Browser requests: `http://localhost:8000/htm/L0/file.htm` (missing /auntruth/)
+- Server may show as: `http://localhost:8000/auntruth/htm/htm/L0/file.htm` (404)
+
+**The Fix:**
+- Change to absolute: `href="/auntruth/htm/L0/file.htm"`
+
+### 8. **Not Checking Both CSV Columns**
+Broken link CSVs have two critical columns that may differ:
+- `Broken_URL`: What the server tried to access (may include artifacts)
+- `Original_Link_Text`: What's actually in the source file
+
+**Example:**
+```
+Broken_URL: http://localhost:8000/auntruth/htm/htm/L0/XI1029.htm
+Original_Link_Text: /htm/L0/XI1029.htm
+```
+This shows the source has `/htm/` but it's resolving incorrectly, NOT that `/htm/htm/` exists in source.
+
+### 9. **Not Validating Both Success AND Failure Cases**
+❌ **Wrong**: Only test that your fix produces a working URL
+✅ **Right**: Verify the original is broken AND the fix works
+
+```bash
+# BOTH tests are critical:
+curl -s -o /dev/null -w "%{http_code}" http://localhost:8000/broken/url  # Must be 404
+curl -s -o /dev/null -w "%{http_code}" http://localhost:8000/fixed/url   # Must be 200
+
+# If both return the same code, your understanding is wrong!
+```
+
+### 10. **Fixing References Instead of Creating Missing Files**
+Sometimes creating what's missing is simpler than fixing all references:
+- 2006 links to missing `/auntruth/new/index.htm`
+- Solution: Create the file (1 action) vs fixing 2006 references
+- Bonus: Future links will also work
 
 ## 🎯 Investigation Workflow
 
@@ -203,7 +276,7 @@ curl -s -o /dev/null -w "%{http_code}" http://localhost:8000/auntruth/htm/L1/ind
 - Test on small sample
 - Validate results
 
-### Step 5: Execute and Measure
+### Step 6: Execute and Measure
 - Run on full dataset
 - Commit changes
 - Re-run broken link checker
