@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AuntieRuth.com - Family Genealogy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            background-image: url('./jpg/backruth.jpg');
+            margin: 0;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: rgba(255, 255, 255, 0.95);
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+            font-size: 36px;
+            margin-bottom: 30px;
+            font-family: "Times New Roman", serif;
+        }
+        .site-links {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin: 40px 0;
+        }
+        .site-link {
+            display: inline-block;
+            padding: 20px 40px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-size: 18px;
+            font-weight: bold;
+            transition: background-color 0.3s;
+        }
+        .site-link:hover {
+            background-color: #45a049;
+        }
+        .site-link.original {
+            background-color: #2196F3;
+        }
+        .site-link.original:hover {
+            background-color: #1976D2;
+        }
+        .description {
+            margin: 20px 0;
+            color: #666;
+            font-size: 16px;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            color: #888;
+            font-size: 14px;
+        }
+        @media (max-width: 600px) {
+            .site-links {
+                flex-direction: column;
+                gap: 20px;
+            }
+            .site-link {
+                padding: 15px 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AuntieRuth.com</h1>
+        <p class="description">Welcome to our family genealogy site. Choose which version you'd like to explore:</p>
+
+        <div class="site-links">
+            <a href="htm/" class="site-link original">Original Site</a>
+            <a href="new/" class="site-link">New Site</a>
+        </div>
+
+        <div class="footer">
+            <p><strong>Family Genealogy Research</strong></p>
+            <p>For more information, please email <a href="mailto:david@hagborg.com">david@hagborg.com</a></p>
+        </div>
+    </div>
+</body>
+</html>
