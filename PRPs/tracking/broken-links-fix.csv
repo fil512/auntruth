@@ -4,5 +4,5 @@ item_number,status,script_name,description,estimated_fixes,priority
 002,COMPLETE,fix-backslash-paths.py,Convert backslash paths to forward slashes,37296,2
 003,COMPLETE,remove-cgi-counters.py,Remove obsolete CGI counter references,797,3
 004,COMPLETE,create-missing-indexes.py,Create missing L0-L9 index.htm files,5250,4
-005,IN PROGRESS,fix-xi-lineage-refs.py,Update XI references to correct lineage directories,100,5
-006,INCOMPLETE,remove-word-artifacts.py,Remove Microsoft Word temporary file references,50,6
+005,COMPLETE,fix-xi-lineage-refs.py,Update XI references to correct lineage directories,909,5
+006,IN PROGRESS,remove-word-artifacts.py,Remove Microsoft Word temporary file references,50,6

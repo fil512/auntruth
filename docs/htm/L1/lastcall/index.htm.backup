@@ -6,8 +6,6 @@
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 9">
 <meta name=Originator content="Microsoft Word 9">
-<link rel=File-List href="./index_files/filelist.xml">
-<link rel=Edit-Time-Data href="./index_files/editdata.mso">
 <link rel=OLE-Object-Data href="./index_files/oledata.mso">
 <!--[if !mso]>
 <style>
@@ -786,13 +784,13 @@ font-family:HellasArial'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:108pt;
  height:103.5pt' fillcolor="window">
- <v:imagedata src="./index_files/image001.gif" o:title=""/>
+ 
 </v:shape><![endif]--><![if !vml]><img width=144 height=138
 src="./index_files/image001.gif" v:shapes="_x0000_i1025"><![endif]><span
 style='mso-tab-count:4'>""""""""""""""""""""""""""""""""""""" </span><!--[if gte vml 1]><v:shape
  id="_x0000_i1026" type="#_x0000_t75" style='width:108pt;height:89.25pt'
  fillcolor="window">
- <v:imagedata src="./index_files/image002.gif" o:title=""/>
+ 
 </v:shape><![endif]--><![if !vml]><img width=144 height=119
 src="./index_files/image002.gif" v:shapes="_x0000_i1026"><![endif]><span
 style='mso-tab-count:1'>""""""""" </span><o:p></o:p></span></p>
