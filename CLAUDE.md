@@ -1,5 +1,14 @@
 - never chmod python scripts. just execute them as an argument to python3
 
+## CRITICAL: NO BACKUP FILES EVER
+**NEVER CREATE BACKUP FILES (.backup, .bak, .orig, etc.) WHEN USING GIT**
+- We are in a git repository - git IS our backup system
+- Creating .backup files is redundant, wasteful, and creates clutter
+- Any script that creates backup files must be immediately fixed
+- If you need to preserve state, commit to git first, then make changes
+- If a script fails, use `git checkout` to revert changes
+- REMOVE any existing backup files immediately upon discovery
+
 ## Python Script Guidelines
 
 ### Before Writing New Scripts
