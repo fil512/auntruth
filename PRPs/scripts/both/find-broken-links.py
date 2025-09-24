@@ -143,7 +143,8 @@ def find_broken_links(directory, base_site, timeout=5):
 def save_csv_report(broken_links, site_name, total_files, total_links):
     """Save detailed broken links report to CSV file."""
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    reports_dir = Path(__file__).parent / "reports"
+    reports_dir = Path(__file__).parent.parent / "reports"
+    reports_dir.mkdir(exist_ok=True)
     csv_file = reports_dir / f"broken_links_{site_name}_{timestamp}.csv"
 
     with open(csv_file, 'w', newline='', encoding='utf-8') as f:
@@ -258,7 +259,7 @@ def main():
     args = parser.parse_args()
 
     # Define base directory
-    base_dir = Path(__file__).parent.parent.parent
+    base_dir = Path(__file__).parent.parent.parent.parent
 
     # Define sites to check
     sites_to_check = []

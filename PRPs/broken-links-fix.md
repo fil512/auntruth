@@ -38,14 +38,19 @@
 - Include representative URLs from BOTH original (docs/htm) and modernized (docs/new) sites
 - Wait for user validation before marking complete
 
-## Step 7: Update tracking to COMPLETE
+## Step 7: Git Commit Changes
+- Add all modified files to git staging
+- Create a descriptive commit message summarizing the fixes applied
+- Commit the changes to preserve the work
+
+## Step 8: Update tracking to COMPLETE
 - Mark that item as COMPLETE in PRPs/tracking/broken-links-fix.csv
 
-## Step 8: Repeat for remaining items
+## Step 9: Repeat for remaining items
 - Return to Step 2 and repeat all steps for the next INCOMPLETE item
 - Continue until no INCOMPLETE items remain in the tracking file
 
-## Step 9: Create final summary report
+## Step 10: Create final summary report
 - Once all items are COMPLETE, create PRPs/reports/broken-links-fix-summary-report.md
 - Include:
   - Overview of all processed items
