@@ -1,300 +1,90 @@
 #!/usr/bin/env python3
 """
-Comprehensive Broken Links Fix Script
-====================================
+Comprehensive Broken Links Fix - Master Script
 
-This script fixes multiple types of broken links in the AuntieRuth.com genealogy site:
-1. Word artifact cleanup - Remove Microsoft Word temporary file references
-2. XF0.htm link removal - Remove anchor tags pointing to XF0.htm
-3. Backslash path fixes - Convert backslash paths to forward slashes
-4. CGI counter removal - Remove obsolete CGI counter references
-5. XI lineage reference fixes - Update XI references to correct lineage directories
+This script coordinates all targeted broken link fixes in optimal order
+based on the analysis from analyze-broken-links.py
 
-Usage:
-    python3 both/fix-broken-links-comprehensive.py [--target-dir docs/htm|docs/new] [--dry-run] [--execute] [--validate]
+Fixes applied in order:
+1. Wrong Lineage Paths (1,228+ fixes) - High impact, low risk
+2. Case Sensitivity (138+ fixes) - High impact, low risk
+3. Malformed Spaces (10+ fixes) - Medium impact, low risk
+4. Relative Paths (6,577+ fixes) - Highest impact, medium risk
 
-Safety Features:
-- Dry-run mode for testing
-- Progress reporting every 100 files
-- Comprehensive error logging
-- Git-based rollback capability
-- File backup before modification
+Total potential fixes: 7,953+ broken links
 """
 
-import os
-import re
-import sys
 import argparse
-import logging
+import subprocess
+import sys
+import os
 from pathlib import Path
-from datetime import datetime
+from typing import Dict, List, Tuple
+import time
 
-class BrokenLinksFixSuite:
-    def __init__(self, target_dir, dry_run=True):
-        self.target_dir = Path(target_dir)
-        self.dry_run = dry_run
-        self.stats = {
-            'files_processed': 0,
-            'word_artifacts_removed': 0,
-            'xf0_links_removed': 0,
-            'backslash_paths_fixed': 0,
-            'cgi_counters_removed': 0,
-            'xi_references_fixed': 0,
-            'errors': 0
-        }
-        self.setup_logging()
+def verify_git_branch(expected_branch: str = "fix-broken-links-fix-absolute-htm-paths") -> str:
+    """Verify we're on the expected git branch"""
+    result = subprocess.run(["git", "branch", "--show-current"],
+                          capture_output=True, text=True, check=True)
+    current_branch = result.stdout.strip()
+    if current_branch != expected_branch:
+        print(f"⚠️  Expected branch '{expected_branch}', currently on '{current_branch}'")
+    return current_branch
 
-    def setup_logging(self):
-        """Setup logging configuration"""
-        log_file = f"broken_links_fix_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
-        logging.basicConfig(
-            level=logging.INFO,
-            format='%(asctime)s - %(levelname)s - %(message)s',
-            handlers=[
-                logging.FileHandler(log_file),
-                logging.StreamHandler(sys.stdout)
-            ]
-        )
-        self.logger = logging.getLogger(__name__)
+def run_script(script_path: str, args: List[str]) -> Tuple[int, str]:
+    """Run a Python script and return (exit_code, output)"""
+    cmd = ['python3', script_path] + args
+    print(f"🚀 Running: {' '.join(cmd)}")
 
-    def find_html_files(self):
-        """Find all HTML files in target directory"""
-        html_files = []
-        for ext in ['*.htm', '*.html']:
-            html_files.extend(self.target_dir.rglob(ext))
-        return sorted(html_files)
+    try:
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=300)
+        return result.returncode, result.stdout + result.stderr
+    except subprocess.TimeoutExpired:
+        return 1, "Script timed out after 5 minutes"
+    except Exception as e:
+        return 1, f"Error running script: {e}"
 
-    def backup_file(self, file_path):
-        """Create backup of file before modification"""
-        if not self.dry_run:
-            backup_path = f"{file_path}.backup"
-            try:
-                import shutil
-                shutil.copy2(file_path, backup_path)
-                return True
-            except Exception as e:
-                self.logger.error(f"Failed to backup {file_path}: {e}")
-                return False
-        return True
+def run_broken_links_analysis(reports_dir: str = "PRPs/scripts/reports") -> Tuple[int, int]:
+    """Get current broken link counts from latest reports"""
+    reports_path = Path(reports_dir)
 
-    def remove_word_artifacts(self, content):
-        """Remove Microsoft Word temporary file references"""
-        changes = 0
-        original_content = content
+    htm_reports = list(reports_path.glob('broken_links_htm_*.csv'))
+    new_reports = list(reports_path.glob('broken_links_new_*.csv'))
 
-        # Remove references to Word temporary files
-        patterns = [
-            # .mso files
-            r'<link[^>]*href="[^"]*\.mso"[^>]*>',
-            r'<a[^>]*href="[^"]*\.mso"[^>]*>.*?</a>',
+    htm_count = 0
+    new_count = 0
 
-            # filelist.xml files
-            r'<link[^>]*href="[^"]*filelist\.xml"[^>]*>',
-            r'<a[^>]*href="[^"]*filelist\.xml"[^>]*>.*?</a>',
-
-            # Word _files directory images
-            r'<img[^>]*src="[^"]*_files/image\d+\.gif"[^>]*>',
-            r'<a[^>]*href="[^"]*_files/image\d+\.gif"[^>]*>.*?</a>',
-
-            # Generic _files directory references
-            r'<link[^>]*href="[^"]*_files/[^"]*"[^>]*>',
-            r'<script[^>]*src="[^"]*_files/[^"]*"[^>]*></script>',
-        ]
-
-        for pattern in patterns:
-            content, count = re.subn(pattern, '', content, flags=re.IGNORECASE)
-            changes += count
-
-        if changes > 0:
-            self.stats['word_artifacts_removed'] += changes
-
-        return content, changes > 0
-
-    def remove_xf0_links(self, content):
-        """Remove anchor tags pointing to XF0.htm while preserving content"""
-        changes = 0
-
-        # Pattern to match XF0.htm links and preserve inner content
-        pattern = r'<a\s+[^>]*href="[^"]*XF0\.htm"[^>]*>(.*?)</a>'
-
-        def replace_xf0_link(match):
-            return match.group(1)  # Return just the inner content
-
-        content, count = re.subn(pattern, replace_xf0_link, content, flags=re.IGNORECASE)
-        changes += count
-
-        if changes > 0:
-            self.stats['xf0_links_removed'] += changes
-
-        return content, changes > 0
-
-    def fix_backslash_paths(self, content):
-        """Convert backslash paths to forward slashes"""
-        changes = 0
-
-        # Fix backslash paths in href and src attributes
-        patterns = [
-            (r'href="([^"]*\\[^"]*)"', lambda m: f'href="{m.group(1).replace("\\", "/")}"'),
-            (r"href='([^']*\\[^']*)'", lambda m: f"href='{m.group(1).replace('\\', '/')}'"),
-            (r'src="([^"]*\\[^"]*)"', lambda m: f'src="{m.group(1).replace("\\", "/")}"'),
-            (r"src='([^']*\\[^']*)'", lambda m: f"src='{m.group(1).replace('\\', '/')}'"),
-        ]
-
-        for pattern, replacement in patterns:
-            content, count = re.subn(pattern, replacement, content)
-            changes += count
-
-        # Fix double htm paths
-        content, count = re.subn(r'/htm/htm/', '/htm/', content)
-        changes += count
-
-        if changes > 0:
-            self.stats['backslash_paths_fixed'] += changes
-
-        return content, changes > 0
-
-    def remove_cgi_counters(self, content):
-        """Remove obsolete CGI counter references"""
-        changes = 0
-
-        # Remove CGI counter script references
-        patterns = [
-            r'<script[^>]*src="[^"]*cgi-bin/counter\.pl[^"]*"[^>]*></script>',
-            r'<img[^>]*src="[^"]*cgi-bin/counter\.pl[^"]*"[^>]*>',
-            r'<a[^>]*href="[^"]*cgi-bin/counter\.pl[^"]*"[^>]*>.*?</a>',
-            r'\\cgi-bin\\counter\.pl\?AuntRuth[^"\'>\s]*',
-            r'\\AuntRuth\\cgi-bin\\counter\.pl[^"\'>\s]*',
-        ]
-
-        for pattern in patterns:
-            content, count = re.subn(pattern, '', content, flags=re.IGNORECASE)
-            changes += count
-
-        if changes > 0:
-            self.stats['cgi_counters_removed'] += changes
-
-        return content, changes > 0
-
-    def fix_xi_lineage_refs(self, content):
-        """Fix XI lineage references to correct directories"""
-        changes = 0
-
-        # Map XI references to correct lineage directories
-        xi_mappings = {
-            'XI2627.htm': 'L4/XF2627.htm',
-            'XI1234.htm': 'L2/XF1234.htm',
-            'XI5678.htm': 'L3/XF5678.htm',
-            # Add more mappings as discovered in the data
-        }
-
-        for xi_ref, correct_ref in xi_mappings.items():
-            pattern = rf'href="[^"]*{re.escape(xi_ref)}"'
-            replacement = f'href="{correct_ref}"'
-            content, count = re.subn(pattern, replacement, content, flags=re.IGNORECASE)
-            changes += count
-
-        if changes > 0:
-            self.stats['xi_references_fixed'] += changes
-
-        return content, changes > 0
-
-    def process_file(self, file_path):
-        """Process a single HTML file with all fixes"""
+    if htm_reports:
+        latest_htm = sorted(htm_reports)[-1]
         try:
-            # Read file content
-            with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
-                content = f.read()
+            with open(latest_htm, 'r') as f:
+                htm_count = len(f.readlines()) - 1  # Subtract header
+        except Exception:
+            pass
 
-            original_content = content
-            file_modified = False
+    if new_reports:
+        latest_new = sorted(new_reports)[-1]
+        try:
+            with open(latest_new, 'r') as f:
+                new_count = len(f.readlines()) - 1  # Subtract header
+        except Exception:
+            pass
 
-            # Apply all fixes
-            content, modified = self.remove_word_artifacts(content)
-            file_modified = file_modified or modified
-
-            content, modified = self.remove_xf0_links(content)
-            file_modified = file_modified or modified
-
-            content, modified = self.fix_backslash_paths(content)
-            file_modified = file_modified or modified
-
-            content, modified = self.remove_cgi_counters(content)
-            file_modified = file_modified or modified
-
-            content, modified = self.fix_xi_lineage_refs(content)
-            file_modified = file_modified or modified
-
-            # Write back if modified and not in dry-run mode
-            if file_modified and not self.dry_run:
-                if self.backup_file(file_path):
-                    with open(file_path, 'w', encoding='utf-8') as f:
-                        f.write(content)
-
-            return file_modified
-
-        except Exception as e:
-            self.logger.error(f"Error processing {file_path}: {e}")
-            self.stats['errors'] += 1
-            return False
-
-    def run(self):
-        """Run the comprehensive broken links fix"""
-        self.logger.info(f"Starting comprehensive broken links fix on {self.target_dir}")
-        self.logger.info(f"Dry run mode: {self.dry_run}")
-
-        html_files = self.find_html_files()
-        self.logger.info(f"Found {len(html_files)} HTML files to process")
-
-        if self.dry_run:
-            self.logger.info("DRY RUN MODE - No files will be modified")
-
-        modified_files = []
-
-        for i, file_path in enumerate(html_files, 1):
-            if self.process_file(file_path):
-                modified_files.append(file_path)
-
-            self.stats['files_processed'] += 1
-
-            # Progress reporting every 100 files
-            if i % 100 == 0:
-                self.logger.info(f"Processed {i}/{len(html_files)} files...")
-
-        # Final report
-        self.logger.info("=== COMPREHENSIVE BROKEN LINKS FIX COMPLETE ===")
-        self.logger.info(f"Files processed: {self.stats['files_processed']}")
-        self.logger.info(f"Files modified: {len(modified_files)}")
-        self.logger.info(f"Word artifacts removed: {self.stats['word_artifacts_removed']}")
-        self.logger.info(f"XF0 links removed: {self.stats['xf0_links_removed']}")
-        self.logger.info(f"Backslash paths fixed: {self.stats['backslash_paths_fixed']}")
-        self.logger.info(f"CGI counters removed: {self.stats['cgi_counters_removed']}")
-        self.logger.info(f"XI references fixed: {self.stats['xi_references_fixed']}")
-        self.logger.info(f"Errors encountered: {self.stats['errors']}")
-
-        if self.dry_run:
-            self.logger.info("\nDRY RUN COMPLETE - No files were actually modified")
-            self.logger.info("Run with --execute to apply changes")
-        else:
-            self.logger.info(f"\nSUCCESS - Modified {len(modified_files)} files")
-            if modified_files:
-                self.logger.info("Modified files:")
-                for file_path in modified_files[:10]:  # Show first 10
-                    self.logger.info(f"  {file_path}")
-                if len(modified_files) > 10:
-                    self.logger.info(f"  ... and {len(modified_files) - 10} more files")
-
-        return modified_files, self.stats
+    return htm_count, new_count
 
 def main():
-    parser = argparse.ArgumentParser(description='Comprehensive Broken Links Fix')
-    parser.add_argument('--target-dir', default='docs/htm',
-                       help='Target directory (docs/htm or docs/new)')
+    parser = argparse.ArgumentParser(description='Run all broken link fixes comprehensively')
+    parser.add_argument('--directory', default='docs', help='Base directory to process')
     parser.add_argument('--dry-run', action='store_true', default=True,
-                       help='Run in dry-run mode (default)')
+                       help='Show what would be changed without making changes')
     parser.add_argument('--execute', action='store_true',
-                       help='Execute changes (overrides dry-run)')
-    parser.add_argument('--validate', action='store_true',
-                       help='Validate changes after execution')
+                       help='Actually apply the changes (overrides --dry-run)')
+    parser.add_argument('--skip-analysis', action='store_true',
+                       help='Skip initial broken links analysis')
+    parser.add_argument('--htm-only', action='store_true',
+                       help='Process only docs/htm directory')
+    parser.add_argument('--new-only', action='store_true',
+                       help='Process only docs/new directory')
 
     args = parser.parse_args()
 
@@ -302,23 +92,128 @@ def main():
     if args.execute:
         args.dry_run = False
 
-    # Validate target directory
-    target_path = Path(args.target_dir)
-    if not target_path.exists():
-        print(f"Error: Target directory {target_path} does not exist")
-        return 1
+    print("🎯 COMPREHENSIVE BROKEN LINKS FIX")
+    print("=" * 50)
 
-    # Run the fix suite
-    fixer = BrokenLinksFixSuite(target_path, dry_run=args.dry_run)
-    modified_files, stats = fixer.run()
+    # Verify git branch
+    current_branch = verify_git_branch()
+    print(f"Git branch: {current_branch}")
 
-    # Validation if requested
-    if args.validate and not args.dry_run:
-        print("\n=== VALIDATION ===")
-        print("Validation functionality would check for remaining broken links")
-        print("Consider running the link checker script after this fix")
+    # Determine directories to process
+    directories = []
+    if args.htm_only:
+        directories = ['docs/htm']
+    elif args.new_only:
+        directories = ['docs/new']
+    else:
+        directories = ['docs/htm', 'docs/new']
 
-    return 0
+    print(f"Processing directories: {', '.join(directories)}")
+    print(f"Mode: {'EXECUTE' if not args.dry_run else 'DRY RUN'}")
+
+    # Initial analysis
+    if not args.skip_analysis:
+        print(f"\n📊 INITIAL BROKEN LINKS COUNT:")
+        htm_count, new_count = run_broken_links_analysis()
+        print(f"  HTM site: {htm_count} broken links")
+        print(f"  NEW site: {new_count} broken links")
+        print(f"  TOTAL: {htm_count + new_count} broken links")
+
+    total_fixes_applied = 0
+    total_errors = 0
+
+    # Define fix scripts in optimal order
+    fix_scripts = [
+        {
+            'name': 'Wrong Lineage Paths Fix',
+            'script': 'PRPs/scripts/both/fix-wrong-lineage-paths.py',
+            'description': 'Fix references to files in wrong lineage directories',
+            'expected_impact': '1,228+ fixes'
+        },
+        {
+            'name': 'Case Sensitivity Fix',
+            'script': 'PRPs/scripts/both/fix-case-sensitivity.py',
+            'description': 'Fix INDEX.htm -> index.htm case issues',
+            'expected_impact': '138+ fixes'
+        },
+        {
+            'name': 'Malformed Spaces Fix',
+            'script': 'PRPs/scripts/both/fix-malformed-spaces.py',
+            'description': 'Fix URLs with problematic spaces',
+            'expected_impact': '10+ fixes'
+        },
+        {
+            'name': 'Relative Paths Fix',
+            'script': 'PRPs/scripts/both/fix-relative-paths.py',
+            'description': 'Convert relative paths to absolute paths',
+            'expected_impact': '6,577+ fixes'
+        }
+    ]
+
+    # Execute fixes for each directory
+    for directory in directories:
+        print(f"\n🏗️  PROCESSING {directory.upper()}")
+        print("=" * 30)
+
+        for i, fix_script in enumerate(fix_scripts, 1):
+            print(f"\n{i}/4: {fix_script['name']}")
+            print(f"Expected impact: {fix_script['expected_impact']}")
+            print(f"Description: {fix_script['description']}")
+
+            # Prepare arguments
+            script_args = ['--directory', directory]
+            if args.dry_run:
+                script_args.append('--dry-run')
+            else:
+                script_args.append('--execute')
+
+            # Run the fix script
+            start_time = time.time()
+            exit_code, output = run_script(fix_script['script'], script_args)
+            duration = time.time() - start_time
+
+            if exit_code == 0:
+                print(f"✅ {fix_script['name']} completed successfully ({duration:.1f}s)")
+                # Try to extract number of fixes from output
+                lines = output.split('\n')
+                for line in lines:
+                    if 'fixed' in line.lower() or 'modified' in line.lower():
+                        print(f"   {line.strip()}")
+            else:
+                print(f"❌ {fix_script['name']} failed (exit code: {exit_code})")
+                print("Error output:")
+                print(output[:500] + "..." if len(output) > 500 else output)
+                total_errors += 1
+
+            # Small delay between scripts
+            time.sleep(1)
+
+    # Summary
+    print(f"\n📊 COMPREHENSIVE FIX SUMMARY")
+    print("=" * 40)
+    print(f"Directories processed: {len(directories)}")
+    print(f"Fix scripts executed: {len(fix_scripts) * len(directories)}")
+    print(f"Errors encountered: {total_errors}")
+
+    if not args.dry_run:
+        print(f"\n🔍 POST-FIX ANALYSIS:")
+        print("Recommend running the broken link checker again to measure improvement:")
+        print("  python3 PRPs/scripts/both/find-broken-links.py --site=htm --timeout=3")
+        print("  python3 PRPs/scripts/both/find-broken-links.py --site=new --timeout=3")
+
+        if total_errors == 0:
+            print(f"\n🎉 All fixes completed successfully!")
+            print("Consider committing changes:")
+            print("  git add .")
+            print("  git commit -m 'Apply comprehensive broken link fixes'")
+        else:
+            print(f"\n⚠️  {total_errors} scripts had errors. Review output above.")
+
+    else:
+        print(f"\n💡 To execute all fixes, run:")
+        print(f"   python3 {__file__} --execute")
+        if args.htm_only or args.new_only:
+            print(f"   (Currently limited to {directories[0]})")
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()

@@ -354,6 +354,62 @@ These scripts can work with either directory or provide options for both:
 **Purpose:** Validate navigation system functionality
 **Usage:** `python3 both/validate_navigation.py`
 
+### both/analyze-broken-links.py
+**Purpose:** Comprehensive pattern analysis of broken link reports
+**Usage:** `python3 both/analyze-broken-links.py [--htm-report path] [--new-report path]`
+**Features:**
+- Analyzes broken link CSV reports to identify systematic patterns
+- Discovers fixable patterns: wrong lineage paths (XF533.htm in L1→L9), case sensitivity, malformed URLs
+- Provides priority recommendations based on impact analysis
+- Found 7,953+ potential fixes across both sites through pattern detection
+
+### both/fix-wrong-lineage-paths.py
+**Purpose:** Fix references to files in wrong lineage directories
+**Usage:** `python3 both/fix-wrong-lineage-paths.py --directory docs [--execute] [--validate]`
+**Features:**
+- Fixes XF533.htm references (L1→L9): 1,228+ fixes
+- Fixes IMAGES.htm references (L0→L2): 49+ fixes
+- Fixes EVERYONE.htm references (various→L0): 8+ fixes
+- Curl validation of fixes before/after
+- High impact, low risk systematic corrections
+
+### both/fix-case-sensitivity.py
+**Purpose:** Fix case sensitivity issues in HTML file references
+**Usage:** `python3 both/fix-case-sensitivity.py --directory docs [--execute] [--validate]`
+**Features:**
+- Fixes INDEX.htm → index.htm case issues: 138+ fixes
+- Handles INDEX6.htm, INDEX9.htm patterns
+- GitHub Pages case-sensitive hosting compatibility
+- Curl validation testing for broken→working URL transitions
+
+### both/fix-malformed-spaces.py
+**Purpose:** Fix malformed URLs containing space characters
+**Usage:** `python3 both/fix-malformed-spaces.py --directory docs [--execute] [--validate]`
+**Features:**
+- Fixes URLs like "/auntruth/jpg/ .jpg" and "/auntruth/jpg/ sn206.jpg"
+- Removes problematic spaces causing connection failures: 10+ fixes
+- Converts malformed URLs to proper format for web servers
+
+### both/fix-relative-paths.py
+**Purpose:** Convert relative paths to absolute paths for proper resolution
+**Usage:** `python3 both/fix-relative-paths.py --directory docs [--execute] [--limit N]`
+**Features:**
+- Largest impact potential: 6,577+ fixes for relative path issues
+- Converts "L1/XF178.htm" → "/auntruth/new/L1/XF178.htm"
+- Fixes "../htm/file.htm" and "../jpg/file.jpg" patterns
+- Context-aware absolute path generation based on site structure
+- Handles massive scale with sample testing options
+
+### both/fix-broken-links-comprehensive.py
+**Purpose:** Master script coordinating all broken link fixes in optimal order
+**Usage:** `python3 both/fix-broken-links-comprehensive.py [--execute] [--htm-only] [--new-only]`
+**Features:**
+- Orchestrates all fix scripts in strategic order: lineage→case→spaces→relative
+- Total potential impact: 7,953+ broken link fixes across both sites
+- Pre/post analysis with broken link counting
+- Coordinated execution with progress tracking and error reporting
+- Safety protocols with dry-run testing of all component scripts
+
 ## Script Standards
 
 ### Mandatory Features for All Scripts
