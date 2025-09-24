@@ -4,6 +4,12 @@ A simple web server for testing the modernized genealogy site locally before dep
 
 ## Usage
 
+### Installation
+```bash
+cd /home/ken/wip/fam/auntruth/PRPs/server
+pip3 install -r requirements.txt
+```
+
 ### Quick Start
 ```bash
 cd /home/ken/wip/fam/auntruth/PRPs/server
