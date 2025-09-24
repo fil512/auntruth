@@ -1,0 +1,22 @@
+Directory Case Sensitivity Fix Report - 2025-09-24 00:58:33
+============================================================
+
+Files processed: 12
+Files modified: 12
+Total changes: 12
+Pattern: /htm/l[0-9] → /htm/L[0-9]
+Case mappings: {'l2': 'L2', 'l3': 'L3', 'l7': 'L7', 'l0': 'L0', 'l9': 'L9', 'l4': 'L4', 'l8': 'L8', 'l1': 'L1', 'l6': 'L6', 'l5': 'L5'}
+
+Files modified:
+  docs/htm/L6/extra.htm
+  docs/htm/L3/extra.htm
+  docs/htm/L1/extraful.htm
+  docs/htm/L1/extrasel.htm
+  docs/htm/L1/extra.htm
+  docs/htm/L4/extra.htm
+  docs/new/htm/L6/extra.htm
+  docs/new/htm/L3/extra.htm
+  docs/new/htm/L1/extraful.htm
+  docs/new/htm/L1/extrasel.htm
+  docs/new/htm/L1/extra.htm
+  docs/new/htm/L4/extra.htm
