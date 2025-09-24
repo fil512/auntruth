@@ -3,6 +3,13 @@
 ## Background
 This is part of the systematic broken links fix plan for AuntieRuth.com genealogy website. You are working on item {{item_number}} of 6 total fixes.
 
+**Current Status (2025-09-23 19:50):**
+- Total broken links across both sites: 84,844 (much higher than initially estimated)
+- Breakdown: docs/htm (14,242), docs/new (70,601)
+- Latest CSV reports:
+  - docs/htm: `/home/ken/wip/fam/auntruth/PRPs/scripts/reports/broken_links_htm_20250923_195045.csv`
+  - docs/new: `/home/ken/wip/fam/auntruth/PRPs/scripts/reports/broken_links_new_20250923_195146.csv`
+
 ## Task Description
 {{description}}
 

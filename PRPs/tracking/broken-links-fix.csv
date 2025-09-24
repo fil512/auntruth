@@ -1,7 +1,8 @@
 item_number,status,script_name,description,estimated_fixes,priority
+# NOTE: As of 2025-09-23 19:50, 84844 broken links remain across both sites (14242 htm + 70601 new)
 001,COMPLETE,remove-xf0-links.py,Remove XF0.htm anchor tags while preserving content,266486,1
 002,COMPLETE,fix-backslash-paths.py,Convert backslash paths to forward slashes,37296,2
 003,COMPLETE,remove-cgi-counters.py,Remove obsolete CGI counter references,797,3
-004,INCOMPLETE,create-missing-indexes.py,Create missing L0-L9 index.htm files,10,4
+004,COMPLETE,create-missing-indexes.py,Create missing L0-L9 index.htm files,5250,4
 005,INCOMPLETE,fix-xi-lineage-refs.py,Update XI references to correct lineage directories,100,5
 006,INCOMPLETE,remove-word-artifacts.py,Remove Microsoft Word temporary file references,50,6
