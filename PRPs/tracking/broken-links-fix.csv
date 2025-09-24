@@ -5,4 +5,4 @@ item_number,status,script_name,description,estimated_fixes,priority
 003,COMPLETE,remove-cgi-counters.py,Remove obsolete CGI counter references,797,3
 004,COMPLETE,create-missing-indexes.py,Create missing L0-L9 index.htm files,5250,4
 005,COMPLETE,fix-xi-lineage-refs.py,Update XI references to correct lineage directories,909,5
-006,IN PROGRESS,remove-word-artifacts.py,Remove Microsoft Word temporary file references,50,6
+006,COMPLETE,remove-word-artifacts.py,Remove Microsoft Word temporary file references,136,6
