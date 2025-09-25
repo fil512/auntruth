@@ -1,23 +1,197 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta name="generator" content="HTML Tidy for HTML5 for Linux version 5.6.0">
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AuntieRuth.com - Modern Genealogy Experience</title>
-  <meta name="description" content="Explore the modernized AuntieRuth.com genealogy database with enhanced navigation, search capabilities, and mobile-responsive design.">
-  <link href="/auntruth/new/css/main.css" rel="stylesheet">
-  <link href="/auntruth/new/css/navigation.css" rel="stylesheet"><!-- Preload critical resources -->
-  <link rel="preload" href="/auntruth/new/js/navigation.js" as="script">
-  <link rel="preload" href="/auntruth/new/js/search.js" as="script">
-  <link rel="preload" href="/auntruth/new/js/data.json" as="fetch" crossorigin=""><!-- Open Graph meta tags -->
-  <meta property="og:title" content="AuntieRuth.com - Modern Genealogy Experience">
-  <meta property="og:description" content="Explore family history with enhanced navigation and search capabilities">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://hagborg.github.io/auntruth/new/"><!-- Favicon -->
-  <link rel="icon" type="image/x-icon" href="/favicon.ico">
-  <style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AuntieRuth.com - Modern Genealogy Experience</title>
+    <meta name="description" content="Explore the modernized AuntieRuth.com genealogy database with enhanced navigation, search capabilities, and mobile-responsive design.">
+    <link href="/auntruth/new/css/main.css" rel="stylesheet">
+    <link href="/auntruth/new/css/navigation.css" rel="stylesheet">
 
+    <!-- Preload critical resources -->
+    <link rel="preload" href="/auntruth/new/js/navigation.js" as="script">
+    <link rel="preload" href="/auntruth/new/js/search.js" as="script">
+    <link rel="preload" href="/auntruth/new/js/data.json" as="fetch" crossorigin>
+
+    <!-- Open Graph meta tags -->
+    <meta property="og:title" content="AuntieRuth.com - Modern Genealogy Experience">
+    <meta property="og:description" content="Explore family history with enhanced navigation and search capabilities">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://hagborg.github.io/auntruth/new/">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+</head>
+<body>
+    <!-- Skip link for accessibility -->
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+
+    <!-- Enhanced Navigation will be injected by JavaScript -->
+    <noscript>
+        <nav class="fallback-nav" style="background: #fff; padding: 1rem; border-bottom: 1px solid #ddd; position: fixed; top: 0; left: 0; right: 0; z-index: 1000;">
+            <div style="max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
+                <strong style="font-family: Georgia, serif;">AuntieRuth.com</strong>
+                <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                    <a href="/auntruth/new/" style="color: #0066cc; text-decoration: none;">Home</a> |
+                    <details style="display: inline;">
+                        <summary style="cursor: pointer; color: #555;">Lineages</summary>
+                        <div style="position: absolute; background: #fff; border: 1px solid #ddd; padding: 0.5rem; margin-top: 0.25rem; min-width: 180px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+                            <a href="/auntruth/new/htm/L1/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Hagborg-Hansson</a>
+                            <a href="/auntruth/new/htm/L2/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Nelson</a>
+                            <a href="/auntruth/new/htm/L3/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Pringle-Hambley</a>
+                            <a href="/auntruth/new/htm/L4/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Lathrop-Lothropp</a>
+                            <a href="/auntruth/new/htm/L5/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Ward</a>
+                            <a href="/auntruth/new/htm/L6/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Selch-Weiss</a>
+                            <a href="/auntruth/new/htm/L7/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Stebbe</a>
+                            <a href="/auntruth/new/htm/L8/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Lentz</a>
+                            <a href="/auntruth/new/htm/L9/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Phoenix-Rogerson</a>
+                            <a href="/auntruth/new/htm/L0/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">All</a>
+                        </div>
+                    </details> |
+                    <a href="/auntruth/htm/" style="color: #555; text-decoration: none;">Original Site</a>
+                </div>
+            </div>
+        </nav>
+    </noscript>
+
+    <!-- Main content -->
+    <main id="main-content" class="main-content" role="main">
+        <!-- Hero section -->
+        <section class="hero">
+            <div class="hero-content">
+                <h1>Welcome to AuntieRuth.com</h1>
+                <p class="hero-description">
+                    Explore family history spanning from 16th Century Danmark to 2003 Canada.
+                </p>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <strong>2,985</strong>
+                        <span>Family Members</span>
+                    </div>
+                    <div class="stat">
+                        <strong>10</strong>
+                        <span>Lineages</span>
+                    </div>
+                    <div class="stat">
+                        <strong>11,069</strong>
+                        <span>Pages</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Search section -->
+        <section class="search-section">
+            <h2>Search Family Database</h2>
+            <p>Find people, dates, locations, and relationships across all lineages</p>
+            <!-- Search interface will be injected by JavaScript -->
+        </section>
+
+
+        <!-- Lineages overview -->
+        <section class="lineages">
+            <h2>Family Lineages</h2>
+            <p>Browse family history organized by lineage</p>
+            <div class="lineages-grid">
+                <a href="/auntruth/new/htm/L0/" class="lineage-card">
+                    <h3>Base Lineage</h3>
+                    <p>Foundation lineage with 81 family members</p>
+                    <span class="lineage-code">L0</span>
+                </a>
+                <a href="/auntruth/new/htm/L1/" class="lineage-card featured">
+                    <h3>Hagborg-Hansson</h3>
+                    <p>From Danmark to Canada - 385 family members</p>
+                    <span class="lineage-code">L1</span>
+                </a>
+                <a href="/auntruth/new/htm/L2/" class="lineage-card">
+                    <h3>Nelson</h3>
+                    <p>309 family members across generations</p>
+                    <span class="lineage-code">L2</span>
+                </a>
+                <a href="/auntruth/new/htm/L3/" class="lineage-card">
+                    <h3>Pringle-Hambley</h3>
+                    <p>406 family members with rich history</p>
+                    <span class="lineage-code">L3</span>
+                </a>
+                <a href="/auntruth/new/htm/L4/" class="lineage-card">
+                    <h3>Lathrop-Lothropp</h3>
+                    <p>Largest lineage with 686 family members</p>
+                    <span class="lineage-code">L4</span>
+                </a>
+                <a href="/auntruth/new/htm/L5/" class="lineage-card">
+                    <h3>Ward</h3>
+                    <p>123 family members</p>
+                    <span class="lineage-code">L5</span>
+                </a>
+                <a href="/auntruth/new/htm/L6/" class="lineage-card">
+                    <h3>Selch-Weiss</h3>
+                    <p>379 family members</p>
+                    <span class="lineage-code">L6</span>
+                </a>
+                <a href="/auntruth/new/htm/L7/" class="lineage-card">
+                    <h3>Stebbe</h3>
+                    <p>148 family members</p>
+                    <span class="lineage-code">L7</span>
+                </a>
+                <a href="/auntruth/new/htm/L8/" class="lineage-card">
+                    <h3>Lentz</h3>
+                    <p>77 family members</p>
+                    <span class="lineage-code">L8</span>
+                </a>
+                <a href="/auntruth/new/htm/L9/" class="lineage-card">
+                    <h3>Phoenix-Rogerson</h3>
+                    <p>391 family members</p>
+                    <span class="lineage-code">L9</span>
+                </a>
+            </div>
+        </section>
+
+
+        <!-- Legacy section -->
+        <section class="legacy">
+            <h2>About This Site</h2>
+            <div class="legacy-content">
+                <p>
+                    AuntieRuth.com preserves family history spanning from 16th Century Danmark to 2003 Canada.
+                    This modernized version enhances the original genealogy database with contemporary web technologies
+                    while maintaining the integrity of the historical data.
+                </p>
+                <p>
+                    The site contains detailed family records, photographs, and lineage information carefully
+                    compiled and maintained over many years. The original site remains available for reference.
+                </p>
+                <div class="legacy-links">
+                    <a href="/auntruth/htm/" class="legacy-link">
+                        View Original Site
+                    </a>
+                    
+                        Learn More
+                    
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-content">
+            <p>&copy; 2003-2025 AuntieRuth.com - All Rights Reserved</p>
+            <p>
+                <a href="http://www.hagborg.com">Hagborg Community Systems Ltd.</a> |
+                <a href="/auntruth/htm/">Original Site</a> |
+                About
+            </p>
+            <p class="footer-note">
+                Modernized with enhanced navigation and search capabilities while preserving historical integrity.
+            </p>
+        </div>
+    </footer>
+
+    <!-- Enhanced navigation and search scripts -->
+    <script src="/auntruth/new/js/navigation.js" defer></script>
+    <script src="/auntruth/new/js/search.js" defer></script>
+
+    <style>
         /* Landing page specific styles */
         .hero {
             background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
@@ -267,97 +441,6 @@
                 margin: 0.5rem 0;
             }
         }
-  </style>
-</head>
-<body>
-  <!-- Skip link for accessibility -->
-  <a href="#main-content" class="skip-link">Skip to main content</a> <!-- Enhanced Navigation will be injected by JavaScript -->
-   <noscript>
-  <nav class="fallback-nav" style="background: #fff; padding: 1rem; border-bottom: 1px solid #ddd; position: fixed; top: 0; left: 0; right: 0; z-index: 1000;">
-    <div style="max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;">
-      <strong style="font-family: Georgia, serif;">AuntieRuth.com</strong>
-      <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-        <a href="/auntruth/new/" style="color: #0066cc; text-decoration: none;">Home</a> |
-        <details style="display: inline;">
-          <summary style="cursor: pointer; color: #555;">
-            Lineages
-          </summary>
-          <div style="position: absolute; background: #fff; border: 1px solid #ddd; padding: 0.5rem; margin-top: 0.25rem; min-width: 180px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-            <a href="/auntruth/new/htm/L1/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Hagborg-Hansson</a> <a href="/auntruth/new/htm/L2/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Nelson</a> <a href="/auntruth/new/htm/L3/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Pringle-Hambley</a> <a href="/auntruth/new/htm/L4/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Lathrop-Lothropp</a> <a href="/auntruth/new/htm/L5/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Ward</a> <a href="/auntruth/new/htm/L6/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Selch-Weiss</a> <a href="/auntruth/new/htm/L7/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Stebbe</a> <a href="/auntruth/new/htm/L8/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Lentz</a> <a href="/auntruth/new/htm/L9/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">Phoenix-Rogerson</a> <a href="/auntruth/new/htm/L0/" style="display: block; padding: 4px 8px; color: #555; text-decoration: none;">All</a>
-          </div>
-        </details>| <a href="/auntruth/htm/" style="color: #555; text-decoration: none;">Original Site</a>
-      </div>
-    </div>
-  </nav></noscript> <!-- Main content -->
-  <main id="main-content" class="main-content" role="main">
-    <!-- Hero section -->
-    <section class="hero">
-      <div class="hero-content">
-        <h1>Welcome to AuntieRuth.com</h1>
-        <p class="hero-description">Explore family history spanning from 16th Century Danmark to 2003 Canada.</p>
-        <div class="hero-stats">
-          <div class="stat">
-            <strong>2,985</strong> <span>Family Members</span>
-          </div>
-          <div class="stat">
-            <strong>10</strong> <span>Lineages</span>
-          </div>
-          <div class="stat">
-            <strong>11,069</strong> <span>Pages</span>
-          </div>
-        </div>
-      </div>
-    </section><!-- Search section -->
-    <section class="search-section">
-      <h2>Search Family Database</h2>
-      <p>Find people, dates, locations, and relationships across all lineages</p><!-- Search interface will be injected by JavaScript -->
-    </section><!-- Lineages overview -->
-    <section class="lineages">
-      <h2>Family Lineages</h2>
-      <p>Browse family history organized by lineage</p>
-      <div class="lineages-grid">
-        <a href="/auntruth/new/htm/L0/" class="lineage-card">
-        <h3>Base Lineage</h3>
-        <p>Foundation lineage with 81 family members</p><span class="lineage-code">L0</span></a> <a href="/auntruth/new/htm/L1/" class="lineage-card featured">
-        <h3>Hagborg-Hansson</h3>
-        <p>From Danmark to Canada - 385 family members</p><span class="lineage-code">L1</span></a> <a href="/auntruth/new/htm/L2/" class="lineage-card">
-        <h3>Nelson</h3>
-        <p>309 family members across generations</p><span class="lineage-code">L2</span></a> <a href="/auntruth/new/htm/L3/" class="lineage-card">
-        <h3>Pringle-Hambley</h3>
-        <p>406 family members with rich history</p><span class="lineage-code">L3</span></a> <a href="/auntruth/new/htm/L4/" class="lineage-card">
-        <h3>Lathrop-Lothropp</h3>
-        <p>Largest lineage with 686 family members</p><span class="lineage-code">L4</span></a> <a href="/auntruth/new/htm/L5/" class="lineage-card">
-        <h3>Ward</h3>
-        <p>123 family members</p><span class="lineage-code">L5</span></a> <a href="/auntruth/new/htm/L6/" class="lineage-card">
-        <h3>Selch-Weiss</h3>
-        <p>379 family members</p><span class="lineage-code">L6</span></a> <a href="/auntruth/new/htm/L7/" class="lineage-card">
-        <h3>Stebbe</h3>
-        <p>148 family members</p><span class="lineage-code">L7</span></a> <a href="/auntruth/new/htm/L8/" class="lineage-card">
-        <h3>Lentz</h3>
-        <p>77 family members</p><span class="lineage-code">L8</span></a> <a href="/auntruth/new/htm/L9/" class="lineage-card">
-        <h3>Phoenix-Rogerson</h3>
-        <p>391 family members</p><span class="lineage-code">L9</span></a>
-      </div>
-    </section><!-- Legacy section -->
-    <section class="legacy">
-      <h2>About This Site</h2>
-      <div class="legacy-content">
-        <p>AuntieRuth.com preserves family history spanning from 16th Century Danmark to 2003 Canada. This modernized version enhances the original genealogy database with contemporary web technologies while maintaining the integrity of the historical data.</p>
-        <p>The site contains detailed family records, photographs, and lineage information carefully compiled and maintained over many years. The original site remains available for reference.</p>
-        <div class="legacy-links">
-          <a href="/auntruth/htm/" class="legacy-link">View Original Site</a> Learn More
-        </div>
-      </div>
-    </section>
-  </main><!-- Footer -->
-  <footer class="site-footer">
-    <div class="footer-content">
-      <p>© 2003-2025 AuntieRuth.com - All Rights Reserved</p>
-      <p><a href="http://www.hagborg.com">Hagborg Community Systems Ltd.</a> | <a href="/auntruth/htm/">Original Site</a> | About</p>
-      <p class="footer-note">Modernized with enhanced navigation and search capabilities while preserving historical integrity.</p>
-    </div>
-  </footer><!-- Enhanced navigation and search scripts -->
-  <script src="/auntruth/new/js/navigation.js" defer></script> 
-  <script src="/auntruth/new/js/search.js" defer></script>
+    </style>
 </body>
 </html>
