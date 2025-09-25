@@ -1,0 +1,37 @@
+Broken_URL,HTTP_Status,Source_File,Original_Link_Text,Issue_Type,Suggested_Fix
+http://localhost:8000/auntruth/htm/./index_files/image003.wmz,404,L1/lastcall/index.htm,./index_files/image003.wmz,File Not Found,Verify file path and existence
+http://localhost:8000/auntruth/htm/./index_files/image005.jpg,404,L1/lastcall/index.htm,./index_files/image005.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image006.jpg,404,L1/lastcall/index.htm,./index_files/image006.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image007.jpg,404,L1/lastcall/index.htm,./index_files/image007.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image008.jpg,404,L1/lastcall/index.htm,./index_files/image008.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image009.jpg,404,L1/lastcall/index.htm,./index_files/image009.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image010.jpg,404,L1/lastcall/index.htm,./index_files/image010.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image011.jpg,404,L1/lastcall/index.htm,./index_files/image011.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image012.jpg,404,L1/lastcall/index.htm,./index_files/image012.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image013.jpg,404,L1/lastcall/index.htm,./index_files/image013.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image014.jpg,404,L1/lastcall/index.htm,./index_files/image014.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image015.jpg,404,L1/lastcall/index.htm,./index_files/image015.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image016.jpg,404,L1/lastcall/index.htm,./index_files/image016.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image017.jpg,404,L1/lastcall/index.htm,./index_files/image017.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image018.jpg,404,L1/lastcall/index.htm,./index_files/image018.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image019.jpg,404,L1/lastcall/index.htm,./index_files/image019.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image020.jpg,404,L1/lastcall/index.htm,./index_files/image020.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image021.jpg,404,L1/lastcall/index.htm,./index_files/image021.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image022.jpg,404,L1/lastcall/index.htm,./index_files/image022.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image023.jpg,404,L1/lastcall/index.htm,./index_files/image023.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image024.jpg,404,L1/lastcall/index.htm,./index_files/image024.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image025.jpg,404,L1/lastcall/index.htm,./index_files/image025.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/./index_files/image026.jpg,404,L1/lastcall/index.htm,./index_files/image026.jpg,File Not Found,Check if image file exists with different case (.JPG vs .jpg)
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,THPtarmi.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,TH1963.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,THNT.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,L6/THPtarmi.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,L6/THNT.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,L1/THPtarmi.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,L1/THNT.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,L1/TH1962.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,L0/THPtarmi.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,L0/THSP8.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,L0/THNT.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,L0/THSP22.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
+http://localhost:8000/auntruth/htm/L2/XF1234.htm,404,L0/TH1962.htm,/auntruth/htm/L2/XF1234.htm,File Not Found,Check if file exists in different lineage directory (L0/L1/L2) or was renamed
