@@ -12,8 +12,9 @@
 ## Python Script Guidelines
 
 ### Before Writing New Scripts
-1. **ALWAYS read PRPs/scripts/README.md first** to check if an existing script can be reused
-2. Check the organized subdirectories:
+1. **ALWAYS read docs/README.md first** to understand the file naming conventions and directory structure
+2. **ALWAYS read PRPs/scripts/README.md first** to check if an existing script can be reused
+3. Check the organized subdirectories:
    - `PRPs/scripts/htm/` - scripts for docs/htm directory
    - `PRPs/scripts/new/` - scripts for docs/new directory
    - `PRPs/scripts/both/` - scripts that work with either directory
