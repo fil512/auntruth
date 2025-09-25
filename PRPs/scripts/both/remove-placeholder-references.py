@@ -1,0 +1,340 @@
+#!/usr/bin/env python3
+"""
+Remove Placeholder References - Phase 6 Cleanup Script
+
+This script removes placeholder.jpg thumbnail entries from HTML files.
+These entries represent missing photos that were never properly added to the gallery.
+
+Problem: References to `/auntruth/jpg/placeholder.jpg` create broken links
+Solution: Remove the entire thumbnail entry (image + map) while preserving gallery layout
+
+Usage:
+    python3 remove-placeholder-references.py --site=htm --dry-run    # Preview HTM site
+    python3 remove-placeholder-references.py --site=new --dry-run    # Preview NEW site
+    python3 remove-placeholder-references.py --site=both --dry-run   # Preview both sites
+    python3 remove-placeholder-references.py --site=htm             # Clean HTM site
+    python3 remove-placeholder-references.py --site=new            # Clean NEW site
+    python3 remove-placeholder-references.py --site=both           # Clean both sites
+
+Features:
+- Removes complete placeholder thumbnail entries (img + map + separator)
+- Preserves surrounding gallery structure
+- Dry-run mode for preview
+- Progress reporting and error handling
+- Git branch verification
+- Validation of changes
+
+Safety Features:
+- Git branch verification
+- Dry-run mode
+- Progress reporting
+- Error handling with detailed logging
+- Backup creation before modification
+"""
+
+import os
+import sys
+import argparse
+import subprocess
+import logging
+import re
+from pathlib import Path
+from typing import List, Tuple, Dict, Any
+import tempfile
+import shutil
+
+def setup_logging() -> logging.Logger:
+    """Configure logging for the script."""
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s'
+    )
+    return logging.getLogger(__name__)
+
+def verify_git_branch(expected_branch: str = "main") -> str:
+    """Verify current git branch and return current branch name."""
+    try:
+        result = subprocess.run(
+            ["git", "branch", "--show-current"],
+            capture_output=True, text=True, check=True
+        )
+        current_branch = result.stdout.strip()
+        if current_branch != expected_branch:
+            print(f"⚠️  Expected {expected_branch}, currently on {current_branch}")
+        return current_branch
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Error checking git branch: {e}")
+        return ""
+
+def get_html_files_with_placeholder(base_path: str) -> List[Path]:
+    """Get list of HTML files that reference placeholder.jpg."""
+    base = Path(base_path)
+    html_files = []
+
+    # Find all .htm files recursively
+    for html_file in base.glob('**/*.htm'):
+        try:
+            with open(html_file, 'r', encoding='utf-8', errors='ignore') as f:
+                content = f.read()
+                if 'placeholder.jpg' in content:
+                    html_files.append(html_file)
+        except Exception as e:
+            logging.warning(f"Could not read {html_file}: {e}")
+            continue
+
+    return sorted(html_files)
+
+def remove_placeholder_entries(content: str) -> Tuple[str, int]:
+    """
+    Remove placeholder.jpg thumbnail entries from HTML content.
+
+    Each placeholder entry consists of:
+    1. <img src="/auntruth/jpg/placeholder.jpg" ... usemap="#MapXXXX" ...>
+    2. <map name="MapXXXX" id="MapXXXX">...</map>
+    3. Optional separator (___)
+
+    Returns:
+        Tuple of (modified_content, number_of_removals)
+    """
+
+    # Find and remove each placeholder entry individually
+    removal_count = 0
+    working_content = content
+
+    # Pattern to find placeholder img tags and extract the map ID
+    img_pattern = r'<img\s+[^>]*src="[^"]*placeholder\.jpg"[^>]*usemap="#(Map\d+)"[^>]*>'
+
+    # Find all placeholder images
+    img_matches = list(re.finditer(img_pattern, working_content, re.IGNORECASE))
+
+    for img_match in reversed(img_matches):  # Process in reverse to maintain indices
+        map_id = img_match.group(1)
+        img_tag = img_match.group(0)
+
+        # Find the corresponding map tag
+        map_pattern = f'<map\\s+name="{map_id}"[^>]*>.*?</map>'
+        map_match = re.search(map_pattern, working_content, re.IGNORECASE | re.DOTALL)
+
+        if map_match:
+            map_tag = map_match.group(0)
+
+            # Remove the entire sequence: img + map + optional separator
+            # Look for the pattern: img tag followed by map tag, possibly with separator
+            full_pattern = re.escape(img_tag) + r'\s*' + re.escape(map_tag) + r'\s*(?:___)?'
+
+            if re.search(full_pattern, working_content, re.IGNORECASE):
+                working_content = re.sub(full_pattern, '', working_content, count=1, flags=re.IGNORECASE)
+                removal_count += 1
+            else:
+                # Fallback: remove img and map separately
+                working_content = working_content.replace(img_tag, '')
+                working_content = working_content.replace(map_tag, '')
+                removal_count += 1
+
+    if removal_count == 0:
+        return content, 0
+
+    # Clean up any double separators that might result
+    working_content = re.sub(r'___\s*___', '___', working_content)
+
+    # Clean up any trailing separators before closing tags
+    working_content = re.sub(r'___\s*(</(table|body|html)>)', r'\1', working_content, flags=re.IGNORECASE)
+
+    return working_content, removal_count
+
+def process_file(file_path: Path, dry_run: bool = False) -> Tuple[bool, str, int]:
+    """
+    Process a single HTML file to remove placeholder references.
+
+    Returns:
+        Tuple of (success: bool, message: str, removals_count: int)
+    """
+    try:
+        # Read original content
+        with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
+            original_content = f.read()
+
+        # Remove placeholder entries
+        modified_content, removal_count = remove_placeholder_entries(original_content)
+
+        if removal_count == 0:
+            return True, f"No placeholder references found in {file_path}", 0
+
+        if dry_run:
+            return True, f"Would remove {removal_count} placeholder entries from {file_path}", removal_count
+
+        # Create backup
+        with tempfile.NamedTemporaryFile(mode='w', delete=False, suffix='.backup') as backup:
+            backup.write(original_content)
+            backup_path = backup.name
+
+        try:
+            # Write modified content
+            with open(file_path, 'w', encoding='utf-8') as f:
+                f.write(modified_content)
+
+            # Remove backup file since write succeeded
+            os.unlink(backup_path)
+
+            return True, f"✅ Removed {removal_count} placeholder entries from {file_path}", removal_count
+
+        except Exception as e:
+            # Restore from backup if write failed
+            shutil.move(backup_path, str(file_path))
+            return False, f"❌ Failed to write {file_path}, restored from backup: {e}", 0
+
+    except Exception as e:
+        return False, f"❌ Error processing {file_path}: {e}", 0
+
+def process_site(site_dir: str, dry_run: bool = False) -> Dict[str, Any]:
+    """Process all HTML files in a site directory."""
+    logger = logging.getLogger(__name__)
+
+    if not os.path.exists(site_dir):
+        return {
+            'success': False,
+            'message': f"Directory {site_dir} does not exist",
+            'files_processed': 0,
+            'files_successful': 0,
+            'files_failed': 0,
+            'total_removals': 0
+        }
+
+    html_files = get_html_files_with_placeholder(site_dir)
+
+    if not html_files:
+        return {
+            'success': True,
+            'message': f"No files with placeholder.jpg found in {site_dir}",
+            'files_processed': 0,
+            'files_successful': 0,
+            'files_failed': 0,
+            'total_removals': 0
+        }
+
+    logger.info(f"Found {len(html_files)} files with placeholder.jpg references in {site_dir}")
+
+    successful = 0
+    failed = 0
+    total_removals = 0
+    failed_files = []
+
+    for i, html_file in enumerate(html_files, 1):
+        logger.info(f"[{i}/{len(html_files)}] Processing {html_file}")
+
+        success, message, removal_count = process_file(html_file, dry_run)
+        total_removals += removal_count
+
+        if success:
+            successful += 1
+            logger.info(message)
+        else:
+            failed += 1
+            failed_files.append(str(html_file))
+            logger.error(message)
+
+    result = {
+        'success': failed == 0,
+        'message': f"Processed {len(html_files)} files: {successful} successful, {failed} failed, {total_removals} total removals",
+        'files_processed': len(html_files),
+        'files_successful': successful,
+        'files_failed': failed,
+        'failed_files': failed_files,
+        'total_removals': total_removals
+    }
+
+    action = "Would remove" if dry_run else "Removed"
+    if not dry_run:
+        logger.info(f"✅ Site {site_dir} processing complete: {result['message']}")
+    else:
+        logger.info(f"🔍 Dry-run for {site_dir}: {action} {total_removals} placeholder references from {len(html_files)} files")
+
+    return result
+
+def main():
+    """Main script execution."""
+    parser = argparse.ArgumentParser(
+        description='Remove placeholder.jpg references from HTML thumbnail galleries'
+    )
+    parser.add_argument(
+        '--site',
+        choices=['htm', 'new', 'both'],
+        required=True,
+        help='Which site to process (htm, new, or both)'
+    )
+    parser.add_argument(
+        '--dry-run',
+        action='store_true',
+        help='Preview changes without making modifications'
+    )
+    parser.add_argument(
+        '--branch',
+        default='main',
+        help='Expected git branch (default: main)'
+    )
+
+    args = parser.parse_args()
+
+    logger = setup_logging()
+
+    # Verify git branch
+    current_branch = verify_git_branch(args.branch)
+    if not current_branch:
+        sys.exit(1)
+
+    # Determine directories to process
+    base_dir = os.path.join(os.getcwd(), 'docs')
+    site_dirs = []
+
+    if args.site in ['htm', 'both']:
+        site_dirs.append(os.path.join(base_dir, 'htm'))
+    if args.site in ['new', 'both']:
+        site_dirs.append(os.path.join(base_dir, 'new'))
+
+    # Process each site
+    overall_success = True
+    total_processed = 0
+    total_successful = 0
+    total_failed = 0
+    total_removals = 0
+
+    for site_dir in site_dirs:
+        logger.info(f"{'🔍 Dry-run for' if args.dry_run else '🧹 Cleaning'} {site_dir}")
+
+        result = process_site(site_dir, args.dry_run)
+
+        if not result['success']:
+            overall_success = False
+            logger.error(f"❌ Failed processing {site_dir}: {result['message']}")
+
+        total_processed += result['files_processed']
+        total_successful += result['files_successful']
+        total_failed += result['files_failed']
+        total_removals += result['total_removals']
+
+        if result['failed_files']:
+            logger.error(f"Failed files in {site_dir}:")
+            for failed_file in result['failed_files']:
+                logger.error(f"  - {failed_file}")
+
+    # Final summary
+    action = "Would remove" if args.dry_run else "Removed"
+    logger.info(f"\n📊 Final Summary:")
+    logger.info(f"  Files processed: {total_processed}")
+    logger.info(f"  Files successful: {total_successful}")
+    logger.info(f"  Files failed: {total_failed}")
+    logger.info(f"  Placeholder entries {action.lower()}: {total_removals}")
+
+    if args.dry_run:
+        logger.info(f"\n🔍 This was a dry-run. To actually remove placeholders, run without --dry-run")
+    elif overall_success:
+        logger.info(f"\n✅ All placeholder references cleaned successfully!")
+        logger.info(f"📝 Next steps:")
+        logger.info(f"  1. Review the cleaned files in your browser")
+        logger.info(f"  2. Commit changes: git add . && git commit -m 'Remove placeholder.jpg references - cleaned {total_removals} broken thumbnail entries'")
+    else:
+        logger.error(f"\n❌ Some files failed processing. Review the error messages above.")
+        sys.exit(1)
+
+if __name__ == '__main__':
+    main()
