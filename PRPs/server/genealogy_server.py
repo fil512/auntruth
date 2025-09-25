@@ -62,32 +62,16 @@ def create_app():
                     pass
             abort(404)
 
-    # Root path serves static files directly
+    # Root path serves only the index file, let Flask static serving handle everything else
     @app.route('/')
-    @app.route('/<path:filename>')
-    def serve_root(filename=''):
-        """Serve files from root path"""
-        if filename == '' or filename.endswith('/'):
-            # Handle directory requests
-            base_path = filename.rstrip('/') + '/' if filename else ''
-            for index_file in ['index.html', 'index.htm']:
-                try:
-                    return app.send_static_file(base_path + index_file)
-                except:
-                    continue
-            abort(404)
-
-        # Handle file requests
-        try:
-            return app.send_static_file(filename)
-        except:
-            if filename.endswith('.html'):
-                try:
-                    htm_filename = filename[:-5] + '.htm'
-                    return app.send_static_file(htm_filename)
-                except:
-                    pass
-            abort(404)
+    def serve_root_index():
+        """Serve index file from root path"""
+        for index_file in ['index.html', 'index.htm']:
+            try:
+                return app.send_static_file(index_file)
+            except:
+                continue
+        abort(404)
 
     return app
 
