@@ -1,0 +1,52 @@
+name: Build and Deploy AuntieRuth.com
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Create data directories
+      run: |
+        mkdir -p docs/new/js/data/lineages
+        mkdir -p docs/new/js/data/indices
+
+    - name: Build data chunks
+      run: npm run build:data-chunks
+
+    - name: Build search indices
+      run: npm run build:search-indices
+
+    - name: Optimize assets
+      run: npm run build:optimize
+
+    - name: Run tests
+      run: npm test
+
+    - name: Validate data
+      run: npm run validate
+
+    - name: Deploy to GitHub Pages
+      if: github.ref == 'refs/heads/main'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
+        cname: auntruth.com

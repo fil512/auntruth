@@ -1,0 +1,30 @@
+{
+  "name": "auntruth-modernization",
+  "version": "2.0.0",
+  "description": "AuntieRuth.com genealogy site modernization - Foundation architecture implementation",
+  "scripts": {
+    "build:data-chunks": "node scripts/build-data-chunks.js",
+    "build:search-indices": "node scripts/build-search-indices.js",
+    "build:optimize": "node scripts/optimize-assets.js",
+    "build:all": "npm run build:data-chunks && npm run build:search-indices && npm run build:optimize",
+    "dev": "python3 -m http.server 8000 --directory docs",
+    "test": "node scripts/test-navigation.js",
+    "validate": "node scripts/validate-data.js"
+  },
+  "devDependencies": {
+    "terser": "^5.19.0",
+    "clean-css": "^5.3.2",
+    "html-minifier-terser": "^7.2.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "genealogy",
+    "static-site",
+    "github-pages",
+    "family-history"
+  ],
+  "author": "AuntieRuth.com",
+  "license": "MIT"
+}

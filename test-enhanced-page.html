@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>David Walter Hagborg<br>AuntieRuth.com</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Foundation CSS for mobile-first responsive design -->
+    <link href="/auntruth/new/css/foundation.css" rel="stylesheet">
+
+    <!-- Legacy CSS for existing styles -->
+    <link href="/auntruth/new/css/main.css" rel="stylesheet">
+
+    <!-- Enhanced navigation components -->
+    <script type="module">
+        // Import our enhanced components
+        import '/auntruth/new/js/core/base-component.js';
+        import '/auntruth/new/js/core/data-manager.js';
+        import '/auntruth/new/js/components/navigation-enhanced.js';
+
+        // Initialize enhanced navigation when DOM is ready
+        document.addEventListener('DOMContentLoaded', async () => {
+            try {
+                const dataManager = new DataManager();
+                const navigation = new NavigationEnhanced({ dataManager });
+                await navigation.init();
+                console.log('Enhanced navigation initialized successfully');
+            } catch (error) {
+                console.error('Failed to initialize enhanced navigation:', error);
+            }
+        });
+    </script>
+</head>
+<body>
+    <main class="main-content">
+        <center>
+            <h1>David Walter Hagborg<br>AuntieRuth.com</h1>
+        </center>
+
+        <center>
+            <img src="/auntruth/jpg/f208.jpg" alt="David Walter Hagborg">
+        </center>
+
+        <center>
+            <a href="/auntruth/new/htm/L1/THF191.htm">
+                <h2>ThumbNails for this Person</h2>
+            </a>
+        </center>
+
+        <table id="List" rules="all">
+            <tbody>
+                <tr>
+                    <td>Father</td>
+                    <td>
+                        <a href="/auntruth/new/htm/L1/XF178.htm">
+                            <strong>Walter Arnold Hagborg [Hagborg-Hansson]</strong>
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Mother</td>
+                    <td>
+                        <a href="/auntruth/new/htm/L3/XF179.htm">
+                            <strong>Mary Irene Pringle-Hagborg [Pringle-Hambley]</strong>
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>BirthDate</td>
+                    <td><strong>Sunday, November 12, 1944</strong></td>
+                </tr>
+                <tr>
+                    <td>Birth Location</td>
+                    <td><strong>906 Riverwood Ave Winnipeg MB R3T 3N2 CAN</strong></td>
+                </tr>
+                <tr>
+                    <td>Spouse(1)</td>
+                    <td>
+                        <a href="/auntruth/new/htm/L1/XF192.htm">
+                            <strong>Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]</strong>
+                        </a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <p><strong>Note:</strong> This is a test page demonstrating the enhanced navigation system with:</p>
+        <ul>
+            <li>✅ Fixed navigation header</li>
+            <li>✅ Breadcrumb navigation (Home > Lineage > Person)</li>
+            <li>✅ Family context navigation (Parents, Spouse, Photos)</li>
+            <li>✅ Mobile-responsive design</li>
+            <li>✅ Touch-friendly navigation (44px minimum targets)</li>
+            <li>✅ Efficient data loading with lineage-based chunking</li>
+        </ul>
+    </main>
+</body>
+</html>
