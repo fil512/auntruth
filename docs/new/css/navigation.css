@@ -220,6 +220,175 @@ body main#main-content > center:empty {
     display: none;
 }
 
+/* ==========================================================================
+   Breadcrumb Navigation
+   ========================================================================== */
+
+.breadcrumb-nav {
+    background: #f8f9fa;
+    border-bottom: 1px solid #e9ecef;
+    padding: 8px 0;
+    font-size: 13px;
+}
+
+.breadcrumb-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+}
+
+.breadcrumb-link {
+    color: #0066cc;
+    text-decoration: none;
+    padding: 4px 0;
+    transition: color 0.2s ease;
+}
+
+.breadcrumb-link:hover {
+    color: #004499;
+    text-decoration: underline;
+}
+
+.breadcrumb-current {
+    color: #333;
+    font-weight: 500;
+}
+
+.breadcrumb-separator {
+    color: #666;
+    margin: 0 8px;
+    font-size: 11px;
+}
+
+/* ==========================================================================
+   Family Navigation Bar
+   ========================================================================== */
+
+.family-navigation {
+    background: #ffffff;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    position: relative;
+}
+
+.family-nav-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    min-height: 50px;
+    flex-wrap: wrap;
+}
+
+.family-nav-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #333;
+    text-decoration: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    border: 1px solid transparent;
+}
+
+.family-nav-item:hover {
+    background: #f0f8ff;
+    border-color: #0066cc;
+    text-decoration: none;
+}
+
+.family-nav-label {
+    font-size: 12px;
+    color: #666;
+    font-weight: 500;
+}
+
+.family-nav-name {
+    font-size: 13px;
+    color: #333;
+}
+
+.family-nav-photos {
+    background: #e8f5e8;
+    border-color: #28a745;
+}
+
+.family-nav-photos:hover {
+    background: #d4edda;
+}
+
+.family-nav-photos .family-nav-label {
+    color: #155724;
+}
+
+/* Family navigation dropdown */
+.family-nav-dropdown {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.family-nav-dropdown .family-nav-label {
+    cursor: pointer;
+    padding: 8px 12px;
+    border-radius: 4px;
+    transition: background 0.2s ease;
+    border: 1px solid transparent;
+}
+
+.family-nav-dropdown .family-nav-label:hover,
+.family-nav-dropdown.active .family-nav-label {
+    background: #f0f8ff;
+    border-color: #0066cc;
+}
+
+.family-nav-dropdown-content {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    min-width: 200px;
+    z-index: 1001;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+    margin-top: 4px;
+}
+
+.family-nav-dropdown.active .family-nav-dropdown-content {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.family-nav-dropdown-item {
+    display: block;
+    padding: 10px 16px;
+    color: #333;
+    text-decoration: none;
+    border-bottom: 1px solid #eee;
+    transition: background 0.2s ease;
+    font-size: 13px;
+}
+
+.family-nav-dropdown-item:hover {
+    background: #f8f9fa;
+    text-decoration: none;
+}
+
+.family-nav-dropdown-item:last-child {
+    border-bottom: none;
+}
+
 
 /* ==========================================================================
    Search Interface
@@ -435,6 +604,42 @@ body main#main-content > center:empty {
         font-size: 12px;
     }
 
+    /* Mobile family navigation */
+    .breadcrumb-container {
+        padding: 0 0.5rem;
+        font-size: 12px;
+    }
+
+    .breadcrumb-separator {
+        margin: 0 4px;
+    }
+
+    .family-nav-container {
+        padding: 0 0.5rem;
+        gap: 1rem;
+        min-height: auto;
+        padding: 0.5rem;
+    }
+
+    .family-nav-item {
+        padding: 6px 8px;
+        font-size: 12px;
+    }
+
+    .family-nav-label {
+        font-size: 11px;
+    }
+
+    .family-nav-name {
+        font-size: 12px;
+    }
+
+    .family-nav-dropdown-content {
+        min-width: 180px;
+        max-height: 200px;
+        overflow-y: auto;
+    }
+
 }
 
 @media (max-width: 480px) {
@@ -453,6 +658,21 @@ body main#main-content > center:empty {
     }
 
     .search-filters label {
+        font-size: 11px;
+    }
+
+    .family-nav-container {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0.5rem;
+    }
+
+    .family-nav-item {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .breadcrumb-container {
         font-size: 11px;
     }
 }

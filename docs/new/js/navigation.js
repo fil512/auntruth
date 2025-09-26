@@ -104,20 +104,258 @@ class NavigationComponent {
         return null;
     }
 
+    /**
+     * Parse family relationships from legacy HTML table structure
+     * Extracts Father, Mother, Spouse(s), Children from XF page tables
+     */
+    parseFamilyRelationships() {
+        const listTable = document.querySelector('table#List');
+        if (!listTable) return null;
+
+        const relationships = {
+            father: null,
+            mother: null,
+            spouses: [],
+            children: [],
+            thumbnails: null
+        };
+
+        const rows = listTable.querySelectorAll('tr');
+        rows.forEach(row => {
+            const cells = row.querySelectorAll('td');
+            if (cells.length < 2) return;
+
+            const label = cells[0].textContent.trim();
+            const valueCell = cells[1];
+            const link = valueCell.querySelector('a');
+
+            if (link) {
+                const linkData = {
+                    name: link.textContent.replace(/\[.*?\]/g, '').trim(),
+                    url: link.href,
+                    lineage: this.extractLineageFromText(link.textContent)
+                };
+
+                switch (label.toLowerCase()) {
+                    case 'father':
+                        relationships.father = linkData;
+                        break;
+                    case 'mother':
+                        relationships.mother = linkData;
+                        break;
+                    case 'spouse(1)':
+                    case 'spouse(2)':
+                    case 'spouse(3)':
+                    case 'spouse(4)':
+                        if (linkData.name) relationships.spouses.push(linkData);
+                        break;
+                    default:
+                        if (label.startsWith('Child')) {
+                            relationships.children.push(linkData);
+                        }
+                }
+            }
+        });
+
+        // Find thumbnail link
+        const thumbLink = document.querySelector('a[href*="THF"]');
+        if (thumbLink) {
+            relationships.thumbnails = {
+                name: 'Photos',
+                url: thumbLink.href
+            };
+        }
+
+        return relationships;
+    }
+
+    /**
+     * Extract lineage information from relationship text
+     */
+    extractLineageFromText(text) {
+        const match = text.match(/\[(.*?)\]/);
+        return match ? match[1] : null;
+    }
+
+    /**
+     * Generate breadcrumb navigation based on current page context
+     */
+    generateBreadcrumbs() {
+        const currentPage = this.currentPage;
+        const currentLineage = this.currentLineage;
+
+        const isNew = currentPage.path.includes('/new/');
+        const breadcrumbs = [
+            {
+                name: 'Home',
+                url: isNew ? '/auntruth/new/' : '/auntruth/htm/',
+                active: false
+            }
+        ];
+
+        // Add lineage breadcrumb
+        if (currentLineage) {
+            breadcrumbs.push({
+                name: currentLineage.name,
+                url: currentLineage.path,
+                active: false
+            });
+        }
+
+        // Add current page breadcrumb
+        if (currentPage.pageType === 'person' && currentPage.title) {
+            breadcrumbs.push({
+                name: currentPage.title,
+                url: currentPage.url,
+                active: true
+            });
+        }
+
+        return breadcrumbs;
+    }
+
+    /**
+     * Create breadcrumb HTML structure
+     */
+    createBreadcrumbHTML(breadcrumbs) {
+        if (!breadcrumbs || breadcrumbs.length <= 1) return '';
+
+        const breadcrumbItems = breadcrumbs.map(crumb => {
+            if (crumb.active) {
+                return `<span class="breadcrumb-current">${crumb.name}</span>`;
+            } else {
+                return `<a href="${crumb.url}" class="breadcrumb-link">${crumb.name}</a>`;
+            }
+        }).join('<span class="breadcrumb-separator"> &gt; </span>');
+
+        return `
+            <nav class="breadcrumb-nav" aria-label="Breadcrumb navigation">
+                <div class="breadcrumb-container">
+                    ${breadcrumbItems}
+                </div>
+            </nav>
+        `;
+    }
+
+    /**
+     * Create family navigation bar with immediate relationships
+     */
+    createFamilyNavigation() {
+        if (this.currentPage.pageType !== 'person') return '';
+
+        const relationships = this.parseFamilyRelationships();
+        if (!relationships) return '';
+
+        const navItems = [];
+
+        // Parents navigation
+        const parents = [];
+        if (relationships.father) parents.push(relationships.father);
+        if (relationships.mother) parents.push(relationships.mother);
+
+        if (parents.length > 0) {
+            if (parents.length === 1) {
+                navItems.push(`<a href="${parents[0].url}" class="family-nav-item">
+                    <span class="family-nav-label">Parent:</span>
+                    <span class="family-nav-name">${parents[0].name}</span>
+                </a>`);
+            } else {
+                navItems.push(`<div class="family-nav-dropdown">
+                    <span class="family-nav-label">Parents:</span>
+                    <div class="family-nav-dropdown-content">
+                        ${parents.map(parent =>
+                            `<a href="${parent.url}" class="family-nav-dropdown-item">${parent.name}</a>`
+                        ).join('')}
+                    </div>
+                </div>`);
+            }
+        }
+
+        // Spouse navigation
+        if (relationships.spouses.length > 0) {
+            if (relationships.spouses.length === 1) {
+                navItems.push(`<a href="${relationships.spouses[0].url}" class="family-nav-item">
+                    <span class="family-nav-label">Spouse:</span>
+                    <span class="family-nav-name">${relationships.spouses[0].name}</span>
+                </a>`);
+            } else {
+                navItems.push(`<div class="family-nav-dropdown">
+                    <span class="family-nav-label">Spouses:</span>
+                    <div class="family-nav-dropdown-content">
+                        ${relationships.spouses.map(spouse =>
+                            `<a href="${spouse.url}" class="family-nav-dropdown-item">${spouse.name}</a>`
+                        ).join('')}
+                    </div>
+                </div>`);
+            }
+        }
+
+        // Children navigation
+        if (relationships.children.length > 0) {
+            if (relationships.children.length <= 3) {
+                relationships.children.forEach(child => {
+                    navItems.push(`<a href="${child.url}" class="family-nav-item">
+                        <span class="family-nav-label">Child:</span>
+                        <span class="family-nav-name">${child.name}</span>
+                    </a>`);
+                });
+            } else {
+                navItems.push(`<div class="family-nav-dropdown">
+                    <span class="family-nav-label">Children (${relationships.children.length}):</span>
+                    <div class="family-nav-dropdown-content">
+                        ${relationships.children.map(child =>
+                            `<a href="${child.url}" class="family-nav-dropdown-item">${child.name}</a>`
+                        ).join('')}
+                    </div>
+                </div>`);
+            }
+        }
+
+        // Photos link
+        if (relationships.thumbnails) {
+            navItems.push(`<a href="${relationships.thumbnails.url}" class="family-nav-item family-nav-photos">
+                <span class="family-nav-label">Photos</span>
+            </a>`);
+        }
+
+        if (navItems.length === 0) return '';
+
+        return `
+            <nav class="family-navigation" role="navigation" aria-label="Family navigation">
+                <div class="family-nav-container">
+                    ${navItems.join('')}
+                </div>
+            </nav>
+        `;
+    }
+
     injectNavigation() {
-        // Create and inject the top navigation only - NO SIDEBAR
+        // Enhanced injection for legacy pages
         const topNav = this.createTopNavigation();
+        const breadcrumbs = this.createBreadcrumbHTML(this.generateBreadcrumbs());
+        const familyNav = this.createFamilyNavigation();
+
+        // Build complete navigation HTML
+        const navigationHTML = topNav + breadcrumbs + familyNav;
 
         // Insert at the beginning of body
-        document.body.insertAdjacentHTML('afterbegin', topNav);
+        document.body.insertAdjacentHTML('afterbegin', navigationHTML);
 
         // Wrap main content if not already wrapped
         const existingContent = document.body.innerHTML;
         if (!document.querySelector('.main-content')) {
             // Find the main content (everything after navigation)
-            const navEnd = existingContent.indexOf('</nav>') + 6;
-
+            const navEnd = existingContent.indexOf('</nav>');
             let contentStart = navEnd;
+
+            // Find the last closing nav tag to account for multiple nav elements
+            const allNavTags = existingContent.match(/<\/nav>/g);
+            if (allNavTags && allNavTags.length > 1) {
+                contentStart = existingContent.lastIndexOf('</nav>') + 6;
+            } else if (navEnd !== -1) {
+                contentStart = navEnd + 6;
+            }
+
             const beforeContent = existingContent.substring(0, contentStart);
             const mainContent = existingContent.substring(contentStart);
 
@@ -128,34 +366,33 @@ class NavigationComponent {
         }
 
         this.isNavigationInjected = true;
+        this.setupFamilyNavigationHandlers();
     }
 
     injectNavigationClean() {
-        // Clean injection for properly structured HTML - TOP NAV ONLY
+        // Clean injection for properly structured HTML
         const topNav = this.createTopNavigation();
+        const breadcrumbs = this.createBreadcrumbHTML(this.generateBreadcrumbs());
+        const familyNav = this.createFamilyNavigation();
 
-        // Insert navigation at the beginning of body, before main content
+        // Insert navigation components at the beginning of body
         const mainContent = document.querySelector('main#main-content, main.main-content');
         if (mainContent) {
-            console.log('Main content found, injecting top navigation only...');
+            console.log('Main content found, injecting enhanced navigation...');
 
-            // Insert only the top navigation
-            document.body.insertAdjacentHTML('afterbegin', topNav);
+            // Build complete navigation HTML
+            const navigationHTML = topNav + breadcrumbs + familyNav;
+            document.body.insertAdjacentHTML('afterbegin', navigationHTML);
 
-            // Scroll to show the header properly positioned below navigation
+            // Scroll to show header properly positioned below navigation
             const header = mainContent.querySelector('.page-header, h1');
             if (header) {
-                // Scroll to show header at top of viewport, just below nav
                 header.scrollIntoView({ behavior: 'instant', block: 'start' });
             }
         }
 
         this.isNavigationInjected = true;
-
-        // No sidebar - just ensure content is positioned properly
-        setTimeout(() => {
-            console.log('Top navigation only - no sidebar to manage');
-        }, 100);
+        this.setupFamilyNavigationHandlers();
     }
 
     createTopNavigation() {
@@ -317,6 +554,50 @@ class NavigationComponent {
             if (e.key === 'Escape') {
                 navDropdown.classList.remove('open');
                 dropdownToggle.setAttribute('aria-expanded', 'false');
+            }
+        });
+    }
+
+    /**
+     * Setup event handlers for family navigation interactions
+     */
+    setupFamilyNavigationHandlers() {
+        // Family navigation dropdown handlers
+        const dropdowns = document.querySelectorAll('.family-nav-dropdown');
+        dropdowns.forEach(dropdown => {
+            const toggle = dropdown.querySelector('.family-nav-label');
+            const content = dropdown.querySelector('.family-nav-dropdown-content');
+
+            if (toggle && content) {
+                toggle.addEventListener('click', (e) => {
+                    e.preventDefault();
+
+                    // Close other dropdowns
+                    dropdowns.forEach(otherDropdown => {
+                        if (otherDropdown !== dropdown) {
+                            otherDropdown.classList.remove('active');
+                        }
+                    });
+
+                    // Toggle current dropdown
+                    dropdown.classList.toggle('active');
+                });
+
+                // Close on outside click
+                document.addEventListener('click', (e) => {
+                    if (!dropdown.contains(e.target)) {
+                        dropdown.classList.remove('active');
+                    }
+                });
+            }
+        });
+
+        // Keyboard navigation for family nav
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                dropdowns.forEach(dropdown => {
+                    dropdown.classList.remove('active');
+                });
             }
         });
     }
