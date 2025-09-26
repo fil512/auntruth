@@ -1,0 +1,521 @@
+/* Family Tree Component Styles */
+/* Mobile-first responsive design with SVG and touch support */
+
+/* Tree Container */
+.family-tree-container {
+  background: var(--color-surface);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin: var(--space-md) 0;
+  max-width: var(--content-max-width);
+  min-height: 400px;
+}
+
+.tree-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--space-md);
+  border-bottom: 1px solid var(--color-border);
+  background: #f8f9fa;
+  border-radius: 8px 8px 0 0;
+}
+
+.tree-controls {
+  display: flex;
+  gap: var(--space-xs);
+}
+
+.tree-control {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  padding: var(--space-xs);
+  min-width: var(--touch-target-min);
+  min-height: var(--touch-target-min);
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.tree-control:hover,
+.tree-control:focus {
+  background: var(--color-primary);
+  color: white;
+  border-color: var(--color-primary);
+}
+
+.tree-control:active {
+  transform: scale(0.95);
+}
+
+.tree-info {
+  font-size: var(--font-size-sm);
+  color: var(--color-secondary);
+}
+
+.generations-display {
+  font-weight: 500;
+}
+
+/* Loading and Error States */
+.tree-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-2xl);
+  gap: var(--space-md);
+}
+
+.tree-loading .loading-spinner {
+  width: 40px;
+  height: 40px;
+  border: 4px solid var(--color-border);
+  border-top: 4px solid var(--color-primary);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+.tree-loading p {
+  color: var(--color-secondary);
+  margin: 0;
+}
+
+.tree-error {
+  padding: var(--space-xl);
+  text-align: center;
+  color: #d32f2f;
+  background: #ffebee;
+  border-radius: 4px;
+  margin: var(--space-md);
+}
+
+/* Tree Canvas */
+.tree-canvas {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.tree-canvas svg {
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+}
+
+.tree-canvas svg:active {
+  cursor: grabbing;
+}
+
+/* Tree Nodes */
+.tree-node {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.tree-node:hover {
+  transform: scale(1.05);
+}
+
+.tree-node.focus-node {
+  filter: drop-shadow(0 0 10px #FFD700);
+}
+
+.node-rect {
+  fill: var(--color-primary);
+  stroke: #ccc;
+  stroke-width: 1px;
+  transition: all 0.3s ease;
+}
+
+.tree-node:hover .node-rect {
+  stroke: #FFD700;
+  stroke-width: 2px;
+}
+
+.tree-node.focus-node .node-rect {
+  stroke: #FFD700;
+  stroke-width: 3px;
+}
+
+/* Node Text */
+.node-name {
+  fill: white;
+  font-weight: bold;
+  font-size: 12px;
+  text-anchor: middle;
+  pointer-events: none;
+}
+
+.node-dates {
+  fill: white;
+  font-size: 10px;
+  text-anchor: middle;
+  opacity: 0.9;
+  pointer-events: none;
+}
+
+.node-spouse {
+  fill: rgba(255,255,255,0.8);
+  font-size: 9px;
+  text-anchor: middle;
+  opacity: 0.8;
+  pointer-events: none;
+}
+
+/* Tree Links */
+.tree-link {
+  fill: none;
+  stroke: #999;
+  stroke-width: 2px;
+  stroke-linecap: round;
+  opacity: 0.6;
+  transition: all 0.3s ease;
+}
+
+.tree-link:hover {
+  stroke: var(--color-primary);
+  stroke-width: 3px;
+  opacity: 1;
+}
+
+/* Gender-based Node Colors */
+.tree-node[data-gender="male"] .node-rect {
+  fill: #4A90E2;
+}
+
+.tree-node[data-gender="female"] .node-rect {
+  fill: #E24A90;
+}
+
+.tree-node[data-gender="unknown"] .node-rect {
+  fill: #9B9B9B;
+}
+
+.tree-node[data-deceased="true"] .node-rect {
+  fill: #666666;
+  opacity: 0.8;
+}
+
+/* Tooltip */
+.tree-tooltip {
+  position: absolute;
+  background: rgba(0,0,0,0.9);
+  color: white;
+  padding: var(--space-sm);
+  border-radius: 4px;
+  font-size: var(--font-size-sm);
+  max-width: 250px;
+  z-index: 1000;
+  pointer-events: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.tooltip-name {
+  font-weight: bold;
+  margin-bottom: var(--space-xs);
+  color: #FFD700;
+}
+
+.tree-tooltip div {
+  margin-bottom: var(--space-xs);
+}
+
+.tree-tooltip div:last-child {
+  margin-bottom: 0;
+}
+
+/* Context Menu */
+.tree-context-menu {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  padding: var(--space-xs) 0;
+  min-width: 180px;
+}
+
+.tree-context-menu button {
+  display: block;
+  width: 100%;
+  background: none;
+  border: none;
+  padding: var(--space-sm) var(--space-md);
+  text-align: left;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+  color: var(--color-text);
+  min-height: var(--touch-target-min);
+  transition: background-color 0.2s ease;
+}
+
+.tree-context-menu button:hover,
+.tree-context-menu button:focus {
+  background: #f0f8ff;
+  color: var(--color-primary);
+}
+
+/* Mobile Optimizations */
+@media (max-width: 767px) {
+  .tree-header {
+    padding: var(--space-sm);
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+  }
+
+  .tree-controls {
+    order: 2;
+    width: 100%;
+    justify-content: center;
+  }
+
+  .tree-info {
+    order: 1;
+    width: 100%;
+    text-align: center;
+  }
+
+  .tree-control {
+    min-width: 50px;
+    min-height: 50px;
+    font-size: var(--font-size-lg);
+  }
+
+  .tree-canvas {
+    height: 400px;
+  }
+
+  /* Larger touch targets for mobile */
+  .tree-node .node-rect {
+    rx: 8px;
+  }
+
+  /* Adjust node sizes for mobile */
+  .tree-node {
+    transform-origin: center;
+  }
+
+  /* Hide tooltips on mobile (use touch events instead) */
+  .tree-tooltip {
+    display: none;
+  }
+
+  /* Larger context menu items */
+  .tree-context-menu button {
+    padding: var(--space-md);
+    font-size: var(--font-size-base);
+  }
+}
+
+/* Tablet Optimizations */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .tree-canvas {
+    height: 500px;
+  }
+
+  .tree-control {
+    padding: var(--space-sm);
+  }
+
+  .node-name {
+    font-size: 13px;
+  }
+
+  .node-dates {
+    font-size: 11px;
+  }
+}
+
+/* Desktop Optimizations */
+@media (min-width: 1024px) {
+  .family-tree-container {
+    border-radius: 12px;
+  }
+
+  .tree-canvas {
+    height: 700px;
+  }
+
+  .tree-header {
+    padding: var(--space-lg);
+  }
+
+  .tree-controls {
+    gap: var(--space-sm);
+  }
+
+  /* Better hover effects on desktop */
+  .tree-node:hover .node-name {
+    font-size: 13px;
+  }
+
+  .tree-node:hover .node-dates {
+    font-size: 11px;
+  }
+
+  /* Show relationship lines more clearly */
+  .tree-link {
+    stroke-width: 1.5px;
+  }
+
+  .tree-link:hover {
+    stroke-width: 2.5px;
+  }
+}
+
+/* High Resolution Displays */
+@media (min-resolution: 2dppx) {
+  .tree-link {
+    stroke-width: 1px;
+  }
+
+  .node-rect {
+    stroke-width: 0.5px;
+  }
+
+  .tree-node:hover .node-rect {
+    stroke-width: 1px;
+  }
+}
+
+/* Print Styles */
+@media print {
+  .family-tree-container {
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+
+  .tree-header {
+    border-bottom: 1px solid #000;
+    background: white;
+  }
+
+  .tree-controls {
+    display: none;
+  }
+
+  .tree-canvas {
+    background: white;
+  }
+
+  .tree-link {
+    stroke: #000;
+    opacity: 1;
+  }
+
+  .node-rect {
+    fill: white;
+    stroke: #000;
+  }
+
+  .node-name,
+  .node-dates,
+  .node-spouse {
+    fill: #000;
+  }
+}
+
+/* Accessibility Improvements */
+@media (prefers-contrast: high) {
+  .tree-canvas {
+    background: white;
+  }
+
+  .tree-link {
+    stroke: #000;
+    opacity: 1;
+  }
+
+  .node-rect {
+    stroke: #000;
+    stroke-width: 2px;
+  }
+
+  .tree-tooltip {
+    background: #000;
+    border: 1px solid white;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tree-node,
+  .tree-link,
+  .tree-control,
+  .node-rect {
+    transition: none;
+  }
+
+  .tree-node:hover {
+    transform: none;
+  }
+
+  .tree-loading .loading-spinner {
+    animation: none;
+  }
+
+  /* Still allow essential functionality but remove animations */
+  .tree-canvas svg {
+    transition: none;
+  }
+}
+
+/* Focus indicators for keyboard navigation */
+.tree-control:focus {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+.tree-node:focus {
+  outline: 2px solid #FFD700;
+  outline-offset: 4px;
+}
+
+/* Loading animation */
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Fade in animation for nodes */
+@keyframes fadeInNode {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.tree-node {
+  animation: fadeInNode 0.5s ease-out;
+}
+
+/* Responsive node sizing based on screen size */
+@media (max-width: 480px) {
+  :root {
+    --node-width: 120px;
+    --node-height: 60px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  :root {
+    --node-width: 140px;
+    --node-height: 70px;
+  }
+}
+
+@media (min-width: 769px) {
+  :root {
+    --node-width: 150px;
+    --node-height: 80px;
+  }
+}

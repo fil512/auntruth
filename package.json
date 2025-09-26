@@ -9,12 +9,23 @@
     "build:all": "npm run build:data-chunks && npm run build:search-indices && npm run build:optimize",
     "dev": "python3 -m http.server 8000 --directory docs",
     "test": "node scripts/test-navigation.js",
-    "validate": "node scripts/validate-data.js"
+    "validate": "node scripts/validate-data.js",
+    "build:enhanced-search": "node scripts/build-lunr-indices.js",
+    "test:search": "node scripts/test-search-functionality.js",
+    "test:tree": "node scripts/test-tree-rendering.js",
+    "test:mobile": "node scripts/test-mobile-responsiveness.js",
+    "build:phase2": "npm run build:enhanced-search && npm run build:all",
+    "test:phase2": "npm run test:search && npm run test:tree && npm run test:mobile"
+  },
+  "dependencies": {
+    "lunr": "^2.3.9"
   },
   "devDependencies": {
     "terser": "^5.19.0",
     "clean-css": "^5.3.2",
-    "html-minifier-terser": "^7.2.0"
+    "html-minifier-terser": "^7.2.0",
+    "d3": "^7.8.5",
+    "d3-hierarchy": "^3.1.2"
   },
   "engines": {
     "node": ">=16.0.0"
