@@ -1,0 +1,197 @@
+/* Mobile Enhancement Styles for AuntieRuth.com */
+
+/* Touch feedback animations */
+.touch-active {
+    background-color: rgba(0, 102, 204, 0.1) !important;
+    transform: scale(0.98);
+    transition: all 0.1s ease;
+}
+
+/* Swipe feedback overlay */
+.swipe-feedback {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: var(--space-md) var(--space-lg);
+    border-radius: 8px;
+    font-size: var(--font-size-base);
+    z-index: 10000;
+    pointer-events: none;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+
+.swipe-feedback.fade-out {
+    opacity: 0;
+}
+
+/* Mobile context menu */
+.mobile-context-menu {
+    position: fixed;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    z-index: 10001;
+    min-width: 200px;
+    overflow: hidden;
+    animation: contextMenuSlideIn 0.2s ease;
+}
+
+@keyframes contextMenuSlideIn {
+    from {
+        opacity: 0;
+        transform: scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.context-menu-item {
+    padding: var(--space-md);
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+    font-size: var(--font-size-sm);
+    transition: background 0.2s ease;
+    min-height: var(--touch-target-min);
+    display: flex;
+    align-items: center;
+}
+
+.context-menu-item:hover,
+.context-menu-item:focus {
+    background: #f5f5f5;
+}
+
+.context-menu-item:last-child {
+    border-bottom: none;
+}
+
+/* Enhanced touch targets */
+@media (hover: none) and (pointer: coarse) {
+    /* Genealogy-specific touch enhancements */
+    table#List td a {
+        min-height: var(--touch-target-comfortable);
+        padding: var(--space-md);
+        margin: -var(--space-xs);
+    }
+
+    .search-result-item {
+        min-height: var(--touch-target-comfortable);
+        padding: var(--space-md);
+    }
+
+    .family-nav-item,
+    .family-link {
+        min-height: var(--touch-target-comfortable);
+        padding: var(--space-md);
+    }
+
+    /* Dropdown menu touch optimization */
+    .dropdown-menu a {
+        min-height: var(--touch-target-comfortable);
+        padding: var(--space-md) var(--space-lg);
+    }
+
+    /* Form elements */
+    input[type="search"],
+    input[type="text"],
+    select,
+    button {
+        min-height: var(--touch-target-comfortable);
+        font-size: var(--font-size-base);
+    }
+}
+
+/* Image zoom enhancements */
+#right img,
+#singleImage img {
+    transition: transform 0.3s ease;
+    transform-origin: center;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Mobile navigation enhancements */
+@media (max-width: 767px) {
+    /* Improve mobile menu spacing */
+    .mobile-menu .menu-item {
+        min-height: var(--touch-target-comfortable);
+        padding: var(--space-md);
+        font-size: var(--font-size-base);
+    }
+
+    /* Better breadcrumb wrapping */
+    .breadcrumb-nav {
+        padding: var(--space-sm) var(--space-md);
+    }
+
+    .breadcrumbs {
+        font-size: var(--font-size-sm);
+        line-height: 1.4;
+    }
+
+    /* Family navigation mobile optimization */
+    .family-navigation {
+        flex-direction: column;
+        gap: var(--space-md);
+        padding: var(--space-md);
+    }
+
+    .family-group {
+        flex-direction: column;
+        align-items: stretch;
+        gap: var(--space-sm);
+    }
+
+    .family-links {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: var(--space-sm);
+    }
+
+    .family-link {
+        justify-content: center;
+        text-align: center;
+    }
+}
+
+/* Performance optimizations */
+.main-content {
+    /* Enable hardware acceleration for smooth scrolling */
+    transform: translateZ(0);
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Reduce motion for users who prefer it */
+@media (prefers-reduced-motion: reduce) {
+    .touch-active,
+    .swipe-feedback,
+    .mobile-context-menu {
+        transition: none !important;
+        animation: none !important;
+    }
+}
+
+/* Dark mode preparation for mobile */
+@media (prefers-color-scheme: dark) {
+    .mobile-context-menu {
+        background: #2d2d2d;
+        color: white;
+        border-color: #444;
+    }
+
+    .context-menu-item:hover {
+        background: #404040;
+    }
+
+    .swipe-feedback {
+        background: rgba(255, 255, 255, 0.9);
+        color: black;
+    }
+}
