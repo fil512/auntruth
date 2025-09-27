@@ -1,5 +1,6 @@
 import BaseComponent from '../core/base-component.js';
 import DataManager from '../core/data-manager.js';
+import SearchExportComponent from './search-export.js';
 
 /**
  * Enhanced Search Component
@@ -16,6 +17,7 @@ class EnhancedSearchComponent extends BaseComponent {
       birthYearRange: [1800, 2025],
       deathYearRange: [1800, 2025],
       locations: [],
+      locationFilter: '',
       hasPhotos: null,
       hasSpouse: null
     };
@@ -33,6 +35,9 @@ class EnhancedSearchComponent extends BaseComponent {
     this.searchInput = null;
     this.searchResults = null;
     this.filtersContainer = null;
+
+    // Export functionality
+    this.exportComponent = null;
   }
 
   async loadDependencies() {
@@ -52,6 +57,9 @@ class EnhancedSearchComponent extends BaseComponent {
     await this.loadSearchIndices();
     this.setupAdvancedFilters();
     this.enableSearch();
+
+    // Initialize export functionality
+    await this.initializeExportComponent();
   }
 
   attachEventListeners() {
@@ -159,9 +167,29 @@ class EnhancedSearchComponent extends BaseComponent {
                   <input type="range" class="year-range" data-range="birth"
                          min="1800" max="2025" value="2025" data-type="max">
                   <div class="range-display">
-                    <span class="range-min">1800</span> - <span class="range-max">2025</span>
+                    <span class="birth-range-min">1800</span> - <span class="birth-range-max">2025</span>
                   </div>
                 </div>
+              </div>
+
+              <div class="filter-group">
+                <label class="filter-label">Death Year Range:</label>
+                <div class="range-group">
+                  <input type="range" class="year-range" data-range="death"
+                         min="1800" max="2025" value="1800" data-type="min">
+                  <input type="range" class="year-range" data-range="death"
+                         min="1800" max="2025" value="2025" data-type="max">
+                  <div class="range-display">
+                    <span class="death-range-min">1800</span> - <span class="death-range-max">2025</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="filter-group">
+                <label class="filter-label">Location Filter:</label>
+                <input type="text" class="location-input search-filter"
+                       data-field="location" placeholder="City, Province, Country..."
+                       autocomplete="off">
               </div>
 
               <div class="filter-group">
@@ -174,6 +202,7 @@ class EnhancedSearchComponent extends BaseComponent {
 
               <div class="filter-actions">
                 <button class="btn-secondary clear-filters">Clear All</button>
+                <button class="btn-secondary export-results">Export CSV</button>
                 <button class="btn-primary apply-filters">Apply Filters</button>
               </div>
             </div>
@@ -305,10 +334,18 @@ class EnhancedSearchComponent extends BaseComponent {
     if (range === 'birth') {
       if (type === 'min') {
         this.activeFilters.birthYearRange[0] = value;
-        this.$('.range-min').textContent = value;
+        this.$('.birth-range-min').textContent = value;
       } else {
         this.activeFilters.birthYearRange[1] = value;
-        this.$('.range-max').textContent = value;
+        this.$('.birth-range-max').textContent = value;
+      }
+    } else if (range === 'death') {
+      if (type === 'min') {
+        this.activeFilters.deathYearRange[0] = value;
+        this.$('.death-range-min').textContent = value;
+      } else {
+        this.activeFilters.deathYearRange[1] = value;
+        this.$('.death-range-max').textContent = value;
       }
     }
 
@@ -395,13 +432,37 @@ class EnhancedSearchComponent extends BaseComponent {
 
   applyFilters(results) {
     return results.filter(person => {
-      // Year range filters
+      // Birth year range filter
       if (person.birthDate) {
         const birthYear = this.extractYear(person.birthDate);
         if (birthYear && (
           birthYear < this.activeFilters.birthYearRange[0] ||
           birthYear > this.activeFilters.birthYearRange[1]
         )) {
+          return false;
+        }
+      }
+
+      // Death year range filter
+      if (person.deathDate) {
+        const deathYear = this.extractYear(person.deathDate);
+        if (deathYear && (
+          deathYear < this.activeFilters.deathYearRange[0] ||
+          deathYear > this.activeFilters.deathYearRange[1]
+        )) {
+          return false;
+        }
+      }
+
+      // Location filter
+      if (this.activeFilters.locationFilter) {
+        const locationQuery = this.activeFilters.locationFilter.toLowerCase();
+        const birthLocationMatch = person.birthLocation &&
+          person.birthLocation.toLowerCase().includes(locationQuery);
+        const deathLocationMatch = person.deathLocation &&
+          person.deathLocation.toLowerCase().includes(locationQuery);
+
+        if (!birthLocationMatch && !deathLocationMatch) {
           return false;
         }
       }
@@ -431,6 +492,10 @@ class EnhancedSearchComponent extends BaseComponent {
     // Update from UI state
     this.activeFilters.hasPhotos = this.$('.search-filter[data-field="hasPhotos"]')?.checked || null;
     this.activeFilters.hasSpouse = this.$('.search-filter[data-field="hasSpouse"]')?.checked || null;
+
+    // Update location filter
+    const locationInput = this.$('.search-filter[data-field="location"]');
+    this.activeFilters.locationFilter = locationInput ? locationInput.value.trim() : '';
   }
 
   extractYear(dateString) {
@@ -576,6 +641,7 @@ class EnhancedSearchComponent extends BaseComponent {
       birthYearRange: [1800, 2025],
       deathYearRange: [1800, 2025],
       locations: [],
+      locationFilter: '',
       hasPhotos: null,
       hasSpouse: null
     };
@@ -645,6 +711,34 @@ class EnhancedSearchComponent extends BaseComponent {
 
     document.body.appendChild(announcement);
     setTimeout(() => document.body.removeChild(announcement), 1000);
+  }
+
+  async initializeExportComponent() {
+    try {
+      this.exportComponent = new SearchExportComponent({
+        searchComponent: this
+      });
+      await this.exportComponent.init();
+
+      // Attach export button handler
+      const exportButton = this.$('.export-results');
+      if (exportButton) {
+        exportButton.addEventListener('click', () => {
+          if (this.exportComponent) {
+            this.exportComponent.exportCurrentResults('csv');
+          }
+        });
+      }
+
+      console.log('Export functionality initialized');
+    } catch (error) {
+      console.warn('Export functionality failed to initialize:', error);
+      // Graceful degradation - hide export button if it fails
+      const exportButton = this.$('.export-results');
+      if (exportButton) {
+        exportButton.style.display = 'none';
+      }
+    }
   }
 
   async loadLunrJs() {
