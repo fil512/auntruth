@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en" data-phase2-enabled>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Family Tree Test - AuntieRuth.com</title>
+
+        <!-- Base styles -->
+        <link href="../css/main.css" rel="stylesheet">
+        <link href="../css/navigation.css" rel="stylesheet">
+
+        <!-- Phase 2 component styles (loaded by integration script as well) -->
+        <link href="../css/family-tree.css" rel="stylesheet">
+        <link href="../css/enhanced-search.css" rel="stylesheet">
+        <link href="../css/information-disclosure.css" rel="stylesheet">
+
+        <style>
+            .test-controls {
+                background: #f8f9fa;
+                padding: 1rem;
+                margin: 1rem 0;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+            }
+
+            .test-controls button {
+                margin: 0.25rem;
+                padding: 0.5rem 1rem;
+                background: #007bff;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+            .test-controls button:hover {
+                background: #0056b3;
+            }
+
+            #family-tree-container {
+                min-height: 600px;
+                border: 1px solid #ddd;
+                margin: 1rem 0;
+                background: #fafafa;
+            }
+
+            .person-info {
+                background: white;
+                padding: 1rem;
+                margin: 1rem 0;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Skip link for accessibility -->
+        <a href="#main-content" class="skip-link">Skip to main content</a>
+
+        <!-- Main content -->
+        <main id="main-content" class="main-content" role="main">
+            <h1>Family Tree Component Test Page</h1>
+
+            <div class="person-info">
+                <h2>Test Person: Helen (ID: 99)</h2>
+                <p><strong>Father:</strong> Evert [Hagborg-Hansson] (ID: 97)</p>
+                <p><strong>Mother:</strong> Kerstin Hakanson- [Hagborg-Hansson] (ID: 96)</p>
+                <p><strong>Lineage:</strong> Hagborg-Hansson</p>
+                <p><strong>Birth Location:</strong> SWE</p>
+            </div>
+
+            <div class="test-controls">
+                <h3>Family Tree Test Controls</h3>
+                <button onclick="showFamilyTree(99)">Show Tree for Helen (ID: 99)</button>
+                <button onclick="showFamilyTree(97)">Show Tree for Evert (ID: 97)</button>
+                <button onclick="showFamilyTree(96)">Show Tree for Kerstin (ID: 96)</button>
+                <button onclick="showFamilyTree(191)">Show Tree for Person 191</button>
+                <button onclick="clearFamilyTree()">Clear Tree</button>
+                <button onclick="testUrlParameters()">Test URL Parameters</button>
+            </div>
+
+            <div id="family-tree-container">
+                <p style="text-align: center; padding: 2rem; color: #666;">
+                    Family tree will appear here. Click a button above to load a tree.
+                </p>
+            </div>
+
+            <div class="test-controls">
+                <h3>Component Status</h3>
+                <div id="component-status">
+                    <p>Loading component status...</p>
+                </div>
+            </div>
+
+            <div class="test-controls">
+                <h3>Test Results</h3>
+                <div id="test-results">
+                    <p>Test results will appear here...</p>
+                </div>
+            </div>
+        </main>
+
+        <!-- Phase 2 Integration Script -->
+        <script type="module" src="../js/phase2-integration.js"></script>
+
+        <script>
+            // Test functions
+            let phase2Integration = null;
+
+            // Wait for Phase 2 integration to load
+            document.addEventListener('DOMContentLoaded', async () => {
+                updateStatus('Initializing Phase 2 integration...');
+
+                try {
+                    // Check if Phase2Integration is available
+                    if (window.Phase2Integration) {
+                        phase2Integration = new window.Phase2Integration();
+                        await phase2Integration.init();
+                        updateStatus('✅ Phase 2 integration loaded successfully');
+                        runInitialTests();
+                    } else {
+                        updateStatus('❌ Phase2Integration not found');
+                    }
+                } catch (error) {
+                    updateStatus('❌ Error initializing: ' + error.message);
+                    console.error('Phase 2 initialization error:', error);
+                }
+            });
+
+            function updateStatus(message) {
+                const statusDiv = document.getElementById('component-status');
+                if (statusDiv) {
+                    statusDiv.innerHTML = '<p>' + message + '</p>';
+                }
+                console.log('Status:', message);
+            }
+
+            function updateTestResults(message) {
+                const resultsDiv = document.getElementById('test-results');
+                if (resultsDiv) {
+                    const timestamp = new Date().toLocaleTimeString();
+                    resultsDiv.innerHTML += '<p>[' + timestamp + '] ' + message + '</p>';
+                }
+                console.log('Test:', message);
+            }
+
+            async function showFamilyTree(personId) {
+                updateTestResults('Attempting to show family tree for person ID: ' + personId);
+
+                try {
+                    if (phase2Integration && phase2Integration.components.tree) {
+                        // Use existing family tree component
+                        await phase2Integration.showFamilyTree(personId);
+                        updateTestResults('✅ Family tree displayed for person ' + personId);
+                    } else if (window.FamilyTreeComponent) {
+                        // Create new instance
+                        const familyTree = new window.FamilyTreeComponent({
+                            focusPersonId: personId,
+                            container: '#family-tree-container',
+                            generations: 3
+                        });
+                        await familyTree.init();
+                        updateTestResults('✅ New family tree instance created for person ' + personId);
+                    } else {
+                        updateTestResults('❌ FamilyTreeComponent not available');
+                    }
+                } catch (error) {
+                    updateTestResults('❌ Error showing family tree: ' + error.message);
+                    console.error('Family tree error:', error);
+                }
+            }
+
+            function clearFamilyTree() {
+                const container = document.getElementById('family-tree-container');
+                if (container) {
+                    container.innerHTML = '<p style="text-align: center; padding: 2rem; color: #666;">Family tree cleared. Click a button above to load a tree.</p>';
+                    updateTestResults('Family tree container cleared');
+                }
+            }
+
+            function testUrlParameters() {
+                updateTestResults('Testing URL parameters...');
+
+                // Test different URL parameter scenarios
+                const testUrls = [
+                    '?focus=99',
+                    '?tree=true&focus=97',
+                    '?family-tree=true&focus=96&generations=4',
+                    '?lineage=1&focus=191'
+                ];
+
+                testUrls.forEach(url => {
+                    updateTestResults('Test URL: ' + window.location.pathname + url);
+                });
+
+                // Update current URL to test focus parameter
+                const newUrl = window.location.pathname + '?focus=99&tree=true';
+                window.history.pushState({}, '', newUrl);
+                updateTestResults('Updated URL to: ' + newUrl);
+            }
+
+            function runInitialTests() {
+                updateTestResults('=== Running Initial Component Tests ===');
+
+                // Test 1: Check D3.js availability
+                if (window.d3) {
+                    updateTestResults('✅ D3.js is available (version: ' + d3.version + ')');
+                } else {
+                    updateTestResults('❌ D3.js not found');
+                }
+
+                // Test 2: Check DataManager
+                if (window.DataManager) {
+                    updateTestResults('✅ DataManager is available');
+                } else {
+                    updateTestResults('❌ DataManager not found');
+                }
+
+                // Test 3: Check FamilyTreeComponent
+                if (window.FamilyTreeComponent) {
+                    updateTestResults('✅ FamilyTreeComponent is available');
+                } else {
+                    updateTestResults('❌ FamilyTreeComponent not found');
+                }
+
+                // Test 4: Check Phase 2 integration
+                if (phase2Integration) {
+                    updateTestResults('✅ Phase 2 integration active');
+                    updateTestResults('Available components: ' + Object.keys(phase2Integration.components).join(', '));
+                } else {
+                    updateTestResults('❌ Phase 2 integration not active');
+                }
+
+                // Test 5: Check CSS loading
+                const familyTreeCSS = document.querySelector('link[href*="family-tree.css"]');
+                if (familyTreeCSS) {
+                    updateTestResults('✅ Family tree CSS loaded');
+                } else {
+                    updateTestResults('❌ Family tree CSS not found');
+                }
+
+                updateTestResults('=== Initial tests complete ===');
+            }
+
+            // Listen for component events
+            document.addEventListener('person-selected', (event) => {
+                updateTestResults('📡 Person selected event: ' + JSON.stringify(event.detail));
+            });
+
+            document.addEventListener('tree-person-selected', (event) => {
+                updateTestResults('📡 Tree person selected event: ' + JSON.stringify(event.detail));
+            });
+        </script>
+    </body>
+</html>

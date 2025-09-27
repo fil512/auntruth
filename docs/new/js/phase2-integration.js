@@ -492,8 +492,9 @@ document.addEventListener('DOMContentLoaded', async () => {
       phase2Integration = new Phase2Integration();
       await phase2Integration.init();
 
-      // Make available globally for debugging
+      // Make available globally for debugging and test pages
       window.Phase2 = phase2Integration;
+      window.Phase2Integration = Phase2Integration;
 
     } catch (error) {
       console.error('Phase 2 initialization failed:', error);
