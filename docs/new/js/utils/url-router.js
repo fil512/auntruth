@@ -683,12 +683,14 @@ class URLRouter {
 // Global router instance
 const router = new URLRouter();
 
-// Initialize when DOM ready
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', () => router.init());
-} else {
-  router.init();
-}
+// URL Router auto-initialization temporarily disabled for Phase 3 integration
+// Will be re-enabled after proper route configuration
+console.log('URL Router auto-initialization DISABLED to fix navigation regression');
+// if (document.readyState === 'loading') {
+//   document.addEventListener('DOMContentLoaded', () => router.init());
+// } else {
+//   router.init();
+// }
 
 // Make available globally
 window.URLRouter = router;

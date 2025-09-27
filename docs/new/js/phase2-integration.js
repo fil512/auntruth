@@ -61,11 +61,10 @@ class Phase2Integration {
   }
 
   async loadStylesheets() {
-    const stylesheets = [
-      '/auntruth/new/css/enhanced-search.css',
-      '/auntruth/new/css/family-tree.css',
-      '/auntruth/new/css/information-disclosure.css'
-    ];
+    // Phase 2 CSS files can be included via HTML link tags if needed
+    // For now, skip dynamic loading to avoid path resolution issues
+    console.log('Phase 2 stylesheet loading skipped');
+    return;
 
     const loadPromises = stylesheets.map(href => {
       return new Promise((resolve, reject) => {

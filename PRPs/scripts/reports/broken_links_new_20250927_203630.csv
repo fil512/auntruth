@@ -1,0 +1,10 @@
+Broken_URL,HTTP_Status,Source_File,Original_Link_Text,Issue_Type,Suggested_Fix
+http://localhost:8000/auntruth/css/enhanced-search.css,404,test/family-tree-test.html,../css/enhanced-search.css,File Not Found,Verify file path and existence
+http://localhost:8000/auntruth/css/family-tree.css,404,test/family-tree-test.html,../css/family-tree.css,File Not Found,Verify file path and existence
+http://localhost:8000/auntruth/css/information-disclosure.css,404,test/family-tree-test.html,../css/information-disclosure.css,File Not Found,Verify file path and existence
+http://localhost:8000/auntruth/css/navigation.css,404,test/family-tree-test.html,../css/navigation.css,File Not Found,Verify file path and existence
+http://localhost:8000/auntruth/css/phase3-components.css,404,htm/L0/XF1028.htm,../../css/phase3-components.css,File Not Found,Verify file path and existence
+http://localhost:8000/auntruth/css/phase3-components.css,404,htm/L1/XF100.htm,../../css/phase3-components.css,File Not Found,Verify file path and existence
+http://localhost:8000/auntruth/js/phase2-integration.js,404,test/family-tree-test.html,../js/phase2-integration.js,File Not Found,Verify file path and existence
+http://localhost:8000/auntruth/js/phase3-integration.js?v=20250927f,404,htm/L0/XF1028.htm,../../js/phase3-integration.js?v=20250927f,File Not Found,Verify file path and existence
+http://localhost:8000/auntruth/js/phase3-integration.js?v=20250927f,404,htm/L1/XF100.htm,../../js/phase3-integration.js?v=20250927f,File Not Found,Verify file path and existence

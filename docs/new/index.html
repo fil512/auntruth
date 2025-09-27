@@ -7,12 +7,13 @@
         AuntieRuth.com - Modern Genealogy Experience
         </title>
         <meta name="description" content="Explore the modernized AuntieRuth.com genealogy database with enhanced navigation, search capabilities, and mobile-responsive design.">
-        <link href="/auntruth/new/css/main.css" rel="stylesheet">
-        <link href="/auntruth/new/css/navigation.css" rel="stylesheet">
+        <link href="css/main.css" rel="stylesheet">
+        <link href="css/navigation.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/phase3-components.css">
         <!-- Preload critical resources -->
-        <link rel="preload" href="/auntruth/new/js/navigation.js" as="script">
-        <link rel="preload" href="/auntruth/new/js/search.js" as="script">
-        <link rel="preload" href="/auntruth/new/js/data.json" as="fetch" crossorigin>
+        <link rel="preload" href="js/navigation.js" as="script">
+        <link rel="preload" href="js/search.js" as="script">
+        <link rel="preload" href="js/data.json" as="fetch" crossorigin>
         <!-- Open Graph meta tags -->
         <meta property="og:title" content="AuntieRuth.com - Modern Genealogy Experience">
         <meta property="og:description" content="Explore family history with enhanced navigation and search capabilities">
@@ -21,7 +22,7 @@
         <!-- Favicon -->
         <link rel="icon" type="image/x-icon" href="/favicon.ico">
     </head>
-    <body data-phase2-enabled>
+    <body data-phase2-enabled data-phase3-enabled>
         <!-- Skip link for accessibility -->
         <a href="#main-content" class="skip-link">
         Skip to main content
@@ -141,7 +142,7 @@
                     Browse family history organized by lineage
                 </p>
                 <div class="lineages-grid">
-                    <a href="/auntruth/new/htm/L0/" class="lineage-card">
+                    <a href="htm/L0/" class="lineage-card">
                     <h3>
                         Base Lineage
                     </h3>
@@ -152,7 +153,7 @@
                     L0
                     </span>
                     </a>
-                    <a href="/auntruth/new/htm/L1/" class="lineage-card featured">
+                    <a href="htm/L1/" class="lineage-card featured">
                     <h3>
                         Hagborg-Hansson
                     </h3>
@@ -163,7 +164,7 @@
                     L1
                     </span>
                     </a>
-                    <a href="/auntruth/new/htm/L2/" class="lineage-card">
+                    <a href="htm/L2/" class="lineage-card">
                     <h3>
                         Nelson
                     </h3>
@@ -174,7 +175,7 @@
                     L2
                     </span>
                     </a>
-                    <a href="/auntruth/new/htm/L3/" class="lineage-card">
+                    <a href="htm/L3/" class="lineage-card">
                     <h3>
                         Pringle-Hambley
                     </h3>
@@ -185,7 +186,7 @@
                     L3
                     </span>
                     </a>
-                    <a href="/auntruth/new/htm/L4/" class="lineage-card">
+                    <a href="htm/L4/" class="lineage-card">
                     <h3>
                         Lathrop-Lothropp
                     </h3>
@@ -196,7 +197,7 @@
                     L4
                     </span>
                     </a>
-                    <a href="/auntruth/new/htm/L5/" class="lineage-card">
+                    <a href="htm/L5/" class="lineage-card">
                     <h3>
                         Ward
                     </h3>
@@ -207,7 +208,7 @@
                     L5
                     </span>
                     </a>
-                    <a href="/auntruth/new/htm/L6/" class="lineage-card">
+                    <a href="htm/L6/" class="lineage-card">
                     <h3>
                         Selch-Weiss
                     </h3>
@@ -218,7 +219,7 @@
                     L6
                     </span>
                     </a>
-                    <a href="/auntruth/new/htm/L7/" class="lineage-card">
+                    <a href="htm/L7/" class="lineage-card">
                     <h3>
                         Stebbe
                     </h3>
@@ -229,7 +230,7 @@
                     L7
                     </span>
                     </a>
-                    <a href="/auntruth/new/htm/L8/" class="lineage-card">
+                    <a href="htm/L8/" class="lineage-card">
                     <h3>
                         Lentz
                     </h3>
@@ -240,7 +241,7 @@
                     L8
                     </span>
                     </a>
-                    <a href="/auntruth/new/htm/L9/" class="lineage-card">
+                    <a href="htm/L9/" class="lineage-card">
                     <h3>
                         Phoenix-Rogerson
                     </h3>
@@ -300,9 +301,9 @@
             </div>
         </footer>
         <!-- Enhanced navigation and search scripts -->
-        <script src="/auntruth/new/js/navigation.js" defer>
+        <script src="js/navigation.js" defer>
         </script>
-        <script src="/auntruth/new/js/search.js" defer>
+        <script src="js/search.js" defer>
         </script>
         <style>
         /* Landing page specific styles */
@@ -556,11 +557,12 @@
         }
         </style>
 
-        <!-- Enhanced navigation and search scripts -->
-        <script src="/auntruth/new/js/navigation.js" defer></script>
-        <script src="/auntruth/new/js/search.js" defer></script>
+        <!-- Enhanced navigation and search scripts (duplicates removed) -->
 
         <!-- Phase 2 Integration - Family Tree, Enhanced Search, Information Disclosure -->
-        <script type="module" src="/auntruth/new/js/phase2-integration.js"></script>
+        <script type="module" src="js/phase2-integration.js?v=20250927"></script>
+
+        <!-- Phase 3 Integration - Relationship Navigator, Timeline Visualization, URL Routing -->
+        <script type="module" src="js/phase3-integration.js?v=20250927f"></script>
     </body>
 </html>

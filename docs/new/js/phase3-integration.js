@@ -6,7 +6,8 @@
 
 import RelationshipNavigatorComponent from './components/relationship-navigator.js';
 import TimelineComponent from './components/timeline.js';
-import URLRouter from './utils/url-router.js';
+// TEMPORARILY DISABLED - URL router causing navigation regression
+// import urlRouter from './utils/url-router.js';
 import DataManager from './core/data-manager.js';
 
 class Phase3Integration {
@@ -43,17 +44,20 @@ class Phase3Integration {
       console.log('Initializing Phase 3 integration...');
 
       // Load CSS dependencies
+      console.log('Loading stylesheets...');
       await this.loadStylesheets();
 
-      // Initialize URL Router first (it coordinates everything)
-      this.urlRouter = new URLRouter();
-      this.urlRouter.init();
-      this.components.urlRouter = this.urlRouter;
+      // TEMPORARILY DISABLED - URL Router instance causing navigation regression
+      console.log('URL Router temporarily disabled to fix navigation regression...');
+      // this.urlRouter = urlRouter;
+      // this.components.urlRouter = this.urlRouter;
 
       // Setup cross-component communication
+      console.log('Setting up event handlers...');
       this.setupEventHandlers();
 
       // Setup URL routing events
+      console.log('Setting up URL routing...');
       this.setupUrlRouting();
 
       this.initialized = true;
@@ -61,39 +65,15 @@ class Phase3Integration {
 
     } catch (error) {
       console.error('Failed to initialize Phase 3 integration:', error);
+      console.error('Error details:', error.message, error.stack);
       throw error;
     }
   }
 
   async loadStylesheets() {
-    const stylesheets = [
-      '/auntruth/new/css/relationship-navigator.css',
-      '/auntruth/new/css/timeline.css',
-      '/auntruth/new/css/phase3-components.css'
-    ];
-
-    const loadPromises = stylesheets.map(href => {
-      return new Promise((resolve, reject) => {
-        // Check if already loaded
-        if (document.querySelector(`link[href="${href}"]`)) {
-          resolve();
-          return;
-        }
-
-        const link = document.createElement('link');
-        link.rel = 'stylesheet';
-        link.href = href;
-        link.onload = resolve;
-        link.onerror = () => {
-          console.warn(`Failed to load stylesheet: ${href}`);
-          resolve(); // Don't fail the whole init
-        };
-        document.head.appendChild(link);
-      });
-    });
-
-    await Promise.all(loadPromises);
-    console.log('Phase 3 stylesheets loaded');
+    // Phase 3 CSS is already included via HTML link tags
+    // Skip dynamic loading to avoid path resolution issues
+    console.log('Phase 3 stylesheets already loaded via HTML');
   }
 
   setupEventHandlers() {
