@@ -129,3 +129,4 @@ To activate Phase 3 features on any HTML page:
 3. **Test on staging** before production deployment
 4. **Monitor performance** and user feedback
 5. **Complete relationship finder modal** implementation (optional enhancement)
+- You can curl the contents of the docs folder at the endpoint localhost:8000/auntruth/. You never need to run a server; this server is always running. If you need to see the server code, it is in PRPs/server
