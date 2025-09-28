@@ -7,8 +7,7 @@
 import RelationshipNavigatorComponent from './components/relationship-navigator.js';
 import TimelineComponent from './components/timeline.js';
 import InformationDisclosureComponent from './components/information-disclosure.js';
-// TEMPORARILY DISABLED - URL router causing navigation regression
-// import urlRouter from './utils/url-router.js';
+import urlRouter from './utils/url-router.js';
 import DataManager from './core/data-manager.js';
 
 class Phase3Integration {
@@ -49,10 +48,10 @@ class Phase3Integration {
       console.log('Loading stylesheets...');
       await this.loadStylesheets();
 
-      // TEMPORARILY DISABLED - URL Router instance causing navigation regression
-      console.log('URL Router temporarily disabled to fix navigation regression...');
-      // this.urlRouter = urlRouter;
-      // this.components.urlRouter = this.urlRouter;
+      // URL Router integration restored after fixing navigation regression
+      console.log('Integrating URL Router with Phase 3 components...');
+      this.urlRouter = urlRouter;
+      this.components.urlRouter = this.urlRouter;
 
       // Setup cross-component communication
       console.log('Setting up event handlers...');

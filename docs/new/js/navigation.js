@@ -41,6 +41,9 @@ class NavigationComponent {
         this.setupEventListeners();
         this.setupMobileMenu();
         this.saveCurrentPage();
+
+        // Initialize URL Router after NavigationComponent is ready
+        this.initializeUrlRouter();
     }
 
     detectCurrentPage() {
@@ -700,6 +703,21 @@ class NavigationComponent {
             localStorage.setItem('auntieruth-recent-pages', JSON.stringify(trimmed));
         } catch (e) {
             console.warn('Failed to save current page to localStorage:', e);
+        }
+    }
+
+    initializeUrlRouter() {
+        // Dynamically import and initialize URL Router after navigation is ready
+        try {
+            // Check if URLRouter is available
+            if (typeof window.URLRouter !== 'undefined' && window.URLRouter.initializeWithNavigation) {
+                console.log('Initializing URL Router with NavigationComponent coordination...');
+                this.urlRouter = window.URLRouter.constructor.initializeWithNavigation(this);
+            } else {
+                console.log('URL Router not available or not properly loaded');
+            }
+        } catch (error) {
+            console.warn('Failed to initialize URL Router:', error);
         }
     }
 }

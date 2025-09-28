@@ -48,6 +48,9 @@ class Phase2Integration {
       // Setup URL state management
       this.setupUrlStateManagement();
 
+      // Coordinate with URL Router if available
+      this.coordinateWithUrlRouter();
+
       // Apply initial URL state
       this.applyUrlState();
 
@@ -464,6 +467,20 @@ class Phase2Integration {
 
   getComponent(type) {
     return this.components[type];
+  }
+
+  coordinateWithUrlRouter() {
+    // Coordinate with URL Router if available
+    try {
+      if (typeof window.URLRouter !== 'undefined' && window.URLRouter.coordinateWithPhase2) {
+        console.log('Coordinating Phase2Integration with URL Router...');
+        window.URLRouter.coordinateWithPhase2(this);
+      } else {
+        console.log('URL Router not available for coordination');
+      }
+    } catch (error) {
+      console.warn('Failed to coordinate with URL Router:', error);
+    }
   }
 
   destroy() {

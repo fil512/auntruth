@@ -20,6 +20,71 @@ class URLRouter {
     this.pageCallbacks = new Map();
   }
 
+  // Coordinated initialization with NavigationComponent
+  static initializeWithNavigation(navigationComponent) {
+    console.log('Initializing URL Router with NavigationComponent coordination...');
+
+    // Get the global router instance
+    const router = window.URLRouter || new URLRouter();
+
+    if (router.initialized) {
+      console.log('URL Router already initialized');
+      return router;
+    }
+
+    // Store reference to navigation component for coordination
+    router.navigationComponent = navigationComponent;
+
+    // Initialize router after NavigationComponent is ready
+    router.init();
+
+    return router;
+  }
+
+  // Coordinate with Phase2Integration URL state management
+  coordinateWithPhase2(phase2Integration) {
+    console.log('Coordinating URL Router with Phase2Integration...');
+    this.phase2Integration = phase2Integration;
+
+    // Override navigation to preserve query parameters
+    this.originalNavigate = this.navigate;
+    this.navigate = (path, preserveQuery = true) => {
+      let finalPath = path;
+
+      if (preserveQuery && this.phase2Integration) {
+        // Preserve current query parameters when navigating
+        const currentParams = new URLSearchParams(window.location.search);
+        if (currentParams.toString()) {
+          finalPath = `${path}?${currentParams.toString()}`;
+        }
+      }
+
+      return this.originalNavigate.call(this, finalPath);
+    };
+
+    // Coordinate popstate handling to avoid conflicts
+    this.originalSetupEventListeners = this.setupEventListeners;
+    this.setupEventListeners = () => {
+      // Only handle path changes, let Phase2 handle query param changes
+      window.addEventListener('popstate', (e) => {
+        const currentPath = window.location.pathname;
+        if (this.currentRoute !== currentPath) {
+          this.handleRoute(currentPath);
+        }
+      });
+
+      // Set up link click handling (already selective)
+      document.addEventListener('click', (e) => {
+        const link = e.target.closest('a[href]');
+        if (link && this.shouldInterceptLink(link)) {
+          e.preventDefault();
+          const path = new URL(link.href).pathname;
+          this.navigate(path);
+        }
+      });
+    };
+  }
+
   init() {
     if (this.initialized) return;
 
@@ -250,10 +315,10 @@ class URLRouter {
       this.handleRoute(window.location.pathname);
     });
 
-    // Handle internal link clicks
+    // Handle internal link clicks - SELECTIVE to avoid NavigationComponent conflicts
     document.addEventListener('click', (e) => {
       const link = e.target.closest('a[href]');
-      if (link && this.isInternalLink(link.href)) {
+      if (link && this.shouldInterceptLink(link)) {
         e.preventDefault();
         const path = new URL(link.href).pathname;
         this.navigate(path);
@@ -272,6 +337,34 @@ class URLRouter {
     } catch {
       return false;
     }
+  }
+
+  shouldInterceptLink(link) {
+    // Don't intercept if not an internal link
+    if (!this.isInternalLink(link.href)) return false;
+
+    // Don't intercept navigation UI elements
+    if (link.classList.contains('nav-link') ||
+        link.classList.contains('dropdown-toggle') ||
+        link.classList.contains('family-nav-toggle') ||
+        link.id === 'search-trigger' ||
+        link.closest('.top-nav') ||
+        link.closest('.family-nav-dropdown')) {
+      return false;
+    }
+
+    // Only intercept modern routing patterns
+    const path = new URL(link.href).pathname;
+    const modernPatterns = [
+      /^\/person\//,
+      /^\/search/,
+      /^\/timeline/,
+      /^\/family-tree/,
+      /^\/lineage\//,
+      /^\/relationship\//
+    ];
+
+    return modernPatterns.some(pattern => pattern.test(path));
   }
 
   addToHistory(path, params) {
@@ -683,14 +776,9 @@ class URLRouter {
 // Global router instance
 const router = new URLRouter();
 
-// URL Router auto-initialization temporarily disabled for Phase 3 integration
-// Will be re-enabled after proper route configuration
-console.log('URL Router auto-initialization DISABLED to fix navigation regression');
-// if (document.readyState === 'loading') {
-//   document.addEventListener('DOMContentLoaded', () => router.init());
-// } else {
-//   router.init();
-// }
+// URL Router auto-initialization restored with navigation coordination
+console.log('URL Router auto-initialization ENABLED with navigation coordination');
+// Note: Router will be initialized by NavigationComponent through coordinated initialization
 
 // Make available globally
 window.URLRouter = router;
