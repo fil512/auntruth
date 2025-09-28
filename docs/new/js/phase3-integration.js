@@ -6,6 +6,7 @@
 
 import RelationshipNavigatorComponent from './components/relationship-navigator.js';
 import TimelineComponent from './components/timeline.js';
+import InformationDisclosureComponent from './components/information-disclosure.js';
 // TEMPORARILY DISABLED - URL router causing navigation regression
 // import urlRouter from './utils/url-router.js';
 import DataManager from './core/data-manager.js';
@@ -15,6 +16,7 @@ class Phase3Integration {
     this.components = {
       relationshipNavigator: null,
       timeline: null,
+      informationDisclosure: null,
       urlRouter: null
     };
 
@@ -168,6 +170,15 @@ class Phase3Integration {
         case 'enhanced-search':
           // Enhanced search is handled by Phase 2 integration
           console.log('Enhanced search handled by Phase 2');
+          break;
+
+        case 'information-disclosure':
+          if (!this.components.informationDisclosure) {
+            this.components.informationDisclosure = new InformationDisclosureComponent({
+              dataManager: this.dataManager
+            });
+            await this.components.informationDisclosure.init();
+          }
           break;
 
         case 'family-tree':
@@ -412,6 +423,40 @@ class Phase3Integration {
     return this.components[type];
   }
 
+  async autoLoadComponents() {
+    console.log('Auto-detecting page components...');
+
+    // Detect person pages and load information disclosure
+    if (this.isPersonPage()) {
+      console.log('Person page detected, loading information disclosure...');
+      await this.initializeComponent('information-disclosure');
+    }
+
+    // Future: Add detection for other page types
+    // Timeline pages, search pages, etc.
+  }
+
+  isPersonPage() {
+    // Method 1: Check for table with id='List' (standard person page structure)
+    const personTable = document.querySelector('table#List');
+    if (personTable) {
+      return true;
+    }
+
+    // Method 2: Check URL pattern (e.g., /htm/L*/XF*.htm)
+    const url = window.location.pathname;
+    if (url.match(/\/htm\/L\d+\/XF\d+\.htm$/)) {
+      return true;
+    }
+
+    // Method 3: Check for data attribute
+    if (document.querySelector('[data-information-disclosure="true"]')) {
+      return true;
+    }
+
+    return false;
+  }
+
   destroy() {
     // Clean up all components
     Object.values(this.components).forEach(component => {
@@ -430,7 +475,7 @@ class Phase3Integration {
 // Auto-initialize on DOM ready
 let phase3Integration = null;
 
-document.addEventListener('DOMContentLoaded', async () => {
+async function initializePhase3() {
   // Only initialize in the new site structure
   if (window.location.pathname.includes('/new/') ||
       document.querySelector('[data-phase3-enabled]') ||
@@ -443,6 +488,9 @@ document.addEventListener('DOMContentLoaded', async () => {
       // Make available globally for debugging and external use
       window.Phase3 = phase3Integration;
 
+      // Auto-detect and load components based on page content
+      await phase3Integration.autoLoadComponents();
+
       // Integrate with Phase 2 if available
       if (window.Phase2) {
         console.log('Phase 3 integrated with Phase 2');
@@ -454,7 +502,14 @@ document.addEventListener('DOMContentLoaded', async () => {
       // Don't prevent page load - graceful degradation
     }
   }
-});
+}
+
+// Initialize immediately if DOM is already loaded, otherwise wait for DOMContentLoaded
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initializePhase3);
+} else {
+  initializePhase3();
+}
 
 // Global keyboard shortcuts for Phase 3 features
 document.addEventListener('keydown', (event) => {
