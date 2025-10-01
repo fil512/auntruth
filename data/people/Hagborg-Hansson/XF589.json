@@ -1,0 +1,74 @@
+{
+  "id": "XF589",
+  "name": "Helen  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, September 29, 1938",
+  "birthLocation": "Argyle MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF68",
+    "name": "Clarence Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF68.htm"
+  },
+  "mother": {
+    "id": "XF69",
+    "name": "Martha McDonald-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF69.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF590",
+      "name": "Edward Grant [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF590.htm",
+      "marriageDate": "Wednesday, January 01, 1958"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1250",
+      "name": "Wendy   Grant",
+      "url": "/auntruth/new/htm/L1/XF1250.htm",
+      "birthDate": "10/17/1965"
+    },
+    {
+      "id": "XF592",
+      "name": "Laurie   Grant",
+      "url": "/auntruth/new/htm/L1/XF592.htm",
+      "birthDate": "11/29/1961"
+    },
+    {
+      "id": "XF1246",
+      "name": "June   Grant",
+      "url": "/auntruth/new/htm/L1/XF1246.htm",
+      "birthDate": "09/07/1960"
+    },
+    {
+      "id": "XF593",
+      "name": "Wendy   Grant",
+      "url": "/auntruth/new/htm/L1/XF593.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF591",
+      "name": "June   Grant",
+      "url": "/auntruth/new/htm/L1/XF591.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Retired Licensed Practical Nurse",
+  "address": "1180 Fleet Ave. Winnipeg MB R3M 1L9 CAN",
+  "email": null,
+  "phone": "(204) 477-4036, (204) 477-4036",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Married in 1958 Birgit Johnson(#124) in Sweden corresponds with Helen.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:40Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF589.htm",
+    "extractionDate": "2025-10-01T04:27:31.923259Z"
+  }
+}

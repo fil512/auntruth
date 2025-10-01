@@ -1,0 +1,36 @@
+{
+  "id": "XF591",
+  "name": "June  Grant",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF590",
+    "name": "Edward Grant [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF590.htm"
+  },
+  "mother": {
+    "id": "XF589",
+    "name": "Helen Hagborg-Grant [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF589.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:41Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF591.htm",
+    "extractionDate": "2025-10-01T04:27:32.008525Z"
+  }
+}

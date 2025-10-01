@@ -1,0 +1,62 @@
+{
+  "id": "XF81",
+  "name": "Else  Hansdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, January 01, 1860",
+  "birthLocation": "Hagestad S0   SWE",
+  "deathDate": "Sunday, January 01, 1922",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF62",
+    "name": "Hans Olson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF62.htm"
+  },
+  "mother": {
+    "id": "XF63",
+    "name": "Hanna Borjesdotter-Olson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF63.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF82",
+      "name": "Matts Hakansson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF82.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF100",
+      "name": "Johanna   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF100.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF88",
+      "name": "Herman   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF88.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF83",
+      "name": "Borje   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF83.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Horup 7   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "Gift med Matts Hakonsson, skraddarnastare och kyrkovakmastare i Horup",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:40Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF81.htm",
+    "extractionDate": "2025-10-01T04:27:35.196070Z"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "XF189",
+  "name": "Douglas Bruce Hay",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, March 21, 1962",
+  "birthLocation": "Burlington ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF186",
+    "name": "Robert Alan Hay [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF186.htm"
+  },
+  "mother": {
+    "id": "XF185",
+    "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF185.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF827",
+      "name": "Pratibha Prathiba-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF827.htm",
+      "marriageDate": "Saturday, September 14, 1991"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2906",
+      "name": "Morgan Divia Hay",
+      "url": "/auntruth/new/htm/L1/XF2906.htm",
+      "birthDate": "11/19/2002"
+    },
+    {
+      "id": "XF2522",
+      "name": "Priyanka Minerva Hay",
+      "url": "/auntruth/new/htm/L1/XF2522.htm",
+      "birthDate": "08/19/1997"
+    }
+  ],
+  "occupation": "Electrical Engineer (MSc)",
+  "address": "32 Sapphire Crescent Brampton ON L6Z 4M5 CAN",
+  "email": "hayd@acm.org",
+  "phone": "905-840-1716, 905-840-1716",
+  "website": "www.acm.org",
+  "source": "Joyce Marion Hagborg-Hay",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Doug Hay Family",
+      "date": "Sunday, December 15, 2002",
+      "location": "Brampton Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI2016.htm"
+    },
+    {
+      "name": "At Joyce's",
+      "date": "Tuesday, October 01, 1996",
+      "location": "Brampton Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI713.htm"
+    },
+    {
+      "name": "At Al & Joyce's",
+      "date": "Monday, June 01, 1987",
+      "location": "Brampton Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI840.htm"
+    },
+    {
+      "name": "Graduation",
+      "date": "Monday, June 30, 1980",
+      "location": "Toronto Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1005.htm"
+    },
+    {
+      "name": "On the beach stairs",
+      "date": "Thursday, July 01, 1971",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI7.htm"
+    },
+    {
+      "name": "At the Pump-House",
+      "date": "Saturday, April 01, 1967",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI425.htm"
+    },
+    {
+      "name": "Doug age 4",
+      "date": "Monday, August 01, 1966",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1182.htm"
+    },
+    {
+      "name": "In a Photo-Booth",
+      "date": "Sunday, August 01, 1965",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1178.htm"
+    },
+    {
+      "name": "Uncle Duties",
+      "date": "Wednesday, October 31, 1962",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1129.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:54:05Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF189.htm",
+    "extractionDate": "2025-10-01T04:27:21.447754Z"
+  }
+}

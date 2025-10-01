@@ -1,0 +1,78 @@
+{
+  "id": "XF2422",
+  "name": "Elna  Johnson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2421",
+      "name": "Nils Olson(Wall) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2421.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF65",
+      "name": "Johanna   Wall",
+      "url": "/auntruth/new/htm/L1/XF65.htm",
+      "birthDate": "06/10/1876"
+    },
+    {
+      "id": "XF2446",
+      "name": "Kjestin   Wall",
+      "url": "/auntruth/new/htm/L1/XF2446.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2445",
+      "name": "Augusta   Wall",
+      "url": "/auntruth/new/htm/L1/XF2445.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2440",
+      "name": "Matilda   Wall",
+      "url": "/auntruth/new/htm/L1/XF2440.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2434",
+      "name": "Anna   Wall",
+      "url": "/auntruth/new/htm/L1/XF2434.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2424",
+      "name": "Maria   Wall",
+      "url": "/auntruth/new/htm/L1/XF2424.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2423",
+      "name": "Karna   Wall",
+      "url": "/auntruth/new/htm/L1/XF2423.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:10Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2422.htm",
+    "extractionDate": "2025-10-01T04:27:24.132984Z"
+  }
+}

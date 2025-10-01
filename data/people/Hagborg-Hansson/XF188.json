@@ -1,0 +1,103 @@
+{
+  "id": "XF188",
+  "name": "Alex F. Hay",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, May 18, 1904",
+  "birthLocation": "S2   UKGG",
+  "deathDate": "Tuesday, January 01, 1985",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF187",
+      "name": "Gowan Morison-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF187.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2237",
+      "name": "David   Hay",
+      "url": "/auntruth/new/htm/L1/XF2237.htm",
+      "birthDate": "01/01/1940"
+    },
+    {
+      "id": "XF186",
+      "name": "Robert Alan Hay",
+      "url": "/auntruth/new/htm/L1/XF186.htm",
+      "birthDate": "04/02/1936"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Joyce Marion Hagborg-Hay",
+  "notes": "Farmed grain and sheep in Foxwarren MB Canada",
+  "photos": [
+    {
+      "name": "At a restaurant",
+      "date": "Friday, September 03, 1982",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1006.htm"
+    },
+    {
+      "name": "In Garden",
+      "date": "Sunday, July 01, 1979",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1345.htm"
+    },
+    {
+      "name": "New Year's Eve 1975",
+      "date": "Wednesday, December 31, 1975",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI10.htm"
+    },
+    {
+      "name": "Picnic",
+      "date": "Friday, August 01, 1975",
+      "location": "British Columbia Canada",
+      "url": "/auntruth/new/htm/L3/XI919.htm"
+    },
+    {
+      "name": "On the Deck",
+      "date": "Monday, July 01, 1968",
+      "location": "Caddy Lake",
+      "url": "/auntruth/new/htm/L1/XI443.htm"
+    },
+    {
+      "name": "At the Pump-House",
+      "date": "Saturday, April 01, 1967",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI425.htm"
+    },
+    {
+      "name": "Opening of Glenlea Reseacrh Station (UofM)",
+      "date": "Tuesday, June 01, 1965",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1878.htm"
+    },
+    {
+      "name": "Joyce's Wedding",
+      "date": "Saturday, May 06, 1961",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2421.htm"
+    },
+    {
+      "name": "At the Hays",
+      "date": "Tuesday, July 01, 1958",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1336.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:54:05Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF188.htm",
+    "extractionDate": "2025-10-01T04:27:21.364528Z"
+  }
+}

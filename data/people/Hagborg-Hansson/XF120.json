@@ -1,0 +1,50 @@
+{
+  "id": "XF120",
+  "name": "Margit  Johnsson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF118",
+    "name": "Albin Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF118.htm"
+  },
+  "mother": {
+    "id": "XF119",
+    "name": "Ester -Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF119.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF121",
+      "name": "Ragnar Persson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF121.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF123",
+      "name": "Kolt   Persson",
+      "url": "/auntruth/new/htm/L1/XF123.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Hagestad 45 Loderup   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:02Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF120.htm",
+    "extractionDate": "2025-10-01T04:27:13.867290Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "XF2939",
+  "name": "Priya  Watson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2940",
+    "name": "X Watson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2940.htm"
+  },
+  "mother": {
+    "id": "XF2941",
+    "name": "X X []",
+    "url": "/auntruth/new/htm/L0/XF2941.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF190",
+      "name": "Ian David Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF190.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:00Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2939.htm",
+    "extractionDate": "2025-10-01T04:27:30.585593Z"
+  }
+}

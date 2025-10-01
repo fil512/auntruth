@@ -1,0 +1,50 @@
+{
+  "id": "XF2697",
+  "name": "Anders Larsson Sundberg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, February 23, 1850",
+  "birthLocation": "Solberga (Torsjo) S0   SWE",
+  "deathDate": "Monday, March 03, 1941",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2695",
+    "name": "Lars Rasmusson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2695.htm"
+  },
+  "mother": {
+    "id": "XF2696",
+    "name": "Kerstin Persdotter-Rasmusson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2696.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2698",
+      "name": "Johanna Nilsdotter-Sundberg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2698.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2699",
+      "name": "Emelie   Sundberg",
+      "url": "/auntruth/new/htm/L1/XF2699.htm",
+      "birthDate": "09/01/1889"
+    }
+  ],
+  "occupation": null,
+  "address": "Fergus Falls MN  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": "Ur Solberga fodelsebok 1850: Februari 23 foddes och d. 27 doptes husm. Lars Rasmussons och hustru Kerstina Persdotters son som bars till dopet af hustru Ingar Ifwards. Faddrar woro hsm Pehr Pehrsson och hustru Ingrid Pehrsdotter - alla i Thorsjo, Modren 34 ar.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:12Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2697.htm",
+    "extractionDate": "2025-10-01T04:27:28.093726Z"
+  }
+}

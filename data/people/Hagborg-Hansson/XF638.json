@@ -1,0 +1,36 @@
+{
+  "id": "XF638",
+  "name": "Anita  McLeod",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF608",
+    "name": "Gordon McLeod [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF608.htm"
+  },
+  "mother": {
+    "id": "XF635",
+    "name": "Janice -McLeod [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF635.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Walter Hagborg(Meadows MB)",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:01Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF638.htm",
+    "extractionDate": "2025-10-01T04:27:33.805577Z"
+  }
+}

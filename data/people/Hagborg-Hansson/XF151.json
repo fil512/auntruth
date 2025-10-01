@@ -1,0 +1,36 @@
+{
+  "id": "XF151",
+  "name": "Ants",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF150",
+    "name": "Ston  [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF150.htm"
+  },
+  "mother": {
+    "id": "XF149",
+    "name": "Unakerstin  [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF149.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:23Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF151.htm",
+    "extractionDate": "2025-10-01T04:27:18.162124Z"
+  }
+}

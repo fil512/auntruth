@@ -1,0 +1,35 @@
+{
+  "id": "XF2731",
+  "name": "Unknown  Unknown",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2729",
+      "name": "Thomas Morison [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2729.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bud Amy",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:28Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2731.htm",
+    "extractionDate": "2025-10-01T04:27:29.115713Z"
+  }
+}

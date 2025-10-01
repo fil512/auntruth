@@ -1,0 +1,54 @@
+{
+  "id": "XF82",
+  "name": "Matts  Hakansson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF81",
+      "name": "Else Hansdotter-Hakansson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF81.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF100",
+      "name": "Johanna   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF100.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF88",
+      "name": "Herman   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF88.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF83",
+      "name": "Borje   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF83.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:41Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF82.htm",
+    "extractionDate": "2025-10-01T04:27:35.217331Z"
+  }
+}

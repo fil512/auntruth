@@ -1,0 +1,42 @@
+{
+  "id": "XF900",
+  "name": "Ellena  Nilsdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF899",
+      "name": "Jons Hansson Siostrom [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF899.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF901",
+      "name": "Inger   Jonsdotter",
+      "url": "/auntruth/new/htm/L1/XF901.htm",
+      "birthDate": "01/21/1724"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Ken Stevens",
+  "notes": "Swedish Archives, Lund",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:00Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF900.htm",
+    "extractionDate": "2025-10-01T04:27:35.818722Z"
+  }
+}

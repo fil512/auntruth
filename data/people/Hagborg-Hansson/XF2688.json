@@ -1,0 +1,42 @@
+{
+  "id": "XF2688",
+  "name": "Lars",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2687",
+      "name": "Kerstina Martensdotter- [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2687.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2481",
+      "name": "Else (Elsa)   Larsdotter",
+      "url": "/auntruth/new/htm/L1/XF2481.htm",
+      "birthDate": "08/10/1750"
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:08Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2688.htm",
+    "extractionDate": "2025-10-01T04:27:27.663849Z"
+  }
+}

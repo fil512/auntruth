@@ -1,0 +1,42 @@
+{
+  "id": "XF2706",
+  "name": "Bentha  Jensdatter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Skivarp S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2705",
+      "name": "Per Trulsen (Trulsson) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2705.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2685",
+      "name": "Truls   Persson",
+      "url": "/auntruth/new/htm/L1/XF2685.htm",
+      "birthDate": "01/01/1685"
+    }
+  ],
+  "occupation": null,
+  "address": "S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:17Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2706.htm",
+    "extractionDate": "2025-10-01T04:27:28.634680Z"
+  }
+}

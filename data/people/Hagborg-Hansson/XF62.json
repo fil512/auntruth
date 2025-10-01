@@ -1,0 +1,86 @@
+{
+  "id": "XF62",
+  "name": "Hans  Olson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, January 31, 1838",
+  "birthLocation": "Ystad S0   SWE",
+  "deathDate": "Monday, February 27, 1882",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF906",
+    "name": "Ola Larsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF906.htm"
+  },
+  "mother": {
+    "id": "XF905",
+    "name": "Matta Hansdotter-Larsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF905.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF63",
+      "name": "Hanna Borjesdotter-Olson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF63.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF139",
+      "name": "Una   Hansdotter",
+      "url": "/auntruth/new/htm/L1/XF139.htm",
+      "birthDate": "05/01/1878"
+    },
+    {
+      "id": "XF107",
+      "name": "Elna   Hansdotter",
+      "url": "/auntruth/new/htm/L1/XF107.htm",
+      "birthDate": "01/01/1873"
+    },
+    {
+      "id": "XF64",
+      "name": "Anders(Andrew)   Hagborg(Hansson)",
+      "url": "/auntruth/new/htm/L1/XF64.htm",
+      "birthDate": "01/01/1871"
+    },
+    {
+      "id": "XF4",
+      "name": "Borje   Hansson(Hagborg)",
+      "url": "/auntruth/new/htm/L1/XF4.htm",
+      "birthDate": "05/21/1866"
+    },
+    {
+      "id": "XF81",
+      "name": "Else   Hansdotter",
+      "url": "/auntruth/new/htm/L1/XF81.htm",
+      "birthDate": "01/01/1860"
+    },
+    {
+      "id": "XF79",
+      "name": "Ola   Hansson",
+      "url": "/auntruth/new/htm/L1/XF79.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF76",
+      "name": "Matta (Marta) (Martha) Hannadotter-Hagborg",
+      "url": "/auntruth/new/htm/L1/XF76.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Ystad S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Walter Arnold Ferdinand Hagborg",
+  "notes": "Father of Borge Hagborg. Lived on Hagestaborg (as tenant farmer(?)) which is a manor(now museum) near Ystad (SE of Malmoe). Some talk of liquor. Swedish Archives, Lund",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:28Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF62.htm",
+    "extractionDate": "2025-10-01T04:27:33.078111Z"
+  }
+}

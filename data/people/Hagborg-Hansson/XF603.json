@@ -1,0 +1,48 @@
+{
+  "id": "XF603",
+  "name": "Richard  Hodges",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, May 19, 1938",
+  "birthLocation": "Joplin MO   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF602",
+      "name": "Ann Joy Mykle-Hodges [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF602.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF605",
+      "name": "Christina   Hodges",
+      "url": "/auntruth/new/htm/L1/XF605.htm",
+      "birthDate": "12/26/1967"
+    },
+    {
+      "id": "XF604",
+      "name": "Mark   Hodges",
+      "url": "/auntruth/new/htm/L1/XF604.htm",
+      "birthDate": "10/03/1961"
+    }
+  ],
+  "occupation": "Lutheran Church Pastor",
+  "address": "1939 Upper Afton Rd. St. Paul MI 55119 USA",
+  "email": null,
+  "phone": "612-739-7963, 612-739-7963",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Lutheran minister.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:46Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF603.htm",
+    "extractionDate": "2025-10-01T04:27:32.721932Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "XF66",
+  "name": "Victor  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, January 01, 1896",
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF64",
+    "name": "Anders(Andrew) Hagborg(Hansson) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF64.htm"
+  },
+  "mother": {
+    "id": "XF65",
+    "name": "Johanna Wall-Hagborg(Hansson)-Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF65.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF67",
+      "name": "Bessie McCready-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF67.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF577",
+      "name": "Edith Joan Hagborg",
+      "url": "/auntruth/new/htm/L1/XF577.htm",
+      "birthDate": "06/04/1926"
+    },
+    {
+      "id": "XF575",
+      "name": "Andrew Victor Hagborg",
+      "url": "/auntruth/new/htm/L1/XF575.htm",
+      "birthDate": "03/25/1925"
+    }
+  ],
+  "occupation": null,
+  "address": "Meadows MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Oldest of family, has clear recollection of moving to Meadows and seeing nothing but a big swamp - no roads, just a railway. He worked at home on the farm and at various other interesting jobs during the winters - hauling fill for the basement of the Fort Garry Hotel; helping to dig the reservoir on Logan and McPhillips; and at Arctic Ice for 3 winters. In 1914, Victor and his friend Andy Hanson, went to Pine River in northern Manitoba where they tended a trap line for the winter. The next 2 winters he spent at Berens River and near Hodgson, trapping and hunting. In 1918 he was concripted into the Canadian Army, Fort Garry Horse Division. After a short period of training he was sent to England to await draft for France. The Armistice was signed. He stayed in Meadows til 1922 when went to Bresaylor, SK to manage a farm for W. Herriot. Married Bessie & returned to Meadows in 1924 & built own home on farm. Victor has always been interested in making Meadows a better community & has held many municipal executive positions. Had large rock collection & did cutting/",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:31Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF66.htm",
+    "extractionDate": "2025-10-01T04:27:34.141280Z"
+  }
+}

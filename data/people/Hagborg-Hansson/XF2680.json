@@ -1,0 +1,43 @@
+{
+  "id": "XF2680",
+  "name": "George  Morison",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2678",
+    "name": "Patrick Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2678.htm"
+  },
+  "mother": {
+    "id": "XF2679",
+    "name": "Jessie Henderson-Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2679.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2748",
+      "name": "Barbara   Morison",
+      "url": "/auntruth/new/htm/L1/XF2748.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Toronto ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:05Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2680.htm",
+    "extractionDate": "2025-10-01T04:27:27.456918Z"
+  }
+}

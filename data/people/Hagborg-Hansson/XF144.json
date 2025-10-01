@@ -1,0 +1,55 @@
+{
+  "id": "XF144",
+  "name": "Bo  Svenson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF143",
+      "name": "Ingrid Martensson-Svenson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF143.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF146",
+      "name": "Mots   Svenson",
+      "url": "/auntruth/new/htm/L1/XF146.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF145",
+      "name": "Agneta   Svenson",
+      "url": "/auntruth/new/htm/L1/XF145.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Fosievagen 71 Malmo  24159 SWE",
+  "email": null,
+  "phone": "040/920791, 040/920791",
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [
+    {
+      "name": "At Manfred Martensson's",
+      "date": "Tuesday, May 21, 1974",
+      "location": "Malmo Sweden General Sweden",
+      "url": "/auntruth/new/htm/L1/XI98.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:18Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF144.htm",
+    "extractionDate": "2025-10-01T04:27:17.769901Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "XF107",
+  "name": "Elna  Hansdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, January 01, 1873",
+  "birthLocation": "Hagestad S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF62",
+    "name": "Hans Olson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF62.htm"
+  },
+  "mother": {
+    "id": "XF63",
+    "name": "Hanna Borjesdotter-Olson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF63.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF108",
+      "name": "Anders Johnsson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF108.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF127",
+      "name": "Hemfrid   Johnsson",
+      "url": "/auntruth/new/htm/L1/XF127.htm",
+      "birthDate": "01/01/1910"
+    },
+    {
+      "id": "XF118",
+      "name": "Albin   Johnsson",
+      "url": "/auntruth/new/htm/L1/XF118.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF109",
+      "name": "Johan   Johnsson",
+      "url": "/auntruth/new/htm/L1/XF109.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:55Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF107.htm",
+    "extractionDate": "2025-10-01T04:27:13.173703Z"
+  }
+}

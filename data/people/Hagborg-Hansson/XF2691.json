@@ -1,0 +1,50 @@
+{
+  "id": "XF2691",
+  "name": "Per  Martensson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Friday, March 14, 1749",
+  "birthLocation": "Sjorup     SWE",
+  "deathDate": "Tuesday, March 31, 1812",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2689",
+    "name": "Marten Larsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2689.htm"
+  },
+  "mother": {
+    "id": "XF2690",
+    "name": "Bereta Trulsdotter-Larsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2690.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2692",
+      "name": "Karna Larsdotter-Martensson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2692.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2694",
+      "name": "Bereta   Persdotter",
+      "url": "/auntruth/new/htm/L1/XF2694.htm",
+      "birthDate": "12/03/1785"
+    }
+  ],
+  "occupation": null,
+  "address": "Sjorup 5 S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:10Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2691.htm",
+    "extractionDate": "2025-10-01T04:27:27.788938Z"
+  }
+}

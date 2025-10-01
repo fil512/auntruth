@@ -1,0 +1,60 @@
+{
+  "id": "XF578",
+  "name": "William  Shimmin",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Minneapolis MI   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF577",
+      "name": "Edith Joan Hagborg-Shimmin [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF577.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF581",
+      "name": "Kelly   Shimmin",
+      "url": "/auntruth/new/htm/L1/XF581.htm",
+      "birthDate": "09/26/1964"
+    },
+    {
+      "id": "XF580",
+      "name": "Nancy   Shimmin",
+      "url": "/auntruth/new/htm/L1/XF580.htm",
+      "birthDate": "09/07/1959"
+    },
+    {
+      "id": "XF579",
+      "name": "Kerry   Shimmin",
+      "url": "/auntruth/new/htm/L1/XF579.htm",
+      "birthDate": "04/20/1950"
+    },
+    {
+      "id": "XF1237",
+      "name": "Peggy   Shimmin",
+      "url": "/auntruth/new/htm/L1/XF1237.htm",
+      "birthDate": "11/06/1948"
+    }
+  ],
+  "occupation": null,
+  "address": "Grant's Park OR  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "X-Ray technician",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:35Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF578.htm",
+    "extractionDate": "2025-10-01T04:27:31.324613Z"
+  }
+}

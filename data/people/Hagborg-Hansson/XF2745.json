@@ -1,0 +1,42 @@
+{
+  "id": "XF2745",
+  "name": "Ruth Evelyne Lyster",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2680",
+      "name": "George Morison [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2680.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2748",
+      "name": "Barbara   Morison",
+      "url": "/auntruth/new/htm/L1/XF2748.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "ON   CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bud Amy",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:34Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2745.htm",
+    "extractionDate": "2025-10-01T04:27:29.867917Z"
+  }
+}

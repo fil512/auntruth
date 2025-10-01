@@ -1,0 +1,56 @@
+{
+  "id": "XF123",
+  "name": "Kolt  Persson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF121",
+    "name": "Ragnar Persson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF121.htm"
+  },
+  "mother": {
+    "id": "XF120",
+    "name": "Margit Johnsson-Persson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF120.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF124",
+      "name": "Amkrestin -Persson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF124.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF126",
+      "name": "Bjorn   Persson",
+      "url": "/auntruth/new/htm/L1/XF126.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF125",
+      "name": "Frederik   Persson",
+      "url": "/auntruth/new/htm/L1/XF125.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:04Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF123.htm",
+    "extractionDate": "2025-10-01T04:27:14.093656Z"
+  }
+}

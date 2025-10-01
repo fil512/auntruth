@@ -1,0 +1,66 @@
+{
+  "id": "XF607",
+  "name": "Murray  McLeod",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, February 16, 1930",
+  "birthLocation": "Stonewall MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF606",
+      "name": "Shirley Hagborg-McLeod [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF606.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF629",
+      "name": "Larry   McLeod",
+      "url": "/auntruth/new/htm/L1/XF629.htm",
+      "birthDate": "01/13/1970"
+    },
+    {
+      "id": "XF628",
+      "name": "Shannon   McLeod",
+      "url": "/auntruth/new/htm/L1/XF628.htm",
+      "birthDate": "10/03/1963"
+    },
+    {
+      "id": "XF627",
+      "name": "Sherrie   McLeod",
+      "url": "/auntruth/new/htm/L1/XF627.htm",
+      "birthDate": "06/09/1959"
+    },
+    {
+      "id": "XF626",
+      "name": "Allen   McLeod",
+      "url": "/auntruth/new/htm/L1/XF626.htm",
+      "birthDate": "10/06/1957"
+    },
+    {
+      "id": "XF608",
+      "name": "Gordon   McLeod",
+      "url": "/auntruth/new/htm/L1/XF608.htm",
+      "birthDate": "12/24/1954"
+    }
+  ],
+  "occupation": "Retired Farmer",
+  "address": "Box 12 Marquette MB R0H 0V0 CAN",
+  "email": null,
+  "phone": "204-322-5677, 204-322-5677",
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "married in 1954 does off the farm carpenter work in winter",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:48Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF607.htm",
+    "extractionDate": "2025-10-01T04:27:32.937944Z"
+  }
+}

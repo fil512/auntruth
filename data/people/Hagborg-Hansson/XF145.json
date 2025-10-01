@@ -1,0 +1,36 @@
+{
+  "id": "XF145",
+  "name": "Agneta  Svenson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF144",
+    "name": "Bo Svenson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF144.htm"
+  },
+  "mother": {
+    "id": "XF143",
+    "name": "Ingrid Martensson-Svenson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF143.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Fosievagen 71 Malmo  24159 SWE",
+  "email": null,
+  "phone": "040/920791, 040/920791",
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:19Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF145.htm",
+    "extractionDate": "2025-10-01T04:27:17.848603Z"
+  }
+}

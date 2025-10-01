@@ -1,0 +1,43 @@
+{
+  "id": "XF2746",
+  "name": "Edwena Denise Morison",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2741",
+    "name": "Edward Cruikshanks Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2741.htm"
+  },
+  "mother": {
+    "id": "XF2742",
+    "name": "Elizabeth May Welsh-Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2742.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2747",
+      "name": "Le Roy (Bud) Wellington Amy [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2747.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Box 643 Minnedosa MB ROJ 1E0 CAN",
+  "email": "amyco@escape.ca",
+  "phone": "(204) 867-2311, (204) 867-2311",
+  "website": null,
+  "source": "Bud Amy",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:35Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2746.htm",
+    "extractionDate": "2025-10-01T04:27:29.893751Z"
+  }
+}

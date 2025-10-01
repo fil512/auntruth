@@ -9,6 +9,20 @@
 - If a script fails, use `git checkout` to revert changes
 - REMOVE any existing backup files immediately upon discovery
 
+## CRITICAL: CSS BEST PRACTICES
+**NEVER USE !important IN CSS**
+- CSS specificity should be managed through proper selector hierarchy, not !important
+- Using !important creates maintenance nightmares and specificity wars
+- It breaks the CSS cascade and makes debugging extremely difficult
+- If styles aren't applying, fix the root cause (selector specificity, load order, inheritance)
+- Valid alternatives to !important:
+  - Increase selector specificity (e.g., `body table#List` instead of `table`)
+  - Adjust CSS file load order in HTML
+  - Use more specific selectors (IDs, multiple classes, descendant selectors)
+  - Refactor conflicting styles at their source
+- The ONLY acceptable use of !important is in utility classes specifically designed to override everything (and even then, reconsider)
+- If you encounter !important in existing code, remove it and fix the underlying specificity issue
+
 ## Python Script Guidelines
 
 ### Before Writing New Scripts

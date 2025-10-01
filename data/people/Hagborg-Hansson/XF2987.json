@@ -1,0 +1,87 @@
+{
+  "id": "XF2987",
+  "name": "Tremaine  Burrows",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, January 01, 1964",
+  "birthLocation": "CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2988",
+    "name": "Burrows [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF2988.htm"
+  },
+  "mother": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF193",
+      "name": "Sara Brandyn Hagborg-Burrows [Hagborg-Hansson]",
+      "url": "/auntruth/htm/L1/XF193.htm",
+      "marriageDate": "Sunday, May 01, 2005"
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Tremaine & Oleg",
+      "date": "Sunday, December 18, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/htm/L1/XI2721.htm"
+    },
+    {
+      "name": "Christmas 2005",
+      "date": "Sunday, December 18, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/htm/L1/XI2719.htm"
+    },
+    {
+      "name": "In front of Rae & Jerry's",
+      "date": "Friday, November 11, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/htm/L1/XI2710.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Birthday Party in front of Rae & Jerry's",
+      "date": "Friday, November 11, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/htm/L1/XI2709.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:42:09Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2987.htm",
+    "extractionDate": "2025-10-01T04:27:30.810752Z"
+  }
+}

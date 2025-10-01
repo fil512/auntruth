@@ -1,0 +1,36 @@
+{
+  "id": "XF735",
+  "name": "Daniel  McCuish",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF733",
+    "name": "John (Mac) McCuish []",
+    "url": "/auntruth/new/htm/L0/XF733.htm"
+  },
+  "mother": {
+    "id": "XF734",
+    "name": "Doris Carlson-McCuish [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF734.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:43Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF735.htm",
+    "extractionDate": "2025-10-01T04:27:34.632730Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "XF1246",
+  "name": "June  Grant",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, September 07, 1960",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF590",
+    "name": "Edward Grant [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF590.htm"
+  },
+  "mother": {
+    "id": "XF589",
+    "name": "Helen Hagborg-Grant [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF589.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1247",
+      "name": "Dave Kush [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1247.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1249",
+      "name": "Darren   Kush",
+      "url": "/auntruth/new/htm/L1/XF1249.htm",
+      "birthDate": "07/22/1993"
+    },
+    {
+      "id": "XF1248",
+      "name": "Steven   Kush",
+      "url": "/auntruth/new/htm/L1/XF1248.htm",
+      "birthDate": "12/10/1989"
+    }
+  ],
+  "occupation": "Homemaker",
+  "address": "Box 833 Pine Falls MB R0E 1M0 CAN",
+  "email": null,
+  "phone": "204-367-2760, 204-367-2760",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:51Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1246.htm",
+    "extractionDate": "2025-10-01T04:27:15.147924Z"
+  }
+}

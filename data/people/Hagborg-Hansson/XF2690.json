@@ -1,0 +1,56 @@
+{
+  "id": "XF2690",
+  "name": "Bereta  Trulsdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, February 14, 1725",
+  "birthLocation": "O. Vemmenhog S0   SWE",
+  "deathDate": "Monday, August 15, 1774",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2685",
+    "name": "Truls Persson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2685.htm"
+  },
+  "mother": {
+    "id": "XF2686",
+    "name": "Anna Persdotter-Persson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2686.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2689",
+      "name": "Marten Larsson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2689.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2687",
+      "name": "Kerstina   Martensdotter",
+      "url": "/auntruth/new/htm/L1/XF2687.htm",
+      "birthDate": "08/10/1750"
+    },
+    {
+      "id": "XF2691",
+      "name": "Per   Martensson",
+      "url": "/auntruth/new/htm/L1/XF2691.htm",
+      "birthDate": "03/14/1749"
+    }
+  ],
+  "occupation": null,
+  "address": "Katslosa   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:09Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2690.htm",
+    "extractionDate": "2025-10-01T04:27:27.767169Z"
+  }
+}

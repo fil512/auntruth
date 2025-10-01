@@ -1,0 +1,35 @@
+{
+  "id": "XF2242",
+  "name": "Josie",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2241",
+      "name": "J. Brian King [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2241.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "J. Brian Kirkpatrick King",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:51Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2242.htm",
+    "extractionDate": "2025-10-01T04:27:23.689209Z"
+  }
+}

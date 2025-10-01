@@ -1,0 +1,36 @@
+{
+  "id": "XF122",
+  "name": "Lisbeth Kell Persson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF118",
+    "name": "Albin Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF118.htm"
+  },
+  "mother": {
+    "id": "XF119",
+    "name": "Ester -Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF119.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:03Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF122.htm",
+    "extractionDate": "2025-10-01T04:27:13.969207Z"
+  }
+}

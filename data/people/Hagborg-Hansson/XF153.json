@@ -1,0 +1,35 @@
+{
+  "id": "XF153",
+  "name": "Margareta",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF154",
+      "name": "Gunnar Martendahl [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF154.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Aleby Gard Stallarholmun   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Auntie Esther Hagborg-Sahlgren",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:24Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF153.htm",
+    "extractionDate": "2025-10-01T04:27:18.272567Z"
+  }
+}

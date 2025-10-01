@@ -1,0 +1,36 @@
+{
+  "id": "XF739",
+  "name": "Bruce  Rothwell",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF737",
+    "name": "Jim Rothwell []",
+    "url": "/auntruth/new/htm/L0/XF737.htm"
+  },
+  "mother": {
+    "id": "XF736",
+    "name": "Irene Carlson-Rothwell [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF736.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Meadows MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:44Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF739.htm",
+    "extractionDate": "2025-10-01T04:27:34.757195Z"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "XF595",
+  "name": "Harry  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, September 10, 1900",
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": "Saturday, March 28, 1992",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF64",
+    "name": "Anders(Andrew) Hagborg(Hansson) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF64.htm"
+  },
+  "mother": {
+    "id": "XF65",
+    "name": "Johanna Wall-Hagborg(Hansson)-Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF65.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF594",
+      "name": "Mary(May) Maskell-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF594.htm",
+      "marriageDate": "Saturday, November 24, 1934"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF600",
+      "name": "Elaine   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF600.htm",
+      "birthDate": "02/04/1941"
+    },
+    {
+      "id": "XF598",
+      "name": "Walter   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF598.htm",
+      "birthDate": "07/08/1939"
+    },
+    {
+      "id": "XF596",
+      "name": "Edith(Edie)   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF596.htm",
+      "birthDate": "04/28/1936"
+    }
+  ],
+  "occupation": null,
+  "address": "Stonewood Stonewall MB  CAN",
+  "email": null,
+  "phone": "(204) 467-8284, (204) 467-8284",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Recalls that in 1912 summer family bought 25 HP International tractor that pulled 5 breaker ploughs. Harry and brothers broke 100 acres on section 31-12-1W. In 1922 after helping to complete an early harvest at home, Harry went with Tom Sinclair to Flaxcombe SK as a harvester. He spent a winter at a Kenora paper mill as mill wright helper. Also worked 1 winter for Fort Rouge Coal Co. Married in 1934. Then purchased farm from the Soldier Settlement Board which had been occupied by John Smith family. This was in addition to 240 acres bought previously from W. Herriot. Harry has been noted for his mechanical inventiveness & holds a patent for  a swath mover. Sold the farm in 1967 to son Walter. Spoke only Swedish til age 6. Has amusing story about causing teacher to faint when he was 7 and responsible for starting the morning fire in school - cut himself & could see tendons, knuckles - Brandy was impressed! Also at same age had to go 7 miles to Marquette for groceries by himself. Ended up sleeping in a haystack overnight.",
+  "photos": [
+    {
+      "name": "Obituary Harry Hagborg",
+      "date": "Tuesday, March 31, 1992",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1377.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:42Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF595.htm",
+    "extractionDate": "2025-10-01T04:27:32.244842Z"
+  }
+}

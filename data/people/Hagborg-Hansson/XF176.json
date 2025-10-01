@@ -1,0 +1,42 @@
+{
+  "id": "XF176",
+  "name": "Marilyn Marie Gamball",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF175",
+      "name": "Ronald Carl Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF175.htm",
+      "marriageDate": "Saturday, October 14, 1967"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF177",
+      "name": "Melanie Ann Sahlgren",
+      "url": "/auntruth/new/htm/L1/XF177.htm",
+      "birthDate": "05/04/1968"
+    }
+  ],
+  "occupation": null,
+  "address": "ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:43Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF176.htm",
+    "extractionDate": "2025-10-01T04:27:20.160752Z"
+  }
+}

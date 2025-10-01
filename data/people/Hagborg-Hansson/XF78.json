@@ -1,0 +1,43 @@
+{
+  "id": "XF78",
+  "name": "Oscar  Anderson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Minnedosa MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF77",
+    "name": "Torsten (Charlie) Andersson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF77.htm"
+  },
+  "mother": {
+    "id": "XF76",
+    "name": "Matta (Marta) (Martha) Hannadotter-Hagborg-Andersson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF76.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Minnedosa MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [
+    {
+      "name": "The Manitoba Hagborgs 1892",
+      "date": "Tuesday, September 20, 1892",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1376.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:38Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF78.htm",
+    "extractionDate": "2025-10-01T04:27:35.064575Z"
+  }
+}

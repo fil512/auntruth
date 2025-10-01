@@ -1,0 +1,50 @@
+{
+  "id": "XF2685",
+  "name": "Truls  Persson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, January 01, 1685",
+  "birthLocation": "O. Vemmenhog 22 S0   SWE",
+  "deathDate": "Friday, June 10, 1774",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2705",
+    "name": "Per Trulsen (Trulsson) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2705.htm"
+  },
+  "mother": {
+    "id": "XF2706",
+    "name": "Bentha Jensdatter-Trulsen (Trulsson) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2706.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2686",
+      "name": "Anna Persdotter-Persson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2686.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2690",
+      "name": "Bereta   Trulsdotter",
+      "url": "/auntruth/new/htm/L1/XF2690.htm",
+      "birthDate": "02/14/1725"
+    }
+  ],
+  "occupation": null,
+  "address": "O. Vemmenhog S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:07Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2685.htm",
+    "extractionDate": "2025-10-01T04:27:27.478280Z"
+  }
+}

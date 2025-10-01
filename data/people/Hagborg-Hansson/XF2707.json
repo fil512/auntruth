@@ -1,0 +1,42 @@
+{
+  "id": "XF2707",
+  "name": "Truls  Larsen (Larsson)",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, January 01, 1600",
+  "birthLocation": "O. Vemmenhog 22 S0   SWE",
+  "deathDate": "Friday, September 18, 1676",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2708",
+      "name": "Sine Madsdatter-Larsen (Larsson) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2708.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2705",
+      "name": "Per   Trulsen (Trulsson)",
+      "url": "/auntruth/new/htm/L1/XF2705.htm",
+      "birthDate": "01/01/1620"
+    }
+  ],
+  "occupation": null,
+  "address": "O. Vemmenhog 22 S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:17Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2707.htm",
+    "extractionDate": "2025-10-01T04:27:28.714384Z"
+  }
+}

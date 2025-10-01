@@ -1,0 +1,42 @@
+{
+  "id": "XF2693",
+  "name": "Rasmus  Persson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, January 01, 1766",
+  "birthLocation": "N. Vallosa 5 S0   SWE",
+  "deathDate": "Saturday, July 05, 1817",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2694",
+      "name": "Bereta Persdotter-Persson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2694.htm",
+      "marriageDate": "Wednesday, January 01, 1806"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2695",
+      "name": "Lars   Rasmusson",
+      "url": "/auntruth/new/htm/L1/XF2695.htm",
+      "birthDate": "12/19/1810"
+    }
+  ],
+  "occupation": null,
+  "address": "Sjorup (N. Vallosa 5) S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:11Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2693.htm",
+    "extractionDate": "2025-10-01T04:27:27.888468Z"
+  }
+}

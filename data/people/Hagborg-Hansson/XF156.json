@@ -1,0 +1,43 @@
+{
+  "id": "XF156",
+  "name": "Harry  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, August 10, 1893",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Tuesday, July 24, 1894",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF4",
+    "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF4.htm"
+  },
+  "mother": {
+    "id": "XF3",
+    "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF3.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Walter Arnold Ferdinand Hagborg",
+  "notes": "Died in infancy of 'summer complaint'. Buried at Brookside Cemetery Winnipeg.",
+  "photos": [
+    {
+      "name": "Uncle Harry (died in infancy)",
+      "date": "Sunday, December 10, 1893",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1380.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:25Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF156.htm",
+    "extractionDate": "2025-10-01T04:27:18.390683Z"
+  }
+}

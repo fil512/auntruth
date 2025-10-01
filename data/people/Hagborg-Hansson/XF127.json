@@ -1,0 +1,75 @@
+{
+  "id": "XF127",
+  "name": "Hemfrid  Johnsson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, January 01, 1910",
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF108",
+    "name": "Anders Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF108.htm"
+  },
+  "mother": {
+    "id": "XF107",
+    "name": "Elna Hansdotter-Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF107.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF128",
+      "name": "Else -Johnsson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF128.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF135",
+      "name": "Ingrid   Johnsson",
+      "url": "/auntruth/new/htm/L1/XF135.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF132",
+      "name": "Borje   Johnsson",
+      "url": "/auntruth/new/htm/L1/XF132.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF129",
+      "name": "Gertrud   Johnsson",
+      "url": "/auntruth/new/htm/L1/XF129.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Kraftgatan 5 S 270 20 Loderup   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Backyard 915 Ilse & Hemfrid Johnson",
+      "date": "Thursday, July 01, 1982",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI453.htm"
+    },
+    {
+      "name": "In Back Yard",
+      "date": "Wednesday, June 30, 1982",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1342.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:07Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF127.htm",
+    "extractionDate": "2025-10-01T04:27:16.566373Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "XF581",
+  "name": "Kelly  Shimmin",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, September 26, 1964",
+  "birthLocation": "Bloomington MI   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF578",
+    "name": "William Shimmin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF578.htm"
+  },
+  "mother": {
+    "id": "XF577",
+    "name": "Edith Joan Hagborg-Shimmin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF577.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1245",
+      "name": "Karen -Shimmin [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1245.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Woodworking",
+  "address": "5024 Nerstrand Blvd Cannon City MI 55021 USA",
+  "email": null,
+  "phone": "507-334-2888, 507-334-2888",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:36Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF581.htm",
+    "extractionDate": "2025-10-01T04:27:31.452084Z"
+  }
+}

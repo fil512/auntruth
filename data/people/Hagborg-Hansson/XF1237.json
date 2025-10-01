@@ -1,0 +1,56 @@
+{
+  "id": "XF1237",
+  "name": "Peggy  Shimmin",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, November 06, 1948",
+  "birthLocation": "Bloomington MI   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF578",
+    "name": "William Shimmin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF578.htm"
+  },
+  "mother": {
+    "id": "XF577",
+    "name": "Edith Joan Hagborg-Shimmin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF577.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1238",
+      "name": "Gary Rudnitski [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1238.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1240",
+      "name": "Daniel   Ridnitski",
+      "url": "/auntruth/new/htm/L1/XF1240.htm",
+      "birthDate": "07/02/1982"
+    },
+    {
+      "id": "XF1239",
+      "name": "Amy   Ridnitski",
+      "url": "/auntruth/new/htm/L1/XF1239.htm",
+      "birthDate": "10/29/1976"
+    }
+  ],
+  "occupation": "Group Health",
+  "address": "8100 Stevens Ave. S. Bloomington MI 55420 USA",
+  "email": null,
+  "phone": "612-884-5514, 612-884-5514",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:47Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1237.htm",
+    "extractionDate": "2025-10-01T04:27:14.548221Z"
+  }
+}

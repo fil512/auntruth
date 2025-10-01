@@ -1,0 +1,48 @@
+{
+  "id": "XF583",
+  "name": "Judy",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Friday, January 01, 1965",
+  "birthLocation": "MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF582",
+      "name": "Brian Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF582.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1228",
+      "name": "Kerri   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1228.htm",
+      "birthDate": "07/11/1986"
+    },
+    {
+      "id": "XF584",
+      "name": "Stacy   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF584.htm",
+      "birthDate": "05/27/1983"
+    }
+  ],
+  "occupation": null,
+  "address": "5",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:37Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF583.htm",
+    "extractionDate": "2025-10-01T04:27:31.556079Z"
+  }
+}

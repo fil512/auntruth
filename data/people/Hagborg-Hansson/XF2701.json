@@ -1,0 +1,50 @@
+{
+  "id": "XF2701",
+  "name": "Helen Marie Anderson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, January 29, 1912",
+  "birthLocation": "Ottertail County MN   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2700",
+    "name": "August Jonsson Andersson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2700.htm"
+  },
+  "mother": {
+    "id": "XF2699",
+    "name": "Emelie Sundberg-Andersson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2699.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2702",
+      "name": "Carl Theodore Hanson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2702.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2703",
+      "name": "Janet Marie Hanson",
+      "url": "/auntruth/new/htm/L1/XF2703.htm",
+      "birthDate": "05/19/1945"
+    }
+  ],
+  "occupation": null,
+  "address": "Benson MN  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:14Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2701.htm",
+    "extractionDate": "2025-10-01T04:27:28.343353Z"
+  }
+}

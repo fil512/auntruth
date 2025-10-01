@@ -1,0 +1,71 @@
+{
+  "id": "XF827",
+  "name": "Pratibha  Prathiba",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, March 26, 1966",
+  "birthLocation": "IND",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": {
+    "id": "XF2628",
+    "name": "Usha Chandra [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2628.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF189",
+      "name": "Douglas Bruce Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF189.htm",
+      "marriageDate": "Tuesday, September 10, 1991"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2906",
+      "name": "Morgan Divia Hay",
+      "url": "/auntruth/new/htm/L1/XF2906.htm",
+      "birthDate": "11/19/2002"
+    },
+    {
+      "id": "XF2522",
+      "name": "Priyanka Minerva Hay",
+      "url": "/auntruth/new/htm/L1/XF2522.htm",
+      "birthDate": "08/19/1997"
+    }
+  ],
+  "occupation": "Electrical Engineer (MSc)",
+  "address": "32 Sapphire Crescent Brampton ON  CAN",
+  "email": "phay@opentext.com",
+  "phone": "905-840-1716, 905-840-1716",
+  "website": null,
+  "source": "Joyce Marion Hagborg-Hay",
+  "notes": "Married Douglas Hay 91/09/10 in India",
+  "photos": [
+    {
+      "name": "Mother & Daughter",
+      "date": "Monday, June 23, 2003",
+      "location": "Brampton Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI2231.htm"
+    },
+    {
+      "name": "Ian's Priya, Prathiba, Priyanka",
+      "date": "Friday, December 20, 2002",
+      "location": "Brampton Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI2020.htm"
+    },
+    {
+      "name": "Doug Hay Family",
+      "date": "Sunday, December 15, 2002",
+      "location": "Brampton Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI2016.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:25Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF827.htm",
+    "extractionDate": "2025-10-01T04:27:35.239302Z"
+  }
+}

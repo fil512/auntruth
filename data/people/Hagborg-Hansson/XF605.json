@@ -1,0 +1,43 @@
+{
+  "id": "XF605",
+  "name": "Christina  Hodges",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, December 26, 1967",
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF603",
+    "name": "Richard Hodges [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF603.htm"
+  },
+  "mother": {
+    "id": "XF602",
+    "name": "Ann Joy Mykle-Hodges [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF602.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1267",
+      "name": "Gus Mantzavrokos [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1267.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "MEAD",
+  "address": "4404-1 Presidential Tower s Chicago IL 60661 USA",
+  "email": null,
+  "phone": "312-902-2061, 312-902-2061",
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:47Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF605.htm",
+    "extractionDate": "2025-10-01T04:27:32.847445Z"
+  }
+}

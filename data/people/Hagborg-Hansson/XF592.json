@@ -1,0 +1,36 @@
+{
+  "id": "XF592",
+  "name": "Laurie  Grant",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, November 29, 1961",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF590",
+    "name": "Edward Grant [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF590.htm"
+  },
+  "mother": {
+    "id": "XF589",
+    "name": "Helen Hagborg-Grant [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF589.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "MB Government Secretary",
+  "address": "1180 Fleet Ave. Winnipeg MB R3M 1L9 CAN",
+  "email": null,
+  "phone": "204-477-4036, 204-477-4036",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:41Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF592.htm",
+    "extractionDate": "2025-10-01T04:27:32.089736Z"
+  }
+}

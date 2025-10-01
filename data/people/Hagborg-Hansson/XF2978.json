@@ -1,0 +1,61 @@
+{
+  "id": "XF2978",
+  "name": "Peter George Stevens",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, August 14, 2005",
+  "birthLocation": "101 Wright Ave Toronto ON M6R 1L1 CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF182",
+    "name": "Kenneth Harold Stevens [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF182.htm"
+  },
+  "mother": {
+    "id": "XF2235",
+    "name": "Irina Visoiu-Stevens [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF2235.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "101 Wright Ave. Toronto ON M6R 1L1 CAN",
+  "email": null,
+  "phone": "(416) 537-3126, (416) 537-3126",
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:16Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2978.htm",
+    "extractionDate": "2025-10-01T04:27:30.747093Z"
+  }
+}

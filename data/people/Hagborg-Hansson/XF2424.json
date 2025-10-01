@@ -1,0 +1,92 @@
+{
+  "id": "XF2424",
+  "name": "Maria  Wall",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Loderup S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2421",
+    "name": "Nils Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2421.htm"
+  },
+  "mother": {
+    "id": "XF2422",
+    "name": "Elna Johnson-Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2422.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2425",
+      "name": "Peter Nordin [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2425.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2433",
+      "name": "Arthur   Nordin",
+      "url": "/auntruth/new/htm/L1/XF2433.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2432",
+      "name": "Victor   Nordin",
+      "url": "/auntruth/new/htm/L1/XF2432.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2431",
+      "name": "Margot   Nordin",
+      "url": "/auntruth/new/htm/L1/XF2431.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2430",
+      "name": "Helmer   Nordin",
+      "url": "/auntruth/new/htm/L1/XF2430.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2429",
+      "name": "Henry   Nordin",
+      "url": "/auntruth/new/htm/L1/XF2429.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2428",
+      "name": "Clarence   Nordin",
+      "url": "/auntruth/new/htm/L1/XF2428.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2427",
+      "name": "Edwin   Nordin",
+      "url": "/auntruth/new/htm/L1/XF2427.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2426",
+      "name": "Vera   Nordin",
+      "url": "/auntruth/new/htm/L1/XF2426.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Teulon MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:11Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2424.htm",
+    "extractionDate": "2025-10-01T04:27:24.221704Z"
+  }
+}

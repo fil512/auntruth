@@ -1,0 +1,35 @@
+{
+  "id": "XF164",
+  "name": "Reno",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF163",
+      "name": "Doreen Ann Hagborg- [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF163.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:33Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF164.htm",
+    "extractionDate": "2025-10-01T04:27:18.864842Z"
+  }
+}

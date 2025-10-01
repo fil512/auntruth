@@ -1,0 +1,48 @@
+{
+  "id": "XF140",
+  "name": "Anders  Martensson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Loderup     SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF139",
+      "name": "Una Hansdotter-Martensson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF139.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF147",
+      "name": "Helga   Martensson",
+      "url": "/auntruth/new/htm/L1/XF147.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF141",
+      "name": "Manfred   Martensson",
+      "url": "/auntruth/new/htm/L1/XF141.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "murare i Loderup",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:14Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF140.htm",
+    "extractionDate": "2025-10-01T04:27:17.529130Z"
+  }
+}

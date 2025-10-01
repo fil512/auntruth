@@ -1,0 +1,43 @@
+{
+  "id": "XF163",
+  "name": "Doreen Ann Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, January 10, 1937",
+  "birthLocation": "ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF160",
+    "name": "Helmer Vilhelm Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF160.htm"
+  },
+  "mother": {
+    "id": "XF159",
+    "name": "Dorothy XX-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF159.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF164",
+      "name": "Reno  [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF164.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:32Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF163.htm",
+    "extractionDate": "2025-10-01T04:27:18.780337Z"
+  }
+}

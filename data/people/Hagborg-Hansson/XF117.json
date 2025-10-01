@@ -1,0 +1,36 @@
+{
+  "id": "XF117",
+  "name": "Ellen  Anker-Kofoed",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF114",
+    "name": "Bengt Anker-Kofoed [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF114.htm"
+  },
+  "mother": {
+    "id": "XF115",
+    "name": "Katerina -Anker-Kofoed [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF115.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:01Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF117.htm",
+    "extractionDate": "2025-10-01T04:27:13.679468Z"
+  }
+}

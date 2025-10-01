@@ -1,0 +1,48 @@
+{
+  "id": "XF1229",
+  "name": "Carmen",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, June 29, 1964",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF585",
+      "name": "Gary Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF585.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF896",
+      "name": "David   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF896.htm",
+      "birthDate": "11/27/1987"
+    },
+    {
+      "id": "XF1230",
+      "name": "Sanielle   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1230.htm",
+      "birthDate": "03/26/1986"
+    }
+  ],
+  "occupation": "Licensed Practical Nurse",
+  "address": "157 1st St. W. The Pas MB R9A 1K2 CAN",
+  "email": null,
+  "phone": "204-623-7732, 204-623-7732",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:44Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1229.htm",
+    "extractionDate": "2025-10-01T04:27:14.072402Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "XF134",
+  "name": "Kristina  Johnsson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF132",
+    "name": "Borje Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF132.htm"
+  },
+  "mother": {
+    "id": "XF133",
+    "name": "Birgitta -Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF133.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:11Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF134.htm",
+    "extractionDate": "2025-10-01T04:27:17.206334Z"
+  }
+}

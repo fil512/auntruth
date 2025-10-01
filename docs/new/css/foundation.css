@@ -32,7 +32,7 @@
   /* Colors - AuntieRuth.com brand */
   --color-primary: #0066cc;
   --color-secondary: #666;
-  --color-background: #C1CFBA;
+  --color-background: #ffffff;
   --color-surface: #fff;
   --color-text: #333;
   --color-link: #0000FF;
@@ -458,9 +458,9 @@ center {
 
 @media (prefers-reduced-motion: reduce) {
   * {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms;
+    animation-iteration-count: 1;
+    transition-duration: 0.01ms;
   }
 }
 

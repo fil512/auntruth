@@ -1,0 +1,46 @@
+{
+  "id": "XF2558",
+  "name": "Lars  Astradsson (Frifeldt",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, January 01, 1693",
+  "birthLocation": "Katslosa (Varmlosa 10)     SWE",
+  "deathDate": "Tuesday, February 15, 1746",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2560",
+    "name": "Astrad (Astred) Hansson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2560.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2559",
+      "name": "Gunnel Jonsdotter-Astradsson (Frifeldt [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2559.htm",
+      "marriageDate": "Friday, March 05, 1723"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2485",
+      "name": "Ola   Larsson (Frifeldt)",
+      "url": "/auntruth/new/htm/L1/XF2485.htm",
+      "birthDate": "11/27/1727"
+    }
+  ],
+  "occupation": null,
+  "address": "Katslosa (Varmlosa 4)   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Peter Larsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:10Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2558.htm",
+    "extractionDate": "2025-10-01T04:27:26.922828Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "XF2239",
+  "name": "King",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2240",
+      "name": "-King [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2240.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2241",
+      "name": "J. Brian King",
+      "url": "/auntruth/new/htm/L1/XF2241.htm",
+      "birthDate": "01/01/1948"
+    },
+    {
+      "id": "XF2238",
+      "name": "Colleen   King",
+      "url": "/auntruth/new/htm/L1/XF2238.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Fairford MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "J. Brian Kirkpatrick King",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:50Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2239.htm",
+    "extractionDate": "2025-10-01T04:27:23.524193Z"
+  }
+}

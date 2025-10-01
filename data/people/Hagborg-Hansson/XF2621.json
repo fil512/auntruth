@@ -1,0 +1,35 @@
+{
+  "id": "XF2621",
+  "name": "Borje  Nilsson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2486",
+      "name": "Hanna   Borjesdotter",
+      "url": "/auntruth/new/htm/L1/XF2486.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Peter Larsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:38Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2621.htm",
+    "extractionDate": "2025-10-01T04:27:27.149704Z"
+  }
+}

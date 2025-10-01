@@ -1,0 +1,36 @@
+{
+  "id": "XF2428",
+  "name": "Clarence  Nordin",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Teulon MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2425",
+    "name": "Peter Nordin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2425.htm"
+  },
+  "mother": {
+    "id": "XF2424",
+    "name": "Maria Wall-Nordin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2424.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:12Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2428.htm",
+    "extractionDate": "2025-10-01T04:27:24.426271Z"
+  }
+}

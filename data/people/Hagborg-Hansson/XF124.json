@@ -1,0 +1,48 @@
+{
+  "id": "XF124",
+  "name": "Amkrestin",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF123",
+      "name": "Kolt Persson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF123.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF126",
+      "name": "Bjorn   Persson",
+      "url": "/auntruth/new/htm/L1/XF126.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF125",
+      "name": "Frederik   Persson",
+      "url": "/auntruth/new/htm/L1/XF125.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:05Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF124.htm",
+    "extractionDate": "2025-10-01T04:27:14.743697Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "XF83",
+  "name": "Borje  Hakanson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF82",
+    "name": "Matts Hakansson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF82.htm"
+  },
+  "mother": {
+    "id": "XF81",
+    "name": "Else Hansdotter-Hakansson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF81.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF84",
+      "name": "Birgit -Hakanson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF84.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF87",
+      "name": "Katarina   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF87.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF86",
+      "name": "Sati   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF86.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF85",
+      "name": "Eva   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF85.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:42Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF83.htm",
+    "extractionDate": "2025-10-01T04:27:35.320085Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "XF2736",
+  "name": "Bert  McLellan",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2735",
+      "name": "Mary White Morison-McLellan [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2735.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bud Amy",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:30Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2736.htm",
+    "extractionDate": "2025-10-01T04:27:29.392396Z"
+  }
+}

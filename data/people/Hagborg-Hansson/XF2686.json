@@ -1,0 +1,42 @@
+{
+  "id": "XF2686",
+  "name": "Anna  Persdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, February 28, 1693",
+  "birthLocation": "Tullstorp (St. Beddinge 2 S0   SWE",
+  "deathDate": "Sunday, April 24, 1757",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2685",
+      "name": "Truls Persson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2685.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2690",
+      "name": "Bereta   Trulsdotter",
+      "url": "/auntruth/new/htm/L1/XF2690.htm",
+      "birthDate": "02/14/1725"
+    }
+  ],
+  "occupation": null,
+  "address": "O. Vemmenhog 22 S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:07Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2686.htm",
+    "extractionDate": "2025-10-01T04:27:27.559569Z"
+  }
+}

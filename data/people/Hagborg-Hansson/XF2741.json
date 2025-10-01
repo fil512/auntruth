@@ -1,0 +1,50 @@
+{
+  "id": "XF2741",
+  "name": "Edward Cruikshanks Morison",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, August 08, 1908",
+  "birthLocation": "Sec 28-13-25 WPM Miniota     CAN",
+  "deathDate": "Saturday, June 22, 1996",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2678",
+    "name": "Patrick Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2678.htm"
+  },
+  "mother": {
+    "id": "XF2679",
+    "name": "Jessie Henderson-Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2679.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2742",
+      "name": "Elizabeth May Welsh-Morison [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2742.htm",
+      "marriageDate": "Saturday, October 10, 1936"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2746",
+      "name": "Edwena Denise Morison",
+      "url": "/auntruth/new/htm/L1/XF2746.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Crandall MB   CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bud Amy",
+  "notes": "Buried Crandall Cemetery",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:33Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2741.htm",
+    "extractionDate": "2025-10-01T04:27:29.620238Z"
+  }
+}

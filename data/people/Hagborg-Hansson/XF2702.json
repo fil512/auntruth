@@ -1,0 +1,42 @@
+{
+  "id": "XF2702",
+  "name": "Carl Theodore Hanson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, August 26, 1909",
+  "birthLocation": "Swift County MN   USA",
+  "deathDate": "Wednesday, January 01, 1969",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2701",
+      "name": "Helen Marie Anderson-Hanson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2701.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2703",
+      "name": "Janet Marie Hanson",
+      "url": "/auntruth/new/htm/L1/XF2703.htm",
+      "birthDate": "05/19/1945"
+    }
+  ],
+  "occupation": null,
+  "address": "Benson MN  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:15Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2702.htm",
+    "extractionDate": "2025-10-01T04:27:28.404987Z"
+  }
+}

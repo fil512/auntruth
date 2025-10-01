@@ -1,0 +1,48 @@
+{
+  "id": "XF2322",
+  "name": "Ian Matthew Mogilevsky",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, August 13, 1967",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF172",
+      "name": "Deborah Lynne Hagborg-Mogilevsky [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF172.htm",
+      "marriageDate": "Friday, February 09, 1990"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2324",
+      "name": "Elijah Matthew Mogilevsky",
+      "url": "/auntruth/new/htm/L1/XF2324.htm",
+      "birthDate": "05/04/1996"
+    },
+    {
+      "id": "XF2323",
+      "name": "Havilah Lynne Mogilevsky",
+      "url": "/auntruth/new/htm/L1/XF2323.htm",
+      "birthDate": "11/21/1993"
+    }
+  ],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:27Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2322.htm",
+    "extractionDate": "2025-10-01T04:27:23.775089Z"
+  }
+}

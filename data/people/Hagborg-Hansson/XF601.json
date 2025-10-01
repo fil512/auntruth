@@ -1,0 +1,48 @@
+{
+  "id": "XF601",
+  "name": "Lawrence(Larry)  Gusta",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, July 18, 1939",
+  "birthLocation": "Selkirk MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF600",
+      "name": "Elaine Hagborg-Gusta [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF600.htm",
+      "marriageDate": "Monday, January 01, 1962"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1264",
+      "name": "Michael   Gusta",
+      "url": "/auntruth/new/htm/L1/XF1264.htm",
+      "birthDate": "11/30/1977"
+    },
+    {
+      "id": "XF1263",
+      "name": "Andrea   Gusta",
+      "url": "/auntruth/new/htm/L1/XF1263.htm",
+      "birthDate": "05/08/1976"
+    }
+  ],
+  "occupation": "Senior Research Scientist",
+  "address": "515 Copeland Crescent Saskatoon SK S7H 2Z4 CAN",
+  "email": null,
+  "phone": "306-955-5070, 306-955-5070",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Completed PhD in Agriculture in 1970.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:45Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF601.htm",
+    "extractionDate": "2025-10-01T04:27:32.578680Z"
+  }
+}

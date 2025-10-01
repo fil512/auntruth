@@ -2,7 +2,7 @@
 
 /* Touch feedback animations */
 .touch-active {
-    background-color: rgba(0, 102, 204, 0.1) !important;
+    background-color: rgba(0, 102, 204, 0.1);
     transform: scale(0.98);
     transition: all 0.1s ease;
 }
@@ -173,8 +173,8 @@
     .touch-active,
     .swipe-feedback,
     .mobile-context-menu {
-        transition: none !important;
-        animation: none !important;
+        transition: none;
+        animation: none;
     }
 }
 

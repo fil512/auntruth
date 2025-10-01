@@ -41,7 +41,6 @@ body {
     line-height: 1.5;
     margin: 0;
     padding: 0;
-    background-color: #C1CFBA;
     padding-top: var(--nav-height-mobile, 120px);
     -webkit-text-size-adjust: 100%; /* Prevent iOS font size adjustments */
 }
@@ -87,7 +86,6 @@ img {
 body {
     margin: 0;
     padding: 0;
-    background-color: #C1CFBA;
     line-height: 1.4;
     /* Account for fixed top navigation */
     padding-top: 60px;

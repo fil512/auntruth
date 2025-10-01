@@ -1,0 +1,66 @@
+{
+  "id": "XF590",
+  "name": "Edward  Grant",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, August 02, 1937",
+  "birthLocation": "MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF589",
+      "name": "Helen Hagborg-Grant [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF589.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1250",
+      "name": "Wendy   Grant",
+      "url": "/auntruth/new/htm/L1/XF1250.htm",
+      "birthDate": "10/17/1965"
+    },
+    {
+      "id": "XF592",
+      "name": "Laurie   Grant",
+      "url": "/auntruth/new/htm/L1/XF592.htm",
+      "birthDate": "11/29/1961"
+    },
+    {
+      "id": "XF1246",
+      "name": "June   Grant",
+      "url": "/auntruth/new/htm/L1/XF1246.htm",
+      "birthDate": "09/07/1960"
+    },
+    {
+      "id": "XF593",
+      "name": "Wendy   Grant",
+      "url": "/auntruth/new/htm/L1/XF593.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF591",
+      "name": "June   Grant",
+      "url": "/auntruth/new/htm/L1/XF591.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Retired Pipefitter",
+  "address": "1180 Fleet Ave. Winnipeg MB R3M 1L9 CAN",
+  "email": null,
+  "phone": "204-477-4036, 204-477-4036",
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "Has deteriorating back condition likely caused by improper medical procedures.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:40Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF590.htm",
+    "extractionDate": "2025-10-01T04:27:31.987162Z"
+  }
+}

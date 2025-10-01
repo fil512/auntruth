@@ -1,0 +1,49 @@
+{
+  "id": "XF2553",
+  "name": "Sean  McCools",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, July 26, 1999",
+  "birthLocation": "Toronto ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2552",
+    "name": "Leonard McCools [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2552.htm"
+  },
+  "mother": {
+    "id": "XF184",
+    "name": "Wendy Leilani Stevens-McCools [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF184.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Baseline & Woodroffe Ottawa ON K2E CAN",
+  "email": "wlsmccool@aol.com",
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Canada Day",
+      "date": "Tuesday, July 01, 2003",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI2218.htm"
+    },
+    {
+      "name": "Wendy 1970 Sean 2003",
+      "date": "Sunday, March 02, 2003",
+      "location": "Toronto Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI2041.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:08Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2553.htm",
+    "extractionDate": "2025-10-01T04:27:26.598962Z"
+  }
+}

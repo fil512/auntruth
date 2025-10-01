@@ -1,0 +1,54 @@
+{
+  "id": "XF1231",
+  "name": "Bruce  Reagan",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, January 27, 1960",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF586",
+      "name": "Lori Hagborg-Reagan [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF586.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1235",
+      "name": "Jeffrey   Reagan",
+      "url": "/auntruth/new/htm/L1/XF1235.htm",
+      "birthDate": "09/19/1990"
+    },
+    {
+      "id": "XF1233",
+      "name": "Sean   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1233.htm",
+      "birthDate": "01/23/1986"
+    },
+    {
+      "id": "XF1232",
+      "name": "Christopher   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1232.htm",
+      "birthDate": "07/11/1984"
+    }
+  ],
+  "occupation": "Engineering - MB Dept of Highways",
+  "address": "Box 3803 The Pas MB R9A 1S4 CAN",
+  "email": null,
+  "phone": "204-623-3733, 204-623-3733",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:45Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1231.htm",
+    "extractionDate": "2025-10-01T04:27:14.198095Z"
+  }
+}

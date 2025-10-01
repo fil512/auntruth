@@ -1,0 +1,36 @@
+{
+  "id": "XF2555",
+  "name": "Marshall  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Friday, January 05, 1996",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF641",
+    "name": "Robert Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF641.htm"
+  },
+  "mother": {
+    "id": "XF642",
+    "name": "Renee Howden-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF642.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:09Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2555.htm",
+    "extractionDate": "2025-10-01T04:27:26.703180Z"
+  }
+}

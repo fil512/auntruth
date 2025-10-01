@@ -1,0 +1,39 @@
+{
+  "id": "XF2560",
+  "name": "Astrad (Astred)  Hansson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, January 01, 1680",
+  "birthLocation": "SWE",
+  "deathDate": "Wednesday, March 29, 1730",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": {
+    "id": "XF2561",
+    "name": "Matta (Metta) Persdotter (Persdatter) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2561.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2558",
+      "name": "Lars   Astradsson (Frifeldt",
+      "url": "/auntruth/new/htm/L1/XF2558.htm",
+      "birthDate": "01/01/1693"
+    }
+  ],
+  "occupation": null,
+  "address": "Katslosa (Varmlosa 10)   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Peter Larsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:11Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2560.htm",
+    "extractionDate": "2025-10-01T04:27:27.024864Z"
+  }
+}

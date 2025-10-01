@@ -1,0 +1,74 @@
+{
+  "id": "XF606",
+  "name": "Shirley  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, October 18, 1936",
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF72",
+    "name": "Androm(Andrew) Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF72.htm"
+  },
+  "mother": {
+    "id": "XF73",
+    "name": "Henny Enquist-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF73.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF607",
+      "name": "Murray McLeod [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF607.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF629",
+      "name": "Larry   McLeod",
+      "url": "/auntruth/new/htm/L1/XF629.htm",
+      "birthDate": "01/13/1970"
+    },
+    {
+      "id": "XF628",
+      "name": "Shannon   McLeod",
+      "url": "/auntruth/new/htm/L1/XF628.htm",
+      "birthDate": "10/03/1963"
+    },
+    {
+      "id": "XF627",
+      "name": "Sherrie   McLeod",
+      "url": "/auntruth/new/htm/L1/XF627.htm",
+      "birthDate": "06/09/1959"
+    },
+    {
+      "id": "XF626",
+      "name": "Allen   McLeod",
+      "url": "/auntruth/new/htm/L1/XF626.htm",
+      "birthDate": "10/06/1957"
+    },
+    {
+      "id": "XF608",
+      "name": "Gordon   McLeod",
+      "url": "/auntruth/new/htm/L1/XF608.htm",
+      "birthDate": "12/24/1954"
+    }
+  ],
+  "occupation": "Real Estate Agent",
+  "address": "Box 12 Marquette MB R0H 0V0 CAN",
+  "email": null,
+  "phone": "204-322-5677, 204-322-5677",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Farmed with Andy & lost farm about 1990. Currently top realtor for Block Married in 1954",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:47Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF606.htm",
+    "extractionDate": "2025-10-01T04:27:32.911464Z"
+  }
+}

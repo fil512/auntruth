@@ -1,0 +1,125 @@
+{
+  "id": "XF174",
+  "name": "Carl Gustav Sahlgren",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, March 05, 1898",
+  "birthLocation": "SWE",
+  "deathDate": "Thursday, November 21, 1974",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": {
+    "id": "XF194",
+    "name": "[Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF194.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF173",
+      "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF173.htm",
+      "marriageDate": "Wednesday, December 28, 1932"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF175",
+      "name": "Ronald Carl Sahlgren",
+      "url": "/auntruth/new/htm/L1/XF175.htm",
+      "birthDate": "06/10/1943"
+    }
+  ],
+  "occupation": null,
+  "address": "169 Marion St. Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "Buried in lot 1859 Brookside Cemetery Winnipeg, MB Canada.",
+  "photos": [
+    {
+      "name": "169 Marion from Back - Auntie Esther & Uncle Carl's old store 'Sahlgren's Confectionery'",
+      "date": "Thursday, August 29, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1738.htm"
+    },
+    {
+      "name": "169 Marion from Front - Auntie Esther & Uncle Carl's old store 'Sahlgren's Confectionery'",
+      "date": "Thursday, August 29, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1737.htm"
+    },
+    {
+      "name": "At Great-Grandparents Hagborg Grave",
+      "date": "Sunday, August 01, 1993",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI764.htm"
+    },
+    {
+      "name": "Dinner at 915 with Les's  Bert",
+      "date": "Saturday, September 21, 1968",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1875.htm"
+    },
+    {
+      "name": "Dorothy Lake",
+      "date": "Monday, July 01, 1968",
+      "location": "Dorothy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI14.htm"
+    },
+    {
+      "name": "At Auntie Esther & Uncle Carl's cottage",
+      "date": "Sunday, September 22, 1963",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1480.htm"
+    },
+    {
+      "name": "In front of the Hi-Fi",
+      "date": "Saturday, September 01, 1962",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1475.htm"
+    },
+    {
+      "name": "In LivingRoom",
+      "date": "Saturday, September 01, 1962",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1474.htm"
+    },
+    {
+      "name": "At Sahlgrens",
+      "date": "Monday, December 20, 1954",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1298.htm"
+    },
+    {
+      "name": "Wedding",
+      "date": "Wednesday, December 28, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1407.htm"
+    },
+    {
+      "name": "Front Steps",
+      "date": "Thursday, September 01, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1456.htm"
+    },
+    {
+      "name": "More Picnic",
+      "date": "Friday, July 01, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1454.htm"
+    },
+    {
+      "name": "Picnic",
+      "date": "Friday, July 01, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1453.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:41Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF174.htm",
+    "extractionDate": "2025-10-01T04:27:20.011027Z"
+  }
+}

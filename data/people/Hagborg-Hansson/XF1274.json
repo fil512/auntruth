@@ -1,0 +1,36 @@
+{
+  "id": "XF1274",
+  "name": "Roddy  Neher",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Friday, January 01, 1965",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF639",
+    "name": "Lloyd Neher [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF639.htm"
+  },
+  "mother": {
+    "id": "XF630",
+    "name": "Violet Hagborg-McIntosh-Neher [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF630.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:02Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1274.htm",
+    "extractionDate": "2025-10-01T04:27:16.841499Z"
+  }
+}

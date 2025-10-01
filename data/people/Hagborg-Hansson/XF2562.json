@@ -1,0 +1,35 @@
+{
+  "id": "XF2562",
+  "name": "Peder (Per)  Ottesen (Ottosson)",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, January 01, 1615",
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2561",
+      "name": "Matta (Metta)   Persdotter (Persdatter)",
+      "url": "/auntruth/new/htm/L1/XF2561.htm",
+      "birthDate": "01/01/1658"
+    }
+  ],
+  "occupation": null,
+  "address": "Katslosa   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Peter Larsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:12Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2562.htm",
+    "extractionDate": "2025-10-01T04:27:27.127478Z"
+  }
+}

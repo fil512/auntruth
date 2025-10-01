@@ -1,0 +1,60 @@
+{
+  "id": "XF2729",
+  "name": "Thomas  Morison",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Aberdeenshire     UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2731",
+      "name": "Unknown Unknown-Morison [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2731.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF2730",
+      "name": "Jane Davidson-Morison [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2730.htm",
+      "marriageDate": "Monday, May 01, 1865"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2678",
+      "name": "Patrick   Morison",
+      "url": "/auntruth/new/htm/L1/XF2678.htm",
+      "birthDate": "12/16/1868"
+    },
+    {
+      "id": "XF2733",
+      "name": "Edith McGowan Morison",
+      "url": "/auntruth/new/htm/L1/XF2733.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2732",
+      "name": "Alexander Smith Morison",
+      "url": "/auntruth/new/htm/L1/XF2732.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Stonebriggs Farm Parish of Pitsligo Aberdeenshire     UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bud Amy",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:27Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2729.htm",
+    "extractionDate": "2025-10-01T04:27:28.971191Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XF2628",
+  "name": "Usha  Chandra",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "IND",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": {
+    "id": "XF2629",
+    "name": "Hira Devi Chandra [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2629.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF827",
+      "name": "Pratibha   Prathiba",
+      "url": "/auntruth/new/htm/L1/XF827.htm",
+      "birthDate": "03/26/1966"
+    }
+  ],
+  "occupation": null,
+  "address": "32 Sapphire Crescent Brampton ON L6Z 4M5 CAN",
+  "email": null,
+  "phone": "(905) 840-1716, (905) 840-1716",
+  "website": null,
+  "source": "Douglas Bruce Hay",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:41Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2628.htm",
+    "extractionDate": "2025-10-01T04:27:27.228445Z"
+  }
+}

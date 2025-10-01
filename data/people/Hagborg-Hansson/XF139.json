@@ -1,0 +1,56 @@
+{
+  "id": "XF139",
+  "name": "Una  Hansdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, May 01, 1878",
+  "birthLocation": "Hagestad S0   SWE",
+  "deathDate": "Tuesday, January 01, 1963",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF62",
+    "name": "Hans Olson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF62.htm"
+  },
+  "mother": {
+    "id": "XF63",
+    "name": "Hanna Borjesdotter-Olson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF63.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF140",
+      "name": "Anders Martensson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF140.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF147",
+      "name": "Helga   Martensson",
+      "url": "/auntruth/new/htm/L1/XF147.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF141",
+      "name": "Manfred   Martensson",
+      "url": "/auntruth/new/htm/L1/XF141.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Borrby   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "murare i Loderup",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:14Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF139.htm",
+    "extractionDate": "2025-10-01T04:27:17.507507Z"
+  }
+}

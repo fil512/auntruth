@@ -1,0 +1,48 @@
+{
+  "id": "XF1238",
+  "name": "Gary  Rudnitski",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, December 27, 1947",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1237",
+      "name": "Peggy Shimmin-Rudnitski [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1237.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1240",
+      "name": "Daniel   Ridnitski",
+      "url": "/auntruth/new/htm/L1/XF1240.htm",
+      "birthDate": "07/02/1982"
+    },
+    {
+      "id": "XF1239",
+      "name": "Amy   Ridnitski",
+      "url": "/auntruth/new/htm/L1/XF1239.htm",
+      "birthDate": "10/29/1976"
+    }
+  ],
+  "occupation": "US West Network Technician",
+  "address": "8100 Stevens Ave. S. Bloomington MI 55438 USA",
+  "email": null,
+  "phone": "612-884-5514, 612-884-5514",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:48Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1238.htm",
+    "extractionDate": "2025-10-01T04:27:14.634572Z"
+  }
+}

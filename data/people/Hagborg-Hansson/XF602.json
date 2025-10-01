@@ -1,0 +1,56 @@
+{
+  "id": "XF602",
+  "name": "Ann Joy  Mykle",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, January 08, 1938",
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF71",
+    "name": "Alfred Mykle [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF71.htm"
+  },
+  "mother": {
+    "id": "XF70",
+    "name": "Violet Hagborg-Mykle [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF70.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF603",
+      "name": "Richard Hodges [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF603.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF605",
+      "name": "Christina   Hodges",
+      "url": "/auntruth/new/htm/L1/XF605.htm",
+      "birthDate": "12/26/1967"
+    },
+    {
+      "id": "XF604",
+      "name": "Mark   Hodges",
+      "url": "/auntruth/new/htm/L1/XF604.htm",
+      "birthDate": "10/03/1961"
+    }
+  ],
+  "occupation": "Retired Assistant Principal",
+  "address": "1939 Upper Afton Rd. St. Paul MI 55119 USA",
+  "email": null,
+  "phone": "612-739-7963, 612-739-7963",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "occasionally teaches.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:45Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF602.htm",
+    "extractionDate": "2025-10-01T04:27:32.659042Z"
+  }
+}

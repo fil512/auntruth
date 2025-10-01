@@ -1,0 +1,42 @@
+{
+  "id": "XF905",
+  "name": "Matta  Hansdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, January 11, 1810",
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF906",
+      "name": "Ola Larsson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF906.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF62",
+      "name": "Hans   Olson",
+      "url": "/auntruth/new/htm/L1/XF62.htm",
+      "birthDate": "01/31/1838"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Ken Stevens",
+  "notes": "Swedish Archives, Lund",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:02Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF905.htm",
+    "extractionDate": "2025-10-01T04:27:36.152581Z"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "XF158",
+  "name": "Euphemia(Effie) McDougallCurrie Neil",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": "Tuesday, January 01, 1985",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF160",
+      "name": "Helmer Vilhelm Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF160.htm",
+      "marriageDate": "Wednesday, October 20, 1926"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF162",
+      "name": "Helmer William Hagborg",
+      "url": "/auntruth/new/htm/L1/XF162.htm",
+      "birthDate": "08/27/1929"
+    },
+    {
+      "id": "XF161",
+      "name": "Winston Earl Hagborg",
+      "url": "/auntruth/new/htm/L1/XF161.htm",
+      "birthDate": "11/27/1927"
+    }
+  ],
+  "occupation": null,
+  "address": "403-1080 Kingston Rd. Scarborough ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "William Hagborg",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Helmer Hagborg Family",
+      "date": "Saturday, September 27, 1930",
+      "location": "Michigan United States of America",
+      "url": "/auntruth/new/htm/L1/XI1461.htm"
+    },
+    {
+      "name": "In the sandbox",
+      "date": "Sunday, September 01, 1929",
+      "location": "Michigan United States of America",
+      "url": "/auntruth/new/htm/L1/XI1465.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "On the Porch",
+      "date": "Sunday, September 29, 1929",
+      "location": "Michigan United States of America",
+      "url": "/auntruth/new/htm/L1/XI1418.htm"
+    },
+    {
+      "name": "With Gramma Hagborg",
+      "date": "Thursday, June 27, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1464.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:27Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF158.htm",
+    "extractionDate": "2025-10-01T04:27:18.515855Z"
+  }
+}

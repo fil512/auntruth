@@ -1,0 +1,86 @@
+{
+  "id": "XF576",
+  "name": "Reta  Percy",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, July 09, 1934",
+  "birthLocation": "Fleming SK   CAN",
+  "deathDate": "Tuesday, November 22, 2005",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2990",
+    "name": "Ralph Percy [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2990.htm"
+  },
+  "mother": {
+    "id": "XF2991",
+    "name": "Ella X-Percy []",
+    "url": "/auntruth/new/htm/L0/XF2991.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF575",
+      "name": "Andrew Victor Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF575.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF588",
+      "name": "Terry   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF588.htm",
+      "birthDate": "06/01/1972"
+    },
+    {
+      "id": "XF1241",
+      "name": "Cathy   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1241.htm",
+      "birthDate": "04/06/1968"
+    },
+    {
+      "id": "XF1236",
+      "name": "Tracy   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1236.htm",
+      "birthDate": "04/06/1968"
+    },
+    {
+      "id": "XF587",
+      "name": "Glen   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF587.htm",
+      "birthDate": "03/18/1965"
+    },
+    {
+      "id": "XF586",
+      "name": "Lori   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF586.htm",
+      "birthDate": "08/12/1961"
+    },
+    {
+      "id": "XF585",
+      "name": "Gary   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF585.htm",
+      "birthDate": "03/07/1959"
+    },
+    {
+      "id": "XF582",
+      "name": "Brian   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF582.htm",
+      "birthDate": "12/31/1957"
+    }
+  ],
+  "occupation": "Sales Clrek Watier Jewellers",
+  "address": "Box 383 The Pas MB R9A 1K5 CAN",
+  "email": null,
+  "phone": "204-623-3349, 204-623-3349",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:34Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF576.htm",
+    "extractionDate": "2025-10-01T04:27:31.197061Z"
+  }
+}

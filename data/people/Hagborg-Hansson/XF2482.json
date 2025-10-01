@@ -1,0 +1,43 @@
+{
+  "id": "XF2482",
+  "name": "Johan  Borjesson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Hagestad S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2480",
+    "name": "Borje Mansson (Frifeldt) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2480.htm"
+  },
+  "mother": {
+    "id": "XF2481",
+    "name": "Else (Elsa) Larsdotter-Mansson (Frifeldt) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2481.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2483",
+      "name": "Bertil Malmqvist-Borjesson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2483.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Peter Larsson",
+  "notes": "Uppgifter fran slaktforskn av Bertil Malmqvist, Malmo",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:36Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2482.htm",
+    "extractionDate": "2025-10-01T04:27:26.240397Z"
+  }
+}

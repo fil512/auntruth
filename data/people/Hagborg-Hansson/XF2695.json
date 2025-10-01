@@ -1,0 +1,50 @@
+{
+  "id": "XF2695",
+  "name": "Lars  Rasmusson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, December 19, 1810",
+  "birthLocation": "Oremolla 7, Inhysesman S0   SWE",
+  "deathDate": "Sunday, September 30, 1883",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2693",
+    "name": "Rasmus Persson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2693.htm"
+  },
+  "mother": {
+    "id": "XF2694",
+    "name": "Bereta Persdotter-Persson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2694.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2696",
+      "name": "Kerstin Persdotter-Rasmusson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2696.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2697",
+      "name": "Anders Larsson Sundberg",
+      "url": "/auntruth/new/htm/L1/XF2697.htm",
+      "birthDate": "02/23/1850"
+    }
+  ],
+  "occupation": null,
+  "address": "Skivarp(Oremolla 7) S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:12Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2695.htm",
+    "extractionDate": "2025-10-01T04:27:27.988143Z"
+  }
+}

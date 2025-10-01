@@ -1,0 +1,56 @@
+{
+  "id": "XF114",
+  "name": "Bengt  Anker-Kofoed",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, January 01, 1952",
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF112",
+    "name": "Svend Anker-Kofoed [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF112.htm"
+  },
+  "mother": {
+    "id": "XF111",
+    "name": "Birgit Johnsson-Anker-Kofoed [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF111.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF115",
+      "name": "Katerina -Anker-Kofoed [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF115.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF117",
+      "name": "Ellen   Anker-Kofoed",
+      "url": "/auntruth/new/htm/L1/XF117.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF116",
+      "name": "Nils   Anker-Kofoed",
+      "url": "/auntruth/new/htm/L1/XF116.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Helsingborg   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "Agronom. Has lived one year in USA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:59Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF114.htm",
+    "extractionDate": "2025-10-01T04:27:13.552309Z"
+  }
+}

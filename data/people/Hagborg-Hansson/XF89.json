@@ -1,0 +1,48 @@
+{
+  "id": "XF89",
+  "name": "Valborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF88",
+      "name": "Herman Hakanson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF88.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF96",
+      "name": "Kerstin   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF96.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF90",
+      "name": "Torsten   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF90.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Vasterhagagatan 11 Walldamsgatan 38 Tralleborg   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:45Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF89.htm",
+    "extractionDate": "2025-10-01T04:27:35.611000Z"
+  }
+}

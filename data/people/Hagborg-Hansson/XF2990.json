@@ -1,0 +1,68 @@
+{
+  "id": "XF2990",
+  "name": "Ralph  Percy",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "mother": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2991",
+      "name": "Ella X-Percy []",
+      "url": "/auntruth/htm/L0/XF2991.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF576",
+      "name": "Reta   Percy",
+      "url": "/auntruth/htm/L1/XF576.htm",
+      "birthDate": "07/09/1934"
+    }
+  ],
+  "occupation": null,
+  "address": "Fleming SK  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:22Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2990.htm",
+    "extractionDate": "2025-10-01T04:27:30.913922Z"
+  }
+}

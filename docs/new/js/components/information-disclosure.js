@@ -16,31 +16,31 @@ class InformationDisclosureComponent extends BaseComponent {
     this.sectionConfig = {
       essential: {
         title: 'Essential Information',
-        icon: '👤',
+        icon: 'INFO',
         defaultOpen: true,
         fields: ['name', 'birthDate', 'birthLocation', 'deathDate', 'deathLocation', 'age']
       },
       family: {
         title: 'Family Relationships',
-        icon: '👨‍👩‍👧‍👦',
+        icon: 'FAMILY',
         defaultOpen: true,
         fields: ['father', 'mother', 'spouse', 'spouse2', 'spouse3', 'spouse4', 'children', 'siblings']
       },
       biographical: {
         title: 'Biographical Details',
-        icon: '📝',
+        icon: 'BIO',
         defaultOpen: false,
         fields: ['occupation', 'address', 'residence', 'education', 'military', 'religion', 'notes', 'biography']
       },
       photos: {
         title: 'Photos & Media',
-        icon: '📸',
+        icon: 'MEDIA',
         defaultOpen: false,
         fields: ['photo', 'photos', 'thumbnail', 'image', 'media']
       },
       research: {
         title: 'Research & Sources',
-        icon: '🔍',
+        icon: 'RESEARCH',
         defaultOpen: false,
         fields: ['sources', 'census', 'burial', 'cemetery', 'research', 'dna', 'genetics', 'notes']
       }

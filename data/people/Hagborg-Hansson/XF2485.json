@@ -1,0 +1,50 @@
+{
+  "id": "XF2485",
+  "name": "Ola  Larsson (Frifeldt)",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, November 27, 1727",
+  "birthLocation": "Katslosa (Varmlosa 4)     SWE",
+  "deathDate": "Saturday, January 07, 1769",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2558",
+    "name": "Lars Astradsson (Frifeldt [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2558.htm"
+  },
+  "mother": {
+    "id": "XF2559",
+    "name": "Gunnel Jonsdotter-Astradsson (Frifeldt [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2559.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2486",
+      "name": "Hanna Borjesdotter-Larsson (Frifeldt) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2486.htm",
+      "marriageDate": "Monday, March 24, 1755"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2484",
+      "name": "Mans   Frifeldt (Olsson)",
+      "url": "/auntruth/new/htm/L1/XF2484.htm",
+      "birthDate": "01/07/1762"
+    }
+  ],
+  "occupation": null,
+  "address": "Katslosa (Varmlosa 12)   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Peter Larsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:38Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2485.htm",
+    "extractionDate": "2025-10-01T04:27:26.366733Z"
+  }
+}

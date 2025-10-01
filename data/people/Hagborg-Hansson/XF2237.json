@@ -1,0 +1,57 @@
+{
+  "id": "XF2237",
+  "name": "David  Hay",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, January 01, 1940",
+  "birthLocation": "Foxwarren MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF188",
+    "name": "Alex F. Hay [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF188.htm"
+  },
+  "mother": {
+    "id": "XF187",
+    "name": "Gowan Morison-Hay [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF187.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2238",
+      "name": "Colleen King-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2238.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Agricultural Economist",
+  "address": "Saskatoon SK  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": "MSc. Ames Iowa",
+  "photos": [
+    {
+      "name": "Joyce's Wedding",
+      "date": "Saturday, May 06, 1961",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2421.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Joyce's Wedding",
+      "date": "Saturday, May 06, 1961",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2421.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:49Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2237.htm",
+    "extractionDate": "2025-10-01T04:27:23.418258Z"
+  }
+}

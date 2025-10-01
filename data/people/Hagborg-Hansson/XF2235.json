@@ -1,0 +1,75 @@
+{
+  "id": "XF2235",
+  "name": "Irina  Visoiu",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, October 17, 1970",
+  "birthLocation": "Bucharest     ROM",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2229",
+    "name": "Cornel Visoiu [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2229.htm"
+  },
+  "mother": {
+    "id": "XF2228",
+    "name": "Dana -Visoiu [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2228.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF182",
+      "name": "Kenneth Harold Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF182.htm",
+      "marriageDate": "Saturday, February 04, 1995"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2978",
+      "name": "Peter George Stevens",
+      "url": "/auntruth/new/htm/L1/XF2978.htm",
+      "birthDate": "08/14/2005"
+    },
+    {
+      "id": "XF2878",
+      "name": "Joshua Martin Stevens",
+      "url": "/auntruth/new/htm/L1/XF2878.htm",
+      "birthDate": "06/11/2002"
+    },
+    {
+      "id": "XF2459",
+      "name": "Henry Walter Stevens",
+      "url": "/auntruth/new/htm/L1/XF2459.htm",
+      "birthDate": "06/30/2000"
+    },
+    {
+      "id": "XF2326",
+      "name": "Conrad Moise Stevens",
+      "url": "/auntruth/new/htm/L1/XF2326.htm",
+      "birthDate": "06/05/1997"
+    }
+  ],
+  "occupation": "Mathematician",
+  "address": "101 Wright Ave. Toronto ON M6R 1L1 CAN",
+  "email": "ken.stevens@sympatico.ca",
+  "phone": "(416) 537-3126, (416) 537-3126",
+  "website": null,
+  "source": "Ken Stevens",
+  "notes": "Irina started her undergraduate degree in Bucharest in 1989 and finished it in Copenhagen from 1991 - 1993. Irina did her master's degree at the University of Copenhagen from 1993 - 1994",
+  "photos": [
+    {
+      "name": "At Joyce's",
+      "date": "Thursday, August 01, 1996",
+      "location": "Brampton Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI715.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:48Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2235.htm",
+    "extractionDate": "2025-10-01T04:27:23.335756Z"
+  }
+}

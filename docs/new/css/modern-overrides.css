@@ -1,0 +1,509 @@
+/**
+ * Modern Design Overrides for Existing HTML
+ * Phase 4: Visual Design Overhaul
+ *
+ * This file applies modern styling to existing HTML patterns
+ * without requiring structural changes to the genealogy pages.
+ * Transforms dated appearance into professional, modern design.
+ */
+
+/* ===== GLOBAL OVERRIDES ===== */
+
+/* Force modern background color over existing green */
+body {
+  background-color: var(--color-background);
+  padding: var(--space-4);
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Modernize center tags - convert to proper spacing */
+body > center {
+  text-align: center;
+  margin: var(--space-6) 0;
+}
+
+/* Remove excessive breaks */
+body > br {
+  display: none;
+}
+
+body > br:first-child,
+body > br:last-child {
+  display: none;
+}
+
+/* ===== PAGE HEADER MODERNIZATION ===== */
+
+/* Main page title styling */
+body > center:first-of-type h1 {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
+  color: white;
+  padding: var(--space-8) var(--space-6);
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-lg);
+  margin: var(--space-8) 0;
+  position: relative;
+  overflow: hidden;
+}
+
+body > center:first-of-type h1::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg, transparent 30%, rgba(255,255,255,0.1) 50%, transparent 70%);
+  transform: translateX(-100%);
+  animation: shimmer 3s infinite;
+}
+
+@keyframes shimmer {
+  to {
+    transform: translateX(100%);
+  }
+}
+
+/* Navigation links in header */
+#headlinks {
+  background: var(--color-surface-elevated);
+  padding: var(--space-4) var(--space-6);
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+  margin: var(--space-4) 0;
+  display: inline-block;
+}
+
+#headlinks a {
+  color: var(--color-primary);
+  font-weight: var(--weight-medium);
+  text-decoration: none;
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius-md);
+  transition: all var(--transition-base);
+  display: inline-block;
+}
+
+#headlinks a:hover {
+  background: var(--color-primary-50);
+  color: var(--color-primary-dark);
+  text-decoration: none;
+}
+
+/* ===== SECTION HEADERS ===== */
+
+/* Section headings with colored font tags */
+h2 font[color="#FF0000"],
+h2 font[color="red"] {
+  color: var(--color-primary);
+  background: var(--color-primary-50);
+  padding: var(--space-3) var(--space-5);
+  border-radius: var(--radius-lg);
+  font-weight: var(--weight-semibold);
+  display: inline-block;
+  border: 1px solid var(--color-primary-100);
+  box-shadow: var(--shadow-sm);
+}
+
+/* Fix Children, Pictures, etc. headers that should not look like buttons */
+/* Override button styling for regular h2 headers */
+h2:not([class]):not([style*="background"]) {
+  color: var(--color-text-primary);
+  background: none;
+  padding: var(--space-4) 0;
+  border: none;
+  box-shadow: none;
+  border-radius: 0;
+  display: block;
+  font-size: var(--text-2xl);
+  font-weight: var(--weight-semibold);
+  margin: var(--space-8) 0 var(--space-4) 0;
+  border-bottom: 2px solid var(--color-border-strong);
+  text-align: left;
+}
+
+/* Specifically target standalone h2 elements (not in links, not with special fonts) */
+center h2:not([class]):not([style]) {
+  color: var(--color-text-primary);
+  background: none;
+  padding: var(--space-4) 0;
+  border: none;
+  box-shadow: none;
+  border-radius: 0;
+  display: block;
+  font-size: var(--text-2xl);
+  font-weight: var(--weight-semibold);
+  margin: var(--space-8) 0 var(--space-4) 0;
+  border-bottom: 2px solid var(--color-border-strong);
+  text-align: center;
+}
+
+/* Remove old HR styling and modernize */
+hr[noshade][size][color] {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-border-strong), transparent);
+  margin: var(--space-8) 0;
+  box-shadow: none;
+}
+
+/* ===== TABLE MODERNIZATION ===== */
+
+/* Main data table transformation */
+table#List {
+  background: var(--color-surface-elevated);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-lg);
+  margin: var(--space-8) 0;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+/* Table rows */
+table#List tr {
+  border: none;
+  transition: background-color var(--transition-base);
+}
+
+table#List tr:hover {
+  background: var(--color-surface);
+}
+
+table#List tr:first-child {
+  background: var(--color-surface);
+}
+
+table#List tr:first-child:hover {
+  background: var(--color-border);
+}
+
+/* Table cells */
+table#List td {
+  border: none;
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--space-4) var(--space-6);
+  vertical-align: top;
+  font-size: var(--text-base);
+  line-height: var(--leading-normal);
+}
+
+table#List tr:last-child td {
+  border-bottom: none;
+}
+
+/* First column (labels) styling */
+table#List td:first-child {
+  background: var(--color-surface);
+  font-weight: var(--weight-semibold);
+  color: var(--color-text-secondary);
+  width: 180px;
+  font-size: var(--text-sm);
+  border-right: 1px solid var(--color-border);
+}
+
+/* Second column (values) styling */
+table#List td:nth-child(2) {
+  color: var(--color-text-primary);
+  font-weight: var(--weight-normal);
+}
+
+table#List td:nth-child(2) strong {
+  font-weight: var(--weight-medium);
+  color: var(--color-text-primary);
+}
+
+/* Links in tables */
+table#List a {
+  color: var(--color-primary);
+  font-weight: var(--weight-medium);
+  text-decoration: none;
+  padding: var(--space-1) var(--space-2);
+  border-radius: var(--radius-sm);
+  transition: all var(--transition-base);
+  display: inline-block;
+}
+
+table#List a:hover {
+  background: var(--color-primary-50);
+  color: var(--color-primary-dark);
+  text-decoration: none;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+table#List a strong {
+  font-weight: inherit;
+}
+
+/* ===== SPECIALIZED TABLE HEADERS ===== */
+
+/* Children table header row */
+table#List tr:has(td b) {
+  background: var(--color-primary-50);
+}
+
+table#List tr:has(td b):hover {
+  background: var(--color-primary-100);
+}
+
+table#List td b {
+  color: var(--color-primary);
+  font-weight: var(--weight-semibold);
+  font-size: var(--text-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ===== PHASE 3 COMPONENT CLEANUP ===== */
+
+/* Hide unwanted control buttons */
+button:contains("Expand All"),
+button:contains("Collapse All"),
+button:contains("Original View"),
+.disclosure-fallback-toggle {
+  display: none;
+}
+
+/* More specific selectors for buttons */
+button[class*="disclosure-fallback"],
+button[title*="Original"],
+.disclosure-controls button:nth-child(1),
+.disclosure-controls button:nth-child(2),
+.disclosure-controls button:nth-child(3) {
+  display: none;
+}
+
+/* ===== THUMBNAIL LINKS ===== */
+
+/* Hide thumbnail link if no thumbnails exist - will be controlled by JavaScript */
+a[href*="THF"].hide-if-empty {
+  display: none;
+}
+
+/* Thumbnail navigation styling */
+a[href*="THF"] h2 {
+  background: var(--color-family-light);
+  color: var(--color-family);
+  padding: var(--space-4) var(--space-6);
+  border-radius: var(--radius-lg);
+  border: 2px solid var(--color-family);
+  transition: all var(--transition-base);
+  display: inline-block;
+  margin: var(--space-6) 0;
+  box-shadow: var(--shadow-md);
+}
+
+a[href*="THF"] h2:hover {
+  background: var(--color-family);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+/* ===== LINEAGE IDENTIFICATION ===== */
+
+/* Lineage links special styling */
+a[href*="index.htm"] strong {
+  background: var(--color-lineage-light);
+  color: var(--color-lineage);
+  padding: var(--space-2) var(--space-4);
+  border-radius: var(--radius-md);
+  font-weight: var(--weight-semibold);
+  font-size: var(--text-sm);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: 1px solid var(--color-lineage);
+}
+
+a[href*="index.htm"]:hover strong {
+  background: var(--color-lineage);
+  color: white;
+}
+
+/* ===== STATUS INDICATORS ===== */
+
+/* Status and location indicators - using more general selectors */
+table#List td strong {
+  padding: var(--space-1) var(--space-2);
+  border-radius: var(--radius-sm);
+  font-size: var(--text-sm);
+  display: inline-block;
+  min-width: 40px;
+  text-align: center;
+}
+
+/* Special styling for country codes and status values */
+table#List tr:nth-child(4) td:nth-child(2) strong, /* Birth Location */
+table#List tr:nth-child(12) td:nth-child(2) strong { /* Address */
+  background: var(--color-historical-light);
+  color: var(--color-historical);
+  border: 1px solid var(--color-historical);
+  font-weight: var(--weight-semibold);
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Deceased status */
+table#List tr:nth-child(20) td:nth-child(2) strong { /* Deceased? row */
+  background: var(--color-success-light);
+  color: var(--color-success);
+  border: 1px solid var(--color-success);
+  font-weight: var(--weight-semibold);
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ===== FOOTER MODERNIZATION ===== */
+
+/* Page footer styling */
+body > center:last-of-type {
+  background: var(--color-surface);
+  border-top: 1px solid var(--color-border);
+  padding: var(--space-8) var(--space-6);
+  margin-top: var(--space-12);
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  line-height: var(--leading-relaxed);
+}
+
+body > center:last-of-type b {
+  color: var(--color-text-primary);
+  font-weight: var(--weight-medium);
+}
+
+body > center:last-of-type a {
+  color: var(--color-primary);
+  font-weight: var(--weight-medium);
+}
+
+body > center:last-of-type a:hover {
+  color: var(--color-primary-dark);
+}
+
+/* ===== RESPONSIVE IMPROVEMENTS ===== */
+
+@media (max-width: 768px) {
+  body {
+    padding: var(--space-2);
+  }
+
+  table#List {
+    font-size: var(--text-sm);
+  }
+
+  table#List td {
+    padding: var(--space-3) var(--space-4);
+  }
+
+  table#List td:first-child {
+    width: 120px;
+    font-size: var(--text-xs);
+  }
+
+  body > center:first-of-type h1 {
+    padding: var(--space-6) var(--space-4);
+    font-size: var(--text-2xl);
+  }
+
+  h2 font[color="#FF0000"],
+  h2 font[color="red"] {
+    padding: var(--space-2) var(--space-4);
+    font-size: var(--text-lg);
+  }
+}
+
+@media (max-width: 480px) {
+  table#List td:first-child {
+    width: 100px;
+  }
+
+  body > center:first-of-type h1 {
+    font-size: var(--text-xl);
+    padding: var(--space-4) var(--space-3);
+  }
+
+  table#List td {
+    padding: var(--space-2) var(--space-3);
+  }
+}
+
+/* ===== PRINT IMPROVEMENTS ===== */
+
+@media print {
+  body {
+    background: white;
+    padding: 0;
+    max-width: none;
+  }
+
+  table#List {
+    box-shadow: none;
+    border: 2px solid #000;
+  }
+
+  table#List td {
+    border-bottom: 1px solid #000;
+  }
+
+  table#List td:first-child {
+    border-right: 2px solid #000;
+    background: #f5f5f5;
+  }
+
+  body > center:first-of-type h1 {
+    background: none;
+    color: #000;
+    border: 2px solid #000;
+  }
+}
+
+/* ===== ACCESSIBILITY ENHANCEMENTS ===== */
+
+/* Improve focus visibility */
+table#List a:focus {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
+/* High contrast mode */
+@media (prefers-contrast: high) {
+  table#List {
+    border: 2px solid #000;
+  }
+
+  table#List td {
+    border-bottom: 1px solid #000;
+  }
+
+  table#List td:first-child {
+    border-right: 2px solid #000;
+    background: #f0f0f0;
+  }
+}
+
+/* Reduce motion for accessibility */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms;
+    animation-iteration-count: 1;
+    transition-duration: 0.01ms;
+  }
+
+  table#List a:hover {
+    transform: none;
+  }
+
+  a[href*="THF"] h2:hover {
+    transform: none;
+  }
+}

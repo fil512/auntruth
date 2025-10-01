@@ -8,6 +8,9 @@
         </title>
         <link href="/auntruth/new/css/main.css" rel="stylesheet" type="text/css">
         <link href="/auntruth/new/css/navigation.css" rel="stylesheet">
+        <!-- Phase 4: Modern Design System -->
+        <link rel="stylesheet" href="/auntruth/new/css/modern-design-system.css">
+        <link rel="stylesheet" href="/auntruth/new/css/modern-overrides.css">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="preload" href="/auntruth/new/js/navigation.js" as="script">
@@ -15,28 +18,12 @@
         <link rel="stylesheet" href="/auntruth/new/css/phase3-components.css">
     </head>
     <body data-phase3-enabled>
-    <br>
-    <center>
-        <div id="headlinks">
-            <a href="../">
-            Home |
-            </a>
-        </div>
-    </center>
     <center>
         <h1>
             Johanna  Hakanson
             <br>
             AuntieRuth.com
         </h1>
-    </center>
-    <br>
-    <center>
-        <a href="/auntruth/new/htm/L1/THF100.htm">
-        <h2>
-            ThumbNails for this Person
-        </h2>
-        </a>
     </center>
     <table id="List" rules="all">
         <tbody>
@@ -493,5 +480,92 @@
 
     <!-- Phase 3 Integration - Relationship Navigator, Timeline Visualization, URL Routing -->
     <script type="module" src="/auntruth/new/js/phase3-integration.js?v=20250927f"></script>
+
+    <!-- Phase 4: Modern UI Enhancements -->
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Remove unwanted control buttons
+        setTimeout(() => {
+            // Hide Expand All, Collapse All, Original View buttons
+            const unwantedButtons = Array.from(document.querySelectorAll('button')).filter(btn => {
+                const text = btn.textContent.toLowerCase();
+                return text.includes('expand all') ||
+                       text.includes('collapse all') ||
+                       text.includes('original view') ||
+                       btn.classList.contains('disclosure-fallback-toggle');
+            });
+
+            unwantedButtons.forEach(btn => {
+                btn.style.display = 'none';
+                // Also hide the parent if it only contains unwanted buttons
+                const parent = btn.parentElement;
+                if (parent && parent.classList.contains('disclosure-controls')) {
+                    const visibleChildren = Array.from(parent.children).filter(child =>
+                        child.style.display !== 'none' && !unwantedButtons.includes(child)
+                    );
+                    if (visibleChildren.length === 0) {
+                        parent.style.display = 'none';
+                    }
+                }
+            });
+
+        }, 1000);
+
+        // Fix disclosure section expand/collapse functionality
+        setTimeout(() => {
+            // Wait for Phase 3 components to initialize, then add missing event handlers
+            const toggleButtons = document.querySelectorAll('.disclosure-section-toggle');
+
+            console.log('Found toggle buttons:', toggleButtons.length);
+
+            // Add individual section toggle handlers
+            toggleButtons.forEach((button, index) => {
+                if (!button.onclick && !button.__hasPhase4Handler) {
+                    button.__hasPhase4Handler = true;
+                    button.addEventListener('click', function(e) {
+                        e.preventDefault();
+                        e.stopPropagation();
+
+                        const isExpanded = button.getAttribute('aria-expanded') === 'true';
+                        const newState = !isExpanded;
+
+                        // Update aria-expanded
+                        button.setAttribute('aria-expanded', newState);
+
+                        // Find the content section - look for the next elements after the button
+                        let content = button.nextElementSibling;
+                        const contentElements = [];
+
+                        // Collect all content elements until we hit another button or end of container
+                        while (content && !content.classList?.contains('disclosure-section-toggle')) {
+                            contentElements.push(content);
+                            content = content.nextElementSibling;
+                        }
+
+                        // Toggle visibility of all content elements
+                        contentElements.forEach(element => {
+                            if (element) {
+                                element.style.display = newState ? 'block' : 'none';
+                            }
+                        });
+
+                        // Update button text - change arrow direction
+                        const buttonText = button.textContent;
+                        if (newState) {
+                            button.textContent = buttonText.replace('▶', '▼').replace('►', '▼');
+                        } else {
+                            button.textContent = buttonText.replace('▼', '▶').replace('▼', '►');
+                        }
+
+                        console.log('Toggled section', index, 'to', newState ? 'expanded' : 'collapsed');
+                    });
+                }
+            });
+
+            // Note: Expand All and Collapse All buttons are hidden via CSS and JavaScript
+
+        }, 2000); // Wait 2 seconds for Phase 3 to fully initialize
+    });
+    </script>
     </body>
 </html>

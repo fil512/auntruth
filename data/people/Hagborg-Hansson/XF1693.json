@@ -1,0 +1,61 @@
+{
+  "id": "XF1693",
+  "name": "Corey  Carlson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, July 27, 1977",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1690",
+    "name": "Douglas Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF1690.htm"
+  },
+  "mother": {
+    "id": "XF1691",
+    "name": "Blanche -Carlson []",
+    "url": "/auntruth/htm/L0/XF1691.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Grade 11",
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:00Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1693.htm",
+    "extractionDate": "2025-10-01T04:27:19.497438Z"
+  }
+}

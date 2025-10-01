@@ -1,0 +1,56 @@
+{
+  "id": "XF600",
+  "name": "Elaine  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, February 04, 1941",
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF595",
+    "name": "Harry Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF595.htm"
+  },
+  "mother": {
+    "id": "XF594",
+    "name": "Mary(May) Maskell-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF594.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF601",
+      "name": "Lawrence(Larry) Gusta [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF601.htm",
+      "marriageDate": "Monday, January 01, 1962"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1264",
+      "name": "Michael   Gusta",
+      "url": "/auntruth/new/htm/L1/XF1264.htm",
+      "birthDate": "11/30/1977"
+    },
+    {
+      "id": "XF1263",
+      "name": "Andrea   Gusta",
+      "url": "/auntruth/new/htm/L1/XF1263.htm",
+      "birthDate": "05/08/1976"
+    }
+  ],
+  "occupation": "Homemaker/Potter",
+  "address": "515 Copeland Crescent Saskatoon SK S7H 2Z4 CAN",
+  "email": null,
+  "phone": "306-955-5070, 306-955-5070",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Went to school in Meadows and Winnipeg, then became secretary. Married Larry Gusta from Selkirk in 1962. Worked as executive secretary for IBM and in 1969 received the top award for secretarial efficiency given to IBM employees. She enjoyed an all expenses paid trip to New York and was presented with a gold pen and pencil set.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:45Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF600.htm",
+    "extractionDate": "2025-10-01T04:27:32.556969Z"
+  }
+}

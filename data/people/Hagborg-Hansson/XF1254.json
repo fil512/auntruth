@@ -1,0 +1,56 @@
+{
+  "id": "XF1254",
+  "name": "Carol  Simonson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, June 15, 1957",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF597",
+    "name": "Carl Simonson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF597.htm"
+  },
+  "mother": {
+    "id": "XF596",
+    "name": "Edith(Edie) Hagborg-Simonson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF596.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1255",
+      "name": "Stuart McFadyen [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1255.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1257",
+      "name": "Heather   McFadyen",
+      "url": "/auntruth/new/htm/L1/XF1257.htm",
+      "birthDate": "02/05/1986"
+    },
+    {
+      "id": "XF1256",
+      "name": "Scott   McFadyen",
+      "url": "/auntruth/new/htm/L1/XF1256.htm",
+      "birthDate": "03/18/1984"
+    }
+  ],
+  "occupation": "Manitoba Hydro",
+  "address": "Box 137 Camp Morton MB R0C 0M0 CAN",
+  "email": "simoncar@mb.sympatico.ca",
+  "phone": "(204) 642-9126, (204) 642-9126",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:54Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1254.htm",
+    "extractionDate": "2025-10-01T04:27:15.609229Z"
+  }
+}

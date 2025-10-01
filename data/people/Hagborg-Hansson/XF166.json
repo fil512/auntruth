@@ -1,0 +1,42 @@
+{
+  "id": "XF166",
+  "name": "Kent  Clayton",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF165",
+      "name": "Lynda May Hagborg-Clayton [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF165.htm",
+      "marriageDate": "Monday, December 27, 1965"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2352",
+      "name": "Kathryn Elizabe Clayton",
+      "url": "/auntruth/new/htm/L1/XF2352.htm",
+      "birthDate": "09/06/1967"
+    }
+  ],
+  "occupation": "preacher?",
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "Preacher",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:34Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF166.htm",
+    "extractionDate": "2025-10-01T04:27:18.969375Z"
+  }
+}

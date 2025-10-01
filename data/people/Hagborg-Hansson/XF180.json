@@ -1,0 +1,406 @@
+{
+  "id": "XF180",
+  "name": "Elinor Mae Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, April 17, 1934",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF178",
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "mother": {
+    "id": "XF179",
+    "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF179.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF181",
+      "name": "Ernest Donald Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF181.htm",
+      "marriageDate": "Friday, February 21, 1964"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF184",
+      "name": "Wendy Leilani Stevens",
+      "url": "/auntruth/new/htm/L1/XF184.htm",
+      "birthDate": "07/27/1969"
+    },
+    {
+      "id": "XF183",
+      "name": "Cheryl Anne Stevens",
+      "url": "/auntruth/new/htm/L1/XF183.htm",
+      "birthDate": "03/08/1967"
+    },
+    {
+      "id": "XF182",
+      "name": "Kenneth Harold Stevens",
+      "url": "/auntruth/new/htm/L1/XF182.htm",
+      "birthDate": "08/09/1965"
+    }
+  ],
+  "occupation": "Lab Technician",
+  "address": "12 Driftwood Drive Guelph ON N1G  4X7 CAN",
+  "email": "elstevens@yahoo.com",
+  "phone": "(519) 836-3142, (519) 836-3142",
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Dining Room/Kitchen (Elinor & Joyce's Maple Dresser to right)",
+      "date": "Saturday, November 06, 2004",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2596.htm"
+    },
+    {
+      "name": "Elinor & Dog",
+      "date": "Wednesday, August 06, 2003",
+      "location": "Cottage Prince Edward Island Canada",
+      "url": "/auntruth/new/htm/L1/XI2325.htm"
+    },
+    {
+      "name": "Elinor by Sea",
+      "date": "Wednesday, August 06, 2003",
+      "location": "Cottage Prince Edward Island Canada",
+      "url": "/auntruth/new/htm/L1/XI2324.htm"
+    },
+    {
+      "name": "Happy as a Clam (not these ones though!)",
+      "date": "Monday, June 30, 2003",
+      "location": "Prince Edward Island Canada",
+      "url": "/auntruth/new/htm/L1/XI2269.htm"
+    },
+    {
+      "name": "906 Riverwood from Back",
+      "date": "Thursday, August 29, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1729.htm"
+    },
+    {
+      "name": "906 Riverwood from Front",
+      "date": "Thursday, August 29, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1728.htm"
+    },
+    {
+      "name": "915 Oakenwald from Front",
+      "date": "Thursday, August 29, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1727.htm"
+    },
+    {
+      "name": "At the Experimental Farm Sheep Barn",
+      "date": "Saturday, March 01, 1986",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI645.htm"
+    },
+    {
+      "name": "More Under the Tree",
+      "date": "Friday, December 20, 1985",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI671.htm"
+    },
+    {
+      "name": "Christmas",
+      "date": "Friday, December 20, 1985",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI670.htm"
+    },
+    {
+      "name": "Family Get-together",
+      "date": "Sunday, July 02, 1978",
+      "location": "Toronto Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1033.htm"
+    },
+    {
+      "name": "On the Deck",
+      "date": "Monday, July 01, 1974",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1332.htm"
+    },
+    {
+      "name": "At the Stevens'",
+      "date": "Wednesday, December 20, 1967",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI439.htm"
+    },
+    {
+      "name": "Stevens Family",
+      "date": "Tuesday, August 01, 1967",
+      "location": "Honolulu Hawaii United States of America",
+      "url": "/auntruth/new/htm/L0/XI1179.htm"
+    },
+    {
+      "name": "Chinese Junk",
+      "date": "Sunday, August 02, 1964",
+      "location": "Penticton British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI415.htm"
+    },
+    {
+      "name": "Elinor's House",
+      "date": "Saturday, August 01, 1964",
+      "location": "Summerland British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI413.htm"
+    },
+    {
+      "name": "Wedding",
+      "date": "Friday, February 21, 1964",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L0/XI1312.htm"
+    },
+    {
+      "name": "Suspension Bridge",
+      "date": "Sunday, June 02, 1963",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI19.htm"
+    },
+    {
+      "name": "Little Mountain",
+      "date": "Monday, April 15, 1963",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L3/XI426.htm"
+    },
+    {
+      "name": "Joyce's Wedding",
+      "date": "Saturday, May 06, 1961",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2421.htm"
+    },
+    {
+      "name": "In the Back Yard",
+      "date": "Monday, August 01, 1960",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1217.htm"
+    },
+    {
+      "name": "In the Back Yard",
+      "date": "Saturday, July 04, 1959",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1216.htm"
+    },
+    {
+      "name": "At the CopaCabana NightClub",
+      "date": "Thursday, January 01, 1959",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2040.htm"
+    },
+    {
+      "name": "In front of the cottage",
+      "date": "Wednesday, April 02, 1958",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1479.htm"
+    },
+    {
+      "name": "25th Wedding Anniversary",
+      "date": "Monday, November 04, 1957",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1307.htm"
+    },
+    {
+      "name": "Trip to Mexico",
+      "date": "Thursday, August 15, 1957",
+      "location": "Mexico Mexico",
+      "url": "/auntruth/new/htm/L0/XI1303.htm"
+    },
+    {
+      "name": "In the Trees",
+      "date": "Monday, July 01, 1957",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1330.htm"
+    },
+    {
+      "name": "Top of Stairs",
+      "date": "Monday, July 01, 1957",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1329.htm"
+    },
+    {
+      "name": "Graduation Laboratory Technician",
+      "date": "Thursday, June 30, 1955",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1302.htm"
+    },
+    {
+      "name": "Old Wooden Boat",
+      "date": "Thursday, July 01, 1954",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1325.htm"
+    },
+    {
+      "name": "Cottage Not completely closed in yet",
+      "date": "Tuesday, June 01, 1954",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1328.htm"
+    },
+    {
+      "name": "Marion & Phil's Wedding",
+      "date": "Saturday, July 01, 1950",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI1613.htm"
+    },
+    {
+      "name": "Family Photograph",
+      "date": "Thursday, December 01, 1949",
+      "location": "Ontario Canada",
+      "url": "/auntruth/new/htm/L0/XI1294.htm"
+    },
+    {
+      "name": "Fireman Movie",
+      "date": "Tuesday, June 15, 1948",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI2420.htm"
+    },
+    {
+      "name": "Backyard with Hagborgs",
+      "date": "Wednesday, May 15, 1946",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2419.htm"
+    },
+    {
+      "name": "With Elinor",
+      "date": "Wednesday, December 20, 1944",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1200.htm"
+    },
+    {
+      "name": "With Elinor & Joyce",
+      "date": "Wednesday, December 20, 1944",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1199.htm"
+    },
+    {
+      "name": "With Sister Elinor",
+      "date": "Wednesday, December 20, 1944",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1197.htm"
+    },
+    {
+      "name": "Piano Duet",
+      "date": "Thursday, October 01, 1942",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1293.htm"
+    },
+    {
+      "name": "Winter Fun",
+      "date": "Wednesday, February 01, 1939",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1291.htm"
+    },
+    {
+      "name": "At a motel",
+      "date": "Monday, July 25, 1938",
+      "location": "British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1477.htm"
+    },
+    {
+      "name": "Movie at Hagborg Duplex",
+      "date": "Monday, May 02, 1938",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI2418.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Don by Cottage",
+      "date": "Wednesday, August 06, 2003",
+      "location": "Cottage Prince Edward Island Canada",
+      "url": "/auntruth/new/htm/L1/XI2326.htm"
+    },
+    {
+      "name": "Wendy 1970 Sean 2003",
+      "date": "Sunday, March 02, 2003",
+      "location": "Toronto Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI2041.htm"
+    },
+    {
+      "name": "Wendy & Friend",
+      "date": "Saturday, May 31, 1986",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1317.htm"
+    },
+    {
+      "name": "Siblings",
+      "date": "Friday, August 09, 1985",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1316.htm"
+    },
+    {
+      "name": "19 Years Old",
+      "date": "Tuesday, January 10, 1984",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI884.htm"
+    },
+    {
+      "name": "Wendy",
+      "date": "Saturday, August 09, 1975",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1315.htm"
+    },
+    {
+      "name": "Cheryl",
+      "date": "Saturday, August 09, 1975",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1314.htm"
+    },
+    {
+      "name": "Ken",
+      "date": "Saturday, August 09, 1975",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1313.htm"
+    },
+    {
+      "name": "In the Canoe",
+      "date": "Monday, July 01, 1974",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1333.htm"
+    },
+    {
+      "name": "Kitchen",
+      "date": "Wednesday, March 20, 1968",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI924.htm"
+    },
+    {
+      "name": "Grampa",
+      "date": "Monday, December 20, 1965",
+      "location": "Honolulu Hawaii United States of America",
+      "url": "/auntruth/new/htm/L1/XI1181.htm"
+    },
+    {
+      "name": "In a field",
+      "date": "Monday, June 01, 1959",
+      "location": "Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L1/XI1214.htm"
+    },
+    {
+      "name": "With his rabbits in back yard",
+      "date": "Wednesday, June 01, 1955",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1209.htm"
+    },
+    {
+      "name": "In a Convoy Coat on back steps",
+      "date": "Monday, March 01, 1954",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1208.htm"
+    },
+    {
+      "name": "At Stampede in car with Mom & Dad",
+      "date": "Tuesday, July 01, 1952",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L1/XI1206.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:57Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF180.htm",
+    "extractionDate": "2025-10-01T04:27:20.707458Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "XF2484",
+  "name": "Mans  Frifeldt (Olsson)",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, January 07, 1762",
+  "birthLocation": "Katslosa (Varmlosa 12)     SWE",
+  "deathDate": "Saturday, April 21, 1838",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2485",
+    "name": "Ola Larsson (Frifeldt) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2485.htm"
+  },
+  "mother": {
+    "id": "XF2486",
+    "name": "Hanna Borjesdotter-Larsson (Frifeldt) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2486.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2480",
+      "name": "Borje   Mansson (Frifeldt)",
+      "url": "/auntruth/new/htm/L1/XF2480.htm",
+      "birthDate": "07/14/1787"
+    }
+  ],
+  "occupation": null,
+  "address": "Sovde (Kattarp)   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Peter Larsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:37Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2484.htm",
+    "extractionDate": "2025-10-01T04:27:26.344666Z"
+  }
+}

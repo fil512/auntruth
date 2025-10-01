@@ -1,0 +1,50 @@
+{
+  "id": "XF628",
+  "name": "Shannon  McLeod",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, October 03, 1963",
+  "birthLocation": "Warren MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF607",
+    "name": "Murray McLeod [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF607.htm"
+  },
+  "mother": {
+    "id": "XF606",
+    "name": "Shirley Hagborg-McLeod [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF606.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1270",
+      "name": "Rob Glennie [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1270.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1271",
+      "name": "Jordan   Glennie",
+      "url": "/auntruth/new/htm/L1/XF1271.htm",
+      "birthDate": "09/02/1990"
+    }
+  ],
+  "occupation": "Legal Secretary",
+  "address": "98 Dickens Drive Winnipeg MB R3K 0M2 CAN",
+  "email": null,
+  "phone": "204-888-5094, 204-888-5094",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:57Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF628.htm",
+    "extractionDate": "2025-10-01T04:27:33.244747Z"
+  }
+}

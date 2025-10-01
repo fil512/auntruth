@@ -1,0 +1,56 @@
+{
+  "id": "XF1688",
+  "name": "Donita Lynn Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, October 28, 1951",
+  "birthLocation": "Toronto ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF162",
+    "name": "Helmer William Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF162.htm"
+  },
+  "mother": {
+    "id": "XF345",
+    "name": "Marilyn Collins-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF345.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2450",
+      "name": "Roy Alvin Cairns [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2450.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2453",
+      "name": "William Roy Cairns",
+      "url": "/auntruth/new/htm/L1/XF2453.htm",
+      "birthDate": "11/08/1979"
+    },
+    {
+      "id": "XF2452",
+      "name": "Sherry Anne Cairns",
+      "url": "/auntruth/new/htm/L1/XF2452.htm",
+      "birthDate": "07/27/1975"
+    }
+  ],
+  "occupation": "Programmer-Analyst Head Office Liquor Control Board Ontario",
+  "address": "397 Bluegrass Blvd Richmond Hill ON L4C 3H5 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Wendy Hagborg-Lee",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:58Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1688.htm",
+    "extractionDate": "2025-10-01T04:27:19.202059Z"
+  }
+}

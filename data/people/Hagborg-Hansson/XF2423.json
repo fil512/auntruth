@@ -1,0 +1,36 @@
+{
+  "id": "XF2423",
+  "name": "Karna  Wall",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2421",
+    "name": "Nils Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2421.htm"
+  },
+  "mother": {
+    "id": "XF2422",
+    "name": "Elna Johnson-Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2422.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": "Crippled at 18 & spent most of life in hospital. Lived to be quite old.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:10Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2423.htm",
+    "extractionDate": "2025-10-01T04:27:24.198654Z"
+  }
+}

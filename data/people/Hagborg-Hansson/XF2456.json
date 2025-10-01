@@ -1,0 +1,35 @@
+{
+  "id": "XF2456",
+  "name": "Albert Henry Collins",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF345",
+      "name": "Marilyn   Collins",
+      "url": "/auntruth/new/htm/L1/XF345.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Wendy Hagborg-Lee",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:25Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2456.htm",
+    "extractionDate": "2025-10-01T04:27:25.947136Z"
+  }
+}

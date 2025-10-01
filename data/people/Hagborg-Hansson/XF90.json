@@ -1,0 +1,68 @@
+{
+  "id": "XF90",
+  "name": "Torsten  Hakanson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF88",
+    "name": "Herman Hakanson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF88.htm"
+  },
+  "mother": {
+    "id": "XF89",
+    "name": "Valborg -Hakanson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF89.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF91",
+      "name": "Rosi -Hakanson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF91.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF95",
+      "name": "Maria   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF95.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF94",
+      "name": "Anders   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF94.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF93",
+      "name": "Mats   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF93.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF92",
+      "name": "Katti   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF92.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:46Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF90.htm",
+    "extractionDate": "2025-10-01T04:27:35.795564Z"
+  }
+}

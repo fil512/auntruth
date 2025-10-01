@@ -1,0 +1,50 @@
+{
+  "id": "XF68",
+  "name": "Clarence  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, January 01, 1899",
+  "birthLocation": "Starbuck MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF64",
+    "name": "Anders(Andrew) Hagborg(Hansson) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF64.htm"
+  },
+  "mother": {
+    "id": "XF65",
+    "name": "Johanna Wall-Hagborg(Hansson)-Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF65.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF69",
+      "name": "Martha McDonald-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF69.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF589",
+      "name": "Helen   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF589.htm",
+      "birthDate": "09/29/1938"
+    }
+  ],
+  "occupation": null,
+  "address": "Stonewall MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "After coming to Meadows with his parents, stayed at Clandeboye with his aunt and attended school there until the school at Meadows was built. He worked at home until 1916 when he went to St. Paul Minnesota to work for the winter as a barn boss for Jim Hill, a railway magnate. In 1918 he was conscripted to the Canadian Army, returning in 1919. He purchased 240 acres from W. L. Parrish and continued to live at home and farm with the family until his marriage in 1937. They bought a farm at Argyle, Manitoba where they lived until 1968. Clarence also continued to farm his land at Meadows until he sold it to Boonstras.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:32Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF68.htm",
+    "extractionDate": "2025-10-01T04:27:34.243853Z"
+  }
+}

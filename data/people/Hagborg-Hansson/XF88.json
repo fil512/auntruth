@@ -1,0 +1,81 @@
+{
+  "id": "XF88",
+  "name": "Herman  Hakanson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF82",
+    "name": "Matts Hakansson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF82.htm"
+  },
+  "mother": {
+    "id": "XF81",
+    "name": "Else Hansdotter-Hakansson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF81.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF89",
+      "name": "Valborg -Hakanson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF89.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF96",
+      "name": "Kerstin   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF96.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF90",
+      "name": "Torsten   Hakanson",
+      "url": "/auntruth/new/htm/L1/XF90.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Vasterhagagatan 11 Walldamsgatan 38 Tralleborg   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Cousins",
+      "date": "Wednesday, June 05, 1974",
+      "location": "Malmo Sweden General Sweden",
+      "url": "/auntruth/new/htm/L1/XI1411.htm"
+    },
+    {
+      "name": "The Cousins",
+      "date": "Tuesday, May 21, 1974",
+      "location": "Malmo Sweden General Sweden",
+      "url": "/auntruth/new/htm/L1/XI99.htm"
+    },
+    {
+      "name": "At Manfred Martensson's",
+      "date": "Tuesday, May 21, 1974",
+      "location": "Malmo Sweden General Sweden",
+      "url": "/auntruth/new/htm/L1/XI98.htm"
+    },
+    {
+      "name": "At the Relatives",
+      "date": "Tuesday, May 21, 1974",
+      "location": "Malmo Sweden General Sweden",
+      "url": "/auntruth/new/htm/L0/XI97.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:45Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF88.htm",
+    "extractionDate": "2025-10-01T04:27:35.589061Z"
+  }
+}

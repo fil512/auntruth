@@ -1,0 +1,42 @@
+{
+  "id": "XF2228",
+  "name": "Dana",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "ROM",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2229",
+      "name": "Cornel Visoiu [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2229.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2235",
+      "name": "Irina   Visoiu",
+      "url": "/auntruth/new/htm/L1/XF2235.htm",
+      "birthDate": "10/17/1970"
+    }
+  ],
+  "occupation": null,
+  "address": "ROM",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Ken Stevens",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:45Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2228.htm",
+    "extractionDate": "2025-10-01T04:27:23.232799Z"
+  }
+}

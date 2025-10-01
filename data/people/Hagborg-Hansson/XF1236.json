@@ -1,0 +1,36 @@
+{
+  "id": "XF1236",
+  "name": "Tracy  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, April 06, 1968",
+  "birthLocation": "The Pas MB   CAN",
+  "deathDate": "Saturday, April 06, 1968",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF575",
+    "name": "Andrew Victor Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF575.htm"
+  },
+  "mother": {
+    "id": "XF576",
+    "name": "Reta Percy-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF576.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": "twin of Cathy",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:47Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1236.htm",
+    "extractionDate": "2025-10-01T04:27:14.512956Z"
+  }
+}

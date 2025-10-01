@@ -1,0 +1,36 @@
+{
+  "id": "XF1262",
+  "name": "Alex  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, June 12, 1993",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF641",
+    "name": "Robert Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF641.htm"
+  },
+  "mother": {
+    "id": "XF642",
+    "name": "Renee Howden-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF642.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "43 Ritchie St. Winnipeg MB R2P 2B1 CAN",
+  "email": null,
+  "phone": "204-697-1752, 204-697-1752",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:58Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1262.htm",
+    "extractionDate": "2025-10-01T04:27:16.088397Z"
+  }
+}

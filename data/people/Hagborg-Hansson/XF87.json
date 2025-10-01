@@ -1,0 +1,36 @@
+{
+  "id": "XF87",
+  "name": "Katarina  Hakanson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF83",
+    "name": "Borje Hakanson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF83.htm"
+  },
+  "mother": {
+    "id": "XF84",
+    "name": "Birgit -Hakanson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF84.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:44Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF87.htm",
+    "extractionDate": "2025-10-01T04:27:35.505730Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "XF629",
+  "name": "Larry  McLeod",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, January 13, 1970",
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF607",
+    "name": "Murray McLeod [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF607.htm"
+  },
+  "mother": {
+    "id": "XF606",
+    "name": "Shirley Hagborg-McLeod [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF606.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Groundskeeper",
+  "address": "Box 12 Marquette MB R0H 0V0 CAN",
+  "email": null,
+  "phone": "204-322-5677, 204-322-5677",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:57Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF629.htm",
+    "extractionDate": "2025-10-01T04:27:33.306871Z"
+  }
+}

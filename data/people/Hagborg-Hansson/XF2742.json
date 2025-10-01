@@ -1,0 +1,42 @@
+{
+  "id": "XF2742",
+  "name": "Elizabeth May Welsh",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Crandall     CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2741",
+      "name": "Edward Cruikshanks Morison [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2741.htm",
+      "marriageDate": "Saturday, October 10, 1936"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2746",
+      "name": "Edwena Denise Morison",
+      "url": "/auntruth/new/htm/L1/XF2746.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "MB   CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bud Amy",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:33Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2742.htm",
+    "extractionDate": "2025-10-01T04:27:29.702957Z"
+  }
+}

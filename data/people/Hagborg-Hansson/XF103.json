@@ -1,0 +1,36 @@
+{
+  "id": "XF103",
+  "name": "Olga  Hansson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF79",
+    "name": "Ola Hansson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF79.htm"
+  },
+  "mother": {
+    "id": "XF80",
+    "name": "Kerstin -Hansson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF80.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:53Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF103.htm",
+    "extractionDate": "2025-10-01T04:27:12.924684Z"
+  }
+}

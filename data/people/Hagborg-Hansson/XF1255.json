@@ -1,0 +1,48 @@
+{
+  "id": "XF1255",
+  "name": "Stuart  McFadyen",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1254",
+      "name": "Carol Simonson-McFadyen [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1254.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1257",
+      "name": "Heather   McFadyen",
+      "url": "/auntruth/new/htm/L1/XF1257.htm",
+      "birthDate": "02/05/1986"
+    },
+    {
+      "id": "XF1256",
+      "name": "Scott   McFadyen",
+      "url": "/auntruth/new/htm/L1/XF1256.htm",
+      "birthDate": "03/18/1984"
+    }
+  ],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:55Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1255.htm",
+    "extractionDate": "2025-10-01T04:27:15.692143Z"
+  }
+}

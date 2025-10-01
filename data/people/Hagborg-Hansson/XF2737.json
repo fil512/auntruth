@@ -1,0 +1,43 @@
+{
+  "id": "XF2737",
+  "name": "Alexander Smith Morison",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, March 10, 1904",
+  "birthLocation": "Sec 28-13-25 WPM Miniota     CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2678",
+    "name": "Patrick Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2678.htm"
+  },
+  "mother": {
+    "id": "XF2679",
+    "name": "Jessie Henderson-Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2679.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2738",
+      "name": "Nora Wasdel-Morison [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2738.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bud Amy",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:31Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2737.htm",
+    "extractionDate": "2025-10-01T04:27:29.413851Z"
+  }
+}

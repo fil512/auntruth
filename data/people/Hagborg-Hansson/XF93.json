@@ -1,0 +1,36 @@
+{
+  "id": "XF93",
+  "name": "Mats  Hakanson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF90",
+    "name": "Torsten Hakanson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF90.htm"
+  },
+  "mother": {
+    "id": "XF91",
+    "name": "Rosi -Hakanson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF91.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:47Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF93.htm",
+    "extractionDate": "2025-10-01T04:27:36.358254Z"
+  }
+}

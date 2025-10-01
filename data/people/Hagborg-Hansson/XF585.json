@@ -1,0 +1,56 @@
+{
+  "id": "XF585",
+  "name": "Gary  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, March 07, 1959",
+  "birthLocation": "The Pas MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF575",
+    "name": "Andrew Victor Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF575.htm"
+  },
+  "mother": {
+    "id": "XF576",
+    "name": "Reta Percy-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF576.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1229",
+      "name": "Carmen -Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1229.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF896",
+      "name": "David   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF896.htm",
+      "birthDate": "11/27/1987"
+    },
+    {
+      "id": "XF1230",
+      "name": "Sanielle   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1230.htm",
+      "birthDate": "03/26/1986"
+    }
+  ],
+  "occupation": "Licensed Heavy Duty Mechanic",
+  "address": "157 1st St. W. The Pas MB R9A 1K2 CAN",
+  "email": null,
+  "phone": "204-623-7732, 204-623-7732",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:38Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF585.htm",
+    "extractionDate": "2025-10-01T04:27:31.697337Z"
+  }
+}

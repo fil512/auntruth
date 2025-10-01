@@ -1,0 +1,55 @@
+{
+  "id": "XF67",
+  "name": "Bessie  McCready",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Delmas SA   CAN",
+  "deathDate": "Wednesday, August 01, 1990",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF66",
+      "name": "Victor Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF66.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF577",
+      "name": "Edith Joan Hagborg",
+      "url": "/auntruth/new/htm/L1/XF577.htm",
+      "birthDate": "06/04/1926"
+    },
+    {
+      "id": "XF575",
+      "name": "Andrew Victor Hagborg",
+      "url": "/auntruth/new/htm/L1/XF575.htm",
+      "birthDate": "03/25/1925"
+    }
+  ],
+  "occupation": null,
+  "address": "Meadows MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Obituary Bessie McCready-Hagborg",
+      "date": "Saturday, May 19, 1990",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1378.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:32Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF67.htm",
+    "extractionDate": "2025-10-01T04:27:34.221522Z"
+  }
+}

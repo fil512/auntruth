@@ -1,0 +1,35 @@
+{
+  "id": "XF2940",
+  "name": "X  Watson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "AU   aus",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2939",
+      "name": "Priya   Watson",
+      "url": "/auntruth/new/htm/L1/XF2939.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:00Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2940.htm",
+    "extractionDate": "2025-10-01T04:27:30.672061Z"
+  }
+}

@@ -447,7 +447,7 @@
   }
 
   .disclosure-section-content {
-    display: block !important;
+    display: block;
   }
 
   .disclosure-section-toggle {

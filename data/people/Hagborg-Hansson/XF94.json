@@ -1,0 +1,36 @@
+{
+  "id": "XF94",
+  "name": "Anders  Hakanson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF90",
+    "name": "Torsten Hakanson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF90.htm"
+  },
+  "mother": {
+    "id": "XF91",
+    "name": "Rosi -Hakanson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF91.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:48Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF94.htm",
+    "extractionDate": "2025-10-01T04:27:36.379745Z"
+  }
+}

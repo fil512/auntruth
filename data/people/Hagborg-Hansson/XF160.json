@@ -1,0 +1,166 @@
+{
+  "id": "XF160",
+  "name": "Helmer Vilhelm Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Friday, May 15, 1903",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Sunday, May 22, 1977",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF4",
+    "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF4.htm"
+  },
+  "mother": {
+    "id": "XF3",
+    "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF3.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF158",
+      "name": "Euphemia(Effie) McDougallCurrie Neil-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF158.htm",
+      "marriageDate": "Wednesday, October 20, 1926"
+    },
+    {
+      "id": "XF159",
+      "name": "Dorothy XX-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF159.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF165",
+      "name": "Lynda May Hagborg",
+      "url": "/auntruth/new/htm/L1/XF165.htm",
+      "birthDate": "09/29/1945"
+    },
+    {
+      "id": "XF163",
+      "name": "Doreen Ann Hagborg",
+      "url": "/auntruth/new/htm/L1/XF163.htm",
+      "birthDate": "01/10/1937"
+    },
+    {
+      "id": "XF162",
+      "name": "Helmer William Hagborg",
+      "url": "/auntruth/new/htm/L1/XF162.htm",
+      "birthDate": "08/27/1929"
+    },
+    {
+      "id": "XF161",
+      "name": "Winston Earl Hagborg",
+      "url": "/auntruth/new/htm/L1/XF161.htm",
+      "birthDate": "11/27/1927"
+    }
+  ],
+  "occupation": "airconditioning sales",
+  "address": "Niagara Falls ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "Had one year short of engineering degree. Went to USA as air-conditioning salesman",
+  "photos": [
+    {
+      "name": "At Uncle Helmer's",
+      "date": "Monday, October 01, 1973",
+      "location": "Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1347.htm"
+    },
+    {
+      "name": "On the Beach Stairs",
+      "date": "Thursday, August 31, 1961",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1406.htm"
+    },
+    {
+      "name": "Helmer Hagborg Family",
+      "date": "Saturday, September 27, 1930",
+      "location": "Michigan United States of America",
+      "url": "/auntruth/new/htm/L1/XI1461.htm"
+    },
+    {
+      "name": "On the Porch",
+      "date": "Sunday, September 29, 1929",
+      "location": "Michigan United States of America",
+      "url": "/auntruth/new/htm/L1/XI1418.htm"
+    },
+    {
+      "name": "Uncle Helmer",
+      "date": "Thursday, December 01, 1921",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1393.htm"
+    },
+    {
+      "name": "Sitting on the Running Board",
+      "date": "Sunday, June 01, 1919",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1431.htm"
+    },
+    {
+      "name": "Back Garden",
+      "date": "Wednesday, June 12, 1918",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1434.htm"
+    },
+    {
+      "name": "At Front Gate",
+      "date": "Wednesday, February 12, 1913",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1430.htm"
+    },
+    {
+      "name": "Buggy Party at Assiniboine Park Pavilion",
+      "date": "Monday, August 01, 1910",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1390.htm"
+    },
+    {
+      "name": "All the Hagborg siblings 1908",
+      "date": "Tuesday, December 01, 1908",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1389.htm"
+    },
+    {
+      "name": "Hagborg Family 1907",
+      "date": "Sunday, December 01, 1907",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1385.htm"
+    },
+    {
+      "name": "Esther, Helmer & Albin",
+      "date": "Saturday, October 01, 1904",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1384.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "In the sandbox",
+      "date": "Sunday, September 01, 1929",
+      "location": "Michigan United States of America",
+      "url": "/auntruth/new/htm/L1/XI1465.htm"
+    },
+    {
+      "name": "Under Tree",
+      "date": "Sunday, September 01, 1929",
+      "location": "Michigan United States of America",
+      "url": "/auntruth/new/htm/L1/XI1463.htm"
+    },
+    {
+      "name": "With 'Pop'",
+      "date": "Thursday, June 27, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1462.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:30Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF160.htm",
+    "extractionDate": "2025-10-01T04:27:18.624326Z"
+  }
+}

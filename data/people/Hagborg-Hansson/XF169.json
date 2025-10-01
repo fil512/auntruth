@@ -1,0 +1,75 @@
+{
+  "id": "XF169",
+  "name": "Stanley Arnold Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, October 22, 1944",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF167",
+    "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF167.htm"
+  },
+  "mother": {
+    "id": "XF168",
+    "name": "Fredrica Jane Englund-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF168.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF170",
+      "name": "Margaret Joan Hewlett-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF170.htm",
+      "marriageDate": "Saturday, June 10, 1967"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF171",
+      "name": "Timothy Douglas Hagborg",
+      "url": "/auntruth/new/htm/L1/XF171.htm",
+      "birthDate": "04/25/1971"
+    },
+    {
+      "id": "XF172",
+      "name": "Deborah Lynne Hagborg",
+      "url": "/auntruth/new/htm/L1/XF172.htm",
+      "birthDate": "11/26/1968"
+    }
+  ],
+  "occupation": "Engineer",
+  "address": "620 Elm Street Winnipeg MB  CAN",
+  "email": "shagborg@ilos.net",
+  "phone": null,
+  "website": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "Winnipeg Hydro employee",
+  "photos": [
+    {
+      "name": "906 North Drive from Front",
+      "date": "Thursday, August 29, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1730.htm"
+    },
+    {
+      "name": "In front of the cottage",
+      "date": "Wednesday, April 02, 1958",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1479.htm"
+    },
+    {
+      "name": "Mom",
+      "date": "Wednesday, November 01, 1944",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1409.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:37Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF169.htm",
+    "extractionDate": "2025-10-01T04:27:19.305606Z"
+  }
+}

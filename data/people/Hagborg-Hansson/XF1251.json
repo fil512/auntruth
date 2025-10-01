@@ -1,0 +1,42 @@
+{
+  "id": "XF1251",
+  "name": "Terry  Titanich",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Friday, March 23, 1962",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1250",
+      "name": "Wendy Grant-Titanich [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1250.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1252",
+      "name": "Tyler   Titanich",
+      "url": "/auntruth/new/htm/L1/XF1252.htm",
+      "birthDate": "04/08/1993"
+    }
+  ],
+  "occupation": "Carpenter",
+  "address": "10 Sunway Winnipeg MB R3W 1B9 CAN",
+  "email": null,
+  "phone": "204-222-0303, 204-222-0303",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:53Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1251.htm",
+    "extractionDate": "2025-10-01T04:27:15.482533Z"
+  }
+}

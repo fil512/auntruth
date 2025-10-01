@@ -1,0 +1,42 @@
+{
+  "id": "XF110",
+  "name": "Ellida",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF109",
+      "name": "Johan Johnsson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF109.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF111",
+      "name": "Birgit   Johnsson",
+      "url": "/auntruth/new/htm/L1/XF111.htm",
+      "birthDate": "01/01/1928"
+    }
+  ],
+  "occupation": null,
+  "address": "Hagestad 127:1 Loderup  27020 SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:57Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF110.htm",
+    "extractionDate": "2025-10-01T04:27:13.343424Z"
+  }
+}

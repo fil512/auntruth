@@ -1,0 +1,36 @@
+{
+  "id": "XF588",
+  "name": "Terry  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, June 01, 1972",
+  "birthLocation": "The Pas MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF575",
+    "name": "Andrew Victor Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF575.htm"
+  },
+  "mother": {
+    "id": "XF576",
+    "name": "Reta Percy-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF576.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Forest Moving & Storage",
+  "address": "Box 383 The Pas MB R9A 1K5 CAN",
+  "email": null,
+  "phone": "204-623-2031, 204-623-2031",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:39Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF588.htm",
+    "extractionDate": "2025-10-01T04:27:31.860533Z"
+  }
+}

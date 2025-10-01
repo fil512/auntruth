@@ -1,0 +1,86 @@
+{
+  "id": "XF63",
+  "name": "Hanna  Borjesdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, December 03, 1834",
+  "birthLocation": "Hagestad S0   SWE",
+  "deathDate": "Wednesday, March 03, 1909",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2480",
+    "name": "Borje Mansson (Frifeldt) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2480.htm"
+  },
+  "mother": {
+    "id": "XF2481",
+    "name": "Else (Elsa) Larsdotter-Mansson (Frifeldt) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2481.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF62",
+      "name": "Hans Olson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF62.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF139",
+      "name": "Una   Hansdotter",
+      "url": "/auntruth/new/htm/L1/XF139.htm",
+      "birthDate": "05/01/1878"
+    },
+    {
+      "id": "XF107",
+      "name": "Elna   Hansdotter",
+      "url": "/auntruth/new/htm/L1/XF107.htm",
+      "birthDate": "01/01/1873"
+    },
+    {
+      "id": "XF64",
+      "name": "Anders(Andrew)   Hagborg(Hansson)",
+      "url": "/auntruth/new/htm/L1/XF64.htm",
+      "birthDate": "01/01/1871"
+    },
+    {
+      "id": "XF4",
+      "name": "Borje   Hansson(Hagborg)",
+      "url": "/auntruth/new/htm/L1/XF4.htm",
+      "birthDate": "05/21/1866"
+    },
+    {
+      "id": "XF81",
+      "name": "Else   Hansdotter",
+      "url": "/auntruth/new/htm/L1/XF81.htm",
+      "birthDate": "01/01/1860"
+    },
+    {
+      "id": "XF79",
+      "name": "Ola   Hansson",
+      "url": "/auntruth/new/htm/L1/XF79.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF76",
+      "name": "Matta (Marta) (Martha) Hannadotter-Hagborg",
+      "url": "/auntruth/new/htm/L1/XF76.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Ystad S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Ken Stevens",
+  "notes": "Swedish Archives, Lund Vissa uppgifter fran slaktforskning utford av Birgit Anker-Kofoed, Mossahuset, Hagestad 127:2,276 45 LODERUP (Barn Proband, s 1, Far II:3, s 2,Mor II:4, s 2",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:29Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF63.htm",
+    "extractionDate": "2025-10-01T04:27:33.371382Z"
+  }
+}

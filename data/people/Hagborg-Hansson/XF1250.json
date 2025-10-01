@@ -1,0 +1,50 @@
+{
+  "id": "XF1250",
+  "name": "Wendy  Grant",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, October 17, 1965",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF590",
+    "name": "Edward Grant [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF590.htm"
+  },
+  "mother": {
+    "id": "XF589",
+    "name": "Helen Hagborg-Grant [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF589.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1251",
+      "name": "Terry Titanich [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1251.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1252",
+      "name": "Tyler   Titanich",
+      "url": "/auntruth/new/htm/L1/XF1252.htm",
+      "birthDate": "04/08/1993"
+    }
+  ],
+  "occupation": "Orthodontic Dental Assistant",
+  "address": "10 Sunway Winnipeg MB R3W 1B9 CAN",
+  "email": null,
+  "phone": "204-222-0303, 204-222-0303",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:53Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1250.htm",
+    "extractionDate": "2025-10-01T04:27:15.399735Z"
+  }
+}

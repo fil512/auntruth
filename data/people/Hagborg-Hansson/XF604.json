@@ -1,0 +1,50 @@
+{
+  "id": "XF604",
+  "name": "Mark  Hodges",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, October 03, 1961",
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF603",
+    "name": "Richard Hodges [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF603.htm"
+  },
+  "mother": {
+    "id": "XF602",
+    "name": "Ann Joy Mykle-Hodges [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF602.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1265",
+      "name": "Sushmita -Hodges [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1265.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1266",
+      "name": "Samantha   Hodges",
+      "url": "/auntruth/new/htm/L1/XF1266.htm",
+      "birthDate": "07/29/1989"
+    }
+  ],
+  "occupation": "Communications Consultant",
+  "address": "3011 Woodridge Ave South Bend IN 46615 USA",
+  "email": null,
+  "phone": "219-234-2474, 219-234-2474",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:46Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF604.htm",
+    "extractionDate": "2025-10-01T04:27:32.784632Z"
+  }
+}

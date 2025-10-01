@@ -1,0 +1,36 @@
+{
+  "id": "XF2445",
+  "name": "Augusta  Wall",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Loderup S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2421",
+    "name": "Nils Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2421.htm"
+  },
+  "mother": {
+    "id": "XF2422",
+    "name": "Elna Johnson-Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2422.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": "Came to Canada and died very young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:20Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2445.htm",
+    "extractionDate": "2025-10-01T04:27:25.405363Z"
+  }
+}

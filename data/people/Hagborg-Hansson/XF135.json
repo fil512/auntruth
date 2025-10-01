@@ -1,0 +1,56 @@
+{
+  "id": "XF135",
+  "name": "Ingrid  Johnsson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF127",
+    "name": "Hemfrid Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF127.htm"
+  },
+  "mother": {
+    "id": "XF128",
+    "name": "Else -Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF128.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF136",
+      "name": "Giran  [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF136.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF138",
+      "name": "Magnus",
+      "url": "/auntruth/new/htm/L1/XF138.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF137",
+      "name": "Johan",
+      "url": "/auntruth/new/htm/L1/XF137.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:12Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF135.htm",
+    "extractionDate": "2025-10-01T04:27:17.291777Z"
+  }
+}

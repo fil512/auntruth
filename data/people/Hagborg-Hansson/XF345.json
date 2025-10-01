@@ -1,0 +1,62 @@
+{
+  "id": "XF345",
+  "name": "Marilyn  Collins",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2456",
+    "name": "Albert Henry Collins [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2456.htm"
+  },
+  "mother": {
+    "id": "XF2457",
+    "name": "Isabel Macleod [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2457.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF162",
+      "name": "Helmer William Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF162.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1689",
+      "name": "Wendy Anne Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1689.htm",
+      "birthDate": "11/01/1957"
+    },
+    {
+      "id": "XF200",
+      "name": "William(Bill)   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF200.htm",
+      "birthDate": "05/18/1954"
+    },
+    {
+      "id": "XF1688",
+      "name": "Donita Lynn Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1688.htm",
+      "birthDate": "10/28/1951"
+    }
+  ],
+  "occupation": null,
+  "address": "32 Clarissa Dr. Ste 1118 Richmond Hill ON L4C 9R7 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Wendy Hagborg-Lee",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:20Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF345.htm",
+    "extractionDate": "2025-10-01T04:27:30.934285Z"
+  }
+}

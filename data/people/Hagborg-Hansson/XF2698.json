@@ -1,0 +1,42 @@
+{
+  "id": "XF2698",
+  "name": "Johanna  Nilsdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, January 01, 1851",
+  "birthLocation": "Skivarp     SWE",
+  "deathDate": "Monday, January 01, 1934",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2697",
+      "name": "Anders Larsson Sundberg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2697.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2699",
+      "name": "Emelie   Sundberg",
+      "url": "/auntruth/new/htm/L1/XF2699.htm",
+      "birthDate": "09/01/1889"
+    }
+  ],
+  "occupation": null,
+  "address": "Fergus Falls MN  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:13Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2698.htm",
+    "extractionDate": "2025-10-01T04:27:28.174659Z"
+  }
+}

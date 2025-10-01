@@ -1,0 +1,35 @@
+{
+  "id": "XF1245",
+  "name": "Karen",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF581",
+      "name": "Kelly Shimmin [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF581.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "5024 Nerstrand Blvd Cannon City MI 55021 USA",
+  "email": null,
+  "phone": "507-334-2888, 507-334-2888",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:50Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1245.htm",
+    "extractionDate": "2025-10-01T04:27:15.084347Z"
+  }
+}

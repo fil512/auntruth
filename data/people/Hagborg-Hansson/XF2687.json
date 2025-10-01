@@ -1,0 +1,50 @@
+{
+  "id": "XF2687",
+  "name": "Kerstina  Martensdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, August 10, 1750",
+  "birthLocation": "Katslosa S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2689",
+    "name": "Marten Larsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2689.htm"
+  },
+  "mother": {
+    "id": "XF2690",
+    "name": "Bereta Trulsdotter-Larsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2690.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2688",
+      "name": "Lars  [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2688.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2481",
+      "name": "Else (Elsa)   Larsdotter",
+      "url": "/auntruth/new/htm/L1/XF2481.htm",
+      "birthDate": "08/10/1750"
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:08Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2687.htm",
+    "extractionDate": "2025-10-01T04:27:27.585750Z"
+  }
+}

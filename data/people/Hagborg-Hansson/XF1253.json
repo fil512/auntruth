@@ -1,0 +1,35 @@
+{
+  "id": "XF1253",
+  "name": "Marju",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, March 24, 1965",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF582",
+      "name": "Brian Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF582.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Royal Bank Mortgage Department",
+  "address": "Box 272 The Pas MB R9A 1K5 CAN",
+  "email": null,
+  "phone": "204-623-7927, 204-623-7927",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:54Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1253.htm",
+    "extractionDate": "2025-10-01T04:27:15.586987Z"
+  }
+}

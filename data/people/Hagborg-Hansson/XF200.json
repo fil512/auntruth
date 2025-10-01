@@ -1,0 +1,36 @@
+{
+  "id": "XF200",
+  "name": "William(Bill)  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, May 18, 1954",
+  "birthLocation": "ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF162",
+    "name": "Helmer William Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF162.htm"
+  },
+  "mother": {
+    "id": "XF345",
+    "name": "Marilyn Collins-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF345.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Forest Management North Bay Supervisor OMNR",
+  "address": "North Bay ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Walter Hagborg(Meadows MB)",
+  "notes": "David Hagborg spoke with Bill in Cornwall 1986",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:08Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF200.htm",
+    "extractionDate": "2025-10-01T04:27:23.209626Z"
+  }
+}

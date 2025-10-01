@@ -1,0 +1,42 @@
+{
+  "id": "XF71",
+  "name": "Alfred  Mykle",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "NOR",
+  "deathDate": "Thursday, January 01, 1959",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF70",
+      "name": "Violet Hagborg-Mykle [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF70.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF602",
+      "name": "Ann Joy   Mykle",
+      "url": "/auntruth/new/htm/L1/XF602.htm",
+      "birthDate": "01/08/1938"
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "Married in 1924. Was section foreman in Meadows til 1944, then General Chairman of the Brotherhood of Maintenance of Way for CPR.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:34Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF71.htm",
+    "extractionDate": "2025-10-01T04:27:34.427971Z"
+  }
+}

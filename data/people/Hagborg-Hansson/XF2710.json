@@ -1,0 +1,42 @@
+{
+  "id": "XF2710",
+  "name": "Kirstine  Denna",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": "Friday, January 01, 1677",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2709",
+      "name": "Madtz Nielsen [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2709.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2708",
+      "name": "Sine   Madsdatter",
+      "url": "/auntruth/new/htm/L1/XF2708.htm",
+      "birthDate": "01/01/1610"
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:18Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2710.htm",
+    "extractionDate": "2025-10-01T04:27:28.884591Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "XF194",
+  "name": null,
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Friday, September 11, 1863",
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF174",
+      "name": "Carl Gustav Sahlgren",
+      "url": "/auntruth/new/htm/L1/XF174.htm",
+      "birthDate": "03/05/1898"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:05Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF194.htm",
+    "extractionDate": "2025-10-01T04:27:22.938929Z"
+  }
+}

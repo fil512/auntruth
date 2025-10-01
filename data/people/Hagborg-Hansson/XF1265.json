@@ -1,0 +1,42 @@
+{
+  "id": "XF1265",
+  "name": "Sushmita",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, May 17, 1960",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF604",
+      "name": "Mark Hodges [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF604.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1266",
+      "name": "Samantha   Hodges",
+      "url": "/auntruth/new/htm/L1/XF1266.htm",
+      "birthDate": "07/29/1989"
+    }
+  ],
+  "occupation": "Assistant Professor History",
+  "address": "3011 Woodridge Ave. South Bend IN 46615 USA",
+  "email": null,
+  "phone": "219-234-2474, 219-234-2474",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:59Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1265.htm",
+    "extractionDate": "2025-10-01T04:27:16.271993Z"
+  }
+}

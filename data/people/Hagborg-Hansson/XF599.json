@@ -1,0 +1,48 @@
+{
+  "id": "XF599",
+  "name": "Islay  Dack",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, June 14, 1942",
+  "birthLocation": "Warren MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF598",
+      "name": "Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF598.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF641",
+      "name": "Robert   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF641.htm",
+      "birthDate": "01/13/1966"
+    },
+    {
+      "id": "XF640",
+      "name": "Bonnie M. Hagborg",
+      "url": "/auntruth/new/htm/L1/XF640.htm",
+      "birthDate": "12/14/1965"
+    }
+  ],
+  "occupation": "Retired Farmwife",
+  "address": "Box 35 Warren MB R0C 3E0 CAN",
+  "email": null,
+  "phone": "(204) 322-5621, (204) 322-5621",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Worked at University of Manitoba Soil Science Dept and at Manitoba Dept of Agriculture Economics Branch.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:44Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF599.htm",
+    "extractionDate": "2025-10-01T04:27:32.476625Z"
+  }
+}

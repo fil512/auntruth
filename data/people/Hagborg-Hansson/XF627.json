@@ -1,0 +1,43 @@
+{
+  "id": "XF627",
+  "name": "Sherrie  McLeod",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, June 09, 1959",
+  "birthLocation": "Warren MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF607",
+    "name": "Murray McLeod [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF607.htm"
+  },
+  "mother": {
+    "id": "XF606",
+    "name": "Shirley Hagborg-McLeod [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF606.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1269",
+      "name": "Harvey Rebalkin [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1269.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Secretary Winnipeg Police Department",
+  "address": "13 Aldrich Way Winnipeg MB R3K 0N3 CAN",
+  "email": null,
+  "phone": "204-837-9909, 204-837-9909",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:56Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF627.htm",
+    "extractionDate": "2025-10-01T04:27:33.161611Z"
+  }
+}

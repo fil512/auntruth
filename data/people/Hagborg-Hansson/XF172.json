@@ -1,0 +1,56 @@
+{
+  "id": "XF172",
+  "name": "Deborah Lynne Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, November 26, 1968",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF169",
+    "name": "Stanley Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF169.htm"
+  },
+  "mother": {
+    "id": "XF170",
+    "name": "Margaret Joan Hewlett-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF170.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2322",
+      "name": "Ian Matthew Mogilevsky [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2322.htm",
+      "marriageDate": "Friday, February 09, 1990"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2324",
+      "name": "Elijah Matthew Mogilevsky",
+      "url": "/auntruth/new/htm/L1/XF2324.htm",
+      "birthDate": "05/04/1996"
+    },
+    {
+      "id": "XF2323",
+      "name": "Havilah Lynne Mogilevsky",
+      "url": "/auntruth/new/htm/L1/XF2323.htm",
+      "birthDate": "11/21/1993"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "St. John's College(University of Manitoba) graduate",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:39Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF172.htm",
+    "extractionDate": "2025-10-01T04:27:19.831113Z"
+  }
+}

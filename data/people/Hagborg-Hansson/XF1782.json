@@ -1,0 +1,61 @@
+{
+  "id": "XF1782",
+  "name": "Tyler  Carlson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, February 03, 1962",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF74",
+    "name": "Arthur Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF74.htm"
+  },
+  "mother": {
+    "id": "XF75",
+    "name": "Hilda -Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF75.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1783",
+      "name": "Michelle -Bradford-Carlson []",
+      "url": "/auntruth/htm/L0/XF1783.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "299 Morgan Crescent Winnipeg MB R2Y 0C9 CAN",
+  "email": null,
+  "phone": "204-837-8976, 204-837-8976",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:37Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1782.htm",
+    "extractionDate": "2025-10-01T04:27:20.619313Z"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "XF1696",
+  "name": "Jonathan  Carlson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, February 21, 1994",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1694",
+    "name": "Leonard Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF1694.htm"
+  },
+  "mother": {
+    "id": "XF1695",
+    "name": "Rae -Carlson []",
+    "url": "/auntruth/htm/L0/XF1695.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "11 Sage Crescent Winnipeg MB R2Y 0X8 CAN",
+  "email": null,
+  "phone": "204-889-7231, 204-889-7231",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:01Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1696.htm",
+    "extractionDate": "2025-10-01T04:27:19.591168Z"
+  }
+}

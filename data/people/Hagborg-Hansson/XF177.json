@@ -1,0 +1,49 @@
+{
+  "id": "XF177",
+  "name": "Melanie Ann Sahlgren",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, May 04, 1968",
+  "birthLocation": "Toronto ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF175",
+    "name": "Ronald Carl Sahlgren [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF175.htm"
+  },
+  "mother": {
+    "id": "XF176",
+    "name": "Marilyn Marie Gamball-Sahlgren [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF176.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Cousin Ron",
+      "date": "Tuesday, May 04, 1971",
+      "location": "Toronto Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1481.htm"
+    },
+    {
+      "name": "Flower Child",
+      "date": "Monday, June 01, 1970",
+      "location": "Toronto Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI923.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:43Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF177.htm",
+    "extractionDate": "2025-10-01T04:27:20.221868Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "XF2926",
+  "name": "Mary  Rapinchuk",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2929",
+    "name": "Alexander Rapinchuk [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2929.htm"
+  },
+  "mother": {
+    "id": "XF2930",
+    "name": "Martha X-Rapinchuk []",
+    "url": "/auntruth/new/htm/L0/XF2930.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2931",
+      "name": "X Barry [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2931.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:54Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2926.htm",
+    "extractionDate": "2025-10-01T04:27:30.177341Z"
+  }
+}

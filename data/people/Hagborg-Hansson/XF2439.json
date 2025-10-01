@@ -1,0 +1,36 @@
+{
+  "id": "XF2439",
+  "name": "Tore  Sveinson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2435",
+    "name": "Sveinson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2435.htm"
+  },
+  "mother": {
+    "id": "XF2434",
+    "name": "Anna Wall-Sveinson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2434.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:17Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2439.htm",
+    "extractionDate": "2025-10-01T04:27:25.095130Z"
+  }
+}

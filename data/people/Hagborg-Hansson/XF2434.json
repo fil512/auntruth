@@ -1,0 +1,68 @@
+{
+  "id": "XF2434",
+  "name": "Anna  Wall",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2421",
+    "name": "Nils Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2421.htm"
+  },
+  "mother": {
+    "id": "XF2422",
+    "name": "Elna Johnson-Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2422.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2435",
+      "name": "Sveinson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2435.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2439",
+      "name": "Tore   Sveinson",
+      "url": "/auntruth/new/htm/L1/XF2439.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2438",
+      "name": "Gulli   Sveinson",
+      "url": "/auntruth/new/htm/L1/XF2438.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2437",
+      "name": "Eva   Sveinson",
+      "url": "/auntruth/new/htm/L1/XF2437.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2436",
+      "name": "Ingeborg   Sveinson",
+      "url": "/auntruth/new/htm/L1/XF2436.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:15Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2434.htm",
+    "extractionDate": "2025-10-01T04:27:24.766401Z"
+  }
+}

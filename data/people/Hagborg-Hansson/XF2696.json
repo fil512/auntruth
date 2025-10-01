@@ -1,0 +1,42 @@
+{
+  "id": "XF2696",
+  "name": "Kerstin  Persdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2695",
+      "name": "Lars Rasmusson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2695.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2697",
+      "name": "Anders Larsson Sundberg",
+      "url": "/auntruth/new/htm/L1/XF2697.htm",
+      "birthDate": "02/23/1850"
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:12Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2696.htm",
+    "extractionDate": "2025-10-01T04:27:28.071271Z"
+  }
+}

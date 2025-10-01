@@ -503,7 +503,7 @@ class RelationshipNavigatorComponent extends BaseComponent {
           <button class="relationship-finder-btn"
                   title="Find relationship between people"
                   aria-label="Relationship finder">
-            🔍 Find Relationship
+            Find Relationship
           </button>
         </div>
 

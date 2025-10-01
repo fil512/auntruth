@@ -1,0 +1,35 @@
+{
+  "id": "XF1273",
+  "name": "Roberta",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF608",
+      "name": "Gordon McLeod [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF608.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:02Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1273.htm",
+    "extractionDate": "2025-10-01T04:27:16.758379Z"
+  }
+}

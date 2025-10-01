@@ -1,0 +1,48 @@
+{
+  "id": "XF97",
+  "name": "Evert",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF96",
+      "name": "Kerstin Hakanson- [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF96.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF99",
+      "name": "Helen",
+      "url": "/auntruth/new/htm/L1/XF99.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF98",
+      "name": "Hokan",
+      "url": "/auntruth/new/htm/L1/XF98.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:50Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF97.htm",
+    "extractionDate": "2025-10-01T04:27:36.563433Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "XF2481",
+  "name": "Else (Elsa)  Larsdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, August 10, 1750",
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2688",
+    "name": "Lars  [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2688.htm"
+  },
+  "mother": {
+    "id": "XF2687",
+    "name": "Kerstina Martensdotter- [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2687.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2480",
+      "name": "Borje Mansson (Frifeldt) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2480.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF63",
+      "name": "Hanna   Borjesdotter",
+      "url": "/auntruth/new/htm/L1/XF63.htm",
+      "birthDate": "12/03/1834"
+    },
+    {
+      "id": "XF2482",
+      "name": "Johan   Borjesson",
+      "url": "/auntruth/new/htm/L1/XF2482.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Hagestad S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Peter Larsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:36Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2481.htm",
+    "extractionDate": "2025-10-01T04:27:26.157852Z"
+  }
+}

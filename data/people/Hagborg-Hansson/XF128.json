@@ -1,0 +1,54 @@
+{
+  "id": "XF128",
+  "name": "Else",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, January 01, 1917",
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF127",
+      "name": "Hemfrid Johnsson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF127.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF135",
+      "name": "Ingrid   Johnsson",
+      "url": "/auntruth/new/htm/L1/XF135.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF132",
+      "name": "Borje   Johnsson",
+      "url": "/auntruth/new/htm/L1/XF132.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF129",
+      "name": "Gertrud   Johnsson",
+      "url": "/auntruth/new/htm/L1/XF129.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Kraftgatan 5 S 270 20 Loderup   SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:08Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF128.htm",
+    "extractionDate": "2025-10-01T04:27:16.904111Z"
+  }
+}

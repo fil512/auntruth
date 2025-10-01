@@ -1,0 +1,50 @@
+{
+  "id": "XF904",
+  "name": "Lars  Svensson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, June 08, 1772",
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF902",
+    "name": "Sven Larsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF902.htm"
+  },
+  "mother": {
+    "id": "XF901",
+    "name": "Inger Jonsdotter-Larsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF901.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF903",
+      "name": "Sissa Nilsdotter-Svensson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF903.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF906",
+      "name": "Ola   Larsson",
+      "url": "/auntruth/new/htm/L1/XF906.htm",
+      "birthDate": "10/30/1804"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Ken Stevens",
+  "notes": "Swedish Archives, Lund",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:02Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF904.htm",
+    "extractionDate": "2025-10-01T04:27:36.089801Z"
+  }
+}

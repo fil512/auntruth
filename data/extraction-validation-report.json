@@ -1,0 +1,4994 @@
+{
+  "summary": {
+    "files_validated": 404,
+    "perfect_matches": 309,
+    "minor_differences": 0,
+    "data_loss_detected": 96
+  },
+  "results": [
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF100.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF100.json",
+      "person_id": "XF100",
+      "person_name": "Johanna  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF101.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF101.json",
+      "person_id": "XF101",
+      "person_name": "Albert",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF102.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF102.json",
+      "person_id": "XF102",
+      "person_name": "Anna  Hansson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF103.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF103.json",
+      "person_id": "XF103",
+      "person_name": "Olga  Hansson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF104.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF104.json",
+      "person_id": "XF104",
+      "person_name": "Edit",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF105.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF105.json",
+      "person_id": "XF105",
+      "person_name": "Sune",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF106.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF106.json",
+      "person_id": "XF106",
+      "person_name": "Anna",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF107.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF107.json",
+      "person_id": "XF107",
+      "person_name": "Elna  Hansdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF108.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF108.json",
+      "person_id": "XF108",
+      "person_name": "Anders  Johnsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF109.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF109.json",
+      "person_id": "XF109",
+      "person_name": "Johan  Johnsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF110.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF110.json",
+      "person_id": "XF110",
+      "person_name": "Ellida",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF111.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF111.json",
+      "person_id": "XF111",
+      "person_name": "Birgit  Johnsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF112.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF112.json",
+      "person_id": "XF112",
+      "person_name": "Svend  Anker-Kofoed",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF113.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF113.json",
+      "person_id": "XF113",
+      "person_name": "Hans  Anker-Kofoed",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF114.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF114.json",
+      "person_id": "XF114",
+      "person_name": "Bengt  Anker-Kofoed",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF115.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF115.json",
+      "person_id": "XF115",
+      "person_name": "Katerina",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF116.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF116.json",
+      "person_id": "XF116",
+      "person_name": "Nils  Anker-Kofoed",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF117.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF117.json",
+      "person_id": "XF117",
+      "person_name": "Ellen  Anker-Kofoed",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF118.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF118.json",
+      "person_id": "XF118",
+      "person_name": "Albin  Johnsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF119.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF119.json",
+      "person_id": "XF119",
+      "person_name": "Ester",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF120.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF120.json",
+      "person_id": "XF120",
+      "person_name": "Margit  Johnsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF121.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF121.json",
+      "person_id": "XF121",
+      "person_name": "Ragnar  Persson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF122.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF122.json",
+      "person_id": "XF122",
+      "person_name": "Lisbeth Kell Persson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1228.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1228.json",
+      "person_id": "XF1228",
+      "person_name": "Kerri  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1229.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1229.json",
+      "person_id": "XF1229",
+      "person_name": "Carmen",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF123.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF123.json",
+      "person_id": "XF123",
+      "person_name": "Kolt  Persson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1230.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1230.json",
+      "person_id": "XF1230",
+      "person_name": "Sanielle  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1231.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1231.json",
+      "person_id": "XF1231",
+      "person_name": "Bruce  Reagan",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1232.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1232.json",
+      "person_id": "XF1232",
+      "person_name": "Christopher  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1233.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1233.json",
+      "person_id": "XF1233",
+      "person_name": "Sean  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1234.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1234.json",
+      "person_id": "XF1234",
+      "person_name": "Jason  Reagan",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1235.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1235.json",
+      "person_id": "XF1235",
+      "person_name": "Jeffrey  Reagan",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1236.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1236.json",
+      "person_id": "XF1236",
+      "person_name": "Tracy  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1237.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1237.json",
+      "person_id": "XF1237",
+      "person_name": "Peggy  Shimmin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1238.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1238.json",
+      "person_id": "XF1238",
+      "person_name": "Gary  Rudnitski",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1239.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1239.json",
+      "person_id": "XF1239",
+      "person_name": "Amy  Ridnitski",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF124.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF124.json",
+      "person_id": "XF124",
+      "person_name": "Amkrestin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1240.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1240.json",
+      "person_id": "XF1240",
+      "person_name": "Daniel  Ridnitski",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1241.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1241.json",
+      "person_id": "XF1241",
+      "person_name": "Cathy  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1242.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1242.json",
+      "person_id": "XF1242",
+      "person_name": "Scott  McAdam",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1243.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1243.json",
+      "person_id": "XF1243",
+      "person_name": "Molly  McAdam",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1244.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1244.json",
+      "person_id": "XF1244",
+      "person_name": "Meghan  McAdam",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1245.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1245.json",
+      "person_id": "XF1245",
+      "person_name": "Karen",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1246.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1246.json",
+      "person_id": "XF1246",
+      "person_name": "June  Grant",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1247.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1247.json",
+      "person_id": "XF1247",
+      "person_name": "Dave  Kush",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1248.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1248.json",
+      "person_id": "XF1248",
+      "person_name": "Steven  Kush",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1249.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1249.json",
+      "person_id": "XF1249",
+      "person_name": "Darren  Kush",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF125.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF125.json",
+      "person_id": "XF125",
+      "person_name": "Frederik  Persson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1250.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1250.json",
+      "person_id": "XF1250",
+      "person_name": "Wendy  Grant",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1251.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1251.json",
+      "person_id": "XF1251",
+      "person_name": "Terry  Titanich",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1252.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1252.json",
+      "person_id": "XF1252",
+      "person_name": "Tyler  Titanich",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1253.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1253.json",
+      "person_id": "XF1253",
+      "person_name": "Marju",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1254.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1254.json",
+      "person_id": "XF1254",
+      "person_name": "Carol  Simonson",
+      "missing_data": [
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "simoncar@mb.sympatico.ca",
+          "href": "mailto:simoncar@mb.sympatico.ca",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1255.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1255.json",
+      "person_id": "XF1255",
+      "person_name": "Stuart  McFadyen",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1256.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1256.json",
+      "person_id": "XF1256",
+      "person_name": "Scott  McFadyen",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1257.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1257.json",
+      "person_id": "XF1257",
+      "person_name": "Heather  McFadyen",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1258.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1258.json",
+      "person_id": "XF1258",
+      "person_name": "Donna  Simonson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1259.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1259.json",
+      "person_id": "XF1259",
+      "person_name": "Wes  Ridgeway",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF126.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF126.json",
+      "person_id": "XF126",
+      "person_name": "Bjorn  Persson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1260.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1260.json",
+      "person_id": "XF1260",
+      "person_name": "Nelson  Ridgeway",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1261.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1261.json",
+      "person_id": "XF1261",
+      "person_name": "Joel  Ridgeway",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1262.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1262.json",
+      "person_id": "XF1262",
+      "person_name": "Alex  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1263.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1263.json",
+      "person_id": "XF1263",
+      "person_name": "Andrea  Gusta",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1264.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1264.json",
+      "person_id": "XF1264",
+      "person_name": "Michael  Gusta",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1265.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1265.json",
+      "person_id": "XF1265",
+      "person_name": "Sushmita",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1266.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1266.json",
+      "person_id": "XF1266",
+      "person_name": "Samantha  Hodges",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1267.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1267.json",
+      "person_id": "XF1267",
+      "person_name": "Gus  Mantzavrokos",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1268.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1268.json",
+      "person_id": "XF1268",
+      "person_name": "Kristi  McLeod",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1269.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1269.json",
+      "person_id": "XF1269",
+      "person_name": "Harvey  Rebalkin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF127.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF127.json",
+      "person_id": "XF127",
+      "person_name": "Hemfrid  Johnsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1270.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1270.json",
+      "person_id": "XF1270",
+      "person_name": "Rob  Glennie",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1271.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1271.json",
+      "person_id": "XF1271",
+      "person_name": "Jordan  Glennie",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1272.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1272.json",
+      "person_id": "XF1272",
+      "person_name": "Harold  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1273.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1273.json",
+      "person_id": "XF1273",
+      "person_name": "Roberta",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1274.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1274.json",
+      "person_id": "XF1274",
+      "person_name": "Roddy  Neher",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF128.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF128.json",
+      "person_id": "XF128",
+      "person_name": "Else",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF129.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF129.json",
+      "person_id": "XF129",
+      "person_name": "Gertrud  Johnsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF130.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF130.json",
+      "person_id": "XF130",
+      "person_name": "Kurt-Allan",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF131.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF131.json",
+      "person_id": "XF131",
+      "person_name": "Annezi",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF132.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF132.json",
+      "person_id": "XF132",
+      "person_name": "Borje  Johnsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF133.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF133.json",
+      "person_id": "XF133",
+      "person_name": "Birgitta",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF134.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF134.json",
+      "person_id": "XF134",
+      "person_name": "Kristina  Johnsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF135.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF135.json",
+      "person_id": "XF135",
+      "person_name": "Ingrid  Johnsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF136.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF136.json",
+      "person_id": "XF136",
+      "person_name": "Giran",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF137.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF137.json",
+      "person_id": "XF137",
+      "person_name": "Johan",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF138.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF138.json",
+      "person_id": "XF138",
+      "person_name": "Magnus",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF139.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF139.json",
+      "person_id": "XF139",
+      "person_name": "Una  Hansdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF140.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF140.json",
+      "person_id": "XF140",
+      "person_name": "Anders  Martensson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF141.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF141.json",
+      "person_id": "XF141",
+      "person_name": "Manfred  Martensson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF142.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF142.json",
+      "person_id": "XF142",
+      "person_name": "Ruth",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF143.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF143.json",
+      "person_id": "XF143",
+      "person_name": "Ingrid  Martensson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF144.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF144.json",
+      "person_id": "XF144",
+      "person_name": "Bo  Svenson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF145.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF145.json",
+      "person_id": "XF145",
+      "person_name": "Agneta  Svenson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF146.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF146.json",
+      "person_id": "XF146",
+      "person_name": "Mots  Svenson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF147.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF147.json",
+      "person_id": "XF147",
+      "person_name": "Helga  Martensson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF148.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF148.json",
+      "person_id": "XF148",
+      "person_name": "Hjalmar",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF149.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF149.json",
+      "person_id": "XF149",
+      "person_name": "Unakerstin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF150.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF150.json",
+      "person_id": "XF150",
+      "person_name": "Ston",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF151.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF151.json",
+      "person_id": "XF151",
+      "person_name": "Ants",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF152.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF152.json",
+      "person_id": "XF152",
+      "person_name": "C",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF153.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF153.json",
+      "person_id": "XF153",
+      "person_name": "Margareta",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF154.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF154.json",
+      "person_id": "XF154",
+      "person_name": "Gunnar  Martendahl",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF156.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF156.json",
+      "person_id": "XF156",
+      "person_name": "Harry  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF157.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF157.json",
+      "person_id": "XF157",
+      "person_name": "Naomi Gunhild Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF158.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF158.json",
+      "person_id": "XF158",
+      "person_name": "Euphemia(Effie) McDougallCurrie Neil",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Wednesday, October 20, 1926",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF159.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF159.json",
+      "person_id": "XF159",
+      "person_name": "Dorothy  XX",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF160.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF160.json",
+      "person_id": "XF160",
+      "person_name": "Helmer Vilhelm Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Wednesday, October 20, 1926",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF161.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF161.json",
+      "person_id": "XF161",
+      "person_name": "Winston Earl Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF162.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF162.json",
+      "person_id": "XF162",
+      "person_name": "Helmer William Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF163.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF163.json",
+      "person_id": "XF163",
+      "person_name": "Doreen Ann Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF164.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF164.json",
+      "person_id": "XF164",
+      "person_name": "Reno",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF165.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF165.json",
+      "person_id": "XF165",
+      "person_name": "Lynda May Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Monday, December 27, 1965",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Waiting?",
+          "value": "Yes",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF166.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF166.json",
+      "person_id": "XF166",
+      "person_name": "Kent  Clayton",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Monday, December 27, 1965",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Waiting?",
+          "value": "Yes",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF167.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF167.json",
+      "person_id": "XF167",
+      "person_name": "Emil Albin Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, October 06, 1928",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Cause of Death",
+          "value": "Cancer",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF168.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF168.json",
+      "person_id": "XF168",
+      "person_name": "Fredrica Jane Englund",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, October 06, 1928",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Cause of Death",
+          "value": "heart",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1688.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1688.json",
+      "person_id": "XF1688",
+      "person_name": "Donita Lynn Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1689.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1689.json",
+      "person_id": "XF1689",
+      "person_name": "Wendy Anne Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "wendy.hagborg@3web.net",
+          "href": "mailto:wendy.hagborg@3web.net",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF169.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF169.json",
+      "person_id": "XF169",
+      "person_name": "Stanley Arnold Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, June 10, 1967",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Waiting?",
+          "value": "Yes",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "shagborg@ilos.net",
+          "href": "mailto:shagborg@ilos.net",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 3,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1690.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1690.json",
+      "person_id": "XF1690",
+      "person_name": "Douglas  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1692.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1692.json",
+      "person_id": "XF1692",
+      "person_name": "Jason  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1693.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1693.json",
+      "person_id": "XF1693",
+      "person_name": "Corey  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1694.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1694.json",
+      "person_id": "XF1694",
+      "person_name": "Leonard  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1696.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1696.json",
+      "person_id": "XF1696",
+      "person_name": "Jonathan  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1697.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1697.json",
+      "person_id": "XF1697",
+      "person_name": "Diana  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF170.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF170.json",
+      "person_id": "XF170",
+      "person_name": "Margaret Joan Hewlett",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, June 10, 1967",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Waiting?",
+          "value": "Yes",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF171.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF171.json",
+      "person_id": "XF171",
+      "person_name": "Timothy Douglas Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF172.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF172.json",
+      "person_id": "XF172",
+      "person_name": "Deborah Lynne Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Friday, February 09, 1990",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF173.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF173.json",
+      "person_id": "XF173",
+      "person_name": "Esther Marie Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Cause of Death",
+          "value": "Lung Cancer",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Genetics",
+          "value": "NS/ND",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF174.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF174.json",
+      "person_id": "XF174",
+      "person_name": "Carl Gustav Sahlgren",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF175.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF175.json",
+      "person_id": "XF175",
+      "person_name": "Ronald Carl Sahlgren",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, October 14, 1967",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF176.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF176.json",
+      "person_id": "XF176",
+      "person_name": "Marilyn Marie Gamball",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, October 14, 1967",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF177.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF177.json",
+      "person_id": "XF177",
+      "person_name": "Melanie Ann Sahlgren",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1779.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1779.json",
+      "person_id": "XF1779",
+      "person_name": "Ron  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF178.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF178.json",
+      "person_id": "XF178",
+      "person_name": "Walter Arnold Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Cause of Death",
+          "value": "Heart",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Genetics",
+          "value": "NS/ND",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1781.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1781.json",
+      "person_id": "XF1781",
+      "person_name": "Erin  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1782.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF1782.json",
+      "person_id": "XF1782",
+      "person_name": "Tyler  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF180.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF180.json",
+      "person_id": "XF180",
+      "person_name": "Elinor Mae Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "elstevens@yahoo.com",
+          "href": "mailto:elstevens@yahoo.com",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF181.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF181.json",
+      "person_id": "XF181",
+      "person_name": "Ernest Donald Stevens",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF182.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF182.json",
+      "person_id": "XF182",
+      "person_name": "Kenneth Harold Stevens",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, February 04, 1995",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Waiting?",
+          "value": "Yes",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "ken.stevens@sympatico.ca",
+          "href": "mailto:ken.stevens@sympatico.ca",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 3,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF183.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF183.json",
+      "person_id": "XF183",
+      "person_name": "Cheryl Anne Stevens",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Cause of Death",
+          "value": "Cystic Fibrosi",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Genetics",
+          "value": "CF/",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF184.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF184.json",
+      "person_id": "XF184",
+      "person_name": "Wendy Leilani Stevens",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Friday, February 05, 1999",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "wlsmccool@aol.com",
+          "href": "mailto:wlsmccool@aol.com",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF185.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF185.json",
+      "person_id": "XF185",
+      "person_name": "Joyce Marion Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "joyceh@interlog.com",
+          "href": "mailto:joyceh@interlog.com",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF186.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF186.json",
+      "person_id": "XF186",
+      "person_name": "Robert Alan Hay",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF187.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF187.json",
+      "person_id": "XF187",
+      "person_name": "Gowan  Morison",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF188.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF188.json",
+      "person_id": "XF188",
+      "person_name": "Alex F. Hay",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF189.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF189.json",
+      "person_id": "XF189",
+      "person_name": "Douglas Bruce Hay",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, September 14, 1991",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "WebSite",
+          "text": "www.acm.org",
+          "href": "http://www.acm.org",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "hayd@acm.org",
+          "href": "mailto:hayd@acm.org",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 3,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF190.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF190.json",
+      "person_id": "XF190",
+      "person_name": "Ian David Hay",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF191.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF191.json",
+      "person_id": "XF191",
+      "person_name": "David Walter Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Language(2)",
+          "value": "Italian",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Language(3)",
+          "value": "French",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Genetics",
+          "value": "S/D",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Waiting?",
+          "value": "Yes",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "WebSite",
+          "text": "www.hagborg.com",
+          "href": "http://www.hagborg.com",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "david@hagborg.com",
+          "href": "mailto:david@hagborg.com",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 7,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF192.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF192.json",
+      "person_id": "XF192",
+      "person_name": "Lorraine Dorothy Selch",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Genetics",
+          "value": "S/D",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "lorrainehagborg@hotmail.com",
+          "href": "mailto:lorrainehagborg@hotmail.com",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF193.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF193.json",
+      "person_id": "XF193",
+      "person_name": "Sara Brandyn Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Sunday, May 01, 2005",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Language(2)",
+          "value": "French",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Language(3)",
+          "value": "Italian",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "WebSite",
+          "text": "www.hagborg.com/brandy",
+          "href": "http://www.hagborg.com/brandy",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "brandy@hagborg.com",
+          "href": "mailto:brandy@hagborg.com",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 6,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF194.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF194.json",
+      "person_id": "XF194",
+      "person_name": null,
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF196.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF196.json",
+      "person_id": "XF196",
+      "person_name": "Lorraine",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF197.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF197.json",
+      "person_id": "XF197",
+      "person_name": "Winston J. Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Notes",
+          "value": "Found references to Winston J. Hagborg on the Internet Jan/96. Winston J. Hagborg, 1989    - Truancy in USA Hagborg, W.J. \"A Study of Persistent Absenteeism and Severely Emotionally            Disturbed Adolescents\" Behavioral Disorders, Vol 15, No. 1 (Nov 1989) 1995 'High School Student Perceptions and Satisfaction with Group Advisory' Psychology in the Schools, 32, 1, 46-57",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF198.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF198.json",
+      "person_id": "XF198",
+      "person_name": "Vicky  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF199.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF199.json",
+      "person_id": "XF199",
+      "person_name": "Ricky  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF200.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF200.json",
+      "person_id": "XF200",
+      "person_name": "William(Bill)  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2228.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2228.json",
+      "person_id": "XF2228",
+      "person_name": "Dana",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2229.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2229.json",
+      "person_id": "XF2229",
+      "person_name": "Cornel  Visoiu",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2235.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2235.json",
+      "person_id": "XF2235",
+      "person_name": "Irina  Visoiu",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, February 04, 1995",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "ken.stevens@sympatico.ca",
+          "href": "mailto:ken.stevens@sympatico.ca",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2237.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2237.json",
+      "person_id": "XF2237",
+      "person_name": "David  Hay",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2238.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2238.json",
+      "person_id": "XF2238",
+      "person_name": "Colleen  King",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Genetics",
+          "value": "Krones",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2239.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2239.json",
+      "person_id": "XF2239",
+      "person_name": "King",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2240.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2240.json",
+      "person_id": "XF2240",
+      "person_name": null,
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2241.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2241.json",
+      "person_id": "XF2241",
+      "person_name": "J. Brian King",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Cause of Death",
+          "value": "Car Crash",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2242.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2242.json",
+      "person_id": "XF2242",
+      "person_name": "Josie",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2318.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2318.json",
+      "person_id": "XF2318",
+      "person_name": "Rosa Maria Rodrigues Mesa",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Thursday, July 27, 1995",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2322.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2322.json",
+      "person_id": "XF2322",
+      "person_name": "Ian Matthew Mogilevsky",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Friday, February 09, 1990",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2323.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2323.json",
+      "person_id": "XF2323",
+      "person_name": "Havilah Lynne Mogilevsky",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2324.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2324.json",
+      "person_id": "XF2324",
+      "person_name": "Elijah Matthew Mogilevsky",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2326.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2326.json",
+      "person_id": "XF2326",
+      "person_name": "Conrad Moise Stevens",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2352.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2352.json",
+      "person_id": "XF2352",
+      "person_name": "Kathryn Elizabe Clayton",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2421.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2421.json",
+      "person_id": "XF2421",
+      "person_name": "Nils  Olson(Wall)",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2422.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2422.json",
+      "person_id": "XF2422",
+      "person_name": "Elna  Johnson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2423.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2423.json",
+      "person_id": "XF2423",
+      "person_name": "Karna  Wall",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2424.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2424.json",
+      "person_id": "XF2424",
+      "person_name": "Maria  Wall",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2425.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2425.json",
+      "person_id": "XF2425",
+      "person_name": "Peter  Nordin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2426.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2426.json",
+      "person_id": "XF2426",
+      "person_name": "Vera  Nordin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2427.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2427.json",
+      "person_id": "XF2427",
+      "person_name": "Edwin  Nordin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2428.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2428.json",
+      "person_id": "XF2428",
+      "person_name": "Clarence  Nordin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2429.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2429.json",
+      "person_id": "XF2429",
+      "person_name": "Henry  Nordin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2430.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2430.json",
+      "person_id": "XF2430",
+      "person_name": "Helmer  Nordin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2431.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2431.json",
+      "person_id": "XF2431",
+      "person_name": "Margot  Nordin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2432.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2432.json",
+      "person_id": "XF2432",
+      "person_name": "Victor  Nordin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2433.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2433.json",
+      "person_id": "XF2433",
+      "person_name": "Arthur  Nordin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2434.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2434.json",
+      "person_id": "XF2434",
+      "person_name": "Anna  Wall",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2435.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2435.json",
+      "person_id": "XF2435",
+      "person_name": "Sveinson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2436.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2436.json",
+      "person_id": "XF2436",
+      "person_name": "Ingeborg  Sveinson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2437.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2437.json",
+      "person_id": "XF2437",
+      "person_name": "Eva  Sveinson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2438.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2438.json",
+      "person_id": "XF2438",
+      "person_name": "Gulli  Sveinson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2439.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2439.json",
+      "person_id": "XF2439",
+      "person_name": "Tore  Sveinson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2440.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2440.json",
+      "person_id": "XF2440",
+      "person_name": "Matilda  Wall",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2441.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2441.json",
+      "person_id": "XF2441",
+      "person_name": "Johnson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2442.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2442.json",
+      "person_id": "XF2442",
+      "person_name": "Arthur  Johnson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2443.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2443.json",
+      "person_id": "XF2443",
+      "person_name": "Signe  Johnson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2444.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2444.json",
+      "person_id": "XF2444",
+      "person_name": "Anna  Johnson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2445.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2445.json",
+      "person_id": "XF2445",
+      "person_name": "Augusta  Wall",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2446.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2446.json",
+      "person_id": "XF2446",
+      "person_name": "Kjestin  Wall",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2447.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2447.json",
+      "person_id": "XF2447",
+      "person_name": "Goranson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2448.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2448.json",
+      "person_id": "XF2448",
+      "person_name": "Nils  Goranson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2449.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2449.json",
+      "person_id": "XF2449",
+      "person_name": "Harold  Goranson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2450.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2450.json",
+      "person_id": "XF2450",
+      "person_name": "Roy Alvin Cairns",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2451.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2451.json",
+      "person_id": "XF2451",
+      "person_name": "Timmy  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2452.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2452.json",
+      "person_id": "XF2452",
+      "person_name": "Sherry Anne Cairns",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2453.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2453.json",
+      "person_id": "XF2453",
+      "person_name": "William Roy Cairns",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2454.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2454.json",
+      "person_id": "XF2454",
+      "person_name": "Rebekka Elizabeth Lee",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2455.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2455.json",
+      "person_id": "XF2455",
+      "person_name": "Michael Anthony Lee",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2456.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2456.json",
+      "person_id": "XF2456",
+      "person_name": "Albert Henry Collins",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2457.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2457.json",
+      "person_id": "XF2457",
+      "person_name": "Isabel  Macleod",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2459.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2459.json",
+      "person_id": "XF2459",
+      "person_name": "Henry Walter Stevens",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2480.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2480.json",
+      "person_id": "XF2480",
+      "person_name": "Borje  Mansson (Frifeldt)",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2481.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2481.json",
+      "person_id": "XF2481",
+      "person_name": "Else (Elsa)  Larsdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2482.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2482.json",
+      "person_id": "XF2482",
+      "person_name": "Johan  Borjesson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2483.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2483.json",
+      "person_id": "XF2483",
+      "person_name": "Bertil  Malmqvist",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2484.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2484.json",
+      "person_id": "XF2484",
+      "person_name": "Mans  Frifeldt (Olsson)",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2485.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2485.json",
+      "person_id": "XF2485",
+      "person_name": "Ola  Larsson (Frifeldt)",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Monday, March 24, 1755",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2486.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2486.json",
+      "person_id": "XF2486",
+      "person_name": "Hanna  Borjesdotter",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Monday, March 24, 1755",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2522.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2522.json",
+      "person_id": "XF2522",
+      "person_name": "Priyanka Minerva Hay",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2552.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2552.json",
+      "person_id": "XF2552",
+      "person_name": "Leonard  McCools",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Friday, February 05, 1999",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "wlsmccool@aol.com",
+          "href": "mailto:wlsmccool@aol.com",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2553.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2553.json",
+      "person_id": "XF2553",
+      "person_name": "Sean  McCools",
+      "missing_data": [
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "wlsmccool@aol.com",
+          "href": "mailto:wlsmccool@aol.com",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2554.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2554.json",
+      "person_id": "XF2554",
+      "person_name": "Barry Anthony Lee",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2555.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2555.json",
+      "person_id": "XF2555",
+      "person_name": "Marshall  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2556.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2556.json",
+      "person_id": "XF2556",
+      "person_name": "Christina Sofia Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Cause of Death",
+          "value": "Diphtheria",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2557.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2557.json",
+      "person_id": "XF2557",
+      "person_name": "Nils Albert Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Cause of Death",
+          "value": "Diphtheria",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2558.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2558.json",
+      "person_id": "XF2558",
+      "person_name": "Lars  Astradsson (Frifeldt",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Friday, March 05, 1723",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2559.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2559.json",
+      "person_id": "XF2559",
+      "person_name": "Gunnel  Jonsdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2560.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2560.json",
+      "person_id": "XF2560",
+      "person_name": "Astrad (Astred)  Hansson",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Monday, January 01, 1691",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2561.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2561.json",
+      "person_id": "XF2561",
+      "person_name": "Matta (Metta)  Persdotter (Persdatter)",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2562.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2562.json",
+      "person_id": "XF2562",
+      "person_name": "Peder (Per)  Ottesen (Ottosson)",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2621.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2621.json",
+      "person_id": "XF2621",
+      "person_name": "Borje  Nilsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2628.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2628.json",
+      "person_id": "XF2628",
+      "person_name": "Usha  Chandra",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2629.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2629.json",
+      "person_id": "XF2629",
+      "person_name": "Hira Devi Chandra",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2678.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2678.json",
+      "person_id": "XF2678",
+      "person_name": "Patrick  Morison",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2679.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2679.json",
+      "person_id": "XF2679",
+      "person_name": "Jessie  Henderson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2680.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2680.json",
+      "person_id": "XF2680",
+      "person_name": "George  Morison",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2685.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2685.json",
+      "person_id": "XF2685",
+      "person_name": "Truls  Persson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2686.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2686.json",
+      "person_id": "XF2686",
+      "person_name": "Anna  Persdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2687.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2687.json",
+      "person_id": "XF2687",
+      "person_name": "Kerstina  Martensdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2688.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2688.json",
+      "person_id": "XF2688",
+      "person_name": "Lars",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2689.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2689.json",
+      "person_id": "XF2689",
+      "person_name": "Marten  Larsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2690.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2690.json",
+      "person_id": "XF2690",
+      "person_name": "Bereta  Trulsdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2691.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2691.json",
+      "person_id": "XF2691",
+      "person_name": "Per  Martensson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2692.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2692.json",
+      "person_id": "XF2692",
+      "person_name": "Karna  Larsdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2693.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2693.json",
+      "person_id": "XF2693",
+      "person_name": "Rasmus  Persson",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Wednesday, January 01, 1806",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2694.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2694.json",
+      "person_id": "XF2694",
+      "person_name": "Bereta  Persdotter",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Wednesday, January 01, 1806",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2695.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2695.json",
+      "person_id": "XF2695",
+      "person_name": "Lars  Rasmusson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2696.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2696.json",
+      "person_id": "XF2696",
+      "person_name": "Kerstin  Persdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2697.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2697.json",
+      "person_id": "XF2697",
+      "person_name": "Anders Larsson Sundberg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2698.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2698.json",
+      "person_id": "XF2698",
+      "person_name": "Johanna  Nilsdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2699.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2699.json",
+      "person_id": "XF2699",
+      "person_name": "Emelie  Sundberg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Wednesday, January 19, 1910",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2700.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2700.json",
+      "person_id": "XF2700",
+      "person_name": "August Jonsson Andersson",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Wednesday, January 19, 1910",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2701.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2701.json",
+      "person_id": "XF2701",
+      "person_name": "Helen Marie Anderson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2702.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2702.json",
+      "person_id": "XF2702",
+      "person_name": "Carl Theodore Hanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2703.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2703.json",
+      "person_id": "XF2703",
+      "person_name": "Janet Marie Hanson",
+      "missing_data": [
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "jangns@aol.com",
+          "href": "mailto:jangns@aol.com",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2704.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2704.json",
+      "person_id": "XF2704",
+      "person_name": "Thomas  Grennes",
+      "missing_data": [
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "jangns@aol.com",
+          "href": "mailto:jangns@aol.com",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2705.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2705.json",
+      "person_id": "XF2705",
+      "person_name": "Per  Trulsen (Trulsson)",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Notes",
+          "value": "Trulsen (Trulsson), Per. Rusthllare, bo  .Vemmenhg 22. Fdd mjligen p 1620-talet(???). Dd 1712  .Vemmenhg 22. Per Trulsson vertog frldragrden, nummer 22 i .Vemmenhg, efter fadern. I 1696 rs jordebok terfinnes fljande mycket korta notering fr 22:an: Trulls Larsson, nu Per Trullsson . Ungefr vid denna tid tycks sledes garskiftet ha gt rum. Denne P.T. och hela hans slkt finns i mlande ordalag beskriven i ttlingen Johannes Hellners memoarer. J.Hellner var fdd 1866 och blev med tiden bl.a. statsrd men innehade en mngd poster som frtroendevald. Han var bl.a. dir. i Svenska trvaruexportfreningen, i Svenska vattenkraftsfreningen, i Tobaksmonopolet mm. (se kopia under Per Trulsson i slktprm). I sina memoarer skriver allts denne Hellner under kapitlet Slkten och hemmet 1866-1879 om sina frfder och nmner d Per Trulsson och massor av hans ttlingar: Slktgrden i stra Vemmenhg var hemmanet nr. 22, ett halvt mantal. Vid tiden fr Roskildefreden 1658 var detta ett s kallat kanikhemman, det vill sga anslaget till domkyrkan i Lund. r 1680 reducerades hemmanet frn den store jorduppkparen greve Gus staf otto Stenbock och fick karaktr av rusthllshemman. Genom ett av kammarkollegiet utfrdat brev av 18 december 1761 frvandlades jorden till skattehemman, det vill sga med gandertt fr bon. Av byggnaderna p hemmanet nr. 22 som tminstone under 1800-talet kallades Toftebo, finnes ingenting kvar. P hemmanets jord ligger numera sex grdar och ett lderdomshem. ldste knde medlem av slkten p fdernet r Truls Larsson, vilken r 1661 var bosatt p kanikhemmanet i stra Vemmenhg. En son, Lars Trulsson, frekommer i jordebckerna frn 1671 och vertager hemmanet efter faderns dd, vilken intrffade omkring 1685. Lars Trulsson avled snart och eftertrddes p hemmanet av brodern, Per Trulsson, vilken tidigare, i mantalslngderna p 1680-talet, redovisats som boende p en gatutomt, det vill sga ett omrde som icke satts i mantal. Nr jag var pojke brukade min farfar om jularna komma och hlsa p mina frldrar i Svedala. Under kvllarna voro farfar och jag ofta hnvisade till varandras sllskap och roade oss med att dra tavl . Det var ett spel, som var ltt att ordna med sm resurser. Under spelet brukade farfar bertta fr mig vad han hrt av sin far om vr skt, ngot som jag var mycket intresserad av. S lngt farfars kunskap ndde tillbaka, hade frfderna varit hemmansgare i Vemmenhgs hrad. Farfars far hette Jacob Hansson, dennes far Hans Trulsson och dennes farfar Per Trulsson. Mellan de bgge senare mste allts hava funnits en Truls Persson, men om denne visste farfar ingenting. Att han knde Per Trulssons namn berodde p en slkttradition om en bragd, som Per Trulsson utfrt under snapphanekriget. Ett parti snapphanar hade huserat i stra Vemmenhg, dr Per Trulsson hade sitt hemman, och Per Trulsson hade med en plyxa slagit ihjl tolv snapphanar. Han hade sedan lagt liken p en vagn och krt dem till Lilla Bedinge och snkt dem i sjn. Plyxan hade bevarats i slkten i flera generationer och farfar hade i sin barndom sett den i sin fars grd, men sedan hade den p obekant stt kommit bort. Per Trulsson skulle ha varit en jttestark man och styrkan hade gtt i arv till hans avkomlingar. Per Trulsson skulle allts ha varit i sin mannalder p 1670-talet. Dennes sonsons sonson Hans Jacobsson, min farfar, var fdd ngot av de sista ren p 1700-talet, om jag minns rtt var det 1798. Slkthemmanet i stra Vemmenhg var frmodligen ett bra hemman. Min farfar var ende sonen till Jacob Hansson och rvde allts grden. Han gifte sig med Elna Srensdotter, som var en frmgen bonddotter av en vitt utgrenad slkt, i vilken namnet Sren var vanligt. Farfar hade allts vl frspnt, men nd gick det utfr fr honom. Han hade ssom enda sonen ej blivit hllen till arbete i sin ungdom och ven sedan han blivit gift, ville han ej arbeta p sin grd, utan hll mest till p krogen. Drtill var hans hustru sjuklig. Fljden var att han efter en del r fick g ifrn fdernegrden. Han kpte d istllet en mindre grd i Lilla Bedinge, men som han fortfarande vansktte sitt arbete, slutade det med att han fick g ifrn ven denna grd. Sedan fick han frsrja sig med att taga tjnst hos andra. Bouppteckning efter Per Trulsson frrttades den 14/2 1713 (nr. 20). Hemmet verkar ha varit mrkligt mediokert, utan minsta tecken p lyx eller flrd. Bland lsret nmns: 1 kopparkiettel, 1 mssingskiettel, 1 jrnkakellugn, 1 sgh, 1 nafwer, 1 wedxe, 1 bred wedxe. TRWAHROR: 1 ekekiste, 1 stndtunna, 1 wrskp, 1 bakstohll, 1 baketrugh, 1 kierne, 1 spand, 1 bryggekarr, 1 handqwarn, 1 furusng, 2 spinnercke 1 wagn med dess behr, 3 slr. OXER OCH KOOR: 1 gammal brunstiernat oxe, 1 swart gielen koo. HSTER OCH STOO: 1 swartblset hst 8 hr gammal, 1 rdblset, 1 rdblset flija 4 hr och 1 swartstirnet fll Enligt Helmer Frennings register ver Vemmenhgs hrads dombcker frekommer Per Trulsson den 30/10 1727 samt 5/2 1730, detta oaktat att han d var dd sedan mnga r. Mlet 1727 handlar om en skuld som Per Trulsson i livstiden haft till handelsmannen Testrup i Ystad. Dennes sterbhus hade nu instmt Per Trulssons son Truls angende denna skuld, p 30 daler silvermynt. Truls framhll att hans fader afgdt uti fattigdom och at inga penningar woro at tillg . Faderns bouppteckning uppvisades som ett bevis p denna fattigdom och sonen Truls framhll ven att boet varit s fattigt att han sjlv inte ftt rva ngot!! I utslaget i mlet str att lsa att Truls Persson helt friades frn betalningsansvar men will han till sin salige Faders Heder betala den samma, ssom han skall redan ngot derp betalt, kan Hradsrtten honom icke frwgra . Bouppteckning efter Per Trulsson frrttades den 14/2 1713. Slktforskare Sven Hansson, Malm skrev om Per Trulsson: Per Trulsson vertar grden efter sin fader, som var rusthllare nr. 62 vid Borrby kompani under Sdra Sk. Kav.reg. Generalmnsterrullorna fr ren 1710 och 11 frmler att Pehr Trylssons Interesstienare (allts sventjnare) hette Pehr Ihl och att ryttarehsten var en Klippare. Enligt katekismilgden kunde Per Trulsson bde lsa och skriva (det senare med ett frgetecken), samt kunde sin morgon och aftonbn vl, vilket ger oss efterkommande en god och positiv bild av honom. (Barn VIII:203, s 8, Far X:809, s 15, Mor X:810, s 16) Gift med efterfljande ana. Barn: Persson, Lars. Fdd c:a 1680  .Vemmenhg 22. Dd fre 1713  .Vemmenhg 22. Persdotter, Boel. Fdd c:a 1688  .Vemmenhg 22. Dd 1/10 1760  .Vemmenhg 4. Persson, Truls. Fdd 1685  .Vemmenhg 22 (ldersuppg. i ddsnotis). Dd 10/6 1774  .Vemmenhg 22. Begravd 20/6 1774 i .Vemmenhg. (Se VIII:203, s 8). Persson, Mrten. Fdd c:a 1694  .Vemmenhg 22. Dd 1716  .Vemmenhg 22. Persdotter, Kirstina (Kerstina). Fdd 1705  .Vemmenhg 22. Dd 1717  .Vemmenhg 4. K.P. dog p .Vemmenhg 4 som innehades av systern Boel och hennes make, Sven Persson. Persdotter, Anna. Fdd i .Vemmenhg. Persdotter, Agnis (Agnes). Fdd i .Vemmenhg. IX:406 mm ff mf mf m Jensdatter (Jnsdotter), Bentha (Bengta). Fdd i Skivarp. Tack vare makens, Per Trulssons, bevarade bouppteckning r det bekant att denna Bengta var syster till bon Markus Hans' hustru i .Vemmenhgs by. (se ven skrivelse frn Helmer Frenning 1979-07-10 sid.3) B.J. kunde enligt mantalslngden morgon- och aftonbn men ej varken lsa eller skriva. (Barn VIII:203, s 8, Far X:811, s 17, Mor X:812, s 17) Gift med fregende ana. IX:408 mm ff mf mm m Andersdotter, Birrete (Britta, Birte, Berta). Fdd 12/3 1665 i Skurup. Dd 10/1 1736 i Tullstorp. (Viss forskning om denna person utfrd av Sven Hansson, V.Skrvlingevgen 107, MALM) Utdrag frn forskning av Birte Bostrm, Malm: I Svenstorp har vi Truls Andersson, knd som fadder r 1690 p Jep Svenssons och Ingri Andersdotters barns dop i St. Beddinge, och 1691, 1695 str han fadder p Per Ibssons och Birte/ Bereta Andersdotters barns dop i St. Beddinge. r 1687 r Truls Andersson i Svenstorp fadder p Morten Jensens barns dop i Sandkra. I Svenstorps katekismilngder r Truls Andersson knd i Svenstorp r 1693 och 1695. r 1701 nmns han p Svenstorp nr.3 med hustrun Bengta Jnsdotter. ------------------------- Gift med Per Jeppsson, fdd c:a 1658 och dd i Tullstorp 8/5 1731. -------------------------- Katekismilngden 1695 St.Beddinge (onumr) Per Jeppesson, h: Britta Andersdotter, dreng Swen Mattisson, piga Elna Madtzdotter, poik Jns Mrtenss. -- Katekismilngden 1701: St.Beddinge nummer 2: Per Ibsson, hust. Birtte Andersd. son Jeppa Perss, dot. Bengta Persd, dot. Anna Persd. Dr. Per Perss. -- Katekismilngden 1711: St. Beddinge nummer 2: Per Ibss, h: Birthe, s. Jeppa, dito Anders, doter Anna, Dito Karna. -- Katekismilngden 1712: St.Beddinge nummer 2: Per Ibss, h: Birte, S: Jeppa, Dito Anders, dr: Anna, Dito Karna -- Katekismilngden 1717: St. Beddinge nummer 2: Per Ibss, hust: Britta, son Anders, dotter Karna, poike Clas. -- Katekismilngden 1735: St. Beddinge nummer 2: Anders Prsson, hust: Marna, dr. Anders, pig: Marna, gsse Matz ibm Brigitte. -- Katekismilngden 1737: St. Beddinge nummer 2: Anders Prsson, hust: Marna, dr. Christen, flick: Karna, gss: Jns. (Barn VIII:204, s 11, Far X:815, s 18) Gift Barn: Persdotter, Bengta. Fdd i maj 1689 i Tullstorp (St.Beddinge 2). Persson, Jeppa. Bonde p St.Beddinge 1. Fdd 1690 i Tullstorp (St.Beddinge 2). Gift med Kirstina Esbjrnsdotter och boende p nr. 1 St.Beddinge enl. mantalslngden 1724. Persdotter, Anna. Fdd 28/2 1693 i Tullstorp (St. Beddinge 2). Dd 24/4 1757  .Vemmenhg 22. (Se VIII:204, s 11). Persson, Anders. Fdd i Tullstorp (St.Beddinge 2). Denne Anders Persson vertog St.Beddinge 2 efter fadern och enl. katekismilngden gift med en Marna. Katekismilngden 1717: St. Beddinge nummer 2: Per Ibss, hust: Britta, son Anders, dotter Karna, poike Clas. -- Katekismilngden 1735: St. Beddinge nummer 2: Anders Prsson, hust: Marna, dr. Anders, pig: Marna, gsse Matz ibm Brigitte. -- Katekismilngden 1737: St. Beddinge nummer 2: Anders Prsson, hust: Marna, dr. Christen, flick: Karna, gss: Jns. Persdotter, Karna. Fdd i Tullstorp (St.Beddinge 2). Generation X X:809 mm ff mf mf ff Larsen (Larsson), Truls. bo  .Vemmenhg 22. Fdd mjligen omkring r 1600. Dd  .Vemmenhg 22. Denne Truls Larsson frekommer i Vemmenhgs hrads dombok i ett ml den 18/9 1676. Den utprglat danskinfluerade texten r stundtals mycket svrtydd men lyder slunda: Trlls Laurssen i stre Wemmenhg For Retten framkom och paa sin hustru Sine Mads datters weggne, gaff hindis Stiffmodher Kirsten SL: Mads Nielssen i Terne Mlle et fuld kommen och wigier kaldendiss aff kald for hende och hendis arffuinger for bemelte, for den arff som hun effter bemelte sin Sl: Fader Mads Nielssen som bodhe och dde i Terne Mlle, med Rette tillfalden war: och i Rette lagde ett skrifftlig affkald, som imellan domer och Retten wahr, huor udj hand bekiender sig paa sin hustrus wegne, Ri igtig bemelte arff att wahre betaldt med inden dess Indhold, aff dato den 31 Augustj nest aff uigte lest och paa skriffuit, och ellers tacher hende for godt och op Richtig betalling saa hand paa sin hustrus och dess arffuingers wegne Fdhe och ufde, holde forskreffne Kirstin Mads Trlssens och hendis arffuinger for samma arffuepart Quit, fri och kraffueslss i alle maader, huar paa hand for Retten gaff hendess Fuldmechtige wenligen sin hand, och wahr her effter et waniligt things winde begierandes, som paa Rettens wegne ej nechtes kunde (OBS - tergivet med frbehll fr ev. sprkliga o skriftliga feltolkningar). Truls Larsson str noterad fr ett kronohemman i .Vemmenhgs by i mantalslngderna 1670, 1671, 1672, 1675, 1677, 1681, 1684 och ven i 1683 rs katekismilngd. I mantalslngden 1691 r det dremot sonen Per Trulsson som vertagit stllet (se Truls Larssons bomrke i manuellt kartotekkort) (Barn IX:405, s 12) Gift fre 1658 med efterfljande ana. Barn: Trulsen (Trulsson), Per. Fdd mjligen p 1620-talet(???). Dd 1712  .Vemmenhg 22. (Se IX:405, s 12). Trulsen, Lars. bo  kanikhemmanet i .Vemmenhg. Se vidare Hellners memoarer, arkiverad i slktforskningsprm under Per Trulsson. L.T. var den som frst fick rva fdernesgrden i .Vemmenhg, nummer 22. Men han avled tidigt varvid brodern Per var den som tog ver. X:810 mm ff mf mf fm Madsdatter (Massdatter,Matsdotter), Sine. Fdd mjligen omkring 1610. Dd  .Vemmenhg 22. I Vemmenhgs hrads dombok 1676 framgr klart att S.M. var dotter till Madtz Nilsson i Trnmlla (??). Bemlda mlla, belgen i Grdslvs socken, innehades mycket riktigt av en M.N. och 1677 av M.N:s enckia . Utdrag ur Vemmenhgs dombok 19/9 1676: Trlls Larsson i ster Wemmenhy fr retten framkom och paa sin hustru Sine Massdotters wgnar, gaff hendes styffmoder Kirstine Sl: Madtz Nils' i Trnmlla...osv Enligt Vemmenhgs renoverade dombok 16/1 1690 bodde d p Trnmlla i Grdslv en ridefogde vid namn Nils Rasmusson. (Barn IX:405, s 12, Far XI:1619, s 19, Mor XI:1620, s 19) Gift fre 1658 med fregende ana. X:811 mm ff mf mf mf Christophersen (Christophersson, Christoffersson), Jens (Jns). bo. Fdd c:a 1622 mjligen i Skivarp (Almard?) (Sk:s kat.l 1701). Dd efter 1708 i Skivarp (remlla) (Domb. V-hg 19/6 1708). Att den Niels Christophersson som sedermera var bosatt i grden intill Jens Christophersens i remlla verkligen var en broder belgges delvis av det faktum att bda hade var sin dotter med det d tmligen ovanliga namnet Johanna. Av ett tvisteml i Vemmenhgs dombok 19/6 1708 (m.fl. datum - se ven Marchus Hanssons levnadsbeskrivning) framgr klart att en Jens Christophersen var fader till en Nils Jnsson, vilken i sin tur uppges vara broder till Bengta och Elsa Jnsdttrar i .Vemmenhg. En obekrftad uppgift gr gllande att J.C. 1677 flyttade frn frldragrden i Almard och ptrffas drefter i Skivarps by. Drifrn flyttade han - enligt ocks obekrftad uppgift - 1681 till remlla. Uppgifterna om hans fdelse r hmtade frn Skivarps katekismilngd av r 1701, dr hans lder anges. En antydan om tidpunkten fr hans dd ges i Vemmenhgs dombok 19/6 1708. Denne Jens Christophersen str skriven fr ett hemman i remlla i Skivarps katekismilngder tminstone fr ren 1683, 1685 och 1687. I mantalslngden 1658 frekommer en Jens Christofferssen med hustru p en av grdarna i Tingard. Ngot som pekar p att det r samme Jens Chr. r det faktum att namnet frsvinner frn Tingard ungefr samtidigt som det dyker upp i nrbelgna remlla. I Tingard finns d istllet en Hans Christophersson (en broder till Jns??) (Barn IX:406, s 14, Far XI:1621, s 19) Gift med efterfljande ana. Barn: Jensen (Jnsson), Peder (Peter). Fdd i Skivarp. Frekommer i 1683 rs katekismilngd, tillsammans med fadern. Jensen (Jnsson), Niels (Nils). Fdd i Skivarp. Frekommer i Vemmenhgs dombok den 18/1 1709. Jensdatter (Jnsdotter), Johanna. Fdd i Skivarp. Var enligt Skivarps katekismilngd av r 1676 gift med Rasmus Giertsson p remlla 13 (uppg. oklar?). Jensdatter (Jnsdotter), Elsa. Fdd i Skivarp. Att hon var dotter till Jens Christoffersson styrks av Vemmenhgs dombok 1708 19/6 (se brev frn Helmer Frenning 1979-07-10). Efter hennes frste mans dd brukades grden i .Vemmenhg (nr. 12) av hennes nye man, Lars Jensen. Se vidare makens levnadsbeskrivning. Se ven brev fr. Nils-Yngve Herrstrm i Lund, 1979. Jensdatter (Jnsdotter), Bentha (Bengta). Fdd i Skivarp. (Se IX:406, s 14). X:812 mm ff mf mf mm Jensdatter (Jnsdotter), Brita. Fdd c:a 1625 (Kat.l. Skivarp 1701). Dd efter 1702 i Skivarp (remlla) (nmns sista ggn i mtl 1702). Uppgifterna om denna kvinnas fdelse kommer frn Skivarps katekismilngd 1701. Sista gngen hon finns nmnd dr r i 1702 rs mantalslngd. (Barn IX:406, s 14) Gift med fregende ana. X:815 mm ff mf mm mf Tryllsen (Trulsson,Trullsson), Anders. Bonde i Sandkra enl. decimantjb 1651. Fr c:a 1655 bonde i Skurups by. Fdd cirka 1621. Dd 10/11 1667 i Skurups by. Bouppteckning efter denne man frrttades den 10/11 1667. Enligt decimantjordeboken var han bonde i Sandkra, p en halv grd under Erich Gyldenstiern. Flyttade omkring 1655 till Skurups by, dr han brukade 1/1 frlsehemman. Frekommer i Helmer Frennings slktutredning publicerad i Slkt & Hvd 1972. Viss forskning av Sven Hansson, Malm. Gift med Bente Monsdotter, dd 1683 i Skurup. (Barn IX:408, s 14, Far XI:1629, s 20) Gift Barn: Andersson, Truls. bo  Svenstorp 3. Utdrag fr. forskning av Birte Bostrm: I Svenstorp har vi Truls Andersson, knd som fadder r 1690 p Jep Svenssons och Ingri Andersdotters barns dop i St. Beddinge, och 1691, 1695 str han fadder p Per Ibssons och Birte/ Bereta Andersdotters barns dop i St. Beddinge. r 1687 r Truls Andersson i Svenstorp fadder p Morten Jensens barns dop i Sandkra. I Svenstorps katekismilngder r Truls Andersson knd i Svenstorp r 1693 och 1695. r 1701 nmns han p Svenstorp nr.3 med hustrun Bengta Jnsdotter. ------------------------------------------------------------------------------- ----------------------------- Svenstorps fdelsebok 1688-1710 genomgngen men inga barn till denne Truls Andersson funna. Han frekommer dremot hgfrekvent som vittne vid mnga dop. I 1695 rs katekismilngd str Truls Andersson skriven p ett av Svenstorps hemman, dock nmns ingen hustru och inga barn. Troligen r han nnu vid denna tid ogift. I kat-lngden 1701 nmns bde Truls och hans hustru Bengta Jnsdotter p Svenstorp 3 men inga barn. I katekismilngden 1711 bor de ej lngre kvar p grden, som har vertagits av en Olle Mickelsson och hans hustru Kirstena. Andersen (Andersn, Andersson), Mons (Mns). Fdd 23/2 1651 i Skurup. Andersdatter (Andersdotter), Estred (Estrid). Fdd 1652 i Skurup. Andersdatter (Andersdotter), Kirstena. Fdd 7/4 1656 i Skurup. Dd 30/9 1656 i Skurup. Dopvittnen: Olle Westes, Anders Trols, Olle Weismller, Karen degns, Kren Christensd, Lutze Rnnmertz... (Viss forskning utfrd av Sven Hansson, V.Skrvlingevgen 107MALM) Andersdotter, Estred (Estrid). Fdd 4/11 1660 i Skurup. (Viss forskning om denna person utfrd av Sven Hansson, V.Skrvlingevgen 107, MALM) Andersdotter, Ingri (Ingrid, Ingar, Inger). Fdd 6/10 1661 i Skurup. (Viss forskning om denna person utfrd av Sven Hansson, V.Skrvlingevgen 107, MALM) Utdrag frn forskning av Birte Bostrm, Malm: I Svenstorp har vi Truls Andersson, knd som fadder r 1690 p Jep Svenssons och Ingri Andersdotters barns dop i St. Beddinge, och 1691, 1695 str han fadder p Per Ibssons och Birte/ Bereta Andersdotters barns dop i St. Beddinge. r 1687 r Truls Andersson i Svenstorp fadder p Morten Jensens barns dop i Sandkra. I Svenstorps katekismilngder r Truls Andersson knd i Svenstorp r 1693 och 1695. r 1701 nmns han p Svenstorp nr.3 med hustrun Bengta Jnsdotter. ----------------- Gift med Jeppe Svensson, fdd c:a 1645 och dd  St.Beddinge 33 1721 ----------------- Katekismilngden 1701 St.Beddinge 33: Jeppa Suenss, h: Ingrj Andersd. son Anders Jeppss, dito Swen Ibbss, dito Per Ibss, dr: Anders Anderss, dito Lars Nilss. - Katekismilngden 1711: St.Beddinge 33: Jep Suenss, h: Ingar, s. Swen, dot. Kirstena, Dito Karna - Katekismilngden 1712: St.Beddinge 33: Jep Swenss, h: Ingar, S: Swen, S: Lars Dr: Chirstena, Dito Karna. - Katekismilngden 1717: St.Beddinge 33: Swen Ibss, pojke Lars, pig: Chirstena. Andersdotter, Birrete (Birte, Berta). Fdd 6/1 1664 i Skurup. (Viss forskning om denna person utfrd av Sven Hansson, V.Skrvlingevgen 107, MALM) Andersdotter, Birrete (Britta, Birte, Berta). Fdd 12/3 1665 i Skurup. Dd 10/1 1736 i Tullstorp. (Se IX:408, s 14). Andersdotter, Anna. Fdd 29/9 1667 i Skurup. (Viss forskning om denna person utfrd av Sven Hansson, V.Skrvlingevgen 107, MALM) I Svenstorps fdelsebok 1691 fds en gosse Per Bengtsson som son till Bengt Persson och hans hustru Anna Andersdotter. Ett av dopvittnena var Truls Andersson, mjligen en broder till Anna. Generation XI XI:1619 mm ff mf mf fm f Nielsen (Nilsson), Madtz (Mass,Mats). Mllare (?) i Trnmlla. Fdd mjligen p 1590-talet. Dd fre 1677 i Grdslv (Trnmlla) (hustrun nka enl Mtl. d.). (Barn X:810, s 16, Far XII:3237, s 20) Gift 1:o med efterfljande ana. Gift 2:o med , Kirstine (Kerstina,Kjerstina). Denna Kirstine nmns i 1677 rs mantalslngd som Madtz Nilsons enckia . XI:1620 mm ff mf mf fm m Oknd till namnet,. (Barn X:810, s 16) Gift med fregende ana. XI:1621 mm ff mf mf mf f Jensen (Jnsson), Christopher (Kristoffer). bo i Almard. Fdd omkring 1580. Dd 1665-1668 i Skivarp (Almard). Denne Christopher Jensen str i 1658-rs mantalslngd skriven fr en grd i Almards by, Skivarps socken. Hr kvarbodde han fram till slutet av 1660-talet varefter sonen Nils vertog hemmanet (Nils C nmnd hr i 1668 rs mantalslngd). (Barn X:811, s 17, Far XII:3241, s 20) Gift Barn: Christophersen (Christophersson, Christoffersson), Jens (Jns). Fdd c:a 1622 mjligen i Skivarp (Almard?) (Sk:s kat.l 1701). Dd efter 1708 i Skivarp (remlla) (Domb. V-hg 19/6 1708). (Se X:811, s 17). Christophersen (Christophersson), Niels (Nils). bo. Fdd i Skivarp (Almard). Dd c:a 1685 i Skivarp (remlla). Niels Christophersen vertog inledningsvis frldragrden i Almard. Enligt obekrftad uppgift flyttade han senare, ngon gng mellan 1681 och -84 frn fdernesgrden i Almard till remlla, dit hans broder tidigare flyttat och fortfarande var bosatt. Deras syskonskap r inte hundraprocentigt skerstllt men styrks av att de bda hade var sin dotter med det d tmligen ovanliga namnet Johanna. Ocks efternamnet Christophersen fr frvisso betraktas som relativt ovanligt. Denne man frekommer ven p flera stllen i Helmer Frennings register ver Vemmenhgs bouppteckningar: 11/2 1686 och 16/6 1702. XI:1629 mm ff mf mm mf f , Tryls (Truls). (Barn X:815, s 18) Gift Barn: Tryllsen (Trulsson,Trullsson), Anders. Fdd cirka 1621. Dd 10/11 1667 i Skurups by. (Se X:815, s 18). Tryllsdatter (Trulsdotter), Ana (Anna). Fdd cirka 1623 trol i Skurup. Dd 14/5 1692 i Skurup. Hennes frste make avled 5/8 1655. Han var brukare av en hel grd i Skurups by. P Skurups kyrkogrd finns - enl. gravstensinventeringen - en bevarad gravsten efter Anders Trlsen dd 6/2 1696 och Anne Trsdatter dd 1692. Frekommer i Helmer Frennings slktutredning publicerad i Slkt & Hvd 1972, varifrn flertalet uppgiftet hmtats. Tryllsen (Trulsson,Trulsen), Niels (Nils). Fdd c:a 1625. Dd 11/3 1668 i Skurup (Hylteberga). Frekommer i Helmer Frennings slktutredning i Slkt & Hvd 1972. (Troligen r Truls Nilsson ocks en son. Han r knd i Srslv 1679-1693 och g.m. Elsa Jnsdotter) Generation XII XII:3237 mm ff mf mf fm ff , Niels. Fdd mjligen p 1550-talet. (Barn XI:1619, s 19) Gift XII:3241 mm ff mf mf mf ff , Jens. Fdd mjligen p 1550-talet. (Barn XI:1621, s 19) Gift \f \f -------------------------------------------------------------------------------",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2706.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2706.json",
+      "person_id": "XF2706",
+      "person_name": "Bentha  Jensdatter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2707.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2707.json",
+      "person_id": "XF2707",
+      "person_name": "Truls  Larsen (Larsson)",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2708.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2708.json",
+      "person_id": "XF2708",
+      "person_name": "Sine  Madsdatter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2709.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2709.json",
+      "person_id": "XF2709",
+      "person_name": "Madtz  Nielsen",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2710.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2710.json",
+      "person_id": "XF2710",
+      "person_name": "Kirstine  Denna",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2711.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2711.json",
+      "person_id": "XF2711",
+      "person_name": "Niels",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2729.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2729.json",
+      "person_id": "XF2729",
+      "person_name": "Thomas  Morison",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(2)",
+          "value": "Monday, May 01, 1865",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2730.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2730.json",
+      "person_id": "XF2730",
+      "person_name": "Jane  Davidson",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Sunday, January 01, 1865",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2731.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2731.json",
+      "person_id": "XF2731",
+      "person_name": "Unknown  Unknown",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2732.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2732.json",
+      "person_id": "XF2732",
+      "person_name": "Alexander Smith Morison",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2733.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2733.json",
+      "person_id": "XF2733",
+      "person_name": "Edith McGowan Morison",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2734.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2734.json",
+      "person_id": "XF2734",
+      "person_name": "James  Brebner",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2735.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2735.json",
+      "person_id": "XF2735",
+      "person_name": "Mary White Morison",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2736.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2736.json",
+      "person_id": "XF2736",
+      "person_name": "Bert  McLellan",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2737.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2737.json",
+      "person_id": "XF2737",
+      "person_name": "Alexander Smith Morison",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2738.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2738.json",
+      "person_id": "XF2738",
+      "person_name": "Nora  Wasdel",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2739.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2739.json",
+      "person_id": "XF2739",
+      "person_name": "James Henderson Morison",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2740.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2740.json",
+      "person_id": "XF2740",
+      "person_name": "Margaret (Peggy) Beasley",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2741.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2741.json",
+      "person_id": "XF2741",
+      "person_name": "Edward Cruikshanks Morison",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, October 10, 1936",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2742.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2742.json",
+      "person_id": "XF2742",
+      "person_name": "Elizabeth May Welsh",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, October 10, 1936",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2743.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2743.json",
+      "person_id": "XF2743",
+      "person_name": "Thomas Watt Morison",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2744.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2744.json",
+      "person_id": "XF2744",
+      "person_name": "Jean  Weeks",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2745.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2745.json",
+      "person_id": "XF2745",
+      "person_name": "Ruth Evelyne Lyster",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2746.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2746.json",
+      "person_id": "XF2746",
+      "person_name": "Edwena Denise Morison",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "amyco@escape.ca",
+          "href": "mailto:amyco@escape.ca",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2747.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2747.json",
+      "person_id": "XF2747",
+      "person_name": "Le Roy (Bud) Wellington Amy",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "amyco@escape.ca",
+          "href": "mailto:amyco@escape.ca",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2748.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2748.json",
+      "person_id": "XF2748",
+      "person_name": "Barbara  Morison",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2878.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2878.json",
+      "person_id": "XF2878",
+      "person_name": "Joshua Martin Stevens",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2906.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2906.json",
+      "person_id": "XF2906",
+      "person_name": "Morgan Divia Hay",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "hayd@acm.org",
+          "href": "mailto:hayd@acm.org",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2926.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2926.json",
+      "person_id": "XF2926",
+      "person_name": "Mary  Rapinchuk",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2927.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2927.json",
+      "person_id": "XF2927",
+      "person_name": "Vera  Rapinchuk",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2929.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2929.json",
+      "person_id": "XF2929",
+      "person_name": "Alexander  Rapinchuk",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2931.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2931.json",
+      "person_id": "XF2931",
+      "person_name": "X  Barry",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2932.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2932.json",
+      "person_id": "XF2932",
+      "person_name": "Steve  Rapinchuk",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2933.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2933.json",
+      "person_id": "XF2933",
+      "person_name": "Beryl  X",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2934.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2934.json",
+      "person_id": "XF2934",
+      "person_name": "Paul  Rapinchuk",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2935.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2935.json",
+      "person_id": "XF2935",
+      "person_name": "Ellie  X",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2939.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2939.json",
+      "person_id": "XF2939",
+      "person_name": "Priya  Watson",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2940.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2940.json",
+      "person_id": "XF2940",
+      "person_name": "X  Watson",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2978.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2978.json",
+      "person_id": "XF2978",
+      "person_name": "Peter George Stevens",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2987.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2987.json",
+      "person_id": "XF2987",
+      "person_name": "Tremaine  Burrows",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Sunday, May 01, 2005",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2988.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2988.json",
+      "person_id": "XF2988",
+      "person_name": "Burrows",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2990.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2990.json",
+      "person_id": "XF2990",
+      "person_name": "Ralph  Percy",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Language(1)",
+          "value": "English",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF345.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF345.json",
+      "person_id": "XF345",
+      "person_name": "Marilyn  Collins",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF4.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF4.json",
+      "person_id": "XF4",
+      "person_name": "Borje  Hansson(Hagborg)",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Cause of Death",
+          "value": "Heart",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Genetics",
+          "value": "NS/ND",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF574.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF574.json",
+      "person_id": "XF574",
+      "person_name": "Victor  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF575.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF575.json",
+      "person_id": "XF575",
+      "person_name": "Andrew Victor Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF576.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF576.json",
+      "person_id": "XF576",
+      "person_name": "Reta  Percy",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF577.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF577.json",
+      "person_id": "XF577",
+      "person_name": "Edith Joan Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF578.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF578.json",
+      "person_id": "XF578",
+      "person_name": "William  Shimmin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF579.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF579.json",
+      "person_id": "XF579",
+      "person_name": "Kerry  Shimmin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF580.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF580.json",
+      "person_id": "XF580",
+      "person_name": "Nancy  Shimmin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF581.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF581.json",
+      "person_id": "XF581",
+      "person_name": "Kelly  Shimmin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF582.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF582.json",
+      "person_id": "XF582",
+      "person_name": "Brian  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF583.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF583.json",
+      "person_id": "XF583",
+      "person_name": "Judy",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF584.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF584.json",
+      "person_id": "XF584",
+      "person_name": "Stacy  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF585.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF585.json",
+      "person_id": "XF585",
+      "person_name": "Gary  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF586.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF586.json",
+      "person_id": "XF586",
+      "person_name": "Lori  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF587.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF587.json",
+      "person_id": "XF587",
+      "person_name": "Glen  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF588.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF588.json",
+      "person_id": "XF588",
+      "person_name": "Terry  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF589.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF589.json",
+      "person_id": "XF589",
+      "person_name": "Helen  Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Wednesday, January 01, 1958",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF590.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF590.json",
+      "person_id": "XF590",
+      "person_name": "Edward  Grant",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF591.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF591.json",
+      "person_id": "XF591",
+      "person_name": "June  Grant",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF592.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF592.json",
+      "person_id": "XF592",
+      "person_name": "Laurie  Grant",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF593.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF593.json",
+      "person_id": "XF593",
+      "person_name": "Wendy  Grant",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF594.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF594.json",
+      "person_id": "XF594",
+      "person_name": "Mary(May)  Maskell",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF595.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF595.json",
+      "person_id": "XF595",
+      "person_name": "Harry  Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, November 24, 1934",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF596.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF596.json",
+      "person_id": "XF596",
+      "person_name": "Edith(Edie)  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF597.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF597.json",
+      "person_id": "XF597",
+      "person_name": "Carl  Simonson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF598.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF598.json",
+      "person_id": "XF598",
+      "person_name": "Walter  Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Monday, January 01, 1962",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF599.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF599.json",
+      "person_id": "XF599",
+      "person_name": "Islay  Dack",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF600.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF600.json",
+      "person_id": "XF600",
+      "person_name": "Elaine  Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Monday, January 01, 1962",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF601.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF601.json",
+      "person_id": "XF601",
+      "person_name": "Lawrence(Larry)  Gusta",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Monday, January 01, 1962",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF602.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF602.json",
+      "person_id": "XF602",
+      "person_name": "Ann Joy  Mykle",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF603.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF603.json",
+      "person_id": "XF603",
+      "person_name": "Richard  Hodges",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF604.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF604.json",
+      "person_id": "XF604",
+      "person_name": "Mark  Hodges",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF605.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF605.json",
+      "person_id": "XF605",
+      "person_name": "Christina  Hodges",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF606.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF606.json",
+      "person_id": "XF606",
+      "person_name": "Shirley  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF607.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF607.json",
+      "person_id": "XF607",
+      "person_name": "Murray  McLeod",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF608.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF608.json",
+      "person_id": "XF608",
+      "person_name": "Gordon  McLeod",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF62.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF62.json",
+      "person_id": "XF62",
+      "person_name": "Hans  Olson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF626.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF626.json",
+      "person_id": "XF626",
+      "person_name": "Allen  McLeod",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF627.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF627.json",
+      "person_id": "XF627",
+      "person_name": "Sherrie  McLeod",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF628.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF628.json",
+      "person_id": "XF628",
+      "person_name": "Shannon  McLeod",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF629.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF629.json",
+      "person_id": "XF629",
+      "person_name": "Larry  McLeod",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF63.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF63.json",
+      "person_id": "XF63",
+      "person_name": "Hanna  Borjesdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF630.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF630.json",
+      "person_id": "XF630",
+      "person_name": "Violet  Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Wednesday, January 01, 1958",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF631.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF631.json",
+      "person_id": "XF631",
+      "person_name": "Don  McIntosh",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF632.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF632.json",
+      "person_id": "XF632",
+      "person_name": "Roddy  McIntosh",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF633.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF633.json",
+      "person_id": "XF633",
+      "person_name": "Edith(Ede)  Carlson",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Friday, January 01, 1937",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF635.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF635.json",
+      "person_id": "XF635",
+      "person_name": "Janice",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF636.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF636.json",
+      "person_id": "XF636",
+      "person_name": "Sean  McLeod",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF637.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF637.json",
+      "person_id": "XF637",
+      "person_name": "Stacey  McLeod",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF638.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF638.json",
+      "person_id": "XF638",
+      "person_name": "Anita  McLeod",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF639.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF639.json",
+      "person_id": "XF639",
+      "person_name": "Lloyd  Neher",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF64.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF64.json",
+      "person_id": "XF64",
+      "person_name": "Anders(Andrew)  Hagborg(Hansson)",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, June 01, 1895",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF640.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF640.json",
+      "person_id": "XF640",
+      "person_name": "Bonnie M. Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_link",
+          "label": "WebSite",
+          "text": "www.fcc-fac.ca",
+          "href": "http://www.fcc-fac.ca",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "bonnie.hagborg@fcc-fac.ca",
+          "href": "mailto:bonnie.hagborg@fcc-fac.ca",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF641.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF641.json",
+      "person_id": "XF641",
+      "person_name": "Robert  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF642.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF642.json",
+      "person_id": "XF642",
+      "person_name": "Renee  Howden",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF65.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF65.json",
+      "person_id": "XF65",
+      "person_name": "Johanna  Wall",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Saturday, June 01, 1895",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(2)",
+          "value": "Thursday, December 19, 1907",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF66.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF66.json",
+      "person_id": "XF66",
+      "person_name": "Victor  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF67.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF67.json",
+      "person_id": "XF67",
+      "person_name": "Bessie  McCready",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF68.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF68.json",
+      "person_id": "XF68",
+      "person_name": "Clarence  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF69.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF69.json",
+      "person_id": "XF69",
+      "person_name": "Martha  McDonald",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF70.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF70.json",
+      "person_id": "XF70",
+      "person_name": "Violet  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF71.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF71.json",
+      "person_id": "XF71",
+      "person_name": "Alfred  Mykle",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF72.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF72.json",
+      "person_id": "XF72",
+      "person_name": "Androm(Andrew)  Hagborg",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Notes",
+          "value": "In 1926 he ventured to Winnipeg to work for his uncle's company, Hagborg Fuel Company.he worked there for 3 winters and for the Fort Rouge Coal Company for 4 winters. Summer always found Andy back home, helping on the farm. In 1935 he married Henny Enquist from Chatfield. They moved into their new house across the road from the \"home place\" and started to build up their own farm. In 1936 the first trees were planted in what was to become a prize-winning yard. In addition to helping in Meadows organisations, Andy and Henny have taken an active part in the Rosser Curling Club. Winter finds them on the \"Bonspiel Trail\". In 1970 Andy was the Ward 1 councillor for Rosser Municipality Through the years Andy bought more land. They have 2 children, Shirley and Violet.",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF73.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF73.json",
+      "person_id": "XF73",
+      "person_name": "Henny  Enquist",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF734.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF734.json",
+      "person_id": "XF734",
+      "person_name": "Doris  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF735.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF735.json",
+      "person_id": "XF735",
+      "person_name": "Daniel  McCuish",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF736.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF736.json",
+      "person_id": "XF736",
+      "person_name": "Irene  Carlson",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Wednesday, January 01, 1947",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 1,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF738.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF738.json",
+      "person_id": "XF738",
+      "person_name": "Brian  Rothwell",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF739.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF739.json",
+      "person_id": "XF739",
+      "person_name": "Bruce  Rothwell",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF74.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF74.json",
+      "person_id": "XF74",
+      "person_name": "Arthur  Carlson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF740.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF740.json",
+      "person_id": "XF740",
+      "person_name": "David  Rothwell",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF75.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF75.json",
+      "person_id": "XF75",
+      "person_name": "Hilda",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF76.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF76.json",
+      "person_id": "XF76",
+      "person_name": "Matta (Marta) (Martha) Hannadotter-Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF77.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF77.json",
+      "person_id": "XF77",
+      "person_name": "Torsten (Charlie) Andersson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF78.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF78.json",
+      "person_id": "XF78",
+      "person_name": "Oscar  Anderson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF79.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF79.json",
+      "person_id": "XF79",
+      "person_name": "Ola  Hansson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF80.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF80.json",
+      "person_id": "XF80",
+      "person_name": "Kerstin",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF81.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF81.json",
+      "person_id": "XF81",
+      "person_name": "Else  Hansdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF82.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF82.json",
+      "person_id": "XF82",
+      "person_name": "Matts  Hakansson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF827.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF827.json",
+      "person_id": "XF827",
+      "person_name": "Pratibha  Prathiba",
+      "missing_data": [
+        {
+          "type": "missing_field_value",
+          "label": "Marriage Date(1)",
+          "value": "Tuesday, September 10, 1991",
+          "severity": "ERROR"
+        },
+        {
+          "type": "missing_link",
+          "label": "EMail",
+          "text": "phay@opentext.com",
+          "href": "mailto:phay@opentext.com",
+          "severity": "ERROR"
+        }
+      ],
+      "error_count": 2,
+      "warning_count": 0,
+      "status": "FAIL"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF83.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF83.json",
+      "person_id": "XF83",
+      "person_name": "Borje  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF84.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF84.json",
+      "person_id": "XF84",
+      "person_name": "Birgit",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF85.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF85.json",
+      "person_id": "XF85",
+      "person_name": "Eva  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF86.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF86.json",
+      "person_id": "XF86",
+      "person_name": "Sati  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF87.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF87.json",
+      "person_id": "XF87",
+      "person_name": "Katarina  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF88.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF88.json",
+      "person_id": "XF88",
+      "person_name": "Herman  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF89.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF89.json",
+      "person_id": "XF89",
+      "person_name": "Valborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF896.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF896.json",
+      "person_id": "XF896",
+      "person_name": "David  Hagborg",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF899.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF899.json",
+      "person_id": "XF899",
+      "person_name": "Jons Hansson Siostrom",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF90.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF90.json",
+      "person_id": "XF90",
+      "person_name": "Torsten  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF900.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF900.json",
+      "person_id": "XF900",
+      "person_name": "Ellena  Nilsdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF901.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF901.json",
+      "person_id": "XF901",
+      "person_name": "Inger  Jonsdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF902.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF902.json",
+      "person_id": "XF902",
+      "person_name": "Sven  Larsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF903.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF903.json",
+      "person_id": "XF903",
+      "person_name": "Sissa  Nilsdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF904.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF904.json",
+      "person_id": "XF904",
+      "person_name": "Lars  Svensson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF905.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF905.json",
+      "person_id": "XF905",
+      "person_name": "Matta  Hansdotter",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF906.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF906.json",
+      "person_id": "XF906",
+      "person_name": "Ola  Larsson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF91.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF91.json",
+      "person_id": "XF91",
+      "person_name": "Rosi",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF92.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF92.json",
+      "person_id": "XF92",
+      "person_name": "Katti  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF93.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF93.json",
+      "person_id": "XF93",
+      "person_name": "Mats  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF94.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF94.json",
+      "person_id": "XF94",
+      "person_name": "Anders  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF95.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF95.json",
+      "person_id": "XF95",
+      "person_name": "Maria  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF96.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF96.json",
+      "person_id": "XF96",
+      "person_name": "Kerstin  Hakanson",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF97.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF97.json",
+      "person_id": "XF97",
+      "person_name": "Evert",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF98.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF98.json",
+      "person_id": "XF98",
+      "person_name": "Hokan",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    },
+    {
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF99.htm",
+      "json_file": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF99.json",
+      "person_id": "XF99",
+      "person_name": "Helen",
+      "missing_data": [],
+      "error_count": 0,
+      "warning_count": 0,
+      "status": "PASS"
+    }
+  ],
+  "errors": [
+    {
+      "type": "missing_json",
+      "html_file": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2917.htm",
+      "expected_json": "/Volumes/bork/pers/auntruth/data/people/Hagborg-Hansson/XF2917.json"
+    }
+  ],
+  "warnings": []
+}

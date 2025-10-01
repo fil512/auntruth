@@ -1,0 +1,48 @@
+{
+  "id": "XF2554",
+  "name": "Barry Anthony Lee",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, November 27, 1957",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1689",
+      "name": "Wendy Anne Hagborg-Lee [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1689.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2455",
+      "name": "Michael Anthony Lee",
+      "url": "/auntruth/new/htm/L1/XF2455.htm",
+      "birthDate": "07/31/1993"
+    },
+    {
+      "id": "XF2454",
+      "name": "Rebekka Elizabeth Lee",
+      "url": "/auntruth/new/htm/L1/XF2454.htm",
+      "birthDate": "02/09/1991"
+    }
+  ],
+  "occupation": null,
+  "address": "37 Dalt Hicks Way Markham ON L6C 1R6 CAN",
+  "email": null,
+  "phone": "(905) 887-9842, (905) 887-9842",
+  "website": null,
+  "source": "Wendy Hagborg-Lee",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:09Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2554.htm",
+    "extractionDate": "2025-10-01T04:27:26.676575Z"
+  }
+}

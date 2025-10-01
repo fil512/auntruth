@@ -1,0 +1,42 @@
+{
+  "id": "XF2559",
+  "name": "Gunnel  Jonsdotter",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Sjorup     SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2558",
+      "name": "Lars Astradsson (Frifeldt [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2558.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2485",
+      "name": "Ola   Larsson (Frifeldt)",
+      "url": "/auntruth/new/htm/L1/XF2485.htm",
+      "birthDate": "11/27/1727"
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Peter Larsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:11Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2559.htm",
+    "extractionDate": "2025-10-01T04:27:26.944942Z"
+  }
+}

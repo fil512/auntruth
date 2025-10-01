@@ -1,0 +1,62 @@
+{
+  "id": "XF630",
+  "name": "Violet  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, April 13, 1939",
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF72",
+    "name": "Androm(Andrew) Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF72.htm"
+  },
+  "mother": {
+    "id": "XF73",
+    "name": "Henny Enquist-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF73.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF631",
+      "name": "Don McIntosh [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF631.htm",
+      "marriageDate": "Wednesday, January 01, 1958"
+    },
+    {
+      "id": "XF639",
+      "name": "Lloyd Neher [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF639.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF632",
+      "name": "Roddy   McIntosh",
+      "url": "/auntruth/new/htm/L1/XF632.htm",
+      "birthDate": "01/01/1959"
+    },
+    {
+      "id": "XF1274",
+      "name": "Roddy   Neher",
+      "url": "/auntruth/new/htm/L1/XF1274.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Human Resources Supervisor",
+  "address": "419-200 Adsum Drive Winnipeg MB R2P OW7 CAN",
+  "email": null,
+  "phone": "204-632-0915, 204-632-0915",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Married in 1958",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:58Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF630.htm",
+    "extractionDate": "2025-10-01T04:27:33.392066Z"
+  }
+}

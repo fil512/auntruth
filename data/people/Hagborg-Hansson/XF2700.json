@@ -1,0 +1,42 @@
+{
+  "id": "XF2700",
+  "name": "August Jonsson Andersson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, July 14, 1887",
+  "birthLocation": "Oremolla Vemmenhog S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2699",
+      "name": "Emelie Sundberg-Andersson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2699.htm",
+      "marriageDate": "Wednesday, January 19, 1910"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2701",
+      "name": "Helen Marie Anderson",
+      "url": "/auntruth/new/htm/L1/XF2701.htm",
+      "birthDate": "01/29/1912"
+    }
+  ],
+  "occupation": null,
+  "address": "Fergus Falls MN  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:14Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2700.htm",
+    "extractionDate": "2025-10-01T04:27:28.250798Z"
+  }
+}

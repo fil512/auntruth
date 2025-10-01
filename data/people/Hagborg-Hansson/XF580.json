@@ -1,0 +1,56 @@
+{
+  "id": "XF580",
+  "name": "Nancy  Shimmin",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, September 07, 1959",
+  "birthLocation": "Bloomington MI   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF578",
+    "name": "William Shimmin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF578.htm"
+  },
+  "mother": {
+    "id": "XF577",
+    "name": "Edith Joan Hagborg-Shimmin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF577.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1242",
+      "name": "Scott McAdam [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1242.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1244",
+      "name": "Meghan   McAdam",
+      "url": "/auntruth/new/htm/L1/XF1244.htm",
+      "birthDate": "04/08/1986"
+    },
+    {
+      "id": "XF1243",
+      "name": "Molly   McAdam",
+      "url": "/auntruth/new/htm/L1/XF1243.htm",
+      "birthDate": "11/08/1983"
+    }
+  ],
+  "occupation": "Farmer's Seed - Retail Sales & Buyer",
+  "address": "18924 Belleview Trail Fairbault MI 55021 USA",
+  "email": null,
+  "phone": "507-332-7922, 507-332-7922",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:36Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF580.htm",
+    "extractionDate": "2025-10-01T04:27:31.432050Z"
+  }
+}

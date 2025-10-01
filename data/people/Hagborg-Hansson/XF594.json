@@ -1,0 +1,54 @@
+{
+  "id": "XF594",
+  "name": "Mary(May)  Maskell",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, June 21, 1914",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF595",
+      "name": "Harry Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF595.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF600",
+      "name": "Elaine   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF600.htm",
+      "birthDate": "02/04/1941"
+    },
+    {
+      "id": "XF598",
+      "name": "Walter   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF598.htm",
+      "birthDate": "07/08/1939"
+    },
+    {
+      "id": "XF596",
+      "name": "Edith(Edie)   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF596.htm",
+      "birthDate": "04/28/1936"
+    }
+  ],
+  "occupation": "Retired Farmwife",
+  "address": "112-426 5th St. W. Stonewall MB R0C 2Z0 CAN",
+  "email": null,
+  "phone": "(204) 467-2239, (204) 467-2239",
+  "website": null,
+  "source": "Walter Arnold Ferdinand Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:42Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF594.htm",
+    "extractionDate": "2025-10-01T04:27:32.222392Z"
+  }
+}

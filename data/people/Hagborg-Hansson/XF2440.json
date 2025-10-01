@@ -1,0 +1,62 @@
+{
+  "id": "XF2440",
+  "name": "Matilda  Wall",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Loderup S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2421",
+    "name": "Nils Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2421.htm"
+  },
+  "mother": {
+    "id": "XF2422",
+    "name": "Elna Johnson-Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2422.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2441",
+      "name": "Johnson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2441.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2444",
+      "name": "Anna   Johnson",
+      "url": "/auntruth/new/htm/L1/XF2444.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2443",
+      "name": "Signe   Johnson",
+      "url": "/auntruth/new/htm/L1/XF2443.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2442",
+      "name": "Arthur   Johnson",
+      "url": "/auntruth/new/htm/L1/XF2442.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": "Came to Canada and was married",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:18Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2440.htm",
+    "extractionDate": "2025-10-01T04:27:25.116973Z"
+  }
+}

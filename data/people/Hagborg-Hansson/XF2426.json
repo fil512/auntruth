@@ -1,0 +1,50 @@
+{
+  "id": "XF2426",
+  "name": "Vera  Nordin",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Teulon MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2425",
+    "name": "Peter Nordin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2425.htm"
+  },
+  "mother": {
+    "id": "XF2424",
+    "name": "Maria Wall-Nordin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2424.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2918",
+      "name": "X Langston [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2918.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2919",
+      "name": "John   Langston",
+      "url": "/auntruth/new/htm/L2/XF2919.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:12Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2426.htm",
+    "extractionDate": "2025-10-01T04:27:24.325182Z"
+  }
+}

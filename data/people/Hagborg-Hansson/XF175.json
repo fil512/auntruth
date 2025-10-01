@@ -1,0 +1,106 @@
+{
+  "id": "XF175",
+  "name": "Ronald Carl Sahlgren",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, June 10, 1943",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF174",
+    "name": "Carl Gustav Sahlgren [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF174.htm"
+  },
+  "mother": {
+    "id": "XF173",
+    "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF173.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF176",
+      "name": "Marilyn Marie Gamball-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF176.htm",
+      "marriageDate": "Saturday, October 14, 1967"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF177",
+      "name": "Melanie Ann Sahlgren",
+      "url": "/auntruth/new/htm/L1/XF177.htm",
+      "birthDate": "05/04/1968"
+    }
+  ],
+  "occupation": "Children's Toys",
+  "address": "Toronto ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "Had career in Royal Canadian Navy",
+  "photos": [
+    {
+      "name": "169 Marion from Back - Auntie Esther & Uncle Carl's old store 'Sahlgren's Confectionery'",
+      "date": "Thursday, August 29, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1738.htm"
+    },
+    {
+      "name": "169 Marion from Front - Auntie Esther & Uncle Carl's old store 'Sahlgren's Confectionery'",
+      "date": "Thursday, August 29, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1737.htm"
+    },
+    {
+      "name": "Cousin Ron",
+      "date": "Tuesday, May 04, 1971",
+      "location": "Toronto Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1481.htm"
+    },
+    {
+      "name": "Cousins",
+      "date": "Friday, February 01, 1963",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1873.htm"
+    },
+    {
+      "name": "In front of the cottage",
+      "date": "Wednesday, April 02, 1958",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1479.htm"
+    },
+    {
+      "name": "At Sahlgrens",
+      "date": "Monday, December 20, 1954",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1298.htm"
+    },
+    {
+      "name": "Birthday Party (Beryl Jones on left)",
+      "date": "Friday, November 12, 1954",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI976.htm"
+    },
+    {
+      "name": "Work Crew, the whole fam damily",
+      "date": "Saturday, August 01, 1953",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1323.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Flower Child",
+      "date": "Monday, June 01, 1970",
+      "location": "Toronto Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI923.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:42Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF175.htm",
+    "extractionDate": "2025-10-01T04:27:20.088426Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "XF2449",
+  "name": "Harold  Goranson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2447",
+    "name": "Goranson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2447.htm"
+  },
+  "mother": {
+    "id": "XF2446",
+    "name": "Kjestin Wall-Goranson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2446.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:22Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2449.htm",
+    "extractionDate": "2025-10-01T04:27:25.613125Z"
+  }
+}

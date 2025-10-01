@@ -1,0 +1,50 @@
+{
+  "id": "XF76",
+  "name": "Matta (Marta) (Martha) Hannadotter-Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Hagestad S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF62",
+    "name": "Hans Olson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF62.htm"
+  },
+  "mother": {
+    "id": "XF63",
+    "name": "Hanna Borjesdotter-Olson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF63.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF77",
+      "name": "Torsten (Charlie) Andersson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF77.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF78",
+      "name": "Oscar   Anderson",
+      "url": "/auntruth/new/htm/L1/XF78.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Minnedosa MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "Emigrerade till Kanada fran foraldrahemmet pa Hagestad 43 tillsammans med broderna Borje och Anders. Forandrade efter emigrationen sitt fornam fran Matta till Marta (Martha). Gift med Charlie Andersson.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:37Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF76.htm",
+    "extractionDate": "2025-10-01T04:27:34.961198Z"
+  }
+}

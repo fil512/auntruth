@@ -1,0 +1,61 @@
+{
+  "id": "XF1272",
+  "name": "Harold  Carlson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, January 01, 1907",
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": "Tuesday, January 01, 1907",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF574",
+    "name": "Victor Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF574.htm"
+  },
+  "mother": {
+    "id": "XF65",
+    "name": "Johanna Wall-Hagborg(Hansson)-Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF65.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:02Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1272.htm",
+    "extractionDate": "2025-10-01T04:27:16.734351Z"
+  }
+}

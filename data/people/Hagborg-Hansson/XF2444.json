@@ -1,0 +1,36 @@
+{
+  "id": "XF2444",
+  "name": "Anna  Johnson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2441",
+    "name": "Johnson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2441.htm"
+  },
+  "mother": {
+    "id": "XF2440",
+    "name": "Matilda Wall-Johnson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2440.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:20Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2444.htm",
+    "extractionDate": "2025-10-01T04:27:25.329200Z"
+  }
+}

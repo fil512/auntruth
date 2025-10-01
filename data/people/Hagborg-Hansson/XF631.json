@@ -1,0 +1,42 @@
+{
+  "id": "XF631",
+  "name": "Don  McIntosh",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF630",
+      "name": "Violet Hagborg-McIntosh-Neher [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF630.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF632",
+      "name": "Roddy   McIntosh",
+      "url": "/auntruth/new/htm/L1/XF632.htm",
+      "birthDate": "01/01/1959"
+    }
+  ],
+  "occupation": null,
+  "address": "Toronto ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "partner in advertising agency",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:58Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF631.htm",
+    "extractionDate": "2025-10-01T04:27:33.475164Z"
+  }
+}

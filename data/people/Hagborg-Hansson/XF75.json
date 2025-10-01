@@ -1,0 +1,92 @@
+{
+  "id": "XF75",
+  "name": "Hilda",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "mother": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF74",
+      "name": "Arthur Carlson [Hagborg-Hansson]",
+      "url": "/auntruth/htm/L1/XF74.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1782",
+      "name": "Tyler   Carlson",
+      "url": "/auntruth/htm/L1/XF1782.htm",
+      "birthDate": "02/03/1962"
+    },
+    {
+      "id": "XF1779",
+      "name": "Ron   Carlson",
+      "url": "/auntruth/htm/L1/XF1779.htm",
+      "birthDate": "10/23/1959"
+    },
+    {
+      "id": "XF1697",
+      "name": "Diana   Carlson",
+      "url": "/auntruth/htm/L1/XF1697.htm",
+      "birthDate": "08/14/1958"
+    },
+    {
+      "id": "XF1694",
+      "name": "Leonard   Carlson",
+      "url": "/auntruth/htm/L1/XF1694.htm",
+      "birthDate": "09/04/1957"
+    },
+    {
+      "id": "XF1690",
+      "name": "Douglas   Carlson",
+      "url": "/auntruth/htm/L1/XF1690.htm",
+      "birthDate": "07/31/1953"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:36Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF75.htm",
+    "extractionDate": "2025-10-01T04:27:34.939577Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "XF2743",
+  "name": "Thomas Watt Morison",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Monday, August 02, 1915",
+  "birthLocation": "Sec 28-13-25 WPM Miniota     CAN",
+  "deathDate": "Tuesday, November 14, 1961",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2678",
+    "name": "Patrick Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2678.htm"
+  },
+  "mother": {
+    "id": "XF2679",
+    "name": "Jessie Henderson-Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2679.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2744",
+      "name": "Jean Weeks-Morison [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2744.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Deep River ON   CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bud Amy",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:33Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2743.htm",
+    "extractionDate": "2025-10-01T04:27:29.723132Z"
+  }
+}

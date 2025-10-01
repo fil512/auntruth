@@ -1,0 +1,48 @@
+{
+  "id": "XF1242",
+  "name": "Scott  McAdam",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, May 25, 1961",
+  "birthLocation": "MI   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF580",
+      "name": "Nancy Shimmin-McAdam [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF580.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1244",
+      "name": "Meghan   McAdam",
+      "url": "/auntruth/new/htm/L1/XF1244.htm",
+      "birthDate": "04/08/1986"
+    },
+    {
+      "id": "XF1243",
+      "name": "Molly   McAdam",
+      "url": "/auntruth/new/htm/L1/XF1243.htm",
+      "birthDate": "11/08/1983"
+    }
+  ],
+  "occupation": "Sheet Metal Company",
+  "address": "18924 Belleview Trail Faribault MI 55021 USA",
+  "email": null,
+  "phone": "507-332-7922, 507-332-7922",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:49Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1242.htm",
+    "extractionDate": "2025-10-01T04:27:14.924052Z"
+  }
+}

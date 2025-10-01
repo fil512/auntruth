@@ -1,0 +1,36 @@
+{
+  "id": "XF2878",
+  "name": "Joshua Martin Stevens",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, June 11, 2002",
+  "birthLocation": "Toronto ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF182",
+    "name": "Kenneth Harold Stevens [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF182.htm"
+  },
+  "mother": {
+    "id": "XF2235",
+    "name": "Irina Visoiu-Stevens [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2235.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:33Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2878.htm",
+    "extractionDate": "2025-10-01T04:27:30.033514Z"
+  }
+}

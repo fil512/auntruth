@@ -1,0 +1,50 @@
+{
+  "id": "XF147",
+  "name": "Helga  Martensson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF140",
+    "name": "Anders Martensson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF140.htm"
+  },
+  "mother": {
+    "id": "XF139",
+    "name": "Una Hansdotter-Martensson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF139.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF148",
+      "name": "Hjalmar  [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF148.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF149",
+      "name": "Unakerstin",
+      "url": "/auntruth/new/htm/L1/XF149.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:20Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF147.htm",
+    "extractionDate": "2025-10-01T04:27:17.951846Z"
+  }
+}

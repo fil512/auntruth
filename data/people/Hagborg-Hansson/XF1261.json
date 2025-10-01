@@ -1,0 +1,36 @@
+{
+  "id": "XF1261",
+  "name": "Joel  Ridgeway",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, September 04, 1990",
+  "birthLocation": "Grosse-Isle MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1259",
+    "name": "Wes Ridgeway [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF1259.htm"
+  },
+  "mother": {
+    "id": "XF1258",
+    "name": "Donna Simonson-Ridgeway [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF1258.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Box 118 Grosse-Isle MB R0C 1G0 CAN",
+  "email": null,
+  "phone": "204-467-8143, 204-467-8143",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:57Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1261.htm",
+    "extractionDate": "2025-10-01T04:27:16.067233Z"
+  }
+}

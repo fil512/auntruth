@@ -1,0 +1,42 @@
+{
+  "id": "XF2552",
+  "name": "Leonard  McCools",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF184",
+      "name": "Wendy Leilani Stevens-McCools [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF184.htm",
+      "marriageDate": "Friday, February 05, 1999"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2553",
+      "name": "Sean   McCools",
+      "url": "/auntruth/new/htm/L1/XF2553.htm",
+      "birthDate": "07/26/1999"
+    }
+  ],
+  "occupation": null,
+  "address": "Baseline & Woodroffe Ottawa ON K2E CAN",
+  "email": "wlsmccool@aol.com",
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:08Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2552.htm",
+    "extractionDate": "2025-10-01T04:27:26.567507Z"
+  }
+}

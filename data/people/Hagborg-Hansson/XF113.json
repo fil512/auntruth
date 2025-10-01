@@ -1,0 +1,36 @@
+{
+  "id": "XF113",
+  "name": "Hans  Anker-Kofoed",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, January 01, 1955",
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF112",
+    "name": "Svend Anker-Kofoed [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF112.htm"
+  },
+  "mother": {
+    "id": "XF111",
+    "name": "Birgit Johnsson-Anker-Kofoed [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF111.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Dragareg 12B Ystad  27133 SWE",
+  "email": null,
+  "phone": "411-19728, 411-19728",
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "Teacher in Ystad. Owns Johan Johnsson's farm.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:59Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF113.htm",
+    "extractionDate": "2025-10-01T04:27:13.470962Z"
+  }
+}

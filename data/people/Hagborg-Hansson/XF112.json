@@ -1,0 +1,48 @@
+{
+  "id": "XF112",
+  "name": "Svend  Anker-Kofoed",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF111",
+      "name": "Birgit Johnsson-Anker-Kofoed [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF111.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF113",
+      "name": "Hans   Anker-Kofoed",
+      "url": "/auntruth/new/htm/L1/XF113.htm",
+      "birthDate": "01/01/1955"
+    },
+    {
+      "id": "XF114",
+      "name": "Bengt   Anker-Kofoed",
+      "url": "/auntruth/new/htm/L1/XF114.htm",
+      "birthDate": "01/01/1952"
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:58Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF112.htm",
+    "extractionDate": "2025-10-01T04:27:13.447904Z"
+  }
+}

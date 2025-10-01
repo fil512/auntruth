@@ -1,0 +1,86 @@
+{
+  "id": "XF2678",
+  "name": "Patrick  Morison",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, December 16, 1868",
+  "birthLocation": "Rose Hearty E0   ukg",
+  "deathDate": "Saturday, April 01, 1933",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2729",
+    "name": "Thomas Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2729.htm"
+  },
+  "mother": {
+    "id": "XF2730",
+    "name": "Jane Davidson-Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2730.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2679",
+      "name": "Jessie Henderson-Morison [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2679.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2743",
+      "name": "Thomas Watt Morison",
+      "url": "/auntruth/new/htm/L1/XF2743.htm",
+      "birthDate": "08/02/1915"
+    },
+    {
+      "id": "XF187",
+      "name": "Gowan   Morison",
+      "url": "/auntruth/new/htm/L1/XF187.htm",
+      "birthDate": "02/07/1912"
+    },
+    {
+      "id": "XF2741",
+      "name": "Edward Cruikshanks Morison",
+      "url": "/auntruth/new/htm/L1/XF2741.htm",
+      "birthDate": "08/08/1908"
+    },
+    {
+      "id": "XF2739",
+      "name": "James Henderson Morison",
+      "url": "/auntruth/new/htm/L1/XF2739.htm",
+      "birthDate": "11/10/1905"
+    },
+    {
+      "id": "XF2737",
+      "name": "Alexander Smith Morison",
+      "url": "/auntruth/new/htm/L1/XF2737.htm",
+      "birthDate": "03/10/1904"
+    },
+    {
+      "id": "XF2735",
+      "name": "Mary White Morison",
+      "url": "/auntruth/new/htm/L1/XF2735.htm",
+      "birthDate": "02/03/1903"
+    },
+    {
+      "id": "XF2680",
+      "name": "George   Morison",
+      "url": "/auntruth/new/htm/L1/XF2680.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Crandal MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": null,
+  "notes": "Buried in Crandal MB Cemetery",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:04Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2678.htm",
+    "extractionDate": "2025-10-01T04:27:27.354094Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "XF2326",
+  "name": "Conrad Moise Stevens",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, June 05, 1997",
+  "birthLocation": "Toronto ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF182",
+    "name": "Kenneth Harold Stevens [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF182.htm"
+  },
+  "mother": {
+    "id": "XF2235",
+    "name": "Irina Visoiu-Stevens [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2235.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "physical growth",
+  "address": "101 Wright Ave. Toronto ON M6R 1L1 CAN",
+  "email": null,
+  "phone": "(416) 537-3126, (416) 537-3126",
+  "website": null,
+  "source": "Ken Stevens",
+  "notes": "Born 0700GMT Sinai Hospital, Toronto, ON CA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:28Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2326.htm",
+    "extractionDate": "2025-10-01T04:27:23.963540Z"
+  }
+}

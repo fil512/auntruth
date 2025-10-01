@@ -1,0 +1,36 @@
+{
+  "id": "XF2732",
+  "name": "Alexander Smith Morison",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2729",
+    "name": "Thomas Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2729.htm"
+  },
+  "mother": {
+    "id": "XF2730",
+    "name": "Jane Davidson-Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2730.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bud Amy",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:28Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2732.htm",
+    "extractionDate": "2025-10-01T04:27:29.185017Z"
+  }
+}

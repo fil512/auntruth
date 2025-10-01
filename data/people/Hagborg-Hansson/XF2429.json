@@ -1,0 +1,49 @@
+{
+  "id": "XF2429",
+  "name": "Henry  Nordin",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Teulon MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2425",
+    "name": "Peter Nordin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2425.htm"
+  },
+  "mother": {
+    "id": "XF2424",
+    "name": "Maria Wall-Nordin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2424.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": null,
+  "photos": [
+    {
+      "name": "At Nordin Farm",
+      "date": "Wednesday, August 01, 1917",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1416.htm"
+    },
+    {
+      "name": "Happy 10 days at Nordin Farm",
+      "date": "Wednesday, August 01, 1917",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1415.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:13Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2429.htm",
+    "extractionDate": "2025-10-01T04:27:24.509761Z"
+  }
+}

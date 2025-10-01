@@ -1,0 +1,56 @@
+{
+  "id": "XF111",
+  "name": "Birgit  Johnsson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, January 01, 1928",
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF109",
+    "name": "Johan Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF109.htm"
+  },
+  "mother": {
+    "id": "XF110",
+    "name": "Ellida -Johnsson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF110.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF112",
+      "name": "Svend Anker-Kofoed [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF112.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF113",
+      "name": "Hans   Anker-Kofoed",
+      "url": "/auntruth/new/htm/L1/XF113.htm",
+      "birthDate": "01/01/1955"
+    },
+    {
+      "id": "XF114",
+      "name": "Bengt   Anker-Kofoed",
+      "url": "/auntruth/new/htm/L1/XF114.htm",
+      "birthDate": "01/01/1952"
+    }
+  ],
+  "occupation": null,
+  "address": "Hagestad 34 Loderup  27020 SWE",
+  "email": null,
+  "phone": "411-28114, 411-28114",
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "Letter from Birgit Anker-Kotoed(Johnsson) 89/04/04 to Ken Stevens",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:57Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF111.htm",
+    "extractionDate": "2025-10-01T04:27:13.366144Z"
+  }
+}

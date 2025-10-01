@@ -1,0 +1,48 @@
+{
+  "id": "XF170",
+  "name": "Margaret Joan Hewlett",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, July 09, 1947",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF169",
+      "name": "Stanley Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF169.htm",
+      "marriageDate": "Saturday, June 10, 1967"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF171",
+      "name": "Timothy Douglas Hagborg",
+      "url": "/auntruth/new/htm/L1/XF171.htm",
+      "birthDate": "04/25/1971"
+    },
+    {
+      "id": "XF172",
+      "name": "Deborah Lynne Hagborg",
+      "url": "/auntruth/new/htm/L1/XF172.htm",
+      "birthDate": "11/26/1968"
+    }
+  ],
+  "occupation": null,
+  "address": "620 Elm St. Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:38Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF170.htm",
+    "extractionDate": "2025-10-01T04:27:19.736496Z"
+  }
+}

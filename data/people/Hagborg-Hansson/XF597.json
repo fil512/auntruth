@@ -1,0 +1,48 @@
+{
+  "id": "XF597",
+  "name": "Carl  Simonson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, May 03, 1932",
+  "birthLocation": "Woodlands MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF596",
+      "name": "Edith(Edie) Hagborg-Simonson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF596.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1258",
+      "name": "Donna   Simonson",
+      "url": "/auntruth/new/htm/L1/XF1258.htm",
+      "birthDate": "02/09/1959"
+    },
+    {
+      "id": "XF1254",
+      "name": "Carol   Simonson",
+      "url": "/auntruth/new/htm/L1/XF1254.htm",
+      "birthDate": "06/15/1957"
+    }
+  ],
+  "occupation": "Retired from Winnipeg Fire Department",
+  "address": "Box 22 Grosse-Isle MB R0C 1G0 CAN",
+  "email": null,
+  "phone": "204-467-9158, 204-467-9158",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Member of Winnipeg Fire Department.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:43Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF597.htm",
+    "extractionDate": "2025-10-01T04:27:32.389580Z"
+  }
+}

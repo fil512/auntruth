@@ -1,0 +1,48 @@
+{
+  "id": "XF1247",
+  "name": "Dave  Kush",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Friday, July 27, 1962",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1246",
+      "name": "June Grant-Kush [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1246.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1249",
+      "name": "Darren   Kush",
+      "url": "/auntruth/new/htm/L1/XF1249.htm",
+      "birthDate": "07/22/1993"
+    },
+    {
+      "id": "XF1248",
+      "name": "Steven   Kush",
+      "url": "/auntruth/new/htm/L1/XF1248.htm",
+      "birthDate": "12/10/1989"
+    }
+  ],
+  "occupation": "Abitibi-Price Paper Mill",
+  "address": "Box 833 Pine Falls MB R0E 1M0 CAN",
+  "email": null,
+  "phone": "204-367-2760, 204-367-2760",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:51Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1247.htm",
+    "extractionDate": "2025-10-01T04:27:15.209962Z"
+  }
+}

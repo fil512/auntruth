@@ -1,0 +1,35 @@
+{
+  "id": "XF2711",
+  "name": "Niels",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, January 01, 1550",
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2709",
+      "name": "Madtz   Nielsen",
+      "url": "/auntruth/new/htm/L1/XF2709.htm",
+      "birthDate": "01/01/1590"
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:19Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2711.htm",
+    "extractionDate": "2025-10-01T04:27:28.949132Z"
+  }
+}

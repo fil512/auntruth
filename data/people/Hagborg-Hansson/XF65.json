@@ -1,0 +1,122 @@
+{
+  "id": "XF65",
+  "name": "Johanna  Wall",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, June 10, 1876",
+  "birthLocation": "Loderup S0   SWE",
+  "deathDate": "Sunday, June 15, 1952",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2421",
+    "name": "Nils Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2421.htm"
+  },
+  "mother": {
+    "id": "XF2422",
+    "name": "Elna Johnson-Olson(Wall) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2422.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF64",
+      "name": "Anders(Andrew) Hagborg(Hansson) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF64.htm",
+      "marriageDate": "Saturday, June 01, 1895"
+    },
+    {
+      "id": "XF574",
+      "name": "Victor Carlson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF574.htm",
+      "marriageDate": "Thursday, December 19, 1907"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF736",
+      "name": "Irene   Carlson",
+      "url": "/auntruth/new/htm/L1/XF736.htm",
+      "birthDate": "06/03/1923"
+    },
+    {
+      "id": "XF633",
+      "name": "Edith(Ede)   Carlson",
+      "url": "/auntruth/new/htm/L1/XF633.htm",
+      "birthDate": "04/20/1910"
+    },
+    {
+      "id": "XF74",
+      "name": "Arthur   Carlson",
+      "url": "/auntruth/new/htm/L1/XF74.htm",
+      "birthDate": "06/20/1908"
+    },
+    {
+      "id": "XF1272",
+      "name": "Harold   Carlson",
+      "url": "/auntruth/new/htm/L1/XF1272.htm",
+      "birthDate": "01/01/1907"
+    },
+    {
+      "id": "XF72",
+      "name": "Androm(Andrew)   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF72.htm",
+      "birthDate": "01/01/1906"
+    },
+    {
+      "id": "XF70",
+      "name": "Violet   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF70.htm",
+      "birthDate": "01/01/1904"
+    },
+    {
+      "id": "XF2556",
+      "name": "Christina Sofia Hagborg",
+      "url": "/auntruth/new/htm/L1/XF2556.htm",
+      "birthDate": "04/26/1902"
+    },
+    {
+      "id": "XF595",
+      "name": "Harry   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF595.htm",
+      "birthDate": "09/10/1900"
+    },
+    {
+      "id": "XF2557",
+      "name": "Nils Albert Hagborg",
+      "url": "/auntruth/new/htm/L1/XF2557.htm",
+      "birthDate": "03/27/1899"
+    },
+    {
+      "id": "XF68",
+      "name": "Clarence   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF68.htm",
+      "birthDate": "01/01/1899"
+    },
+    {
+      "id": "XF66",
+      "name": "Victor   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF66.htm",
+      "birthDate": "01/01/1896"
+    },
+    {
+      "id": "XF734",
+      "name": "Doris   Carlson",
+      "url": "/auntruth/new/htm/L1/XF734.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Meadows MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Carol Simonson",
+  "notes": "Johanna was the fourth of seven sisters. Her sisters were: Karna - crippled at age of 18. She spent most of her life in the hospital. She lived to be quite old. Maria - Married Peter Nordin. They came to Canada and settled at Teulon. They had 8 children: Vera, Edwin, Clarence, Henry, Helmer, Margot, Victor and Arthur. Anna - married ? Sveinson. They had four children: Ingeborg, Eva, Gulli and Tore. Matilda - came to Canada married to ? Johnson. They had three children: Arthur, Signe, & Anna. Augusta - came to Canada and died very young. Kjestin - married to ? Goranson, had two sons Nils and Harold. Johanna came to Canada at age 16. Visited Sweden with Carlson daughters Doris and Edith in 1919.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:31Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF65.htm",
+    "extractionDate": "2025-10-01T04:27:34.118017Z"
+  }
+}

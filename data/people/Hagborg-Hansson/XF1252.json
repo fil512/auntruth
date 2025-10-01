@@ -1,0 +1,36 @@
+{
+  "id": "XF1252",
+  "name": "Tyler  Titanich",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, April 08, 1993",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1251",
+    "name": "Terry Titanich [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF1251.htm"
+  },
+  "mother": {
+    "id": "XF1250",
+    "name": "Wendy Grant-Titanich [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF1250.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "10 Sunway Winnipeg MB R3W 1B9 CAN",
+  "email": null,
+  "phone": "204-222-0303, 204-222-0303",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:53Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1252.htm",
+    "extractionDate": "2025-10-01T04:27:15.505294Z"
+  }
+}

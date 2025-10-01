@@ -1,0 +1,63 @@
+{
+  "id": "XF70",
+  "name": "Violet  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Friday, January 01, 1904",
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": "Monday, November 25, 1991",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF64",
+    "name": "Anders(Andrew) Hagborg(Hansson) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF64.htm"
+  },
+  "mother": {
+    "id": "XF65",
+    "name": "Johanna Wall-Hagborg(Hansson)-Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF65.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF71",
+      "name": "Alfred Mykle [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF71.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF602",
+      "name": "Ann Joy   Mykle",
+      "url": "/auntruth/new/htm/L1/XF602.htm",
+      "birthDate": "01/08/1938"
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": "Eldest daughter. After completing school helped mother at home. Worked in Winnipeg for 1 year and married in 1924, moving to Meadows. Took active part in community affairs.",
+  "photos": [
+    {
+      "name": "Obituary Violet Hagborg-Mykle",
+      "date": "Wednesday, November 27, 1991",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1379.htm"
+    },
+    {
+      "name": "In Front Yard",
+      "date": "Friday, July 01, 1921",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1419.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:33Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF70.htm",
+    "extractionDate": "2025-10-01T04:27:34.344190Z"
+  }
+}

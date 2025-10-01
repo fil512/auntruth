@@ -1,0 +1,56 @@
+{
+  "id": "XF641",
+  "name": "Robert  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Thursday, January 13, 1966",
+  "birthLocation": "Warren MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF598",
+    "name": "Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF598.htm"
+  },
+  "mother": {
+    "id": "XF599",
+    "name": "Islay Dack-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF599.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF642",
+      "name": "Renee Howden-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF642.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2555",
+      "name": "Marshall   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF2555.htm",
+      "birthDate": "01/05/1996"
+    },
+    {
+      "id": "XF1262",
+      "name": "Alex   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1262.htm",
+      "birthDate": "06/12/1993"
+    }
+  ],
+  "occupation": "Canada Safeway Order Selector",
+  "address": "43 Ritchie Winnipeg MB R2P 2B1 CAN",
+  "email": null,
+  "phone": "(204) 697-1752, (204) 697-1752",
+  "website": null,
+  "source": "Walter Hagborg(Meadows MB)",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:02Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF641.htm",
+    "extractionDate": "2025-10-01T04:27:34.013107Z"
+  }
+}

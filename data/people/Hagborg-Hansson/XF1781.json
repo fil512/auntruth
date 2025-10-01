@@ -1,0 +1,61 @@
+{
+  "id": "XF1781",
+  "name": "Erin  Carlson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, October 08, 1983",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1779",
+    "name": "Ron Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF1779.htm"
+  },
+  "mother": {
+    "id": "XF1780",
+    "name": "-Carlson []",
+    "url": "/auntruth/htm/L0/XF1780.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Grade 5",
+  "address": "1093 Ashburn St. Winnipeg MB  CAN",
+  "email": null,
+  "phone": "204-786-0837, 204-786-0837",
+  "website": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:37Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1781.htm",
+    "extractionDate": "2025-10-01T04:27:20.558013Z"
+  }
+}

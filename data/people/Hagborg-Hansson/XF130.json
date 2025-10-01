@@ -1,0 +1,42 @@
+{
+  "id": "XF130",
+  "name": "Kurt-Allan",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF129",
+      "name": "Gertrud Johnsson- [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF129.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF131",
+      "name": "Annezi",
+      "url": "/auntruth/new/htm/L1/XF131.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:09Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF130.htm",
+    "extractionDate": "2025-10-01T04:27:16.990805Z"
+  }
+}

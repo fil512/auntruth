@@ -1,0 +1,48 @@
+{
+  "id": "XF73",
+  "name": "Henny  Enquist",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Friday, July 23, 1915",
+  "birthLocation": "Chatfield MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF72",
+      "name": "Androm(Andrew) Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF72.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF630",
+      "name": "Violet   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF630.htm",
+      "birthDate": "04/13/1939"
+    },
+    {
+      "id": "XF606",
+      "name": "Shirley   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF606.htm",
+      "birthDate": "10/18/1936"
+    }
+  ],
+  "occupation": "Retired Farmwife",
+  "address": "Box 12 Marquette MB R0H 0V0 CAN",
+  "email": null,
+  "phone": "204-322-5588, 204-322-5588",
+  "website": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:35Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF73.htm",
+    "extractionDate": "2025-10-01T04:27:34.530236Z"
+  }
+}

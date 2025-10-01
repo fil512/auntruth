@@ -1,0 +1,60 @@
+{
+  "id": "XF196",
+  "name": "Lorraine",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF161",
+      "name": "Winston Earl Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF161.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2451",
+      "name": "Timmy   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF2451.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF199",
+      "name": "Ricky   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF199.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF198",
+      "name": "Vicky   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF198.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF197",
+      "name": "Winston J. Hagborg",
+      "url": "/auntruth/new/htm/L1/XF197.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "215 Manning Drive Charlotte NC  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "William Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:06Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF196.htm",
+    "extractionDate": "2025-10-01T04:27:22.964266Z"
+  }
+}

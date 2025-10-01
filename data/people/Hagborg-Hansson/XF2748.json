@@ -1,0 +1,36 @@
+{
+  "id": "XF2748",
+  "name": "Barbara  Morison",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2680",
+    "name": "George Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2680.htm"
+  },
+  "mother": {
+    "id": "XF2745",
+    "name": "Ruth Evelyne Lyster-Morison [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2745.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "ON   CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Bud Amy",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:36Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2748.htm",
+    "extractionDate": "2025-10-01T04:27:30.012535Z"
+  }
+}

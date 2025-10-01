@@ -1,0 +1,43 @@
+{
+  "id": "XF2703",
+  "name": "Janet Marie Hanson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Saturday, May 19, 1945",
+  "birthLocation": "Minneapolis MN   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2702",
+    "name": "Carl Theodore Hanson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2702.htm"
+  },
+  "mother": {
+    "id": "XF2701",
+    "name": "Helen Marie Anderson-Hanson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF2701.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2704",
+      "name": "Thomas Grennes [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2704.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Food Stylist/Writer",
+  "address": "2706 Rosedale Ave Raleigh NC 27607 USA",
+  "email": "jangns@aol.com",
+  "phone": null,
+  "website": null,
+  "source": "Janet Grennes",
+  "notes": "Contacted Peter Larson 1997/98",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:15Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2703.htm",
+    "extractionDate": "2025-10-01T04:27:28.469013Z"
+  }
+}

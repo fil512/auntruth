@@ -1,0 +1,93 @@
+{
+  "id": "XF161",
+  "name": "Winston Earl Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Sunday, November 27, 1927",
+  "birthLocation": "Niagara Falls ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF160",
+    "name": "Helmer Vilhelm Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF160.htm"
+  },
+  "mother": {
+    "id": "XF158",
+    "name": "Euphemia(Effie) McDougallCurrie Neil-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF158.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF196",
+      "name": "Lorraine -Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF196.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2451",
+      "name": "Timmy   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF2451.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF199",
+      "name": "Ricky   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF199.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF198",
+      "name": "Vicky   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF198.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF197",
+      "name": "Winston J. Hagborg",
+      "url": "/auntruth/new/htm/L1/XF197.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "7560 Nature Trail Columbus GA 31904 USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Wendy Hagborg-Lee",
+  "notes": "Grampa Hagborg (Borje) with Winston and Bill",
+  "photos": [
+    {
+      "name": "Helmer Hagborg Family",
+      "date": "Saturday, September 27, 1930",
+      "location": "Michigan United States of America",
+      "url": "/auntruth/new/htm/L1/XI1461.htm"
+    },
+    {
+      "name": "On the Porch",
+      "date": "Sunday, September 29, 1929",
+      "location": "Michigan United States of America",
+      "url": "/auntruth/new/htm/L1/XI1418.htm"
+    },
+    {
+      "name": "Under Tree",
+      "date": "Sunday, September 01, 1929",
+      "location": "Michigan United States of America",
+      "url": "/auntruth/new/htm/L1/XI1463.htm"
+    },
+    {
+      "name": "With 'Pop'",
+      "date": "Thursday, June 27, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1462.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:31Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF161.htm",
+    "extractionDate": "2025-10-01T04:27:18.690070Z"
+  }
+}

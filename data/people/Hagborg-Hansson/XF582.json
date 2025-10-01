@@ -1,0 +1,62 @@
+{
+  "id": "XF582",
+  "name": "Brian  Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Tuesday, December 31, 1957",
+  "birthLocation": "The Pas MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF575",
+    "name": "Andrew Victor Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF575.htm"
+  },
+  "mother": {
+    "id": "XF576",
+    "name": "Reta Percy-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF576.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF583",
+      "name": "Judy -Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF583.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF1253",
+      "name": "Marju -Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF1253.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1228",
+      "name": "Kerri   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1228.htm",
+      "birthDate": "07/11/1986"
+    },
+    {
+      "id": "XF584",
+      "name": "Stacy   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF584.htm",
+      "birthDate": "05/27/1983"
+    }
+  ],
+  "occupation": "Licensed Heavy Duty Mechanic",
+  "address": "Box 272 The Pas MB R9A 1K5 CAN",
+  "email": null,
+  "phone": "204-623-7927, 204-623-7927",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:37Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF582.htm",
+    "extractionDate": "2025-10-01T04:27:31.534095Z"
+  }
+}

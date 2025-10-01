@@ -1,0 +1,93 @@
+{
+  "id": "XF575",
+  "name": "Andrew Victor Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, March 25, 1925",
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": "Wednesday, November 10, 1993",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF66",
+    "name": "Victor Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF66.htm"
+  },
+  "mother": {
+    "id": "XF67",
+    "name": "Bessie McCready-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF67.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF576",
+      "name": "Reta Percy-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF576.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF588",
+      "name": "Terry   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF588.htm",
+      "birthDate": "06/01/1972"
+    },
+    {
+      "id": "XF1241",
+      "name": "Cathy   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1241.htm",
+      "birthDate": "04/06/1968"
+    },
+    {
+      "id": "XF1236",
+      "name": "Tracy   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF1236.htm",
+      "birthDate": "04/06/1968"
+    },
+    {
+      "id": "XF587",
+      "name": "Glen   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF587.htm",
+      "birthDate": "03/18/1965"
+    },
+    {
+      "id": "XF586",
+      "name": "Lori   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF586.htm",
+      "birthDate": "08/12/1961"
+    },
+    {
+      "id": "XF585",
+      "name": "Gary   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF585.htm",
+      "birthDate": "03/07/1959"
+    },
+    {
+      "id": "XF582",
+      "name": "Brian   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF582.htm",
+      "birthDate": "12/31/1957"
+    }
+  ],
+  "occupation": null,
+  "address": "The Pas MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Married Reta in 1957. Owned and operated Hagborg Construction Co. in The Pas and Snow Lake.",
+  "photos": [
+    {
+      "name": "Obituary Vic Hagborg",
+      "date": "Friday, November 12, 1993",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1374.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:34Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF575.htm",
+    "extractionDate": "2025-10-01T04:27:31.113742Z"
+  }
+}

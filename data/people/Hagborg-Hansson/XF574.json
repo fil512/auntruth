@@ -1,0 +1,92 @@
+{
+  "id": "XF574",
+  "name": "Victor  Carlson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, January 01, 1873",
+  "birthLocation": "Norrkoping     SWE",
+  "deathDate": "Friday, June 01, 1956",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "mother": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF65",
+      "name": "Johanna Wall-Hagborg(Hansson)-Carlson [Hagborg-Hansson]",
+      "url": "/auntruth/htm/L1/XF65.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF736",
+      "name": "Irene   Carlson",
+      "url": "/auntruth/htm/L1/XF736.htm",
+      "birthDate": "06/03/1923"
+    },
+    {
+      "id": "XF633",
+      "name": "Edith(Ede)   Carlson",
+      "url": "/auntruth/htm/L1/XF633.htm",
+      "birthDate": "04/20/1910"
+    },
+    {
+      "id": "XF74",
+      "name": "Arthur   Carlson",
+      "url": "/auntruth/htm/L1/XF74.htm",
+      "birthDate": "06/20/1908"
+    },
+    {
+      "id": "XF1272",
+      "name": "Harold   Carlson",
+      "url": "/auntruth/htm/L1/XF1272.htm",
+      "birthDate": "01/01/1907"
+    },
+    {
+      "id": "XF734",
+      "name": "Doris   Carlson",
+      "url": "/auntruth/htm/L1/XF734.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Meadows MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Came to USA in 1900. Worked as railway employee until he came to Meadows in 1904 to be farm hand on 240 acre farm for William Herriot. Married Johanna Hagborg (nee Wall) in 1907. Through the years more land was added to the original acreage bought by the Hagborgs. Visited Sweden in 1919.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:33Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF574.htm",
+    "extractionDate": "2025-10-01T04:27:31.088810Z"
+  }
+}

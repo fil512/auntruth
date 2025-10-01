@@ -1,0 +1,42 @@
+{
+  "id": "XF639",
+  "name": "Lloyd  Neher",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Friday, May 10, 1935",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF630",
+      "name": "Violet Hagborg-McIntosh-Neher [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF630.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1274",
+      "name": "Roddy   Neher",
+      "url": "/auntruth/new/htm/L1/XF1274.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Marketing",
+  "address": "419-200 Adsum Drive Winnipeg MB R2P 0W7 CAN",
+  "email": null,
+  "phone": "204-632-0915, 204-632-0915",
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:01Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF639.htm",
+    "extractionDate": "2025-10-01T04:27:33.827484Z"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "XF734",
+  "name": "Doris  Carlson",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": null,
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF574",
+    "name": "Victor Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF574.htm"
+  },
+  "mother": {
+    "id": "XF65",
+    "name": "Johanna Wall-Hagborg(Hansson)-Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/htm/L1/XF65.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF733",
+      "name": "John (Mac) McCuish []",
+      "url": "/auntruth/htm/L0/XF733.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1799",
+      "name": "Dan   McCuish",
+      "url": "/auntruth/htm/L0/XF1799.htm",
+      "birthDate": "09/09/1951"
+    },
+    {
+      "id": "XF735",
+      "name": "Daniel   McCuish",
+      "url": "/auntruth/htm/L1/XF735.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Charleswood Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Trained as RN & graduated from Misericordia Hospital, Winnipeg. Went to USA and nursed in North Dakota and Minnesota. Served as nursing sister in Royal Canadian Navy during war years, then worked for Indian Health Services working in Northern Manitoba.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:42Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF734.htm",
+    "extractionDate": "2025-10-01T04:27:34.550323Z"
+  }
+}

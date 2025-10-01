@@ -1,0 +1,36 @@
+{
+  "id": "XF157",
+  "name": "Naomi Gunhild Hagborg",
+  "lineage": "Hagborg-Hansson",
+  "birthDate": "Wednesday, January 30, 1901",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Friday, May 05, 1905",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF4",
+    "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF4.htm"
+  },
+  "mother": {
+    "id": "XF3",
+    "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF3.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "source": "Walter Arnold Ferdinand Hagborg",
+  "notes": "Died at age 4 from scarlet fever. Buried at Brookside Cemetery Winnipeg.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:26Z",
+    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF157.htm",
+    "extractionDate": "2025-10-01T04:27:18.451292Z"
+  }
+}
