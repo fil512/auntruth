@@ -1,0 +1,47 @@
+{
+  "id": "XF247",
+  "name": "Margaret  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, August 23, 1825",
+  "birthLocation": "Cambria County PA   USA",
+  "deathDate": "Tuesday, November 22, 1910",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF222",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF222.htm"
+  },
+  "mother": {
+    "id": "XF223",
+    "name": "Elizabeth Bolewine-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF223.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF248",
+      "name": "David Lowman [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF248.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "New Florence PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Pringle Hill Cemetery Lot#23",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:29Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF247.htm",
+    "extractionDate": "2025-10-02T00:05:12.047292Z"
+  }
+}

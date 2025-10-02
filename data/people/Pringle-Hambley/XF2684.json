@@ -1,0 +1,53 @@
+{
+  "id": "XF2684",
+  "name": "Lorraine Louella Falk",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, January 01, 1916",
+  "birthLocation": null,
+  "deathDate": "Friday, January 01, 1999",
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2681",
+      "name": "William Cedric Moffatt [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2681.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2683",
+      "name": "Myrna   Moffat",
+      "url": "/auntruth/new/htm/L3/XF2683.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Lorraine Louella and William Cedric Moffatt",
+      "date": "Tuesday, June 21, 2005",
+      "location": "Roland Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2671.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:07Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2684.htm",
+    "extractionDate": "2025-10-02T00:05:14.739502Z"
+  }
+}

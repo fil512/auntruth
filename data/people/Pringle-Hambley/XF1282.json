@@ -1,0 +1,45 @@
+{
+  "id": "XF1282",
+  "name": "Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CW   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF1281",
+      "name": "John   Hambley",
+      "url": "/auntruth/new/htm/L3/XF1281.htm",
+      "birthDate": "01/01/1786"
+    },
+    {
+      "id": "XF1280",
+      "name": "Joseph   Hambley",
+      "url": "/auntruth/new/htm/L3/XF1280.htm",
+      "birthDate": "01/01/1784"
+    }
+  ],
+  "occupation": null,
+  "address": "CW  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Marion Hambley-Campbell",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:06Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1282.htm",
+    "extractionDate": "2025-10-02T00:05:06.914428Z"
+  }
+}

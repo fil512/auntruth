@@ -1,0 +1,40 @@
+{
+  "id": "XF2342",
+  "name": "Jons  Bengtson",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, January 01, 1788",
+  "birthLocation": "g     SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2339",
+    "name": "Bengt Parsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2339.htm"
+  },
+  "mother": {
+    "id": "XF2340",
+    "name": "Elna -Parsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2340.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:35Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2342.htm",
+    "extractionDate": "2025-10-02T00:04:02.266543Z"
+  }
+}

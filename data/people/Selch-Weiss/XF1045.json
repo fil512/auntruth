@@ -1,0 +1,88 @@
+{
+  "id": "XF1045",
+  "name": "Allison  Huntley",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF534",
+      "name": "Allan David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF534.htm",
+      "marriageDate": "Friday, August 12, 1994"
+    }
+  ],
+  "children": [],
+  "occupation": "Hydrological Engineer",
+  "address": "Ottawa ON  CAN",
+  "email": "allan.phoenix@sympatico.ca",
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [
+    {
+      "name": "At Allison's",
+      "date": "Tuesday, October 15, 2002",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L6/XI1962.htm"
+    },
+    {
+      "name": "Allison & Al",
+      "date": "Thursday, February 01, 2001",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1982.htm"
+    },
+    {
+      "name": "Connie, Allison & Gramma",
+      "date": "Wednesday, November 01, 2000",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1986.htm"
+    },
+    {
+      "name": "Allison & Gramma/Grampa",
+      "date": "Wednesday, November 01, 2000",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1985.htm"
+    },
+    {
+      "name": "Allison & Mom",
+      "date": "Friday, October 15, 1999",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1989.htm"
+    },
+    {
+      "name": "At Dinner",
+      "date": "Wednesday, June 01, 1994",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI758.htm"
+    },
+    {
+      "name": "Cousins",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1606.htm"
+    },
+    {
+      "name": "Children's Choir",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1584.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:23Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1045.htm",
+    "extractionDate": "2025-10-02T00:04:15.791168Z"
+  }
+}

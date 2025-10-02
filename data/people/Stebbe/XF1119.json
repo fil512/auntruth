@@ -1,0 +1,40 @@
+{
+  "id": "XF1119",
+  "name": "Shelley  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF484",
+    "name": "Alvin Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF484.htm"
+  },
+  "mother": {
+    "id": "XF1118",
+    "name": "-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF1118.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:57Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1119.htm",
+    "extractionDate": "2025-10-02T00:03:50.695745Z"
+  }
+}

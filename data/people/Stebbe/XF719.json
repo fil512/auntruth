@@ -1,0 +1,60 @@
+{
+  "id": "XF719",
+  "name": "Ann  Simcoe",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF715",
+    "name": "George Simcoe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF715.htm"
+  },
+  "mother": {
+    "id": "XF714",
+    "name": "Ann Fedorco-Simcoe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF714.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF718",
+      "name": "Tim  [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF718.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF721",
+      "name": "",
+      "url": "/auntruth/new/htm/L7/XF721.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF720",
+      "name": "George",
+      "url": "/auntruth/new/htm/L7/XF720.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:36Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF719.htm",
+    "extractionDate": "2025-10-02T00:03:56.728554Z"
+  }
+}

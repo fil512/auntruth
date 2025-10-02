@@ -1,0 +1,49 @@
+{
+  "id": "XF2763",
+  "name": "Sarah Ann Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Thursday, June 30, 1842",
+  "birthLocation": "Summerhill Twp Cambria Co     USA",
+  "deathDate": "Thursday, October 09, 1924",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF229",
+    "name": "Samuel Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF229.htm"
+  },
+  "mother": {
+    "id": "XF230",
+    "name": "Mary Boyles-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF230.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2764",
+      "name": "George W. Bickford [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2764.htm",
+      "marriageDate": "Tuesday, December 11, 1860"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Cambria Co Johnstown PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:43Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2763.htm",
+    "extractionDate": "2025-10-02T00:05:15.922105Z"
+  }
+}

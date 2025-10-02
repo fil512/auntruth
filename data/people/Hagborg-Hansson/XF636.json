@@ -24,13 +24,17 @@
   "email": null,
   "phone": "204-322-5010, 204-322-5010",
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Walter Hagborg(Meadows MB)",
   "notes": null,
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T19:00:00Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF636.htm",
-    "extractionDate": "2025-10-01T04:27:33.704768Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF636.htm",
+    "extractionDate": "2025-10-01T22:03:19.175115Z"
   }
 }

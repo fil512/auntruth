@@ -1,0 +1,104 @@
+{
+  "id": "XF301",
+  "name": "Ira Howard Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, May 14, 1904",
+  "birthLocation": "Serena IL   USA",
+  "deathDate": "Sunday, April 19, 1998",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF284",
+    "name": "Maurice Franklin Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF284.htm"
+  },
+  "mother": {
+    "id": "XF285",
+    "name": "Rose(Rosella) Ward-Pringle [Ward]",
+    "url": "/auntruth/new/htm/L5/XF285.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF302",
+      "name": "Rita Comm-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF302.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF303",
+      "name": "Keith   Pringle",
+      "url": "/auntruth/new/htm/L3/XF303.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Windsor ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Was pharmacist at Consort AB, then Ottawa.",
+  "photos": [
+    {
+      "name": "Sister & Brother",
+      "date": "Saturday, March 01, 1997",
+      "location": "Orlando Florida United States of America",
+      "url": "/auntruth/new/htm/L3/XI1623.htm"
+    },
+    {
+      "name": "50th Wedding Anniversary",
+      "date": "Saturday, July 01, 1950",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L0/XI979.htm"
+    },
+    {
+      "name": "In the Park Smooching",
+      "date": "Sunday, July 01, 1928",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI960.htm"
+    },
+    {
+      "name": "Chorus Line",
+      "date": "Saturday, August 01, 1925",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI950.htm"
+    },
+    {
+      "name": "Steps of Boys Training School",
+      "date": "Wednesday, June 01, 1921",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI929.htm"
+    },
+    {
+      "name": "Pringle Family in Mather (Part 2))",
+      "date": "Saturday, March 02, 1912",
+      "location": "Mather Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI2653.htm"
+    },
+    {
+      "name": "Pringle Family in Mather (Part 1)",
+      "date": "Friday, March 01, 1912",
+      "location": "Mather Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI2652.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Wedding",
+      "date": "Saturday, September 10, 1955",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI986.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:55Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF301.htm",
+    "extractionDate": "2025-10-02T00:05:23.704385Z"
+  }
+}

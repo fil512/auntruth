@@ -1,0 +1,58 @@
+{
+  "id": "XF682",
+  "name": "Ustina",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF474",
+      "name": "Frederick Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF474.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF473",
+      "name": "Gustav (Gramps)   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF473.htm",
+      "birthDate": "01/01/1884"
+    },
+    {
+      "id": "XF557",
+      "name": "Herman(Harry)   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF557.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF475",
+      "name": "Ferdinand(Ferni   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF475.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Grave is at Thalberg, MB Canada Eaten by dogs.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:20Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF682.htm",
+    "extractionDate": "2025-10-02T00:03:55.253683Z"
+  }
+}

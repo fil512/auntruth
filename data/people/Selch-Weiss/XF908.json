@@ -1,0 +1,39 @@
+{
+  "id": "XF908",
+  "name": "Zieske",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF912",
+      "name": "Alfred   Zieske",
+      "url": "/auntruth/new/htm/L6/XF912.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:03Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF908.htm",
+    "extractionDate": "2025-10-02T00:04:35.563007Z"
+  }
+}

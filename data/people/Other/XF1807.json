@@ -1,0 +1,60 @@
+{
+  "id": "XF1807",
+  "name": "Neil  Rothwell",
+  "lineage": "",
+  "birthDate": "Saturday, June 02, 1956",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF737",
+    "name": "Jim Rothwell []",
+    "url": "/auntruth/new/htm/L0/XF737.htm"
+  },
+  "mother": {
+    "id": "XF736",
+    "name": "Irene Carlson-Rothwell [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF736.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1808",
+      "name": "Esther -Rothwell []",
+      "url": "/auntruth/new/htm/L0/XF1808.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1810",
+      "name": "Michael   Rothwell",
+      "url": "/auntruth/new/htm/L0/XF1810.htm",
+      "birthDate": "04/07/1979"
+    },
+    {
+      "id": "XF1809",
+      "name": "Sherry   Rothwell",
+      "url": "/auntruth/new/htm/L0/XF1809.htm",
+      "birthDate": "06/18/1976"
+    }
+  ],
+  "occupation": "Winnipeg Fire Department",
+  "address": "Rosser MB R0H 1E0 CAN",
+  "email": null,
+  "phone": "204-322-5562, 204-322-5562",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:48Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF1807.htm",
+    "extractionDate": "2025-10-02T00:06:11.769634Z"
+  }
+}

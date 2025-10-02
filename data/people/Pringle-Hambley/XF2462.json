@@ -1,0 +1,40 @@
+{
+  "id": "XF2462",
+  "name": "Christine  Knepper",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Summerhill PA   USA",
+  "deathDate": "Friday, January 01, 1869",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF236",
+    "name": "William Knepper [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF236.htm"
+  },
+  "mother": {
+    "id": "XF235",
+    "name": "Sarah Pringle-Knepper [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF235.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Pringle Hill Cemetery Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:27Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2462.htm",
+    "extractionDate": "2025-10-02T00:05:11.579240Z"
+  }
+}

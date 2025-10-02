@@ -1,0 +1,39 @@
+{
+  "id": "XF313",
+  "name": "Carol",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF312",
+      "name": "Donald(Donnie) Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF312.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:00Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF313.htm",
+    "extractionDate": "2025-10-02T00:05:24.387314Z"
+  }
+}

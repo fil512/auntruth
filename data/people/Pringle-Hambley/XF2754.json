@@ -1,0 +1,41 @@
+{
+  "id": "XF2754",
+  "name": "Margaret Louise Gore",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, November 23, 1895",
+  "birthLocation": "Johnstown     USA",
+  "deathDate": "Sunday, May 18, 1975",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2753",
+      "name": "Horace Stanley Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2753.htm",
+      "marriageDate": "Thursday, November 23, 1916"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Johnstown PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:38Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2754.htm",
+    "extractionDate": "2025-10-02T00:05:15.420704Z"
+  }
+}

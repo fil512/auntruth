@@ -1,0 +1,52 @@
+{
+  "id": "XF549",
+  "name": "Tom  Peluk",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, August 21, 1904",
+  "birthLocation": "CAN",
+  "deathDate": "Sunday, January 01, 1984",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF675",
+      "name": "Anne Smokoroski-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF675.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF550",
+      "name": "Gordon (Gordie)   Peluk",
+      "url": "/auntruth/new/htm/L6/XF550.htm",
+      "birthDate": "06/15/1950"
+    },
+    {
+      "id": "XF551",
+      "name": "Theodore (Ted)   Peluk",
+      "url": "/auntruth/new/htm/L6/XF551.htm",
+      "birthDate": "02/01/1948"
+    }
+  ],
+  "occupation": null,
+  "address": "Ladywood MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Ann Smokoroski-Peluk",
+  "notes": "Married Anne Smokoroski in 1944",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:19Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF549.htm",
+    "extractionDate": "2025-10-02T00:04:29.390318Z"
+  }
+}

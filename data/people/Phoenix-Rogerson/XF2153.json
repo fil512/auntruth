@@ -1,0 +1,96 @@
+{
+  "id": "XF2153",
+  "name": "James  Gillespie",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Annanbank     UKG",
+  "deathDate": "Wednesday, January 01, 1873",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1871",
+    "name": "David Gillespie [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1871.htm"
+  },
+  "mother": {
+    "id": "XF1870",
+    "name": "Margaret Mounsey-Gillespie [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1870.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2154",
+      "name": "Margaret Johnston-Gillespie [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2154.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2174",
+      "name": "Margaret Jane Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2174.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2172",
+      "name": "James   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2172.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2170",
+      "name": "John   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2170.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2169",
+      "name": "Sarah   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2169.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2168",
+      "name": "Alexander   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2168.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2167",
+      "name": "Janet   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2167.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2165",
+      "name": "William Christo Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2165.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2163",
+      "name": "David   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2163.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Annanbank   UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:13Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2153.htm",
+    "extractionDate": "2025-10-02T00:05:00.970267Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "XF394",
+  "name": "John  Schreyer",
+  "lineage": "",
+  "birthDate": null,
+  "birthLocation": "POL",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1029",
+    "name": "Schreyer []",
+    "url": "/auntruth/new/htm/L0/XF1029.htm"
+  },
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF395",
+      "name": "Edward   Schreyer",
+      "url": "/auntruth/new/htm/L0/XF395.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2004-09-08T23:33:22Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF394.htm",
+    "extractionDate": "2025-10-02T00:06:13.039150Z"
+  }
+}

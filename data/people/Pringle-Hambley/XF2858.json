@@ -1,0 +1,41 @@
+{
+  "id": "XF2858",
+  "name": "Catherine  Rager",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2857",
+      "name": "David Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2857.htm",
+      "marriageDate": "Saturday, June 01, 1833"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill Twp Cambria Co       USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:24Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2858.htm",
+    "extractionDate": "2025-10-02T00:05:21.354661Z"
+  }
+}

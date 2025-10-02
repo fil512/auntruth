@@ -1,0 +1,40 @@
+{
+  "id": "XF2372",
+  "name": "Daughter",
+  "lineage": "Nelson",
+  "birthDate": "Saturday, May 02, 1964",
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2371",
+    "name": "Arthur Toews [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2371.htm"
+  },
+  "mother": {
+    "id": "XF2370",
+    "name": "Karen Rose Nelson-Toews [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2370.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:48Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2372.htm",
+    "extractionDate": "2025-10-02T00:04:03.869334Z"
+  }
+}

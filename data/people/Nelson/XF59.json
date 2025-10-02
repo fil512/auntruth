@@ -1,0 +1,50 @@
+{
+  "id": "XF59",
+  "name": "Lois Marie Brand(Anderson)",
+  "lineage": "Nelson",
+  "birthDate": "Friday, November 20, 1936",
+  "birthLocation": "Akin MI   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF658",
+    "name": "Brand(Anderson) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF658.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF58",
+      "name": "Ronald Andrew Cameron [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF58.htm",
+      "marriageDate": "Saturday, February 03, 1962"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF60",
+      "name": "Ruth Nadine Cameron",
+      "url": "/auntruth/new/htm/L2/XF60.htm",
+      "birthDate": "08/12/1963"
+    }
+  ],
+  "occupation": null,
+  "address": "50 Wedgewood Bay Brandon MB  CAN",
+  "email": null,
+  "phone": "(204) 726-8517, (204) 726-8517",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "Has cancer January/1993",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:26Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF59.htm",
+    "extractionDate": "2025-10-02T00:04:10.895786Z"
+  }
+}

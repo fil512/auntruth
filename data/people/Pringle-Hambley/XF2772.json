@@ -1,0 +1,74 @@
+{
+  "id": "XF2772",
+  "name": "Stewart Aaron Hill",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, June 18, 1853",
+  "birthLocation": "Leechburg Armstrong Co     USA",
+  "deathDate": "Monday, June 05, 1899",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2783",
+    "name": "John Wesley Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2783.htm"
+  },
+  "mother": {
+    "id": "XF2784",
+    "name": "Martha Stewart-Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2784.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2771",
+      "name": "Laura Jane Paul-Hill [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2771.htm",
+      "marriageDate": "Tuesday, June 15, 1880"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2803",
+      "name": "Martha Marie Hill",
+      "url": "/auntruth/new/htm/L3/XF2803.htm",
+      "birthDate": "01/15/1895"
+    },
+    {
+      "id": "XF2795",
+      "name": "Walter Forest Hill",
+      "url": "/auntruth/new/htm/L3/XF2795.htm",
+      "birthDate": "06/25/1889"
+    },
+    {
+      "id": "XF2801",
+      "name": "Edith V. Hill",
+      "url": "/auntruth/new/htm/L3/XF2801.htm",
+      "birthDate": "07/03/1884"
+    },
+    {
+      "id": "XF2799",
+      "name": "Bessie O. Hill",
+      "url": "/auntruth/new/htm/L3/XF2799.htm",
+      "birthDate": "05/16/1882"
+    }
+  ],
+  "occupation": null,
+  "address": "Cambria Co Johnstown PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:47Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2772.htm",
+    "extractionDate": "2025-10-02T00:05:16.409688Z"
+  }
+}

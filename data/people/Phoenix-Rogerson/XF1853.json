@@ -1,0 +1,84 @@
+{
+  "id": "XF1853",
+  "name": "Alex  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1847",
+    "name": "William Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1847.htm"
+  },
+  "mother": {
+    "id": "XF1848",
+    "name": "Margaret Rogerson-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1848.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1854",
+      "name": "Jean Rogerson-Mounsey [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1854.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1874",
+      "name": "Joan   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1874.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1872",
+      "name": "Janet   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1872.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1870",
+      "name": "Margaret   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1870.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1869",
+      "name": "Samuel   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1869.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1868",
+      "name": "William   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1868.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1866",
+      "name": "James   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1866.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:07Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1853.htm",
+    "extractionDate": "2025-10-02T00:04:47.238511Z"
+  }
+}

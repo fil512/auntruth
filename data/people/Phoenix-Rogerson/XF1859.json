@@ -1,0 +1,40 @@
+{
+  "id": "XF1859",
+  "name": "Son 3  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1847",
+    "name": "William Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1847.htm"
+  },
+  "mother": {
+    "id": "XF1848",
+    "name": "Margaret Rogerson-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1848.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": "Died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:10Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1859.htm",
+    "extractionDate": "2025-10-02T00:04:47.534727Z"
+  }
+}

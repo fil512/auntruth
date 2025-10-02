@@ -1,0 +1,66 @@
+{
+  "id": "XF2654",
+  "name": "Lillian  Milbrandt",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, April 11, 1915",
+  "birthLocation": "CAN",
+  "deathDate": "Thursday, June 01, 2000",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2645",
+    "name": "Rheinhold (Roy) Milbrandt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2645.htm"
+  },
+  "mother": {
+    "id": "XF2646",
+    "name": "Hilda (Hulda) Grenke-Milbrandt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2646.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2655",
+      "name": "August Recksiedler [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2655.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2658",
+      "name": "Janice Faye Recksiedler",
+      "url": "/auntruth/new/htm/L6/XF2658.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2657",
+      "name": "Eleanor Joyce Recksiedler",
+      "url": "/auntruth/new/htm/L6/XF2657.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2656",
+      "name": "Alice Ruth Recksiedler",
+      "url": "/auntruth/new/htm/L6/XF2656.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Robin Lish",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:53Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2654.htm",
+    "extractionDate": "2025-10-02T00:04:18.926035Z"
+  }
+}

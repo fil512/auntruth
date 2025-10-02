@@ -1,0 +1,47 @@
+{
+  "id": "XF2718",
+  "name": "Peter A. Kondra",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2720",
+      "name": "Zenon   Kondra",
+      "url": "/auntruth/new/htm/L2/XF2720.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2719",
+      "name": "Marusia   Kondra",
+      "url": "/auntruth/new/htm/L2/XF2719.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Riverwood Ave Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:23Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2718.htm",
+    "extractionDate": "2025-10-02T00:04:08.454368Z"
+  }
+}

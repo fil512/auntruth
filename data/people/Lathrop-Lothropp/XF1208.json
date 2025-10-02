@@ -1,0 +1,40 @@
+{
+  "id": "XF1208",
+  "name": "Bertha Lorena Porter",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, November 27, 1889",
+  "birthLocation": "Deer Park IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1204",
+    "name": "John Richmon Porter [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1204.htm"
+  },
+  "mother": {
+    "id": "XF1203",
+    "name": "Nellie Eliza Lathrop-Porter-Hornung [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1203.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Deer Park IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:35Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1208.htm",
+    "extractionDate": "2025-10-02T00:05:31.769273Z"
+  }
+}

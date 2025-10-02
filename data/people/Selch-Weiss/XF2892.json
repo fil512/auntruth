@@ -1,0 +1,41 @@
+{
+  "id": "XF2892",
+  "name": "Hazel  Reid",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2893",
+      "name": "Jessica   Reid",
+      "url": "/auntruth/new/htm/L6/XF2893.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "42 Blueberry Bay Winnipeg MB R2J 2G7 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:40Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2892.htm",
+    "extractionDate": "2025-10-02T00:04:21.365199Z"
+  }
+}

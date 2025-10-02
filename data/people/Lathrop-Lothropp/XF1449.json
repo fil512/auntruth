@@ -1,0 +1,54 @@
+{
+  "id": "XF1449",
+  "name": "Hattie Allette Hosmer",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Thursday, January 01, 1863",
+  "birthLocation": "Springfield MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1358",
+    "name": "George Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1358.htm"
+  },
+  "mother": {
+    "id": "XF1359",
+    "name": "Sarah Lathrop-Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1359.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1448",
+      "name": "Fred Sharp [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1448.htm",
+      "marriageDate": "Monday, December 26, 1892"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1450",
+      "name": "Mildred Hosmer Sharp",
+      "url": "/auntruth/new/htm/L4/XF1450.htm",
+      "birthDate": "01/19/1896"
+    }
+  ],
+  "occupation": null,
+  "address": "Springfield MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:16Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1449.htm",
+    "extractionDate": "2025-10-02T00:05:41.243462Z"
+  }
+}

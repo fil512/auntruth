@@ -1,0 +1,115 @@
+{
+  "id": "XF255",
+  "name": "Isaac  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, April 06, 1834",
+  "birthLocation": "Cambria County PA   USA",
+  "deathDate": "Tuesday, May 06, 1890",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF222",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF222.htm"
+  },
+  "mother": {
+    "id": "XF223",
+    "name": "Elizabeth Bolewine-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF223.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF256",
+      "name": "Malinda Kring-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF256.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF257",
+      "name": "Mary Alice Dunmire-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF257.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF300",
+      "name": "Lucy Idella Pringle",
+      "url": "/auntruth/new/htm/L3/XF300.htm",
+      "birthDate": "01/01/1884"
+    },
+    {
+      "id": "XF298",
+      "name": "Howard Lemon Pringle",
+      "url": "/auntruth/new/htm/L3/XF298.htm",
+      "birthDate": "01/01/1881"
+    },
+    {
+      "id": "XF297",
+      "name": "William Walter Pringle",
+      "url": "/auntruth/new/htm/L3/XF297.htm",
+      "birthDate": "01/01/1879"
+    },
+    {
+      "id": "XF289",
+      "name": "Ira Daniel Pringle",
+      "url": "/auntruth/new/htm/L3/XF289.htm",
+      "birthDate": "01/01/1877"
+    },
+    {
+      "id": "XF284",
+      "name": "Maurice Franklin Pringle",
+      "url": "/auntruth/new/htm/L3/XF284.htm",
+      "birthDate": "06/05/1874"
+    },
+    {
+      "id": "XF279",
+      "name": "Malinda   Pringle",
+      "url": "/auntruth/new/htm/L3/XF279.htm",
+      "birthDate": "01/01/1871"
+    },
+    {
+      "id": "XF278",
+      "name": "Malinda   Pringle",
+      "url": "/auntruth/new/htm/L3/XF278.htm",
+      "birthDate": "01/01/1870"
+    }
+  ],
+  "occupation": null,
+  "address": "Pringle Hill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Isaac and Mary Pringle tombstone is in Pringle Hill Cenetery. Have picture taken by Aunt Lucy Pringle 10 Aug 1915. He fought in Civil War and his grave is still decorated on Decoration Day. Pringle Street(next to Dunmire St) in Johnstown PA USA named after Isaac and wife Mary Dunmire Pringle Hill Cemetery Lot#50",
+  "photos": [
+    {
+      "name": "Site of Isaac Pringle House",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Johnstown Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI405.htm"
+    },
+    {
+      "name": "Patriarch Isaac Pringle 1834-1890 & second wife Mary Dunmire 1848-1889",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI395.htm"
+    },
+    {
+      "name": "Site of Isaac Pringle house",
+      "date": "Friday, June 04, 1915",
+      "location": "Johnstown Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L3/XI404.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:33Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF255.htm",
+    "extractionDate": "2025-10-02T00:05:13.602128Z"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "XF1835",
+  "name": "John  Paterson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1834",
+    "name": "William Paterson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1834.htm"
+  },
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF1839",
+      "name": "William   Paterson",
+      "url": "/auntruth/new/htm/L9/XF1839.htm",
+      "birthDate": "01/01/1655"
+    },
+    {
+      "id": "XF1840",
+      "name": "Janet   Paterson",
+      "url": "/auntruth/new/htm/L9/XF1840.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1837",
+      "name": "Bethia   Paterson",
+      "url": "/auntruth/new/htm/L9/XF1837.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1836",
+      "name": "John   Paterson",
+      "url": "/auntruth/new/htm/L9/XF1836.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:59Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1835.htm",
+    "extractionDate": "2025-10-02T00:04:46.475324Z"
+  }
+}

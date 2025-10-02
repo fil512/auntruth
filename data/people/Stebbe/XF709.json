@@ -1,0 +1,54 @@
+{
+  "id": "XF709",
+  "name": "Mary  Fedorco",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "HUN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF697",
+    "name": "John Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF697.htm"
+  },
+  "mother": {
+    "id": "XF699",
+    "name": "Ann Jacob-Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF699.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF708",
+      "name": "[Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF708.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF707",
+      "name": "Maryann   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF707.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Married at age 16",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:31Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF709.htm",
+    "extractionDate": "2025-10-02T00:03:56.186379Z"
+  }
+}

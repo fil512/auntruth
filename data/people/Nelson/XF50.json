@@ -1,0 +1,66 @@
+{
+  "id": "XF50",
+  "name": "Franz-Johan Albin Esterberg",
+  "lineage": "Nelson",
+  "birthDate": "Friday, December 29, 1899",
+  "birthLocation": "CAN",
+  "deathDate": "Monday, January 01, 1962",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF12",
+    "name": "Johannes John Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF12.htm"
+  },
+  "mother": {
+    "id": "XF11",
+    "name": "Maria Nelson-Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF11.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF762",
+      "name": "Lilly McSkimmings-Esterberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF762.htm",
+      "marriageDate": "Wednesday, November 10, 1920"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF773",
+      "name": "Glenn Dale Esterberg",
+      "url": "/auntruth/new/htm/L2/XF773.htm",
+      "birthDate": "01/01/1930"
+    },
+    {
+      "id": "XF770",
+      "name": "Gerald Edward Esterberg",
+      "url": "/auntruth/new/htm/L2/XF770.htm",
+      "birthDate": "01/01/1925"
+    },
+    {
+      "id": "XF765",
+      "name": "Frank Gordon Esterberg",
+      "url": "/auntruth/new/htm/L2/XF765.htm",
+      "birthDate": "12/17/1921"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:20Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF50.htm",
+    "extractionDate": "2025-10-02T00:04:10.404443Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "XF2838",
+  "name": "William Henry Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, November 01, 1835",
+  "birthLocation": "Jackson Twp Cambria Co     USA",
+  "deathDate": "Sunday, January 01, 1922",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2769",
+    "name": "Samuel Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2769.htm"
+  },
+  "mother": {
+    "id": "XF2770",
+    "name": "Susannah Eyler-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2770.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2839",
+      "name": "Sarah Elizabeth Olinger-Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2839.htm",
+      "marriageDate": "Tuesday, February 17, 1885"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:16Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2838.htm",
+    "extractionDate": "2025-10-02T00:05:20.189794Z"
+  }
+}

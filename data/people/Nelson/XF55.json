@@ -1,0 +1,40 @@
+{
+  "id": "XF55",
+  "name": "Duncan Rodney Cameron",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, October 28, 1924",
+  "birthLocation": "MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF56",
+    "name": "Andrew Cameron [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF56.htm"
+  },
+  "mother": {
+    "id": "XF52",
+    "name": "Hilma Agneta Esterberg-Cameron [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF52.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:24Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF55.htm",
+    "extractionDate": "2025-10-02T00:04:10.692695Z"
+  }
+}

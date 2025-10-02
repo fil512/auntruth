@@ -1,0 +1,40 @@
+{
+  "id": "XF957",
+  "name": "Allan Joseph Johnson",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF956",
+    "name": "Adolph Johnson [Ward]",
+    "url": "/auntruth/new/htm/L5/XF956.htm"
+  },
+  "mother": {
+    "id": "XF955",
+    "name": "Catherine Helen M McDonald-Johnson [Ward]",
+    "url": "/auntruth/new/htm/L5/XF955.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Bayside CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:25Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF957.htm",
+    "extractionDate": "2025-10-02T00:03:39.243758Z"
+  }
+}

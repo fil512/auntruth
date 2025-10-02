@@ -1,0 +1,61 @@
+{
+  "id": "XF2506",
+  "name": "Martha  Hansson",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2505",
+    "name": "Per Hansson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2505.htm"
+  },
+  "mother": {
+    "id": "XF2504",
+    "name": "Katarina Hansson-Hansson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2504.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2507",
+      "name": "Bergman [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2507.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2508",
+      "name": "Olga   Bergman",
+      "url": "/auntruth/new/htm/L2/XF2508.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [
+    {
+      "name": "The Manitoba Hagborgs 1892",
+      "date": "Tuesday, September 20, 1892",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1376.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:47Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2506.htm",
+    "extractionDate": "2025-10-02T00:04:07.437003Z"
+  }
+}

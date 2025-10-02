@@ -1,0 +1,40 @@
+{
+  "id": "XF2529",
+  "name": "Steven  Loy",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, January 01, 1965",
+  "birthLocation": "Dorchester ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2528",
+    "name": "Horst Loy [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2528.htm"
+  },
+  "mother": {
+    "id": "XF2527",
+    "name": "Verna Hambley-Loy [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2527.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Dorchester ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "twinto Stewart",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:58Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2529.htm",
+    "extractionDate": "2025-10-02T00:05:13.205081Z"
+  }
+}

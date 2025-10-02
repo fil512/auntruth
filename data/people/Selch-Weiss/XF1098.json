@@ -1,0 +1,52 @@
+{
+  "id": "XF1098",
+  "name": "Gordon  Nicholson",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Friday, May 06, 1949",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1097",
+      "name": "Sharon Elaine Selch-Nicholson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1097.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1100",
+      "name": "Lindsay Dawn Nicholson",
+      "url": "/auntruth/new/htm/L6/XF1100.htm",
+      "birthDate": "08/20/1982"
+    },
+    {
+      "id": "XF1099",
+      "name": "Brent   Nicholson",
+      "url": "/auntruth/new/htm/L6/XF1099.htm",
+      "birthDate": "03/31/1980"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:47Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1098.htm",
+    "extractionDate": "2025-10-02T00:04:16.436275Z"
+  }
+}

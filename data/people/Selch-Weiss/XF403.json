@@ -1,0 +1,53 @@
+{
+  "id": "XF403",
+  "name": "Bill (Tommy)  Litke",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, October 01, 1899",
+  "birthLocation": "Green Bay MB   CAN",
+  "deathDate": "Monday, January 01, 1973",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF662",
+    "name": "Emil Litke [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF662.htm"
+  },
+  "mother": {
+    "id": "XF797",
+    "name": "Julianna Appel-Litke [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF797.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF402",
+      "name": "Hilda(Hulda?) Selch-Litke [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF402.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF404",
+      "name": "Hermina(Minnie) Zieske-Zieske-Litke [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF404.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:49Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF403.htm",
+    "extractionDate": "2025-10-02T00:04:24.477621Z"
+  }
+}

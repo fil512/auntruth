@@ -1,0 +1,67 @@
+{
+  "id": "XF2977",
+  "name": "John #1  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1278",
+    "name": "Charles Hambley [Pringle-Hambley]",
+    "url": "/auntruth/htm/L3/XF1278.htm"
+  },
+  "mother": {
+    "id": "XF1279",
+    "name": "Suzannah Hambley-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/htm/L3/XF1279.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:16Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2977.htm",
+    "extractionDate": "2025-10-02T00:05:23.485768Z"
+  }
+}

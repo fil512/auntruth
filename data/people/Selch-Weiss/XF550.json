@@ -1,0 +1,109 @@
+{
+  "id": "XF550",
+  "name": "Gordon (Gordie)  Peluk",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, June 15, 1950",
+  "birthLocation": "Ladywood MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF549",
+    "name": "Tom Peluk [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF549.htm"
+  },
+  "mother": {
+    "id": "XF675",
+    "name": "Anne Smokoroski-Peluk [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF675.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF548",
+      "name": "Donna Selch-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF548.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF554",
+      "name": "Timothy   Peluk",
+      "url": "/auntruth/new/htm/L6/XF554.htm",
+      "birthDate": "01/01/1986"
+    },
+    {
+      "id": "XF553",
+      "name": "Christopher   Peluk",
+      "url": "/auntruth/new/htm/L6/XF553.htm",
+      "birthDate": "01/01/1984"
+    }
+  ],
+  "occupation": null,
+  "address": "RR #3 Ladywood Beausejour MB R0E 0C0 CAN",
+  "email": "ctdpeluk@granite.mb.ca",
+  "phone": "(204) 268-3411, (204) 268-3411",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Ann Smokoroski-Peluk",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Guys in Livingroom",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1863.htm"
+    },
+    {
+      "name": "Livingroom",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1856.htm"
+    },
+    {
+      "name": "Living Room",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1842.htm"
+    },
+    {
+      "name": "In front of grain auger",
+      "date": "Sunday, September 15, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1821.htm"
+    },
+    {
+      "name": "Pam's Wedding Family Picture",
+      "date": "Monday, July 02, 1990",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1573.htm"
+    },
+    {
+      "name": "Full Family Picture",
+      "date": "Saturday, July 02, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1577.htm"
+    },
+    {
+      "name": "In Livingroom",
+      "date": "Sunday, October 01, 1978",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1041.htm"
+    },
+    {
+      "name": "Dining Room",
+      "date": "Saturday, July 01, 1978",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI822.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:19Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF550.htm",
+    "extractionDate": "2025-10-02T00:04:29.450436Z"
+  }
+}

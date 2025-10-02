@@ -1,0 +1,43 @@
+{
+  "id": "XF698",
+  "name": "Maryanna  Fedorco",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "HUN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF696",
+    "name": "Grov  [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF696.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF702",
+      "name": "Chief Of Police [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF702.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Elizabethport NJ  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Good dressmaker.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:27Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF698.htm",
+    "extractionDate": "2025-10-02T00:03:55.663225Z"
+  }
+}

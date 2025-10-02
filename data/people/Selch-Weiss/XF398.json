@@ -1,0 +1,74 @@
+{
+  "id": "XF398",
+  "name": "Edward  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, October 30, 1910",
+  "birthLocation": "Beausjour MB   CAN",
+  "deathDate": "Wednesday, June 24, 1942",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF383",
+    "name": "August Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF383.htm"
+  },
+  "mother": {
+    "id": "XF384",
+    "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF384.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF399",
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF532",
+      "name": "Sandra (Sandy) Noreen Selch",
+      "url": "/auntruth/new/htm/L6/XF532.htm",
+      "birthDate": "06/05/1941"
+    }
+  ],
+  "occupation": null,
+  "address": "Beausejour MB R0E 0C0 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Died after a doctor prescribed something suspicious for a minor ailment Buried in Beausejour Cemetery.",
+  "photos": [
+    {
+      "name": "Soldiers Visit",
+      "date": "Saturday, May 02, 1942",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1492.htm"
+    },
+    {
+      "name": "Horsing Around",
+      "date": "Thursday, August 31, 1939",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1493.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Out Front",
+      "date": "Thursday, May 01, 1941",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1527.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:43Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF398.htm",
+    "extractionDate": "2025-10-02T00:04:24.276654Z"
+  }
+}

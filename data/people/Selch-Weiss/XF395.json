@@ -1,0 +1,65 @@
+{
+  "id": "XF395",
+  "name": "Edward  Schreyer",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "Ladywood MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF394",
+    "name": "John Schreyer [Selch-Weiss]",
+    "url": "/auntruth/htm/L6/XF394.htm"
+  },
+  "mother": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1028",
+      "name": "Lily Schultz-Schreyer []",
+      "url": "/auntruth/htm/L0/XF1028.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "ex-HighSchool Teacher",
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Schoolteacher in Beausejour, then NDP Premier of Manitoba, then Governor-General of Canada, then High Commissioner to Australia, then ... Sandy Selch had him as teacher.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:42Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF395.htm",
+    "extractionDate": "2025-10-02T00:04:24.180562Z"
+  }
+}

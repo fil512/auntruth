@@ -1,0 +1,48 @@
+{
+  "id": "XF2937",
+  "name": "Michael  Hemish",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF428",
+      "name": "Beverly Selch-Hemish [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF428.htm",
+      "marriageDate": "Sunday, December 01, 2002"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2938",
+      "name": "Rachel Amanda Hemish",
+      "url": "/auntruth/new/htm/L6/XF2938.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "240 Mountshannon Drive Ottawa ON K2J 4N5 CAN",
+  "email": "bhemish@rogers.com",
+  "phone": "(613) 823-7571, (613) 823-7571",
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:59Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2937.htm",
+    "extractionDate": "2025-10-02T00:04:22.426005Z"
+  }
+}

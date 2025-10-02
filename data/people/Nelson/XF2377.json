@@ -1,0 +1,40 @@
+{
+  "id": "XF2377",
+  "name": "Joan Eleanor MacKenzie",
+  "lineage": "Nelson",
+  "birthDate": "Wednesday, November 14, 1945",
+  "birthLocation": "WA   USA",
+  "deathDate": "Friday, November 23, 1945",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF791",
+    "name": "Alexander Miller MacKenzie [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF791.htm"
+  },
+  "mother": {
+    "id": "XF19",
+    "name": "Esther Adele Pearson-MacKenzie-Patten [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF19.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "WA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:50Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2377.htm",
+    "extractionDate": "2025-10-02T00:04:04.088589Z"
+  }
+}

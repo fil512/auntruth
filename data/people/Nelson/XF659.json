@@ -1,0 +1,50 @@
+{
+  "id": "XF659",
+  "name": "Alice  Brand(Anderson)",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "Akin MI   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF658",
+    "name": "Brand(Anderson) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF658.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF57",
+      "name": "Hilton Cameron [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF57.htm",
+      "marriageDate": "Friday, December 26, 1969"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF660",
+      "name": "Brian Andrew Cameron",
+      "url": "/auntruth/new/htm/L2/XF660.htm",
+      "birthDate": "01/01/1971"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:10Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF659.htm",
+    "extractionDate": "2025-10-02T00:04:11.952767Z"
+  }
+}

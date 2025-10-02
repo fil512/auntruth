@@ -1,0 +1,40 @@
+{
+  "id": "XF679",
+  "name": "Alvine  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Wednesday, February 25, 1903",
+  "birthLocation": "Green Bay MB   CAN",
+  "deathDate": "Monday, May 13, 1907",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF383",
+    "name": "August Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF383.htm"
+  },
+  "mother": {
+    "id": "XF384",
+    "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF384.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Died in diphtheria epidemic and is buried in Green Bay Cemetery.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:18Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF679.htm",
+    "extractionDate": "2025-10-02T00:04:30.871446Z"
+  }
+}

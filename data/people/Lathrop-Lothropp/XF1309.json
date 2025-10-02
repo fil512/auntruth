@@ -1,0 +1,47 @@
+{
+  "id": "XF1309",
+  "name": "Florence Blanche Judkins",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Dover South Mills ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1300",
+    "name": "Alonzo John Judkins [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1300.htm"
+  },
+  "mother": {
+    "id": "XF1299",
+    "name": "Aurilla Malethe Lambert-Judkins [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1299.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1308",
+      "name": "George Richmon French [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1308.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "deceased",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:17Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1309.htm",
+    "extractionDate": "2025-10-02T00:05:33.940650Z"
+  }
+}

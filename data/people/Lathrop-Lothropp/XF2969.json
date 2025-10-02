@@ -1,0 +1,42 @@
+{
+  "id": "XF2969",
+  "name": "Joseph  Lothropp",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Eastwell, Kent   E0   ukg",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1016",
+    "name": "Rev. John 2nd Lothropp [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1016.htm"
+  },
+  "mother": {
+    "id": "XF1017",
+    "name": "Hannah Howse-Ewer-Lothropp [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1017.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:12Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2969.htm",
+    "extractionDate": "2025-10-02T00:06:03.835104Z"
+  }
+}

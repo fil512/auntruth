@@ -1,0 +1,40 @@
+{
+  "id": "XF676",
+  "name": "John  Smokoroski",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": "Monday, January 01, 1990",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF670",
+    "name": "Michael Smokoroski [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF670.htm"
+  },
+  "mother": {
+    "id": "XF674",
+    "name": "Katy Oherka-Smokoroski [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF674.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Ann Smokoroski-Peluk",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:17Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF676.htm",
+    "extractionDate": "2025-10-02T00:04:30.712563Z"
+  }
+}

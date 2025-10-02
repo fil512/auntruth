@@ -1,0 +1,91 @@
+{
+  "id": "XF438",
+  "name": "Adele (Della)  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, April 16, 1931",
+  "birthLocation": "CAN",
+  "deathDate": "Friday, February 01, 2002",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF400",
+    "name": "Leo Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF400.htm"
+  },
+  "mother": {
+    "id": "XF401",
+    "name": "Elsie Richter-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF401.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF439",
+      "name": "Eric Muth [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF439.htm",
+      "marriageDate": "Friday, September 01, 1950"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF441",
+      "name": "Twyla   Muth",
+      "url": "/auntruth/new/htm/L6/XF441.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF440",
+      "name": "Dennis   Muth",
+      "url": "/auntruth/new/htm/L6/XF440.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Beausejour Cemetery Beausejour MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Obituary Adele (Della) Selch-Muth",
+      "date": "Saturday, March 02, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1523.htm"
+    },
+    {
+      "name": "Della Funeral Service",
+      "date": "Tuesday, February 05, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1798.htm"
+    },
+    {
+      "name": "Della Obituary",
+      "date": "Monday, February 04, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1797.htm"
+    },
+    {
+      "name": "At Della & Eric's Wedding",
+      "date": "Friday, September 01, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1800.htm"
+    },
+    {
+      "name": "Eric & Della Wedding",
+      "date": "Friday, September 01, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1529.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:07Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF438.htm",
+    "extractionDate": "2025-10-02T00:04:26.631030Z"
+  }
+}

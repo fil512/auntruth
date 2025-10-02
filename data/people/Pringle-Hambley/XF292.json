@@ -1,0 +1,87 @@
+{
+  "id": "XF292",
+  "name": "Karl Edwin Palmquist",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": "Sunday, January 14, 1990",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2230",
+    "name": "Palmquist [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2230.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF291",
+      "name": "Margaret Pringle-Palmquist [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF291.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF363",
+      "name": "Janet   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF363.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF362",
+      "name": "Norman   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF362.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF361",
+      "name": "Lawrence   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF361.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF360",
+      "name": "Carl   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF360.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF359",
+      "name": "Margaret   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF359.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF358",
+      "name": "Eileen   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF358.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Dugald MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "buried in Transcona Cemetery Winnipeg MB Canada",
+  "photos": [
+    {
+      "name": "Memoriam",
+      "date": "Saturday, July 12, 1997",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI984.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:50Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF292.htm",
+    "extractionDate": "2025-10-02T00:05:22.507456Z"
+  }
+}

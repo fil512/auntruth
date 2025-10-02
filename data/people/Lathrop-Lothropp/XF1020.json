@@ -1,0 +1,60 @@
+{
+  "id": "XF1020",
+  "name": "Samuel  Lothrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, January 01, 1621",
+  "birthLocation": "London     UKG",
+  "deathDate": "Sunday, February 28, 1700",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1016",
+    "name": "Rev. John 2nd Lothropp [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1016.htm"
+  },
+  "mother": {
+    "id": "XF1017",
+    "name": "Hannah Howse-Ewer-Lothropp [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1017.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1021",
+      "name": "Elizabeth Scudder-Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1021.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1142",
+      "name": "John 3rd   Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1142.htm",
+      "birthDate": "12/07/1645"
+    },
+    {
+      "id": "XF2573",
+      "name": "Samuel   Lothrop",
+      "url": "/auntruth/new/htm/L4/XF2573.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 28 Nov 1644 in Barnstable MA after coming to Scituate with his father. They moved to New London CN in 1648. He was a judge of a local court in Pequot CN in 1649. They moved to Norwich CN in 1668 and built a house there on the main street sometime previous to 1670. He was constable there in 1673 and 1682, and townsman in 1685. In 1734 his descendants are said to have numbered three hundred and sixty-five people.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:11Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1020.htm",
+    "extractionDate": "2025-10-02T00:05:29.099483Z"
+  }
+}

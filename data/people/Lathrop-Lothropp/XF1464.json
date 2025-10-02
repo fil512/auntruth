@@ -1,0 +1,54 @@
+{
+  "id": "XF1464",
+  "name": "Wells Rogers Hosmer",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, October 25, 1871",
+  "birthLocation": "Springfield MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1358",
+    "name": "George Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1358.htm"
+  },
+  "mother": {
+    "id": "XF1359",
+    "name": "Sarah Lathrop-Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1359.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1463",
+      "name": "Ethel Mae Newell-Hosmer [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1463.htm",
+      "marriageDate": "Tuesday, January 19, 1897"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1465",
+      "name": "Malcom Douglas Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1465.htm",
+      "birthDate": "06/28/1898"
+    }
+  ],
+  "occupation": null,
+  "address": "Salem MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:23Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1464.htm",
+    "extractionDate": "2025-10-02T00:05:42.006187Z"
+  }
+}

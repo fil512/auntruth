@@ -1,0 +1,69 @@
+{
+  "id": "XF513",
+  "name": "Bush",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2907",
+      "name": "Jean   Bush",
+      "url": "/auntruth/new/htm/L6/XF2907.htm",
+      "birthDate": "06/01/1926"
+    },
+    {
+      "id": "XF520",
+      "name": "Lyle   Bush",
+      "url": "/auntruth/new/htm/L6/XF520.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF519",
+      "name": "Celia   Bush",
+      "url": "/auntruth/new/htm/L6/XF519.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF515",
+      "name": "Clarence   Bush",
+      "url": "/auntruth/new/htm/L6/XF515.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF514",
+      "name": "Hattie   Bush",
+      "url": "/auntruth/new/htm/L6/XF514.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF512",
+      "name": "Edith   Bush",
+      "url": "/auntruth/new/htm/L6/XF512.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:45Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF513.htm",
+    "extractionDate": "2025-10-02T00:04:27.286107Z"
+  }
+}

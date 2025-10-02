@@ -1,0 +1,47 @@
+{
+  "id": "XF706",
+  "name": "Suzanne  Kudrach",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF705",
+    "name": "Kudrach [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF705.htm"
+  },
+  "mother": {
+    "id": "XF704",
+    "name": "-Kudrach [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF704.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF703",
+      "name": "Joe Fedorco [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF703.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Raised by grandparents.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:30Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF706.htm",
+    "extractionDate": "2025-10-02T00:03:56.017075Z"
+  }
+}

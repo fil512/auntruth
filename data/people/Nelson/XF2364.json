@@ -1,0 +1,40 @@
+{
+  "id": "XF2364",
+  "name": "David Roland Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Thursday, September 18, 1947",
+  "birthLocation": "Chicago IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF29",
+    "name": "Paul Vincent Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF29.htm"
+  },
+  "mother": {
+    "id": "XF2356",
+    "name": "Theresa Bottim-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2356.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:45Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2364.htm",
+    "extractionDate": "2025-10-02T00:04:03.367341Z"
+  }
+}

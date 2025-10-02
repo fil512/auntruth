@@ -1,0 +1,103 @@
+{
+  "id": "XF287",
+  "name": "William  Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, May 04, 1827",
+  "birthLocation": "Granby MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1151",
+    "name": "Erastus Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1151.htm"
+  },
+  "mother": {
+    "id": "XF1152",
+    "name": "Rebeckah Ward-Lathrop [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1152.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1141",
+      "name": "Lucy Jane Ward-Lathrop [Ward]",
+      "url": "/auntruth/new/htm/L5/XF1141.htm",
+      "marriageDate": "Tuesday, May 15, 1849"
+    },
+    {
+      "id": "XF288",
+      "name": "Rozella Ward-Lathrop [Ward]",
+      "url": "/auntruth/new/htm/L5/XF288.htm",
+      "marriageDate": "Monday, January 02, 1854"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1226",
+      "name": "Lottie Rebecca Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1226.htm",
+      "birthDate": "06/02/1876"
+    },
+    {
+      "id": "XF1217",
+      "name": "Alma Almira Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1217.htm",
+      "birthDate": "02/20/1868"
+    },
+    {
+      "id": "XF1203",
+      "name": "Nellie Eliza Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1203.htm",
+      "birthDate": "10/15/1863"
+    },
+    {
+      "id": "XF1202",
+      "name": "Judson Sewall Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1202.htm",
+      "birthDate": "07/23/1860"
+    },
+    {
+      "id": "XF1197",
+      "name": "Lucy Emma Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1197.htm",
+      "birthDate": "06/15/1858"
+    },
+    {
+      "id": "XF841",
+      "name": "Florence   Lathrope",
+      "url": "/auntruth/new/htm/L5/XF841.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF840",
+      "name": "Ada   Lathrop",
+      "url": "/auntruth/new/htm/L4/XF840.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Lowell IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 15 May 1849 in Windsor Locks CN and 2 January 1854 in South Hadley, MA Auntie Ruth(Pringle) Hambley in 1994 remembered seeing William Lathrop in bed when she was about 2 or 3 years old (1904?) in Lowell",
+  "photos": [
+    {
+      "name": "At the Back Door",
+      "date": "Tuesday, July 01, 1890",
+      "location": "Illinois United States of America",
+      "url": "/auntruth/new/htm/L0/XI933.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:48Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF287.htm",
+    "extractionDate": "2025-10-02T00:06:03.430623Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF1201",
+  "name": "Nettie Maria Albert",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, February 14, 1885",
+  "birthLocation": "Vermillion IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1198",
+    "name": "John Andrew Albert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1198.htm"
+  },
+  "mother": {
+    "id": "XF1197",
+    "name": "Lucy Emma Lathrop-Albert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1197.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:32Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1201.htm",
+    "extractionDate": "2025-10-02T00:05:31.410483Z"
+  }
+}

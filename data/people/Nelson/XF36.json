@@ -1,0 +1,36 @@
+{
+  "id": "XF36",
+  "name": "Edward  Wilson",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF15",
+    "name": "Otto Ernest Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF15.htm"
+  },
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:12Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF36.htm",
+    "extractionDate": "2025-10-02T00:04:09.607615Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF41",
+  "name": "William Jackie Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Wednesday, April 14, 1937",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Sunday, August 08, 1954",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF23",
+    "name": "Hilding Vilhelm Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF23.htm"
+  },
+  "mother": {
+    "id": "XF828",
+    "name": "Agnes Oman-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF828.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "fall in crevas",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Died circa 1954 after falling into a crevasse while mountain-climbing as a student-assistant in Banff AB Canada",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:15Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF41.htm",
+    "extractionDate": "2025-10-02T00:04:09.899833Z"
+  }
+}

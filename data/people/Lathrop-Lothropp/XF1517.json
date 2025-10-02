@@ -1,0 +1,40 @@
+{
+  "id": "XF1517",
+  "name": "Eliza Lucy Ramsdell",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1510",
+    "name": "Andrew Smith Ramsdell [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1510.htm"
+  },
+  "mother": {
+    "id": "XF1511",
+    "name": "Jane Lurinda Bartlett-Ramsdell [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1511.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Foxcroft ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:46Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1517.htm",
+    "extractionDate": "2025-10-02T00:05:44.789377Z"
+  }
+}

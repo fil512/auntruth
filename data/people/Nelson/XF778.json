@@ -1,0 +1,40 @@
+{
+  "id": "XF778",
+  "name": "Michael  Esterberg",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF773",
+    "name": "Glenn Dale Esterberg [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF773.htm"
+  },
+  "mother": {
+    "id": "XF774",
+    "name": "Carolyn Lockhart-Esterberg [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF774.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:02Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF778.htm",
+    "extractionDate": "2025-10-02T00:04:13.371173Z"
+  }
+}

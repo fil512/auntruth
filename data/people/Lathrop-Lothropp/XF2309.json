@@ -1,0 +1,66 @@
+{
+  "id": "XF2309",
+  "name": "Gladys  Nagel",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2291",
+    "name": "George Nagel [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2291.htm"
+  },
+  "mother": {
+    "id": "XF1207",
+    "name": "Lilly May Porter-Nagel [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1207.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2310",
+      "name": "Robert Pfau [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2310.htm",
+      "marriageDate": "Tuesday, November 01, 1949"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2313",
+      "name": "Michael   Pfau",
+      "url": "/auntruth/new/htm/L4/XF2313.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2312",
+      "name": "James   Pfau",
+      "url": "/auntruth/new/htm/L4/XF2312.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2311",
+      "name": "Mary Jane   Pfau",
+      "url": "/auntruth/new/htm/L4/XF2311.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Serena IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:21Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2309.htm",
+    "extractionDate": "2025-10-02T00:05:59.809127Z"
+  }
+}

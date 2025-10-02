@@ -1,0 +1,40 @@
+{
+  "id": "XF2299",
+  "name": "David  Brady",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Tonica IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2296",
+    "name": "Raymond Brady [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2296.htm"
+  },
+  "mother": {
+    "id": "XF2297",
+    "name": "Leona -Brady [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2297.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Deer Park IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:16Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2299.htm",
+    "extractionDate": "2025-10-02T00:05:59.278014Z"
+  }
+}

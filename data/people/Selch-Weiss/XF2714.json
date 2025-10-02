@@ -1,0 +1,60 @@
+{
+  "id": "XF2714",
+  "name": "Brian  Falco",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2887",
+    "name": "Leonard Falco [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2887.htm"
+  },
+  "mother": {
+    "id": "XF2888",
+    "name": "Mary Falco-Falco [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2888.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2713",
+      "name": "Eleanor Anne Tyler-Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2713.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2889",
+      "name": "Mark   Falco",
+      "url": "/auntruth/new/htm/L6/XF2889.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2712",
+      "name": "Paul   Falco",
+      "url": "/auntruth/new/htm/L6/XF2712.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Controller, Nutty Club Candy",
+  "address": "21-1903 St. mary Winnipeg MB  CAN",
+  "email": null,
+  "phone": "(204) 254-0845, (204) 254-0845",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:20Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2714.htm",
+    "extractionDate": "2025-10-02T00:04:20.377583Z"
+  }
+}

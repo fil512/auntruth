@@ -1,0 +1,73 @@
+{
+  "id": "XF439",
+  "name": "Eric  Muth",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": "Tuesday, January 01, 1974",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1038",
+    "name": "Edward(Ed) Muth [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1038.htm"
+  },
+  "mother": {
+    "id": "XF1039",
+    "name": "Tophilia YY [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1039.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF438",
+      "name": "Adele (Della) Selch-Muth [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF438.htm",
+      "marriageDate": "Friday, September 01, 1950"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF441",
+      "name": "Twyla   Muth",
+      "url": "/auntruth/new/htm/L6/XF441.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF440",
+      "name": "Dennis   Muth",
+      "url": "/auntruth/new/htm/L6/XF440.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Sister married to Albert Litke",
+  "photos": [
+    {
+      "name": "At Della & Eric's Wedding",
+      "date": "Friday, September 01, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1800.htm"
+    },
+    {
+      "name": "Eric & Della Wedding",
+      "date": "Friday, September 01, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1529.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:07Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF439.htm",
+    "extractionDate": "2025-10-02T00:04:26.647817Z"
+  }
+}

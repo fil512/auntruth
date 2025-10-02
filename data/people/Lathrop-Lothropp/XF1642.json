@@ -1,0 +1,40 @@
+{
+  "id": "XF1642",
+  "name": "Melford Merton Lothrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "South St. Joseph MO   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1630",
+    "name": "Merton Lee Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1630.htm"
+  },
+  "mother": {
+    "id": "XF1637",
+    "name": "Mildred Sarah Kinkead-Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1637.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "South St. Joseph MO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:38Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1642.htm",
+    "extractionDate": "2025-10-02T00:05:51.277024Z"
+  }
+}

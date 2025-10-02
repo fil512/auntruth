@@ -1,0 +1,40 @@
+{
+  "id": "XF2127",
+  "name": "Alfred E. Thorne",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2125",
+    "name": "Ben John Thorne [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2125.htm"
+  },
+  "mother": {
+    "id": "XF2124",
+    "name": "Agnes Mary Rogerson-Thorne [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2124.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": "Unmarried",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:02Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2127.htm",
+    "extractionDate": "2025-10-02T00:04:59.673499Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "XF1114",
+  "name": "Evelyn  Trithart",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF685",
+    "name": "Gus Trithart [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF685.htm"
+  },
+  "mother": {
+    "id": "XF1112",
+    "name": "Lena Boyles-Trithart [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF1112.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1115",
+      "name": "Sandy Hayes [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1115.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:55Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1114.htm",
+    "extractionDate": "2025-10-02T00:03:50.418329Z"
+  }
+}

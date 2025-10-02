@@ -1,0 +1,40 @@
+{
+  "id": "XF2144",
+  "name": "Margaret  Lenox",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2143",
+    "name": "Lenox [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2143.htm"
+  },
+  "mother": {
+    "id": "XF2142",
+    "name": "Margaret Rogerson-Lenox [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2142.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:09Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2144.htm",
+    "extractionDate": "2025-10-02T00:05:00.518264Z"
+  }
+}

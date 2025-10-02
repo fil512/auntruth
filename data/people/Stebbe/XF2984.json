@@ -1,0 +1,67 @@
+{
+  "id": "XF2984",
+  "name": "Carol  Kubesh",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2979",
+    "name": "Ralph Kubesh [Stebbe]",
+    "url": "/auntruth/htm/L7/XF2979.htm"
+  },
+  "mother": {
+    "id": "XF2980",
+    "name": "Lillian X-Kubesh [Stebbe]",
+    "url": "/auntruth/htm/L7/XF2980.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2985",
+      "name": "Ernie Weselak [Stebbe]",
+      "url": "/auntruth/htm/L7/XF2985.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:19Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF2984.htm",
+    "extractionDate": "2025-10-02T00:03:52.122443Z"
+  }
+}

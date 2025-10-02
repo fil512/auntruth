@@ -1,0 +1,61 @@
+{
+  "id": "XF1095",
+  "name": "Jeffrey Gilbert Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, April 29, 1976",
+  "birthLocation": "Concordia Hospital Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF411",
+    "name": "Gilbert Albert Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF411.htm"
+  },
+  "mother": {
+    "id": "XF412",
+    "name": "Bonny Greifenberger-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF412.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2893",
+      "name": "Jessica Reid-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2893.htm",
+      "marriageDate": "Saturday, October 05, 2002"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2975",
+      "name": "Kathryn   Selch",
+      "url": "/auntruth/new/htm/L6/XF2975.htm",
+      "birthDate": "05/07/2004"
+    }
+  ],
+  "occupation": "Licensed Mechanic",
+  "address": null,
+  "email": "selch31@mb.sympatico.ca",
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Uncle Albert & Dad",
+      "date": "Wednesday, August 01, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1975.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:46Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1095.htm",
+    "extractionDate": "2025-10-02T00:04:16.272314Z"
+  }
+}

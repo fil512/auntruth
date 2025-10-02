@@ -1,0 +1,60 @@
+{
+  "id": "XF1195",
+  "name": "Nehemiah  Ward",
+  "lineage": "Ward",
+  "birthDate": "Saturday, June 20, 1761",
+  "birthLocation": "Weymouth MA   USA",
+  "deathDate": "Thursday, November 24, 1831",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1193",
+    "name": "Lemuel Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1193.htm"
+  },
+  "mother": {
+    "id": "XF1194",
+    "name": "Mary Bates-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1194.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1196",
+      "name": "Hannah Packard-Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF1196.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1154",
+      "name": "Sally   Ward",
+      "url": "/auntruth/new/htm/L5/XF1154.htm",
+      "birthDate": "03/23/1795"
+    },
+    {
+      "id": "XF1152",
+      "name": "Rebeckah   Ward",
+      "url": "/auntruth/new/htm/L5/XF1152.htm",
+      "birthDate": "03/22/1793"
+    }
+  ],
+  "occupation": null,
+  "address": "Granby MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Died in Granby MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:29Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1195.htm",
+    "extractionDate": "2025-10-02T00:03:36.562397Z"
+  }
+}

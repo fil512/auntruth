@@ -1,0 +1,47 @@
+{
+  "id": "XF2683",
+  "name": "Myrna  Moffat",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Roland MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2681",
+    "name": "William Cedric Moffatt [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2681.htm"
+  },
+  "mother": {
+    "id": "XF2684",
+    "name": "Lorraine Louella Falk-Moffatt [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2684.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2682",
+      "name": "Philips [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2682.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "named after Myrna Loy",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:06Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2683.htm",
+    "extractionDate": "2025-10-02T00:05:14.652858Z"
+  }
+}

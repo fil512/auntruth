@@ -1,0 +1,114 @@
+{
+  "id": "XF209",
+  "name": "Mary  Cable",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, February 26, 1776",
+  "birthLocation": "Bedford PA   USA",
+  "deathDate": "Friday, January 01, 1858",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF268",
+    "name": "John Martin Cable [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF268.htm"
+  },
+  "mother": {
+    "id": "XF269",
+    "name": "Mary Christi Warner(Ripley?)-Cable [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF269.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF208",
+      "name": "Philip Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF208.htm",
+      "marriageDate": "Tuesday, October 07, 1794"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF241",
+      "name": "Margaret   Pringle",
+      "url": "/auntruth/new/htm/L3/XF241.htm",
+      "birthDate": "05/30/1817"
+    },
+    {
+      "id": "XF239",
+      "name": "John P. Pringle",
+      "url": "/auntruth/new/htm/L3/XF239.htm",
+      "birthDate": "10/22/1815"
+    },
+    {
+      "id": "XF237",
+      "name": "Philip   Pringle",
+      "url": "/auntruth/new/htm/L3/XF237.htm",
+      "birthDate": "06/29/1813"
+    },
+    {
+      "id": "XF235",
+      "name": "Sarah   Pringle",
+      "url": "/auntruth/new/htm/L3/XF235.htm",
+      "birthDate": "04/14/1811"
+    },
+    {
+      "id": "XF233",
+      "name": "Susanna   Pringle",
+      "url": "/auntruth/new/htm/L3/XF233.htm",
+      "birthDate": "10/29/1808"
+    },
+    {
+      "id": "XF231",
+      "name": "Jacob   Pringle",
+      "url": "/auntruth/new/htm/L3/XF231.htm",
+      "birthDate": "04/13/1806"
+    },
+    {
+      "id": "XF229",
+      "name": "Samuel   Pringle",
+      "url": "/auntruth/new/htm/L3/XF229.htm",
+      "birthDate": "03/03/1804"
+    },
+    {
+      "id": "XF227",
+      "name": "Mary   Pringle",
+      "url": "/auntruth/new/htm/L3/XF227.htm",
+      "birthDate": "09/11/1801"
+    },
+    {
+      "id": "XF224",
+      "name": "Martin   Pringle",
+      "url": "/auntruth/new/htm/L3/XF224.htm",
+      "birthDate": "02/19/1800"
+    },
+    {
+      "id": "XF222",
+      "name": "William   Pringle",
+      "url": "/auntruth/new/htm/L3/XF222.htm",
+      "birthDate": "08/14/1797"
+    },
+    {
+      "id": "XF220",
+      "name": "Christina   Pringle",
+      "url": "/auntruth/new/htm/L3/XF220.htm",
+      "birthDate": "11/08/1795"
+    }
+  ],
+  "occupation": "LDS",
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Married 7 Oct 1794 at Frankstown, PA Pringle Hill Cemetery Lot#23",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:12Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF209.htm",
+    "extractionDate": "2025-10-02T00:05:08.622028Z"
+  }
+}

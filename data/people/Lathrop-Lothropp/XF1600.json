@@ -1,0 +1,90 @@
+{
+  "id": "XF1600",
+  "name": "Henry Johnson Bradley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, August 15, 1832",
+  "birthLocation": "Hartford,Hartford CT   USA",
+  "deathDate": "Monday, September 12, 1892",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2564",
+    "name": "John Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2564.htm"
+  },
+  "mother": {
+    "id": "XF2571",
+    "name": "Laura Sophia Woodruff-Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2571.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1601",
+      "name": "Abbie Maria Lathrop-Bradley [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1601.htm",
+      "marriageDate": "Saturday, September 29, 1855"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2607",
+      "name": "Unnamed   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2607.htm",
+      "birthDate": "01/01/1872"
+    },
+    {
+      "id": "XF1712",
+      "name": "Albert Ernest Bradley",
+      "url": "/auntruth/new/htm/L4/XF1712.htm",
+      "birthDate": "08/23/1871"
+    },
+    {
+      "id": "XF1707",
+      "name": "William Emery Bradley",
+      "url": "/auntruth/new/htm/L4/XF1707.htm",
+      "birthDate": "01/01/1869"
+    },
+    {
+      "id": "XF1715",
+      "name": "Emily Elfrett Bradley",
+      "url": "/auntruth/new/htm/L4/XF1715.htm",
+      "birthDate": "01/01/1865"
+    },
+    {
+      "id": "XF1704",
+      "name": "Charles Henry Bradley",
+      "url": "/auntruth/new/htm/L4/XF1704.htm",
+      "birthDate": "01/01/1861"
+    },
+    {
+      "id": "XF1603",
+      "name": "Angenette Matilda Bradley",
+      "url": "/auntruth/new/htm/L4/XF1603.htm",
+      "birthDate": "01/01/1856"
+    },
+    {
+      "id": "XF1699",
+      "name": "Mary Elizabe Bradley",
+      "url": "/auntruth/new/htm/L4/XF1699.htm",
+      "birthDate": "01/01/1809"
+    }
+  ],
+  "occupation": null,
+  "address": "Tolland, Tolland CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Served in Civil War with Company B 11 Connecticut Regiment Buried in Grove Hill Cemetery, Vernon, Tolland CT USA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:21Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1600.htm",
+    "extractionDate": "2025-10-02T00:05:49.084706Z"
+  }
+}

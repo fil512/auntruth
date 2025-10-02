@@ -1,0 +1,47 @@
+{
+  "id": "XF2502",
+  "name": "Elna  Hansson",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF647",
+    "name": "Hans Olsson Loo [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF647.htm"
+  },
+  "mother": {
+    "id": "XF646",
+    "name": "Karna Jonsson-Loo [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF646.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2503",
+      "name": "Mathiason [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2503.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "3 sons 1 daughter",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:45Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2502.htm",
+    "extractionDate": "2025-10-02T00:04:07.261890Z"
+  }
+}

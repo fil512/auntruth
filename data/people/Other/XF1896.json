@@ -1,0 +1,46 @@
+{
+  "id": "XF1896",
+  "name": "Charlilla",
+  "lineage": "",
+  "birthDate": "Tuesday, August 18, 1959",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1895",
+      "name": "Bruce Rothwell []",
+      "url": "/auntruth/new/htm/L0/XF1895.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1897",
+      "name": "Carrie   Rothwell",
+      "url": "/auntruth/new/htm/L0/XF1897.htm",
+      "birthDate": "07/02/1985"
+    }
+  ],
+  "occupation": "Office Supervisor",
+  "address": "19 Culross Bay Winnipeg MB R2C 4E5 CAN",
+  "email": null,
+  "phone": "204-224-5328, 204-224-5328",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:25Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF1896.htm",
+    "extractionDate": "2025-10-02T00:06:12.141598Z"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "XF347",
+  "name": "John Bryan Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, February 08, 1960",
+  "birthLocation": "Abbotsford BC   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF343",
+    "name": "Bryan Spencer Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF343.htm"
+  },
+  "mother": {
+    "id": "XF344",
+    "name": "Elaine (Jo) Josefina Chantler-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF344.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1812",
+      "name": "Diana Vaage-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1812.htm",
+      "marriageDate": "Monday, June 25, 1984"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Winnipeg Free Press May 26 2004 'Neighbours' Section S3",
+      "date": "Tuesday, May 18, 2004",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2465.htm"
+    },
+    {
+      "name": "Auntie Ruth 101st",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2080.htm"
+    },
+    {
+      "name": "Darrell's LivingRoom",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2079.htm"
+    },
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1639.htm"
+    },
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1636.htm"
+    },
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1634.htm"
+    },
+    {
+      "name": "At Bryan Hambley's",
+      "date": "Wednesday, August 05, 1964",
+      "location": "Abbotsford British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI429.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:21Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF347.htm",
+    "extractionDate": "2025-10-02T00:05:26.275271Z"
+  }
+}

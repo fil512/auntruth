@@ -1,0 +1,41 @@
+{
+  "id": "XF2920",
+  "name": "Carol  X",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2919",
+      "name": "John Langston-X [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2919.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:51Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2920.htm",
+    "extractionDate": "2025-10-02T00:04:09.105744Z"
+  }
+}

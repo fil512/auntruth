@@ -1,0 +1,82 @@
+{
+  "id": "XF2173",
+  "name": "Jane  Halliday",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2172",
+      "name": "James Gillespie [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2172.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2190",
+      "name": "William   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2190.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2189",
+      "name": "Jessie   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2189.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2188",
+      "name": "Jane   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2188.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2187",
+      "name": "Sarah   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2187.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2186",
+      "name": "Margaret   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2186.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2185",
+      "name": "Ann   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2185.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2184",
+      "name": "James   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2184.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:21Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2173.htm",
+    "extractionDate": "2025-10-02T00:05:01.982962Z"
+  }
+}

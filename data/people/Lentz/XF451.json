@@ -1,0 +1,60 @@
+{
+  "id": "XF451",
+  "name": "Otto  Lentz",
+  "lineage": "Lentz",
+  "birthDate": "Wednesday, January 01, 1902",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF445",
+    "name": "Ludwig Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF445.htm"
+  },
+  "mother": {
+    "id": "XF686",
+    "name": "Juliana Klingbeil-Klingbeil-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF686.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF452",
+      "name": "Emily (Lina) Hollander-Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF452.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF454",
+      "name": "Gwen   Lentz",
+      "url": "/auntruth/new/htm/L8/XF454.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF453",
+      "name": "Elva   Lentz",
+      "url": "/auntruth/new/htm/L8/XF453.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:14Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF451.htm",
+    "extractionDate": "2025-10-02T00:03:02.176994Z"
+  }
+}

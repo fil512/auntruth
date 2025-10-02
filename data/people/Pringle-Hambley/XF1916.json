@@ -1,0 +1,53 @@
+{
+  "id": "XF1916",
+  "name": "Fred  Newediuk",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, December 26, 1931",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1917",
+      "name": "Bernice X-Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1917.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF338",
+      "name": "Darrell   Newediuk",
+      "url": "/auntruth/new/htm/L3/XF338.htm",
+      "birthDate": "05/01/1955"
+    }
+  ],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "In Janet's Kitchen",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2085.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:33Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1916.htm",
+    "extractionDate": "2025-10-02T00:05:07.843958Z"
+  }
+}

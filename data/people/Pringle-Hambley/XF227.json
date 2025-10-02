@@ -1,0 +1,47 @@
+{
+  "id": "XF227",
+  "name": "Mary  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, September 11, 1801",
+  "birthLocation": "USA",
+  "deathDate": "Monday, October 14, 1878",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF208",
+    "name": "Philip Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF208.htm"
+  },
+  "mother": {
+    "id": "XF209",
+    "name": "Mary Cable-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF209.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF228",
+      "name": "Lewis Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF228.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:20Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF227.htm",
+    "extractionDate": "2025-10-02T00:05:10.296004Z"
+  }
+}

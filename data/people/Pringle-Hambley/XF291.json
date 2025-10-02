@@ -1,0 +1,110 @@
+{
+  "id": "XF291",
+  "name": "Margaret  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, December 01, 1908",
+  "birthLocation": "Dugald MB   CAN",
+  "deathDate": "Wednesday, July 09, 1997",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF289",
+    "name": "Ira Daniel Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF289.htm"
+  },
+  "mother": {
+    "id": "XF290",
+    "name": "Ella Aiken-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF290.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF292",
+      "name": "Karl Edwin Palmquist [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF292.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF363",
+      "name": "Janet   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF363.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF362",
+      "name": "Norman   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF362.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF361",
+      "name": "Lawrence   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF361.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF360",
+      "name": "Carl   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF360.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF359",
+      "name": "Margaret   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF359.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF358",
+      "name": "Eileen   Palmquist",
+      "url": "/auntruth/new/htm/L3/XF358.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Dugald MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "buried in Transcona Cemetery, Winnipeg, MB Canada",
+  "photos": [
+    {
+      "name": "Obituary Margaret Pringle",
+      "date": "Saturday, July 12, 1997",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI983.htm"
+    },
+    {
+      "name": "At Front Planter",
+      "date": "Saturday, November 01, 1958",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI991.htm"
+    },
+    {
+      "name": "60th Anniversary",
+      "date": "Thursday, December 20, 1956",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI968.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Dinner at Palmquist Farm",
+      "date": "Tuesday, November 01, 1955",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI985.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:50Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF291.htm",
+    "extractionDate": "2025-10-02T00:05:22.488646Z"
+  }
+}

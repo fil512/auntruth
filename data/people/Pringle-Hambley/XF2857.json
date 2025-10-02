@@ -1,0 +1,49 @@
+{
+  "id": "XF2857",
+  "name": "David  Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, August 27, 1802",
+  "birthLocation": "Morrisons Cove Bedford Co     USA",
+  "deathDate": "Friday, November 16, 1888",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2832",
+    "name": "Abraham Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2832.htm"
+  },
+  "mother": {
+    "id": "XF2833",
+    "name": "Elizabeth Fluck-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2833.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2858",
+      "name": "Catherine Rager-Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2858.htm",
+      "marriageDate": "Saturday, June 01, 1833"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill Twp Cambria Co   PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:24Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2857.htm",
+    "extractionDate": "2025-10-02T00:05:21.295095Z"
+  }
+}

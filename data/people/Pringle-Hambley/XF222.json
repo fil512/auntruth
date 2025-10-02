@@ -1,0 +1,133 @@
+{
+  "id": "XF222",
+  "name": "William  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, August 14, 1797",
+  "birthLocation": "Cambria County PA   USA",
+  "deathDate": "Wednesday, March 20, 1895",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF208",
+    "name": "Philip Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF208.htm"
+  },
+  "mother": {
+    "id": "XF209",
+    "name": "Mary Cable-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF209.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF223",
+      "name": "Elizabeth Bolewine-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF223.htm",
+      "marriageDate": "Thursday, January 01, 1818"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF263",
+      "name": "David   Pringle",
+      "url": "/auntruth/new/htm/L3/XF263.htm",
+      "birthDate": "02/26/1842"
+    },
+    {
+      "id": "XF262",
+      "name": "Susannah   Pringle",
+      "url": "/auntruth/new/htm/L3/XF262.htm",
+      "birthDate": "12/13/1838"
+    },
+    {
+      "id": "XF260",
+      "name": "Christina   Pringle",
+      "url": "/auntruth/new/htm/L3/XF260.htm",
+      "birthDate": "06/10/1836"
+    },
+    {
+      "id": "XF258",
+      "name": "Jacob   Pringle",
+      "url": "/auntruth/new/htm/L3/XF258.htm",
+      "birthDate": "04/06/1834"
+    },
+    {
+      "id": "XF255",
+      "name": "Isaac   Pringle",
+      "url": "/auntruth/new/htm/L3/XF255.htm",
+      "birthDate": "04/06/1834"
+    },
+    {
+      "id": "XF252",
+      "name": "William   Pringle",
+      "url": "/auntruth/new/htm/L3/XF252.htm",
+      "birthDate": "02/27/1832"
+    },
+    {
+      "id": "XF250",
+      "name": "Alexander B. Pringle",
+      "url": "/auntruth/new/htm/L3/XF250.htm",
+      "birthDate": "09/17/1829"
+    },
+    {
+      "id": "XF249",
+      "name": "Elizabeth   Pringle",
+      "url": "/auntruth/new/htm/L3/XF249.htm",
+      "birthDate": "09/14/1827"
+    },
+    {
+      "id": "XF247",
+      "name": "Margaret   Pringle",
+      "url": "/auntruth/new/htm/L3/XF247.htm",
+      "birthDate": "08/23/1825"
+    },
+    {
+      "id": "XF246",
+      "name": "John   Pringle",
+      "url": "/auntruth/new/htm/L3/XF246.htm",
+      "birthDate": "09/08/1823"
+    },
+    {
+      "id": "XF245",
+      "name": "Henry   Pringle",
+      "url": "/auntruth/new/htm/L3/XF245.htm",
+      "birthDate": "10/04/1821"
+    }
+  ],
+  "occupation": "sawmill & farmer",
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Married 1818. Buried in Pringle Hill Cemetery. Newspaper article Johnstown Tribune, Johnstown PA 17 Aug 1894 Have picture of house built by William Pringle in 1850. Taken by Lucy Pringle 6 Apr 1915. Pringle Hill Cemetery lot 22 Borm Cambria County, Croyle Township 11 miles from Johnstown. Originally member of the Independent Church, but joined United Brethren Church after marriage, and was a consistent member. In 1894 he was with Pringle Hill United Brethren Church.",
+  "photos": [
+    {
+      "name": "Patriarch William Pringle 1797-1895",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI392.htm"
+    },
+    {
+      "name": "William Pringle house built 1865",
+      "date": "Friday, June 04, 1915",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L3/XI403.htm"
+    },
+    {
+      "name": "William Pringle House built 1850",
+      "date": "Friday, June 04, 1915",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L3/XI401.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:18Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF222.htm",
+    "extractionDate": "2025-10-02T00:05:09.361929Z"
+  }
+}

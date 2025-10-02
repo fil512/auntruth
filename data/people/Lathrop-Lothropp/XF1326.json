@@ -1,0 +1,64 @@
+{
+  "id": "XF1326",
+  "name": "Irving Vernett Reynolds",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1327",
+      "name": "Emily Myrtell Lillibridge-Reynolds [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1327.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1331",
+      "name": "Mary Evelyn Reynolds",
+      "url": "/auntruth/new/htm/L4/XF1331.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1330",
+      "name": "Ernest Lyman Reynolds",
+      "url": "/auntruth/new/htm/L4/XF1330.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1329",
+      "name": "Nina Louise Reynolds",
+      "url": "/auntruth/new/htm/L4/XF1329.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1328",
+      "name": "Louis Irving Reynolds",
+      "url": "/auntruth/new/htm/L4/XF1328.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Westford CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:24Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1326.htm",
+    "extractionDate": "2025-10-02T00:05:34.880367Z"
+  }
+}

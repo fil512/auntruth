@@ -1,0 +1,47 @@
+{
+  "id": "XF2333",
+  "name": "Kjerstin  Pehrson",
+  "lineage": "Nelson",
+  "birthDate": "Thursday, December 19, 1833",
+  "birthLocation": "Vasterstad S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2343",
+    "name": "Pehr Bengtsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2343.htm"
+  },
+  "mother": {
+    "id": "XF2344",
+    "name": "Ingar Nilsdotter-Bengtsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2344.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2347",
+      "name": "Anders Nilsson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2347.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Vasterstad S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:31Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2333.htm",
+    "extractionDate": "2025-10-02T00:04:01.785698Z"
+  }
+}

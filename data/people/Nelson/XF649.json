@@ -1,0 +1,39 @@
+{
+  "id": "XF649",
+  "name": "MacKenzie",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF648",
+      "name": "Sheila Marjorie MacKenzie [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF648.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "2986 South Skagit Pedro Woolley WA 98284 USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:06Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF649.htm",
+    "extractionDate": "2025-10-02T00:04:11.395747Z"
+  }
+}

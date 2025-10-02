@@ -1,0 +1,41 @@
+{
+  "id": "XF2828",
+  "name": "Mary Anna Pershing",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2827",
+      "name": "Benjamin Stewart [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2827.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Westmoreland Co New Florence PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:11Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2828.htm",
+    "extractionDate": "2025-10-02T00:05:19.591709Z"
+  }
+}

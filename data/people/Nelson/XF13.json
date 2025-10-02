@@ -1,0 +1,122 @@
+{
+  "id": "XF13",
+  "name": "Olaf  Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, November 30, 1869",
+  "birthLocation": "Vasterstad S0   SWE",
+  "deathDate": "Sunday, January 04, 1953",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1",
+    "name": "Nils Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF1.htm"
+  },
+  "mother": {
+    "id": "XF2",
+    "name": "Kristina Hansdotter-Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF755",
+      "name": "Josefina Getz-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF755.htm",
+      "marriageDate": "Friday, March 26, 1897"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2252",
+      "name": "Victor Carl Nelson",
+      "url": "/auntruth/new/htm/L2/XF2252.htm",
+      "birthDate": "01/07/1920"
+    },
+    {
+      "id": "XF47",
+      "name": "Raymond Leslie Nelson",
+      "url": "/auntruth/new/htm/L2/XF47.htm",
+      "birthDate": "01/29/1918"
+    },
+    {
+      "id": "XF27",
+      "name": "Arthur Olaf Nelson",
+      "url": "/auntruth/new/htm/L2/XF27.htm",
+      "birthDate": "01/14/1913"
+    },
+    {
+      "id": "XF25",
+      "name": "Alice Maria Nelson",
+      "url": "/auntruth/new/htm/L2/XF25.htm",
+      "birthDate": "03/26/1906"
+    },
+    {
+      "id": "XF28",
+      "name": "Edwin Gordon Nelson",
+      "url": "/auntruth/new/htm/L2/XF28.htm",
+      "birthDate": "02/23/1904"
+    },
+    {
+      "id": "XF757",
+      "name": "Helgie Alphild Nelson",
+      "url": "/auntruth/new/htm/L2/XF757.htm",
+      "birthDate": "02/21/1902"
+    },
+    {
+      "id": "XF26",
+      "name": "Wilford Norman Nelson",
+      "url": "/auntruth/new/htm/L2/XF26.htm",
+      "birthDate": "05/16/1900"
+    },
+    {
+      "id": "XF756",
+      "name": "Eskil Gotthar Nelson",
+      "url": "/auntruth/new/htm/L2/XF756.htm",
+      "birthDate": "12/16/1897"
+    }
+  ],
+  "occupation": "farmer",
+  "address": "Narcisse MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "David Hagborg",
+  "notes": "Pronounced 'Uncle Oolaf'\nUncle Olaf's farm (Narcisse MB near Inwood) Married Josephine Getz 03/26/1897",
+  "photos": [
+    {
+      "name": "Uncle Olaf Nelson's Farm",
+      "date": "Sunday, August 01, 1915",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1414.htm"
+    },
+    {
+      "name": "The Original Borje Hansson Home and Water Delivery Cart",
+      "date": "Tuesday, June 01, 1897",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1381.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "On Horseback",
+      "date": "Sunday, August 18, 1918",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1425.htm"
+    },
+    {
+      "name": "Picking Wild Strawberries",
+      "date": "Tuesday, June 15, 1915",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1436.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:51:57Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF13.htm",
+    "extractionDate": "2025-10-02T00:03:58.464557Z"
+  }
+}

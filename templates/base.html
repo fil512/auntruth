@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}AuntieRuth.com{% endblock %}</title>
+
+    <!-- Phase 4 Modern Design System -->
+    <link rel="stylesheet" href="/auntruth/new/css/modern-design-system.css">
+    <link rel="stylesheet" href="/auntruth/new/css/modern-overrides.css">
+
+    <!-- Phase 2 Navigation -->
+    <link rel="stylesheet" href="/auntruth/new/css/navigation.css">
+
+    <!-- Phase 3 Components -->
+    <link rel="stylesheet" href="/auntruth/new/css/phase3-components.css">
+
+    {% block extra_css %}{% endblock %}
+</head>
+<body data-phase3-enabled>
+    <!-- Navigation will be injected by navigation.js -->
+    <div id="navigation-container"></div>
+
+    <!-- Main Content -->
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <center>
+            <div id="headlinks">
+                <a href="../">Home |</a>
+            </div>
+        </center>
+        <hr>
+        <center>
+            <b>WebPage Last Updated {% block last_updated %}{{ person.metadata.lastUpdated|default('Unknown') }}{% endblock %}</b><br>
+            Copyright 2003-2025<br>
+            <strong><b><a href="http://www.hagborg.com">Hagborg Community Systems Ltd.</a></b></strong>
+            All Rights Reserved.<br>
+        </center>
+    </footer>
+
+    <!-- Phase 2 Scripts -->
+    <script src="/auntruth/new/js/navigation.js" defer></script>
+    <script src="/auntruth/new/js/search.js" defer></script>
+
+    <!-- Phase 3 Integration -->
+    <script type="module" src="/auntruth/new/js/phase3-integration.js?v=20250927f"></script>
+
+    {% block extra_js %}{% endblock %}
+</body>
+</html>

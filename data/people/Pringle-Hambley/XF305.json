@@ -1,0 +1,56 @@
+{
+  "id": "XF305",
+  "name": "Howard(Howie)  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF303",
+    "name": "Keith Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF303.htm"
+  },
+  "mother": {
+    "id": "XF304",
+    "name": "Helen Bosal-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF304.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2877",
+      "name": "Keith II   Pringle",
+      "url": "/auntruth/new/htm/L3/XF2877.htm",
+      "birthDate": "01/01/1991"
+    }
+  ],
+  "occupation": "Director Operations Conklin Shows",
+  "address": "Orlando FL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Pringle Men",
+      "date": "Saturday, March 01, 1997",
+      "location": "Orlando Florida United States of America",
+      "url": "/auntruth/new/htm/L3/XI1624.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:56Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF305.htm",
+    "extractionDate": "2025-10-02T00:05:23.906703Z"
+  }
+}

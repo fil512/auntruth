@@ -36,13 +36,17 @@
   "email": null,
   "phone": "204-697-1752, 204-697-1752",
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Meadows MB Centennial Project History Book 1967",
   "notes": null,
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T19:00:03Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF642.htm",
-    "extractionDate": "2025-10-01T04:27:34.035272Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF642.htm",
+    "extractionDate": "2025-10-01T22:03:19.647982Z"
   }
 }

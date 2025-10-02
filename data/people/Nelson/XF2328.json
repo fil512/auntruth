@@ -1,0 +1,47 @@
+{
+  "id": "XF2328",
+  "name": "Margaret  Knowles",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF45",
+    "name": "Stanley Knowles [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF45.htm"
+  },
+  "mother": {
+    "id": "XF2327",
+    "name": "Vida -Knowles [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2327.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2724",
+      "name": "Y Foster [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2724.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Montreal QC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:29Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2328.htm",
+    "extractionDate": "2025-10-02T00:04:01.522886Z"
+  }
+}

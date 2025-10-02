@@ -1,0 +1,54 @@
+{
+  "id": "XF2569",
+  "name": "Barbara Anne Jones",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Thursday, June 24, 1937",
+  "birthLocation": "Newburgh, Orange County NY   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2568",
+    "name": "Emerson Edgar Jones [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2568.htm"
+  },
+  "mother": {
+    "id": "XF2566",
+    "name": "Winifred Gertrude Bradley-Jones [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2566.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2570",
+      "name": "Truby Lee Pulley [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2570.htm",
+      "marriageDate": "Sunday, June 22, 1958"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2618",
+      "name": "Debbie Lynne Pulley",
+      "url": "/auntruth/new/htm/L4/XF2618.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Warsaw, Duplin NC  USA",
+  "email": "bjpulley@gsiwave.com",
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:16Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2569.htm",
+    "extractionDate": "2025-10-02T00:06:00.413728Z"
+  }
+}

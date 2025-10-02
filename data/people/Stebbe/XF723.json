@@ -1,0 +1,64 @@
+{
+  "id": "XF723",
+  "name": "Suzanne",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF713",
+      "name": "George Fedorco [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF713.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF616",
+      "name": "Czerena   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF616.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF615",
+      "name": "Gloria   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF615.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF614",
+      "name": "Vladlo   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF614.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF613",
+      "name": "Frantisek   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF613.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Has pension of 900 Krone per month ($250) Milk costs 36 krone a quart.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:37Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF723.htm",
+    "extractionDate": "2025-10-02T00:03:56.942006Z"
+  }
+}

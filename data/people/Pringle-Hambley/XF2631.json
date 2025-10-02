@@ -1,0 +1,40 @@
+{
+  "id": "XF2631",
+  "name": "Christian  Shaffer",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2630",
+    "name": "Shaffer [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2630.htm"
+  },
+  "mother": {
+    "id": "XF2632",
+    "name": "Pringle-Shaffer [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2632.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "recorded William Pringle (b 1745) history",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:43Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2631.htm",
+    "extractionDate": "2025-10-02T00:05:14.178396Z"
+  }
+}

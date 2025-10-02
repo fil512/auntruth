@@ -1,0 +1,60 @@
+{
+  "id": "XF551",
+  "name": "Theodore (Ted)  Peluk",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, February 01, 1948",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF549",
+    "name": "Tom Peluk [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF549.htm"
+  },
+  "mother": {
+    "id": "XF675",
+    "name": "Anne Smokoroski-Peluk [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF675.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF552",
+      "name": "Gail Draward-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF552.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1089",
+      "name": "LeAnne   Peluk",
+      "url": "/auntruth/new/htm/L6/XF1089.htm",
+      "birthDate": "01/01/1979"
+    },
+    {
+      "id": "XF1090",
+      "name": "Doug   Peluk",
+      "url": "/auntruth/new/htm/L6/XF1090.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Ann Smokoroski-Peluk",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:20Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF551.htm",
+    "extractionDate": "2025-10-02T00:04:29.508899Z"
+  }
+}

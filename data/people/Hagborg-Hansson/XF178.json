@@ -50,6 +50,10 @@
   "email": null,
   "phone": "(204) 284-7822, (204) 284-7822",
   "website": null,
+  "languages": [],
+  "causeOfDeath": "Heart",
+  "genetics": "NS/ND",
+  "waitingStatus": null,
   "source": "David Hagborg",
   "notes": "Graduated from University of Manitoba in 1929 with Gold Medal. PhD University of Toronto. Plant Pathologist with Agriculture Canada Winnipeg Research Station 1934-1974. Started Hagborg Soil Co., CoffeSavr, & many small businesses.",
   "photos": [
@@ -2260,7 +2264,7 @@
   ],
   "metadata": {
     "lastUpdated": "2005-12-19T18:53:50Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF178.htm",
-    "extractionDate": "2025-10-01T04:27:20.491983Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF178.htm",
+    "extractionDate": "2025-10-01T22:03:04.369588Z"
   }
 }

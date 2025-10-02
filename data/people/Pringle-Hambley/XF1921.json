@@ -1,0 +1,47 @@
+{
+  "id": "XF1921",
+  "name": "Scott Ian Campbell",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, August 26, 1991",
+  "birthLocation": "Calgary AB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF342",
+    "name": "Ian Philip Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF342.htm"
+  },
+  "mother": {
+    "id": "XF1920",
+    "name": "Patricia Reitmeyer-Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1920.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Deerpath Drive Deerfield IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "In Kanata",
+      "date": "Thursday, August 01, 1996",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI714.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:36Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1921.htm",
+    "extractionDate": "2025-10-02T00:05:08.123706Z"
+  }
+}

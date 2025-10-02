@@ -1,0 +1,41 @@
+{
+  "id": "XF2724",
+  "name": "Y  Foster",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2717",
+      "name": "Robert   Foster",
+      "url": "/auntruth/new/htm/L2/XF2717.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:25Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2724.htm",
+    "extractionDate": "2025-10-02T00:04:08.768269Z"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "XF205",
+  "name": "Catherine  Cable",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF268",
+    "name": "John Martin Cable [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF268.htm"
+  },
+  "mother": {
+    "id": "XF269",
+    "name": "Mary Christi Warner(Ripley?)-Cable [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF269.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF204",
+      "name": "George Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF204.htm",
+      "marriageDate": "Sunday, May 05, 1793"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2464",
+      "name": "George   Pringle",
+      "url": "/auntruth/new/htm/L3/XF2464.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Married George 5 May 1793",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:10Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF205.htm",
+    "extractionDate": "2025-10-02T00:05:08.411757Z"
+  }
+}

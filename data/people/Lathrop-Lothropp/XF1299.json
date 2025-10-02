@@ -1,0 +1,78 @@
+{
+  "id": "XF1299",
+  "name": "Aurilla Malethe Lambert",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1160",
+    "name": "Samuel Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1160.htm"
+  },
+  "mother": {
+    "id": "XF1159",
+    "name": "Pamelia Lothrop-Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1159.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1300",
+      "name": "Alonzo John Judkins [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1300.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1311",
+      "name": "Corrydon Ardell Judkins",
+      "url": "/auntruth/new/htm/L4/XF1311.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1309",
+      "name": "Florence Blanche Judkins",
+      "url": "/auntruth/new/htm/L4/XF1309.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1305",
+      "name": "Walter Alonzo Judkins",
+      "url": "/auntruth/new/htm/L4/XF1305.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1303",
+      "name": "Wilbur Llewell Judkins",
+      "url": "/auntruth/new/htm/L4/XF1303.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1301",
+      "name": "Eva Aldora Judkins",
+      "url": "/auntruth/new/htm/L4/XF1301.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Dover South Mills ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "\u0004Z",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:13Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1299.htm",
+    "extractionDate": "2025-10-02T00:05:33.417148Z"
+  }
+}

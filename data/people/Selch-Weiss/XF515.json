@@ -1,0 +1,62 @@
+{
+  "id": "XF515",
+  "name": "Clarence  Bush",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": "Thursday, January 01, 1987",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF513",
+    "name": "Bush [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF513.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF516",
+      "name": "Eleanor Laurie-Bush [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF516.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF527",
+      "name": "Laurie   Bush",
+      "url": "/auntruth/new/htm/L6/XF527.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF518",
+      "name": "Clarence (Clare   Bush",
+      "url": "/auntruth/new/htm/L6/XF518.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF517",
+      "name": "David   Bush",
+      "url": "/auntruth/new/htm/L6/XF517.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:46Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF515.htm",
+    "extractionDate": "2025-10-02T00:04:27.393477Z"
+  }
+}

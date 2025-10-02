@@ -1,0 +1,53 @@
+{
+  "id": "XF2618",
+  "name": "Debbie Lynne Pulley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Warsaw, Duplin NC   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2570",
+    "name": "Truby Lee Pulley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2570.htm"
+  },
+  "mother": {
+    "id": "XF2569",
+    "name": "Barbara Anne Jones-Pulley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2569.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2620",
+      "name": "Justin Daniel Pulley",
+      "url": "/auntruth/new/htm/L4/XF2620.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2619",
+      "name": "Matthew Bradley Pulley",
+      "url": "/auntruth/new/htm/L4/XF2619.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:37Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2618.htm",
+    "extractionDate": "2025-10-02T00:06:02.931456Z"
+  }
+}

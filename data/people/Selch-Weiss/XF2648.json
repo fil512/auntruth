@@ -1,0 +1,39 @@
+{
+  "id": "XF2648",
+  "name": "Jim  Lish",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2639",
+      "name": "Robin Kay Schmidt-Lish [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2639.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "MD  USA",
+  "email": "jlish11@starpower.net",
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Robin Lish",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:50Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2648.htm",
+    "extractionDate": "2025-10-02T00:04:18.648778Z"
+  }
+}

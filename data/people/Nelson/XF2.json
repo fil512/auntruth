@@ -1,0 +1,133 @@
+{
+  "id": "XF2",
+  "name": "Kristina  Hansdotter",
+  "lineage": "Nelson",
+  "birthDate": "Monday, July 24, 1848",
+  "birthLocation": "Vasterstad S0   SWE",
+  "deathDate": "Sunday, May 19, 1929",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF647",
+    "name": "Hans Olsson Loo [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF647.htm"
+  },
+  "mother": {
+    "id": "XF646",
+    "name": "Karna Jonsson-Loo [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF646.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1",
+      "name": "Nils Persson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF1.htm",
+      "marriageDate": "Thursday, June 11, 1868"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF8",
+      "name": "Franz Erhard Nelson",
+      "url": "/auntruth/new/htm/L2/XF8.htm",
+      "birthDate": "01/08/1892"
+    },
+    {
+      "id": "XF5",
+      "name": "Anna (Annie) Naomi Nelson",
+      "url": "/auntruth/new/htm/L2/XF5.htm",
+      "birthDate": "01/27/1889"
+    },
+    {
+      "id": "XF15",
+      "name": "Otto Ernest Nelson",
+      "url": "/auntruth/new/htm/L2/XF15.htm",
+      "birthDate": "02/06/1886"
+    },
+    {
+      "id": "XF6",
+      "name": "Ellida Augusta Nelson",
+      "url": "/auntruth/new/htm/L2/XF6.htm",
+      "birthDate": "10/13/1883"
+    },
+    {
+      "id": "XF14",
+      "name": "Karl (Charlie) Emil Nelson",
+      "url": "/auntruth/new/htm/L2/XF14.htm",
+      "birthDate": "06/19/1881"
+    },
+    {
+      "id": "XF10",
+      "name": "Vilhelm Bill Nelson",
+      "url": "/auntruth/new/htm/L2/XF10.htm",
+      "birthDate": "11/01/1878"
+    },
+    {
+      "id": "XF779",
+      "name": "Elin   Nelson",
+      "url": "/auntruth/new/htm/L2/XF779.htm",
+      "birthDate": "06/03/1876"
+    },
+    {
+      "id": "XF3",
+      "name": "Karolina   Nelson",
+      "url": "/auntruth/new/htm/L2/XF3.htm",
+      "birthDate": "02/02/1874"
+    },
+    {
+      "id": "XF11",
+      "name": "Maria   Nelson",
+      "url": "/auntruth/new/htm/L2/XF11.htm",
+      "birthDate": "10/29/1871"
+    },
+    {
+      "id": "XF13",
+      "name": "Olaf   Nelson",
+      "url": "/auntruth/new/htm/L2/XF13.htm",
+      "birthDate": "11/30/1869"
+    }
+  ],
+  "occupation": null,
+  "address": "783 Bannatyne Ave Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Frances Pearson",
+  "notes": "Have picture before left Sweden Married Nels Persson 06/11/1868",
+  "photos": [
+    {
+      "name": "Nils Persson Front Porch",
+      "date": "Tuesday, March 01, 1921",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1369.htm"
+    },
+    {
+      "name": "Nils Persson & Kristina",
+      "date": "Tuesday, March 01, 1921",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1367.htm"
+    },
+    {
+      "name": "Buggy Party at Assiniboine Park Pavilion",
+      "date": "Monday, August 01, 1910",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1390.htm"
+    },
+    {
+      "name": "Nils Persson Family Portrait in Sweden",
+      "date": "Friday, December 05, 1890",
+      "location": "Sweden General Sweden",
+      "url": "/auntruth/new/htm/L0/XI1361.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:51:48Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2.htm",
+    "extractionDate": "2025-10-02T00:03:59.265767Z"
+  }
+}

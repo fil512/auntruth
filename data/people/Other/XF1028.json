@@ -1,0 +1,43 @@
+{
+  "id": "XF1028",
+  "name": "Lily  Schultz",
+  "lineage": "",
+  "birthDate": null,
+  "birthLocation": "MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1831",
+    "name": "Jake Schultz []",
+    "url": "/auntruth/new/htm/L0/XF1831.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF395",
+      "name": "Edward Schreyer [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF395.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:15Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF1028.htm",
+    "extractionDate": "2025-10-02T00:06:09.576950Z"
+  }
+}

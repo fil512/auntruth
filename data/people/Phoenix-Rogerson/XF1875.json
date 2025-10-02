@@ -1,0 +1,75 @@
+{
+  "id": "XF1875",
+  "name": "Joseph  Hamilton",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Gaughtrees Wa",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2057",
+      "name": "Janet   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2057.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2056",
+      "name": "Rachel   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2056.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2054",
+      "name": "Joseph   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2054.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2052",
+      "name": "Mary   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2052.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2050",
+      "name": "Alexander   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2050.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2044",
+      "name": "Jean   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2044.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2042",
+      "name": "John   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2042.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "MDP",
+  "address": "Gaughtrees    UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:16Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1875.htm",
+    "extractionDate": "2025-10-02T00:04:48.348793Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "XF2881",
+  "name": "Otto  Greifenberger",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2879",
+      "name": "Herman Otto Greifenberger",
+      "url": "/auntruth/new/htm/L6/XF2879.htm",
+      "birthDate": "11/15/1906"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:34Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2881.htm",
+    "extractionDate": "2025-10-02T00:04:20.752548Z"
+  }
+}

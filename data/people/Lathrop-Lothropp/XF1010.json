@@ -1,0 +1,60 @@
+{
+  "id": "XF1010",
+  "name": "Robert B. Lowthroppe",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, January 01, 1510",
+  "birthLocation": "Cherry Burton YO   UKG",
+  "deathDate": "Monday, October 20, 1558",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1009",
+    "name": "John C. Lowthroppe [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1009.htm"
+  },
+  "mother": {
+    "id": "XF1908",
+    "name": "Margaret Wade-Lowthroppe [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1908.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1011",
+      "name": "Ellen Ashton (Aston?)-Lowthroppe [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1011.htm",
+      "marriageDate": "Tuesday, January 01, 1535"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1012",
+      "name": "Thomas   Lowthroppe",
+      "url": "/auntruth/new/htm/L4/XF1012.htm",
+      "birthDate": "01/01/1550"
+    },
+    {
+      "id": "XF1821",
+      "name": "John   Lowthroppe",
+      "url": "/auntruth/new/htm/L4/XF1821.htm",
+      "birthDate": "01/01/1538"
+    }
+  ],
+  "occupation": null,
+  "address": "Cherry Burton YO  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "see GDRH and LDS",
+  "notes": "Succeeded to the estates of his father in Cherry Burton and made considerable additions to them. He made his will 16 July 1558 which was proved 20 October 1558. Relative: Joseph Smith, the Prophet Relative: President Wilford Woodruff",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:06Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1010.htm",
+    "extractionDate": "2025-10-02T00:05:28.532089Z"
+  }
+}

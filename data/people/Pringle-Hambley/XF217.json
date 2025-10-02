@@ -1,0 +1,60 @@
+{
+  "id": "XF217",
+  "name": "William  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, March 19, 1790",
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF201",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF201.htm"
+  },
+  "mother": {
+    "id": "XF202",
+    "name": "Mary Wertz-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF202.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF218",
+      "name": "-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF218.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF219",
+      "name": "-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF219.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2632",
+      "name": "Pringle",
+      "url": "/auntruth/new/htm/L3/XF2632.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:16Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF217.htm",
+    "extractionDate": "2025-10-02T00:05:09.038690Z"
+  }
+}

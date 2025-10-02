@@ -1,0 +1,40 @@
+{
+  "id": "XF880",
+  "name": "Hubert  Parent",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF878",
+    "name": "Jacques Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF878.htm"
+  },
+  "mother": {
+    "id": "XF879",
+    "name": "Pauline -Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF879.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Joseph-Guy Parent",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:50Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF880.htm",
+    "extractionDate": "2025-10-02T00:04:34.748171Z"
+  }
+}

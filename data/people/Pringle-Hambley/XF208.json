@@ -1,0 +1,133 @@
+{
+  "id": "XF208",
+  "name": "Philip  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, October 20, 1772",
+  "birthLocation": "PA   USA",
+  "deathDate": "Thursday, November 18, 1841",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF201",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF201.htm"
+  },
+  "mother": {
+    "id": "XF202",
+    "name": "Mary Wertz-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF202.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF209",
+      "name": "Mary Cable-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF209.htm",
+      "marriageDate": "Tuesday, October 07, 1794"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF241",
+      "name": "Margaret   Pringle",
+      "url": "/auntruth/new/htm/L3/XF241.htm",
+      "birthDate": "05/30/1817"
+    },
+    {
+      "id": "XF239",
+      "name": "John P. Pringle",
+      "url": "/auntruth/new/htm/L3/XF239.htm",
+      "birthDate": "10/22/1815"
+    },
+    {
+      "id": "XF237",
+      "name": "Philip   Pringle",
+      "url": "/auntruth/new/htm/L3/XF237.htm",
+      "birthDate": "06/29/1813"
+    },
+    {
+      "id": "XF235",
+      "name": "Sarah   Pringle",
+      "url": "/auntruth/new/htm/L3/XF235.htm",
+      "birthDate": "04/14/1811"
+    },
+    {
+      "id": "XF233",
+      "name": "Susanna   Pringle",
+      "url": "/auntruth/new/htm/L3/XF233.htm",
+      "birthDate": "10/29/1808"
+    },
+    {
+      "id": "XF231",
+      "name": "Jacob   Pringle",
+      "url": "/auntruth/new/htm/L3/XF231.htm",
+      "birthDate": "04/13/1806"
+    },
+    {
+      "id": "XF229",
+      "name": "Samuel   Pringle",
+      "url": "/auntruth/new/htm/L3/XF229.htm",
+      "birthDate": "03/03/1804"
+    },
+    {
+      "id": "XF227",
+      "name": "Mary   Pringle",
+      "url": "/auntruth/new/htm/L3/XF227.htm",
+      "birthDate": "09/11/1801"
+    },
+    {
+      "id": "XF224",
+      "name": "Martin   Pringle",
+      "url": "/auntruth/new/htm/L3/XF224.htm",
+      "birthDate": "02/19/1800"
+    },
+    {
+      "id": "XF222",
+      "name": "William   Pringle",
+      "url": "/auntruth/new/htm/L3/XF222.htm",
+      "birthDate": "08/14/1797"
+    },
+    {
+      "id": "XF220",
+      "name": "Christina   Pringle",
+      "url": "/auntruth/new/htm/L3/XF220.htm",
+      "birthDate": "11/08/1795"
+    }
+  ],
+  "occupation": "farmer",
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Married 7 Oct 1794 at Frankstown PA Mentioned in newspaper article Johnstown Tribune, Johnstown PA re birthday of son William 17 Aug 1894 Buried Pringle Hill Cemetery Lot#23 Tombstone reads: Phillip Pringle Who departed this life the 18th day of November A.D. 1841 aged 69 years and 29 days. Man that is born of a woman is but few days and full of woe. Job ch XIV v1 Go home my friends, dry up your tears I must lay here til Christ appears My debts are payd, my grave you see, Prepare yourselves to follow me. 'Elizabeth' buried down row is actually wife Mary Cable died 1858.",
+  "photos": [
+    {
+      "name": "Martin Pringle died 1864 in Civill War",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Summerhill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI391.htm"
+    },
+    {
+      "name": "Martin Pringle 1800-1876 and wife Elizabeth Walter 1805-1855",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI390.htm"
+    },
+    {
+      "name": "Patriarch Philip Pringle 1772-1841",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI388.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:12Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF208.htm",
+    "extractionDate": "2025-10-02T00:05:08.600603Z"
+  }
+}

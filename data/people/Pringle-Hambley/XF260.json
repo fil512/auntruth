@@ -1,0 +1,47 @@
+{
+  "id": "XF260",
+  "name": "Christina  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, June 10, 1836",
+  "birthLocation": "Cambria County PA   USA",
+  "deathDate": "Sunday, March 14, 1915",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF222",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF222.htm"
+  },
+  "mother": {
+    "id": "XF223",
+    "name": "Elizabeth Bolewine-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF223.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF261",
+      "name": "Peter Fleck [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF261.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Pringle Hill Cemetery Lot#58 Lived with father William after husband Peter's death",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:35Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF260.htm",
+    "extractionDate": "2025-10-02T00:05:13.888063Z"
+  }
+}

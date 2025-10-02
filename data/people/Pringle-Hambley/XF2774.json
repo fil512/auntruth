@@ -1,0 +1,49 @@
+{
+  "id": "XF2774",
+  "name": "Samuel Winfield Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, May 07, 1864",
+  "birthLocation": "Summerhill Croyle Twp     USA",
+  "deathDate": "Friday, October 02, 1931",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2760",
+    "name": "Elias Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2760.htm"
+  },
+  "mother": {
+    "id": "XF2759",
+    "name": "Maria Pringle-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2759.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2775",
+      "name": "Magdalena (Lena M. Snyder-Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2775.htm",
+      "marriageDate": "Thursday, September 30, 1886"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:48Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2774.htm",
+    "extractionDate": "2025-10-02T00:05:16.558641Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "XF1595",
+  "name": "Augustus Harring Daggett",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "NJ   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1596",
+      "name": "Fannie Jennie Merrill-Daggett [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1596.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1598",
+      "name": "Ethel May Daggett",
+      "url": "/auntruth/new/htm/L4/XF1598.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1597",
+      "name": "Leola Jennie Daggett",
+      "url": "/auntruth/new/htm/L4/XF1597.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Camden NJ  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:18Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1595.htm",
+    "extractionDate": "2025-10-02T00:05:48.798033Z"
+  }
+}

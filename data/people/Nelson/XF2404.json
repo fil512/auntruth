@@ -1,0 +1,78 @@
+{
+  "id": "XF2404",
+  "name": "Malina  Hansson",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF647",
+    "name": "Hans Olsson Loo [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF647.htm"
+  },
+  "mother": {
+    "id": "XF646",
+    "name": "Karna Jonsson-Loo [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF646.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2405",
+      "name": "Nils Eks [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2405.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2496",
+      "name": "Mathilda   Eks",
+      "url": "/auntruth/new/htm/L2/XF2496.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2492",
+      "name": "Nils   Eks",
+      "url": "/auntruth/new/htm/L2/XF2492.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2413",
+      "name": "Anders   Eks",
+      "url": "/auntruth/new/htm/L2/XF2413.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2408",
+      "name": "Hanna   Eks",
+      "url": "/auntruth/new/htm/L2/XF2408.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2406",
+      "name": "Elna   Eks",
+      "url": "/auntruth/new/htm/L2/XF2406.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:02Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2404.htm",
+    "extractionDate": "2025-10-02T00:04:05.568545Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "XF2511",
+  "name": "Nils  Larsson",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2510",
+      "name": "Anna Hansson-Larsson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2510.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2513",
+      "name": "Karolina   Larsson",
+      "url": "/auntruth/new/htm/L2/XF2513.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2512",
+      "name": "Hans Olof Larsson",
+      "url": "/auntruth/new/htm/L2/XF2512.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2497",
+      "name": "Nils   Hoglund",
+      "url": "/auntruth/new/htm/L2/XF2497.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:49Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2511.htm",
+    "extractionDate": "2025-10-02T00:04:07.734262Z"
+  }
+}

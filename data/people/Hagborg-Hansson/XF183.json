@@ -24,6 +24,10 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": "Cystic Fibrosi",
+  "genetics": "CF/",
+  "waitingStatus": null,
   "source": null,
   "notes": null,
   "photos": [
@@ -91,7 +95,7 @@
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:54:00Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF183.htm",
-    "extractionDate": "2025-10-01T04:27:20.937761Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF183.htm",
+    "extractionDate": "2025-10-01T22:03:04.707155Z"
   }
 }

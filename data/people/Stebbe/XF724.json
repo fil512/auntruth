@@ -1,0 +1,60 @@
+{
+  "id": "XF724",
+  "name": "Margareta  Fedorco",
+  "lineage": "Stebbe",
+  "birthDate": "Thursday, January 01, 1931",
+  "birthLocation": "CZE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF713",
+    "name": "George Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF713.htm"
+  },
+  "mother": {
+    "id": "XF722",
+    "name": "Margareta Varga-Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF722.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF725",
+      "name": "Vargova [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF725.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF726",
+      "name": "?   Vargova",
+      "url": "/auntruth/new/htm/L7/XF726.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF609",
+      "name": "?   Vargova",
+      "url": "/auntruth/new/htm/L7/XF609.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Kisne Revche okm Michalavce   CZE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Born when Uncle Johnny was visiting Czechoslovakia. Uncle Johnny corresponds with her and would like her to receive $5-6000 when he dies. Address is not complete. Can perhaps get from Frantisek Fedorco or from place where Uncle Johnny sends money to her through : Voyages Kelen Travel 2050 Rue Mansfield Ste 510 Montreal, Quebec H3A 1Y9 Canada Telephone (514) 842-9548",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:38Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF724.htm",
+    "extractionDate": "2025-10-02T00:03:56.963161Z"
+  }
+}

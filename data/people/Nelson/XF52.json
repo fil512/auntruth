@@ -1,0 +1,73 @@
+{
+  "id": "XF52",
+  "name": "Hilma Agneta Esterberg",
+  "lineage": "Nelson",
+  "birthDate": "Wednesday, November 27, 1895",
+  "birthLocation": "MB   CAN",
+  "deathDate": "Friday, August 22, 1986",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF12",
+    "name": "Johannes John Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF12.htm"
+  },
+  "mother": {
+    "id": "XF11",
+    "name": "Maria Nelson-Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF11.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF56",
+      "name": "Andrew Cameron [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF56.htm",
+      "marriageDate": "Wednesday, January 25, 1922"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF57",
+      "name": "Hilton   Cameron",
+      "url": "/auntruth/new/htm/L2/XF57.htm",
+      "birthDate": "11/01/1929"
+    },
+    {
+      "id": "XF55",
+      "name": "Duncan Rodney Cameron",
+      "url": "/auntruth/new/htm/L2/XF55.htm",
+      "birthDate": "10/28/1924"
+    },
+    {
+      "id": "XF58",
+      "name": "Ronald Andrew Cameron",
+      "url": "/auntruth/new/htm/L2/XF58.htm",
+      "birthDate": "02/05/1923"
+    }
+  ],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "We have photo of Hilma as a baby with mother Aunt Mary Esterberg Married Andrew Cameron 01/25/1922",
+  "photos": [
+    {
+      "name": "The Esterbergs",
+      "date": "Sunday, January 20, 1924",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1368.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:22Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF52.htm",
+    "extractionDate": "2025-10-02T00:04:10.505160Z"
+  }
+}

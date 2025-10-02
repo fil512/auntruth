@@ -1,0 +1,47 @@
+{
+  "id": "XF780",
+  "name": "Nancy Sheila Byrtus",
+  "lineage": "Nelson",
+  "birthDate": "Wednesday, July 26, 1967",
+  "birthLocation": "Vancouver BC   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF43",
+    "name": "George Charles Byrtus [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF43.htm"
+  },
+  "mother": {
+    "id": "XF42",
+    "name": "Pamela Elizabeth Nelson-Byrtus [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF42.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Vancouver BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [
+    {
+      "name": "At Hilding Nelson's Memorial",
+      "date": "Saturday, October 15, 1994",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1448.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:03Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF780.htm",
+    "extractionDate": "2025-10-02T00:04:13.496966Z"
+  }
+}

@@ -38,6 +38,10 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Hemfrid Johnsson",
   "notes": "Eldest daughter. After completing school helped mother at home. Worked in Winnipeg for 1 year and married in 1924, moving to Meadows. Took active part in community affairs.",
   "photos": [
@@ -57,7 +61,7 @@
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:52:33Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF70.htm",
-    "extractionDate": "2025-10-01T04:27:34.344190Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF70.htm",
+    "extractionDate": "2025-10-01T22:03:20.103066Z"
   }
 }

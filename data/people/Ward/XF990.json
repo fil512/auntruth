@@ -1,0 +1,54 @@
+{
+  "id": "XF990",
+  "name": "William  Ward",
+  "lineage": "Ward",
+  "birthDate": "Wednesday, November 19, 1664",
+  "birthLocation": "Newton MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF982",
+    "name": "William Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF982.htm"
+  },
+  "mother": {
+    "id": "XF983",
+    "name": "-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF983.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF991",
+      "name": "Abigail -Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF991.htm",
+      "marriageDate": "Saturday, December 31, 1689"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF992",
+      "name": "John   Ward",
+      "url": "/auntruth/new/htm/L5/XF992.htm",
+      "birthDate": "02/23/1690"
+    }
+  ],
+  "occupation": null,
+  "address": "Newton MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 31 Dec 1689 in Newton MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:56Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF990.htm",
+    "extractionDate": "2025-10-02T00:03:40.997187Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF764",
+  "name": "Joseph Nils Os Esterberg",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, March 20, 1906",
+  "birthLocation": "MB   CAN",
+  "deathDate": "Sunday, April 01, 1906",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF12",
+    "name": "Johannes John Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF12.htm"
+  },
+  "mother": {
+    "id": "XF11",
+    "name": "Maria Nelson-Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF11.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "Buried at Brookside Cemetery under name of Joseph Dean",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:56Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF764.htm",
+    "extractionDate": "2025-10-02T00:04:12.613241Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF1821",
+  "name": "John  Lowthroppe",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, January 01, 1538",
+  "birthLocation": "Etton YO   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1010",
+    "name": "Robert B. Lowthroppe [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1010.htm"
+  },
+  "mother": {
+    "id": "XF1011",
+    "name": "Ellen Ashton (Aston?)-Lowthroppe [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1011.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Cherry Burton YO  UKG",
+  "email": null,
+  "phone": "D, D",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Church of Jesus Christ of Latter-Day Saints (Mormons)",
+  "notes": "Relative of Joseph Smith, the Prophet",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:54Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1821.htm",
+    "extractionDate": "2025-10-02T00:05:57.708545Z"
+  }
+}

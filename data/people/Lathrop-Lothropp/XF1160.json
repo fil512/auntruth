@@ -1,0 +1,72 @@
+{
+  "id": "XF1160",
+  "name": "Samuel  Lambert",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Tuesday, February 03, 1795",
+  "birthLocation": "Winthrop ME   USA",
+  "deathDate": "Sunday, February 16, 1873",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1161",
+    "name": "Paul Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1161.htm"
+  },
+  "mother": {
+    "id": "XF1162",
+    "name": "Mercy Dexter-Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1162.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1159",
+      "name": "Pamelia Lothrop-Lambert [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1159.htm",
+      "marriageDate": "Sunday, June 13, 1830"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1559",
+      "name": "ALbert   Lambert",
+      "url": "/auntruth/new/htm/L4/XF1559.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1558",
+      "name": "Charles   Lambert",
+      "url": "/auntruth/new/htm/L4/XF1558.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1548",
+      "name": "Samuel   Lambert",
+      "url": "/auntruth/new/htm/L4/XF1548.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1299",
+      "name": "Aurilla Malethe Lambert",
+      "url": "/auntruth/new/htm/L4/XF1299.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Dover ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 13 Jun 1830 in Dover ME Died in Dover ME",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:14Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1160.htm",
+    "extractionDate": "2025-10-02T00:05:30.117344Z"
+  }
+}

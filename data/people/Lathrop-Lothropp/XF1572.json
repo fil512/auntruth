@@ -1,0 +1,40 @@
+{
+  "id": "XF1572",
+  "name": "Edwin Fremont Chapin",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Saco ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1571",
+    "name": "Joseph Eugene Chapin [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1571.htm"
+  },
+  "mother": {
+    "id": "XF1570",
+    "name": "Martha Amanda Lambert-Chapin [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1570.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Saco ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:09Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1572.htm",
+    "extractionDate": "2025-10-02T00:05:47.622565Z"
+  }
+}

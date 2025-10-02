@@ -1,0 +1,39 @@
+{
+  "id": "XF2611",
+  "name": "William Floyd Jones",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2568",
+      "name": "Emerson Edgar Jones",
+      "url": "/auntruth/new/htm/L4/XF2568.htm",
+      "birthDate": "07/25/1904"
+    }
+  ],
+  "occupation": null,
+  "address": "Ellenville NY  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:34Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2611.htm",
+    "extractionDate": "2025-10-02T00:06:02.613175Z"
+  }
+}

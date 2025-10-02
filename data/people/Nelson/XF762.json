@@ -1,0 +1,58 @@
+{
+  "id": "XF762",
+  "name": "Lilly  McSkimmings",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF50",
+      "name": "Franz-Johan Albin Esterberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF50.htm",
+      "marriageDate": "Wednesday, November 10, 1920"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF773",
+      "name": "Glenn Dale Esterberg",
+      "url": "/auntruth/new/htm/L2/XF773.htm",
+      "birthDate": "01/01/1930"
+    },
+    {
+      "id": "XF770",
+      "name": "Gerald Edward Esterberg",
+      "url": "/auntruth/new/htm/L2/XF770.htm",
+      "birthDate": "01/01/1925"
+    },
+    {
+      "id": "XF765",
+      "name": "Frank Gordon Esterberg",
+      "url": "/auntruth/new/htm/L2/XF765.htm",
+      "birthDate": "12/17/1921"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:54Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF762.htm",
+    "extractionDate": "2025-10-02T00:04:12.514181Z"
+  }
+}

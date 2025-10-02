@@ -1,0 +1,53 @@
+{
+  "id": "XF339",
+  "name": "Jessica  Newediuk",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, May 03, 1985",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF338",
+    "name": "Darrell Newediuk [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF338.htm"
+  },
+  "mother": {
+    "id": "XF337",
+    "name": "Janet Ruth Campbell-Newediuk [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF337.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": "newediuk@mts.net",
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Cousins",
+      "date": "Monday, June 02, 1986",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI859.htm"
+    },
+    {
+      "name": "Backyard",
+      "date": "Monday, July 01, 1985",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI974.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:17Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF339.htm",
+    "extractionDate": "2025-10-02T00:05:25.930161Z"
+  }
+}

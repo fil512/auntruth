@@ -1,0 +1,47 @@
+{
+  "id": "XF2120",
+  "name": "William  Rogerson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1877",
+    "name": "John Johnson Rogerson of Third [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1877.htm"
+  },
+  "mother": {
+    "id": "XF1876",
+    "name": "Elizabeth Mounsey-Rogerson of Third [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1876.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2121",
+      "name": "-Rogerson [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2121.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": "Sons died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:59Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2120.htm",
+    "extractionDate": "2025-10-02T00:04:59.361186Z"
+  }
+}

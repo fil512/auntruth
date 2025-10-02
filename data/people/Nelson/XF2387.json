@@ -1,0 +1,40 @@
+{
+  "id": "XF2387",
+  "name": "Kevin  Orieux",
+  "lineage": "Nelson",
+  "birthDate": "Thursday, March 03, 1960",
+  "birthLocation": "BC   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2382",
+    "name": "Edmond Joseph Orieux [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2382.htm"
+  },
+  "mother": {
+    "id": "XF33",
+    "name": "Eileen Elizabe Nelson-Orieux [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF33.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:54Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2387.htm",
+    "extractionDate": "2025-10-02T00:04:04.615266Z"
+  }
+}

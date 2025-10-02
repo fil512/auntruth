@@ -1,0 +1,72 @@
+{
+  "id": "XF394",
+  "name": "John  Schreyer",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "POL",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1029",
+    "name": "Schreyer [Selch-Weiss]",
+    "url": "/auntruth/htm/L6/XF1029.htm"
+  },
+  "mother": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF395",
+      "name": "Edward   Schreyer",
+      "url": "/auntruth/htm/L6/XF395.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:41Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF394.htm",
+    "extractionDate": "2025-10-02T00:04:24.158815Z"
+  }
+}

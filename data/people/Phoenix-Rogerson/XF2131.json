@@ -1,0 +1,54 @@
+{
+  "id": "XF2131",
+  "name": "Sarah Elizabe Kirkland",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2119",
+    "name": "William J. Kirkland [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2119.htm"
+  },
+  "mother": {
+    "id": "XF2118",
+    "name": "Margaret Jane Rogerson-Kirkland [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2118.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2132",
+      "name": "Alex Glass [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2132.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2133",
+      "name": "Donald John Glass",
+      "url": "/auntruth/new/htm/L9/XF2133.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:04Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2131.htm",
+    "extractionDate": "2025-10-02T00:04:59.860613Z"
+  }
+}

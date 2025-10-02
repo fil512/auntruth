@@ -1,0 +1,40 @@
+{
+  "id": "XF721",
+  "name": null,
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF718",
+    "name": "Tim  [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF718.htm"
+  },
+  "mother": {
+    "id": "XF719",
+    "name": "Ann Simcoe- [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF719.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:37Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF721.htm",
+    "extractionDate": "2025-10-02T00:03:56.833407Z"
+  }
+}

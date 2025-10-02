@@ -1,0 +1,60 @@
+{
+  "id": "XF693",
+  "name": "Frederic(Freddy  Martin",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, August 04, 1921",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF804",
+    "name": "Henry Martin [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF804.htm"
+  },
+  "mother": {
+    "id": "XF803",
+    "name": "Seraphine Zirk-Martin [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF803.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF692",
+      "name": "Elizabeth (Bett Selch-Martin [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF692.htm",
+      "marriageDate": "Tuesday, June 01, 1943"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Gave Lorraine and David a lot of help in building field for house by stand in 1977 Married Betty 10/02/1943.",
+  "photos": [
+    {
+      "name": "Albert & Linda Wedding",
+      "date": "Thursday, June 01, 1944",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1765.htm"
+    },
+    {
+      "name": "Quadruple Wedding",
+      "date": "Tuesday, June 01, 1943",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1802.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:25Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF693.htm",
+    "extractionDate": "2025-10-02T00:04:31.014488Z"
+  }
+}

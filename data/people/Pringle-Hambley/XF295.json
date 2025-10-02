@@ -1,0 +1,54 @@
+{
+  "id": "XF295",
+  "name": "James(Jimmy)  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Thursday, January 01, 1942",
+  "birthLocation": "Dugald MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF293",
+    "name": "Walter Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF293.htm"
+  },
+  "mother": {
+    "id": "XF294",
+    "name": "Ruth Johnson-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF294.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF355",
+      "name": "Sharon Stoesz-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF355.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Teacher",
+  "address": "2000 Cathers Dr Nanaimo BC V9R 6R8 CAN",
+  "email": "james4337@hotmail.com",
+  "phone": "(250) 754-6341, (250) 754-6341, (250) 797-0022",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Spoke with James May 19 2005 re Pam Selch request to find him for Edward Schreyer School reunion in Beausejour MB (he was teacher there 1970s, 80s)",
+  "photos": [
+    {
+      "name": "Dinner at Palmquist Farm",
+      "date": "Tuesday, November 01, 1955",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI985.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:52Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF295.htm",
+    "extractionDate": "2025-10-02T00:05:22.702434Z"
+  }
+}

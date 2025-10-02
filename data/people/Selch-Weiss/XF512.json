@@ -1,0 +1,105 @@
+{
+  "id": "XF512",
+  "name": "Edith  Bush",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF513",
+    "name": "Bush [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF513.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF511",
+      "name": "Julius George DeMarco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF511.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF508",
+      "name": "Janice (Jan)   DeMarco",
+      "url": "/auntruth/new/htm/L6/XF508.htm",
+      "birthDate": "06/21/1948"
+    },
+    {
+      "id": "XF2537",
+      "name": "Linden   DeMarco",
+      "url": "/auntruth/new/htm/L6/XF2537.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF525",
+      "name": "Dale   DeMarco",
+      "url": "/auntruth/new/htm/L6/XF525.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF524",
+      "name": "Shelley   DeMarco",
+      "url": "/auntruth/new/htm/L6/XF524.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Chloe Christening - Around Table",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1717.htm"
+    },
+    {
+      "name": "Chloe Christening - Patio Table",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1714.htm"
+    },
+    {
+      "name": "Chloe Christening - Great-GrandParents(3)",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1708.htm"
+    },
+    {
+      "name": "Chloe Christening - Grat-GrandParents(2)",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1707.htm"
+    },
+    {
+      "name": "Chloe Christening - Great-Grandparents(1)",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1706.htm"
+    },
+    {
+      "name": "Dishes",
+      "date": "Saturday, March 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI608.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:45Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF512.htm",
+    "extractionDate": "2025-10-02T00:04:27.203527Z"
+  }
+}

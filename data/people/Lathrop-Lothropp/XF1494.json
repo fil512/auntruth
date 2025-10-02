@@ -1,0 +1,76 @@
+{
+  "id": "XF1494",
+  "name": "Benjamin Frank Hatch",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1493",
+      "name": "Charlotte Viola Bartlett-Hatch [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1493.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1500",
+      "name": "Maurice Clevela Hatch",
+      "url": "/auntruth/new/htm/L4/XF1500.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1499",
+      "name": "Anne Florenc Hatch",
+      "url": "/auntruth/new/htm/L4/XF1499.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1498",
+      "name": "Ernest Delmont Hatch",
+      "url": "/auntruth/new/htm/L4/XF1498.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1497",
+      "name": "Benjamin Aaron Hatch",
+      "url": "/auntruth/new/htm/L4/XF1497.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1496",
+      "name": "Lillian Eva Hatch",
+      "url": "/auntruth/new/htm/L4/XF1496.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1495",
+      "name": "Allie May Hatch",
+      "url": "/auntruth/new/htm/L4/XF1495.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "East Bradford ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:36Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1494.htm",
+    "extractionDate": "2025-10-02T00:05:43.578027Z"
+  }
+}

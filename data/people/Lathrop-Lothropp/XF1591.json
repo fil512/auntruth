@@ -1,0 +1,52 @@
+{
+  "id": "XF1591",
+  "name": "Jennie Edith Clark",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1592",
+      "name": "Albert Edmond Merrill [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1592.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1594",
+      "name": "Gladys Edith Merrill",
+      "url": "/auntruth/new/htm/L4/XF1594.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1593",
+      "name": "Basil Edmund Merrill",
+      "url": "/auntruth/new/htm/L4/XF1593.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Stratford CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:17Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1591.htm",
+    "extractionDate": "2025-10-02T00:05:48.600074Z"
+  }
+}

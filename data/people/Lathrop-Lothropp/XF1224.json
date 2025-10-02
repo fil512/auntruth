@@ -1,0 +1,60 @@
+{
+  "id": "XF1224",
+  "name": "Ada Josephi Brittingham",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Sunday, September 22, 1895",
+  "birthLocation": "Vermillion IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1218",
+    "name": "Byron Adolphu Brittingham [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1218.htm"
+  },
+  "mother": {
+    "id": "XF1217",
+    "name": "Alma Almira Lathrop-Brittingham [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1217.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1215",
+      "name": "Louis Breedlove [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1215.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2293",
+      "name": "Carma   Breedlove",
+      "url": "/auntruth/new/htm/L4/XF2293.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF843",
+      "name": "Norma   Breedlove",
+      "url": "/auntruth/new/htm/L4/XF843.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Tipton OH  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Maurice Franklin Pringle died here in 1956 when going down for Ward-Lathrop family reunion. Daughter Mary(Hagborg), Ruth(Hambley), grandson David Hagborg, wife Rosella present. Son Jerry Pringle flew down from Calgary in his Beechcraft Bonanza and took Rosella and David to Calgary.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:41Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1224.htm",
+    "extractionDate": "2025-10-02T00:05:32.597665Z"
+  }
+}

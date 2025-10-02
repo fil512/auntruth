@@ -1,0 +1,43 @@
+{
+  "id": "XF1018",
+  "name": "Anna  Hammond",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Watertown MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1019",
+    "name": "William Hammond [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1019.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1016",
+      "name": "Rev. John 2nd Lothropp [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1016.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 14 June 1635",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:10Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1018.htm",
+    "extractionDate": "2025-10-02T00:05:28.998944Z"
+  }
+}

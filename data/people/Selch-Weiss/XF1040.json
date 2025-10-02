@@ -1,0 +1,46 @@
+{
+  "id": "XF1040",
+  "name": "Gerald  Fogg",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1041",
+      "name": "Marie Singer [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1041.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1034",
+      "name": "William(Bill)   Fogg",
+      "url": "/auntruth/new/htm/L6/XF1034.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:21Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1040.htm",
+    "extractionDate": "2025-10-02T00:04:15.566750Z"
+  }
+}

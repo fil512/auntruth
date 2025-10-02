@@ -1,0 +1,72 @@
+{
+  "id": "XF1218",
+  "name": "Byron Adolphu Brittingham",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, June 03, 1853",
+  "birthLocation": "Amity OH   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1219",
+    "name": "Enoch Brittingham [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1219.htm"
+  },
+  "mother": {
+    "id": "XF1220",
+    "name": "May Ann Fitz Henry-Brittingham [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1220.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1217",
+      "name": "Alma Almira Lathrop-Brittingham [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1217.htm",
+      "marriageDate": "Sunday, July 05, 1891"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1225",
+      "name": "Ethel Jeanett Brittingham",
+      "url": "/auntruth/new/htm/L4/XF1225.htm",
+      "birthDate": "09/13/1899"
+    },
+    {
+      "id": "XF1224",
+      "name": "Ada Josephi Brittingham",
+      "url": "/auntruth/new/htm/L4/XF1224.htm",
+      "birthDate": "09/22/1895"
+    },
+    {
+      "id": "XF1222",
+      "name": "Flora Rozella Brittingham",
+      "url": "/auntruth/new/htm/L4/XF1222.htm",
+      "birthDate": "03/09/1894"
+    },
+    {
+      "id": "XF1221",
+      "name": "William Enoch Brittingham",
+      "url": "/auntruth/new/htm/L4/XF1221.htm",
+      "birthDate": "09/27/1892"
+    }
+  ],
+  "occupation": null,
+  "address": "Lowell IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 5 July 1891 in Vermillion IL",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:39Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1218.htm",
+    "extractionDate": "2025-10-02T00:05:32.298917Z"
+  }
+}

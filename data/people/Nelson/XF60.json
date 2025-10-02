@@ -1,0 +1,54 @@
+{
+  "id": "XF60",
+  "name": "Ruth Nadine Cameron",
+  "lineage": "Nelson",
+  "birthDate": "Monday, August 12, 1963",
+  "birthLocation": "MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF58",
+    "name": "Ronald Andrew Cameron [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF58.htm"
+  },
+  "mother": {
+    "id": "XF59",
+    "name": "Lois Marie Brand(Anderson)-Cameron [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF59.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF61",
+      "name": "John Neil Redesic(Ardacci) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF61.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1026",
+      "name": "Angela Veronic Redesic",
+      "url": "/auntruth/new/htm/L2/XF1026.htm",
+      "birthDate": "12/29/1991"
+    }
+  ],
+  "occupation": null,
+  "address": "Yorkton SK  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:27Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF60.htm",
+    "extractionDate": "2025-10-02T00:04:10.999235Z"
+  }
+}

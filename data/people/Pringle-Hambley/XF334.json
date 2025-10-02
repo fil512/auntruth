@@ -1,0 +1,39 @@
+{
+  "id": "XF334",
+  "name": "Marc  Leclair",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF332",
+      "name": "Patricia Marilyn Hambley-Leclair-Dewhurst [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF332.htm",
+      "marriageDate": "Saturday, December 17, 1977"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "divorced March 3 1981",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:13Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF334.htm",
+    "extractionDate": "2025-10-02T00:05:25.529630Z"
+  }
+}

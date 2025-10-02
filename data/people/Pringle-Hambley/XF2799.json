@@ -1,0 +1,49 @@
+{
+  "id": "XF2799",
+  "name": "Bessie O. Hill",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, May 16, 1882",
+  "birthLocation": "Johnstown Cambria Co     USA",
+  "deathDate": "Wednesday, December 21, 1966",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2772",
+    "name": "Stewart Aaron Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2772.htm"
+  },
+  "mother": {
+    "id": "XF2771",
+    "name": "Laura Jane Paul-Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2771.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2800",
+      "name": "William P. Gocher [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2800.htm",
+      "marriageDate": "Wednesday, August 06, 1902"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Cambria Co Johnstown PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:59Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2799.htm",
+    "extractionDate": "2025-10-02T00:05:17.956031Z"
+  }
+}

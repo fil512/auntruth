@@ -1,0 +1,43 @@
+{
+  "id": "XF643",
+  "name": "Melvin O. Gustafson",
+  "lineage": "Nelson",
+  "birthDate": "Sunday, April 05, 1908",
+  "birthLocation": "USA",
+  "deathDate": "Sunday, June 18, 1978",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF644",
+    "name": "Gustafson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF644.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF32",
+      "name": "Elsie Althea Nelson-Gustafson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF32.htm",
+      "marriageDate": "Saturday, September 07, 1946"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Ste 101 1510-11th Ave. S. Minneapolis MI 55404 USA",
+  "email": null,
+  "phone": "(612) 339-4622, (612) 339-4622",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:03Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF643.htm",
+    "extractionDate": "2025-10-02T00:04:11.105138Z"
+  }
+}

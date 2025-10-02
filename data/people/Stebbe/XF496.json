@@ -1,0 +1,146 @@
+{
+  "id": "XF496",
+  "name": "Lawrence (Larry  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": "Sunday, February 25, 1923",
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF473",
+    "name": "Gustav (Gramps) Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF473.htm"
+  },
+  "mother": {
+    "id": "XF471",
+    "name": "Olga Lentz-Stebbe [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF471.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF497",
+      "name": "Anne Lewko-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF497.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF503",
+      "name": "Wayne   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF503.htm",
+      "birthDate": "01/01/1950"
+    },
+    {
+      "id": "XF498",
+      "name": "Colleen   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF498.htm",
+      "birthDate": "01/01/1949"
+    },
+    {
+      "id": "XF506",
+      "name": "Patricia (Patty   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF506.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF505",
+      "name": "Jan   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF505.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Victoria BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Fought at HongKong in WWII and was POW of Japanese. (with Winnipeg Grenadiers)",
+  "photos": [
+    {
+      "name": "Dinner",
+      "date": "Saturday, July 12, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2266.htm"
+    },
+    {
+      "name": "Saturday on Patio",
+      "date": "Saturday, July 12, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2265.htm"
+    },
+    {
+      "name": "Around Swing",
+      "date": "Saturday, July 12, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2264.htm"
+    },
+    {
+      "name": "Whole Stebbe Family",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2258.htm"
+    },
+    {
+      "name": "Grandchildren",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2257.htm"
+    },
+    {
+      "name": "Siblings",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2253.htm"
+    },
+    {
+      "name": "Poolside",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2252.htm"
+    },
+    {
+      "name": "On Deck",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2248.htm"
+    },
+    {
+      "name": "Auntie Anne & Uncle Lawrence",
+      "date": "Monday, March 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1994.htm"
+    },
+    {
+      "name": "Under Tree",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1597.htm"
+    },
+    {
+      "name": "Off Verandah",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1590.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Family Portrait",
+      "date": "Monday, April 01, 1946",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1488.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:35Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF496.htm",
+    "extractionDate": "2025-10-02T00:03:53.725226Z"
+  }
+}

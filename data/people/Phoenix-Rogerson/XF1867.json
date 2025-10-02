@@ -1,0 +1,94 @@
+{
+  "id": "XF1867",
+  "name": "Jean  White",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1866",
+      "name": "James Mounsey [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1866.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1888",
+      "name": "Alex   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1888.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1886",
+      "name": "Thomas   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1886.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1885",
+      "name": "John   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1885.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1883",
+      "name": "Jane   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1883.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1881",
+      "name": "Janet   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1881.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1880",
+      "name": "Son 3   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1880.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1879",
+      "name": "Son 2   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1879.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1878",
+      "name": "Son 1   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1878.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1876",
+      "name": "Elizabeth   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1876.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:13Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1867.htm",
+    "extractionDate": "2025-10-02T00:04:47.973809Z"
+  }
+}

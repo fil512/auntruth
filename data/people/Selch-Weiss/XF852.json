@@ -1,0 +1,90 @@
+{
+  "id": "XF852",
+  "name": "Noella  Boisse",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": "Tuesday, January 01, 1991",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF846",
+    "name": "Herman Boisse [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF846.htm"
+  },
+  "mother": {
+    "id": "XF847",
+    "name": "Delina Charlebois-Boisse [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF847.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF851",
+      "name": "Gerard Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF851.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF538",
+      "name": "Joseph (Guy) Guy Parent",
+      "url": "/auntruth/new/htm/L6/XF538.htm",
+      "birthDate": "01/01/1948"
+    },
+    {
+      "id": "XF889",
+      "name": "Dominique   Parent",
+      "url": "/auntruth/new/htm/L6/XF889.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF888",
+      "name": "Bernard   Parent",
+      "url": "/auntruth/new/htm/L6/XF888.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF883",
+      "name": "Jean-Yves   Parent",
+      "url": "/auntruth/new/htm/L6/XF883.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF878",
+      "name": "Jacques   Parent",
+      "url": "/auntruth/new/htm/L6/XF878.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF874",
+      "name": "Germain   Parent",
+      "url": "/auntruth/new/htm/L6/XF874.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF869",
+      "name": "Daniel   Parent",
+      "url": "/auntruth/new/htm/L6/XF869.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Joseph-Guy Parent",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:36Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF852.htm",
+    "extractionDate": "2025-10-02T00:04:33.263079Z"
+  }
+}

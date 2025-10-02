@@ -1,0 +1,314 @@
+{
+  "id": "XF335",
+  "name": "Marion  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, July 26, 1927",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF326",
+    "name": "John(Jack) J. Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF326.htm"
+  },
+  "mother": {
+    "id": "XF325",
+    "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF325.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF336",
+      "name": "William Philip Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF336.htm",
+      "marriageDate": "Saturday, July 01, 1950"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF342",
+      "name": "Ian Philip Campbell",
+      "url": "/auntruth/new/htm/L3/XF342.htm",
+      "birthDate": "12/12/1958"
+    },
+    {
+      "id": "XF340",
+      "name": "Gail Louise Campbell",
+      "url": "/auntruth/new/htm/L3/XF340.htm",
+      "birthDate": "06/11/1954"
+    },
+    {
+      "id": "XF337",
+      "name": "Janet Ruth Campbell",
+      "url": "/auntruth/new/htm/L3/XF337.htm",
+      "birthDate": "06/10/1952"
+    }
+  ],
+  "occupation": null,
+  "address": "Nepean ON  CAN",
+  "email": null,
+  "phone": "(613) 226-5785, (613) 226-5785",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "In the home stretch",
+      "date": "Thursday, November 10, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2708.htm"
+    },
+    {
+      "name": "Brandy 22nd Birthday - Auntie Ruth & Marion",
+      "date": "Thursday, April 21, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2649.htm"
+    },
+    {
+      "name": "Roast Beef Dinner",
+      "date": "Friday, January 21, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2623.htm"
+    },
+    {
+      "name": "Living It Up",
+      "date": "Friday, January 21, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2622.htm"
+    },
+    {
+      "name": "In Janet's Kitchen",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2085.htm"
+    },
+    {
+      "name": "Birthday Girl",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2083.htm"
+    },
+    {
+      "name": "4 Generations",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2082.htm"
+    },
+    {
+      "name": "Auntie Ruth 101st",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2080.htm"
+    },
+    {
+      "name": "Darrell's LivingRoom",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2079.htm"
+    },
+    {
+      "name": "At Janet & Darrells'",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2078.htm"
+    },
+    {
+      "name": "1469 Wellington Crescent - Auntie Ruth & Uncle Jack's old home",
+      "date": "Thursday, August 29, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1739.htm"
+    },
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1635.htm"
+    },
+    {
+      "name": "Phil & Marion",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI387.htm"
+    },
+    {
+      "name": "Marion amongst the tombstones",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI384.htm"
+    },
+    {
+      "name": "Visiting",
+      "date": "Friday, December 20, 1985",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI993.htm"
+    },
+    {
+      "name": "Campbell Family",
+      "date": "Thursday, December 20, 1984",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L0/XI1626.htm"
+    },
+    {
+      "name": "Christmas Dinner",
+      "date": "Tuesday, December 25, 1973",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1320.htm"
+    },
+    {
+      "name": "After Uncle Jack's Funeral",
+      "date": "Wednesday, September 30, 1964",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1620.htm"
+    },
+    {
+      "name": "At Marion's",
+      "date": "Tuesday, February 01, 1955",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI944.htm"
+    },
+    {
+      "name": "Marion & Phil's Wedding",
+      "date": "Saturday, July 01, 1950",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI1613.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Tuesday, December 20, 1949",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1619.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Saturday, January 01, 1949",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1618.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Thursday, January 01, 1948",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1617.htm"
+    },
+    {
+      "name": "Card from Marion",
+      "date": "Sunday, November 12, 1944",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1281.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Saturday, January 01, 1938",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1616.htm"
+    },
+    {
+      "name": "On Steps of Hambley's House",
+      "date": "Tuesday, September 01, 1931",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI952.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Wednesday, January 01, 1930",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1615.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Saturday, January 01, 1927",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1614.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Dave amongst the tombs",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L3/XI386.htm"
+    },
+    {
+      "name": "Horseback Riding Age 98",
+      "date": "Sunday, August 01, 1999",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI928.htm"
+    },
+    {
+      "name": "At Joyce's",
+      "date": "Tuesday, October 01, 1996",
+      "location": "Brampton Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI713.htm"
+    },
+    {
+      "name": "At Joyce's",
+      "date": "Thursday, August 01, 1996",
+      "location": "Brampton Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI715.htm"
+    },
+    {
+      "name": "In Kanata",
+      "date": "Thursday, August 01, 1996",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI714.htm"
+    },
+    {
+      "name": "At Marion & Phil.s\nOut Merivale Rd",
+      "date": "Tuesday, July 05, 1983",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI1091.htm"
+    },
+    {
+      "name": "At St. Andrews River Heights United Church",
+      "date": "Sunday, December 19, 1982",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI902.htm"
+    },
+    {
+      "name": "Visit from Bruce",
+      "date": "Wednesday, January 02, 1974",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1318.htm"
+    },
+    {
+      "name": "At Uncle Jack's Plot",
+      "date": "Wednesday, September 30, 1964",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1621.htm"
+    },
+    {
+      "name": "On Uncle Jack's Easy Chair - Last Photo of Uncle Jack",
+      "date": "Saturday, August 01, 1964",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI967.htm"
+    },
+    {
+      "name": "Siblings",
+      "date": "Saturday, February 10, 1962",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI987.htm"
+    },
+    {
+      "name": "Christmas Dinner",
+      "date": "Saturday, December 25, 1954",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI975.htm"
+    },
+    {
+      "name": "With Great-Grandparents",
+      "date": "Sunday, September 07, 1952",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI964.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:14Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF335.htm",
+    "extractionDate": "2025-10-02T00:05:25.622870Z"
+  }
+}

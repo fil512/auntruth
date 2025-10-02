@@ -1,0 +1,40 @@
+{
+  "id": "XF2537",
+  "name": "Linden  DeMarco",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF511",
+    "name": "Julius George DeMarco [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF511.htm"
+  },
+  "mother": {
+    "id": "XF512",
+    "name": "Edith Bush-DeMarco [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF512.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Beausejour MB R0E 0C0 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:01Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2537.htm",
+    "extractionDate": "2025-10-02T00:04:17.151766Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "XF2973",
+  "name": "Lenae Rae Sebelius",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "ND   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2972",
+    "name": "Duane Sebelius [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2972.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1105",
+      "name": "Trevor Mark Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1105.htm",
+      "marriageDate": "Saturday, July 17, 2004"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "ND  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Married Westwood Community Church, Winnipeg MB. Reception Fort Garry Hotel",
+  "photos": [
+    {
+      "name": "Engagement Photo/Wedding Invitation",
+      "date": "Saturday, May 01, 2004",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI2466.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:14Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2973.htm",
+    "extractionDate": "2025-10-02T00:04:22.804430Z"
+  }
+}

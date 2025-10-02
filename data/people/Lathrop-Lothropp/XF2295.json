@@ -1,0 +1,39 @@
+{
+  "id": "XF2295",
+  "name": "Beulah",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2294",
+      "name": "Harold Brady [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2294.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Tonica IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:14Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2295.htm",
+    "extractionDate": "2025-10-02T00:05:59.075563Z"
+  }
+}

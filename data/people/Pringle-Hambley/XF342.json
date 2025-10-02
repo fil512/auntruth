@@ -1,0 +1,91 @@
+{
+  "id": "XF342",
+  "name": "Ian Philip Campbell",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, December 12, 1958",
+  "birthLocation": "Ottawa ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF336",
+    "name": "William Philip Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF336.htm"
+  },
+  "mother": {
+    "id": "XF335",
+    "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF335.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1920",
+      "name": "Patricia Reitmeyer-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1920.htm",
+      "marriageDate": "Thursday, October 25, 1984"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1922",
+      "name": "Melanie Grace Campbell",
+      "url": "/auntruth/new/htm/L3/XF1922.htm",
+      "birthDate": "04/03/1994"
+    },
+    {
+      "id": "XF1921",
+      "name": "Scott Ian Campbell",
+      "url": "/auntruth/new/htm/L3/XF1921.htm",
+      "birthDate": "08/26/1991"
+    }
+  ],
+  "occupation": "Commerce",
+  "address": "Deerpath Drive Deerfield IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "nuovo Bryan?",
+  "photos": [
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1638.htm"
+    },
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1627.htm"
+    },
+    {
+      "name": "In Kanata",
+      "date": "Thursday, August 01, 1996",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI714.htm"
+    },
+    {
+      "name": "Campbell Family",
+      "date": "Thursday, December 20, 1984",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L0/XI1626.htm"
+    },
+    {
+      "name": "Siblings",
+      "date": "Saturday, February 10, 1962",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI987.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:18Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF342.htm",
+    "extractionDate": "2025-10-02T00:05:26.066858Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "XF202",
+  "name": "Mary  Wertz",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Thursday, October 06, 1746",
+  "birthLocation": "St. Clair Twp. PA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1905",
+    "name": "John Conrad Wertz [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1905.htm"
+  },
+  "mother": {
+    "id": "XF1906",
+    "name": "Catherine -Wertz [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1906.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF201",
+      "name": "William Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF201.htm",
+      "marriageDate": "Friday, December 20, 1765"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF217",
+      "name": "William   Pringle",
+      "url": "/auntruth/new/htm/L3/XF217.htm",
+      "birthDate": "03/19/1790"
+    },
+    {
+      "id": "XF216",
+      "name": "Elba   Pringle",
+      "url": "/auntruth/new/htm/L3/XF216.htm",
+      "birthDate": "08/06/1785"
+    },
+    {
+      "id": "XF215",
+      "name": "Caty   Pringle",
+      "url": "/auntruth/new/htm/L3/XF215.htm",
+      "birthDate": "04/17/1783"
+    },
+    {
+      "id": "XF213",
+      "name": "Elizabeth   Pringle",
+      "url": "/auntruth/new/htm/L3/XF213.htm",
+      "birthDate": "02/09/1781"
+    },
+    {
+      "id": "XF211",
+      "name": "Susannah   Pringle",
+      "url": "/auntruth/new/htm/L3/XF211.htm",
+      "birthDate": "02/08/1778"
+    },
+    {
+      "id": "XF210",
+      "name": "Mary   Pringle",
+      "url": "/auntruth/new/htm/L3/XF210.htm",
+      "birthDate": "12/25/1775"
+    },
+    {
+      "id": "XF208",
+      "name": "Philip   Pringle",
+      "url": "/auntruth/new/htm/L3/XF208.htm",
+      "birthDate": "10/20/1772"
+    },
+    {
+      "id": "XF207",
+      "name": "Christina   Pringle",
+      "url": "/auntruth/new/htm/L3/XF207.htm",
+      "birthDate": "06/19/1770"
+    },
+    {
+      "id": "XF204",
+      "name": "George   Pringle",
+      "url": "/auntruth/new/htm/L3/XF204.htm",
+      "birthDate": "12/06/1767"
+    },
+    {
+      "id": "XF203",
+      "name": "Pringle",
+      "url": "/auntruth/new/htm/L3/XF203.htm",
+      "birthDate": "11/27/1766"
+    }
+  ],
+  "occupation": null,
+  "address": "MD  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:09Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF202.htm",
+    "extractionDate": "2025-10-02T00:05:08.243753Z"
+  }
+}

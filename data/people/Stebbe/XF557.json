@@ -1,0 +1,47 @@
+{
+  "id": "XF557",
+  "name": "Herman(Harry)  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "POL",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF474",
+    "name": "Frederick Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF474.htm"
+  },
+  "mother": {
+    "id": "XF682",
+    "name": "Ustina -Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF682.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF476",
+      "name": "Tillie Kaatz(Hochtaler?)-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF476.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:25Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF557.htm",
+    "extractionDate": "2025-10-02T00:03:54.324955Z"
+  }
+}

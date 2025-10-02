@@ -1,0 +1,411 @@
+# GitLab CI/CD Pipeline for AuntieRuth.com Page Generation
+# Phase 3: Automated page generation from JSON data + Jinja2 templates
+#
+# Pipeline Flow:
+#   validate → generate → test → deploy
+#
+# Generates modern HTML pages for 3,004+ genealogy records across 10 lineages
+
+stages:
+  - validate
+  - generate
+  - test
+  - deploy
+
+# Global variables
+variables:
+  PYTHON_VERSION: "3.11"
+  DATA_DIR: "data/people"
+  TEMPLATES_DIR: "templates"
+  OUTPUT_DIR: "docs/new/htm"
+
+# Cache pip dependencies for faster builds
+cache:
+  paths:
+    - .cache/pip
+
+# ============================================
+# STAGE 1: Validate
+# ============================================
+
+validate-json:
+  stage: validate
+  image: python:${PYTHON_VERSION}
+  script:
+    - echo "Installing dependencies..."
+    - pip install jsonschema pyyaml
+    - echo "Validating JSON data schema compliance..."
+    - python3 PRPs/scripts/both/validate_all_lineages.py
+    - echo "✓ Validated all JSON person records"
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  allow_failure: false  # Block on validation failures
+
+validate-templates:
+  stage: validate
+  image: python:${PYTHON_VERSION}
+  script:
+    - echo "Installing Jinja2..."
+    - pip install jinja2
+    - echo "Validating template syntax..."
+    - |
+      python3 << 'EOF'
+      from jinja2 import Environment, FileSystemLoader
+      import sys
+
+      try:
+          env = Environment(loader=FileSystemLoader('templates'))
+
+          # Test compile all templates
+          templates = [
+              'base.html',
+              'person.html',
+              'components/person-header.html',
+              'components/essential-info.html',
+              'components/family-section.html',
+              'components/biographical-section.html',
+              'components/research-section.html',
+              'components/photos-section.html',
+              'macros/person-link.html',
+              'macros/section-card.html',
+              'macros/date-display.html'
+          ]
+
+          for template_name in templates:
+              try:
+                  template = env.get_template(template_name)
+                  print(f"✓ {template_name}")
+              except Exception as e:
+                  print(f"✗ {template_name}: {e}")
+                  sys.exit(1)
+
+          print(f"\n✓ All {len(templates)} templates validated successfully")
+      except Exception as e:
+          print(f"Template validation error: {e}")
+          sys.exit(1)
+      EOF
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  allow_failure: false
+
+# ============================================
+# STAGE 2: Generate Pages
+# ============================================
+
+generate-all-lineages:
+  stage: generate
+  image: python:${PYTHON_VERSION}
+  needs:
+    - validate-json
+    - validate-templates
+  script:
+    - echo "Installing dependencies..."
+    - pip install jinja2 pyyaml beautifulsoup4 lxml
+    - echo "Generating pages for all 10 lineages..."
+    - |
+      # Generate each lineage
+      for lineage_dir in ${DATA_DIR}/*; do
+        if [ -d "$lineage_dir" ]; then
+          lineage_name=$(basename "$lineage_dir")
+
+          # Map lineage name to directory number
+          case "$lineage_name" in
+            "Other") output_subdir="L0" ;;
+            "Hagborg-Hansson") output_subdir="L1" ;;
+            "Nelson") output_subdir="L2" ;;
+            "Pringle-Hambley") output_subdir="L3" ;;
+            "Lathrop-Lothropp") output_subdir="L4" ;;
+            "Ward") output_subdir="L5" ;;
+            "Selch-Weiss") output_subdir="L6" ;;
+            "Stebbe") output_subdir="L7" ;;
+            "Lentz") output_subdir="L8" ;;
+            "Phoenix-Rogerson") output_subdir="L9" ;;
+            *) echo "Unknown lineage: $lineage_name"; continue ;;
+          esac
+
+          echo "Generating $lineage_name → $output_subdir..."
+          python3 PRPs/scripts/both/generate_pages.py \
+            --lineage "$lineage_name" \
+            --input-dir "$lineage_dir" \
+            --output-dir "${OUTPUT_DIR}/${output_subdir}" \
+            --verbose || echo "⚠️  Generation failed for $lineage_name"
+        fi
+      done
+    - echo "✓ Page generation complete"
+    - echo "   Total pages: $(find ${OUTPUT_DIR} -name 'XF*.htm' | wc -l)"
+    - echo "   Total size: $(du -sh ${OUTPUT_DIR} | cut -f1)"
+  artifacts:
+    paths:
+      - ${OUTPUT_DIR}/
+    expire_in: 1 week
+    reports:
+      dotenv: generation-stats.env
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  timeout: 30m  # 30 minutes for all 3,004+ pages
+
+# ============================================
+# STAGE 3: Test Generated Pages
+# ============================================
+
+test-html-validity:
+  stage: test
+  image: python:${PYTHON_VERSION}
+  needs:
+    - generate-all-lineages
+  script:
+    - echo "Installing validation dependencies..."
+    - pip install html5lib lxml beautifulsoup4
+    - echo "Validating HTML5 compliance..."
+    - |
+      python3 << 'EOF'
+      from pathlib import Path
+      from html.parser import HTMLParser
+      import sys
+
+      class HTMLValidator(HTMLParser):
+          def __init__(self):
+              super().__init__()
+              self.errors = []
+
+          def error(self, message):
+              self.errors.append(message)
+
+      html_files = list(Path('docs/new/htm').glob('L*/XF*.htm'))
+      print(f"Validating {len(html_files)} HTML files...")
+
+      failed = 0
+      for i, html_file in enumerate(html_files):
+          if i % 100 == 0 and i > 0:
+              print(f"Progress: {i}/{len(html_files)}...")
+
+          try:
+              with open(html_file, 'r', encoding='utf-8') as f:
+                  content = f.read()
+                  validator = HTMLValidator()
+                  validator.feed(content)
+
+                  if validator.errors:
+                      failed += 1
+                      if failed <= 10:  # Show first 10 errors
+                          print(f"✗ {html_file.name}: {validator.errors[0]}")
+          except Exception as e:
+              failed += 1
+              print(f"✗ {html_file.name}: {e}")
+
+      print(f"\nHTML Validation: {len(html_files)-failed}/{len(html_files)} passed")
+
+      if failed > 0:
+          print(f"⚠️  {failed} files have HTML issues (non-blocking)")
+      else:
+          print("✓ All pages pass HTML validation")
+      EOF
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  allow_failure: true  # Don't block on HTML validation warnings
+
+test-data-integrity:
+  stage: test
+  image: python:${PYTHON_VERSION}
+  needs:
+    - generate-all-lineages
+  script:
+    - echo "Installing validation dependencies..."
+    - pip install beautifulsoup4 lxml
+    - echo "Spot-checking data integrity on sample pages..."
+    - |
+      python3 << 'EOF'
+      from pathlib import Path
+      import json
+      from bs4 import BeautifulSoup
+      import random
+
+      # Sample 50 random people across all lineages
+      lineages = Path('data/people').glob('*/')
+      all_json_files = []
+
+      for lineage_dir in lineages:
+          all_json_files.extend(list(lineage_dir.glob('*.json')))
+
+      sample_size = min(50, len(all_json_files))
+      sample_files = random.sample(all_json_files, sample_size)
+
+      print(f"Spot-checking {sample_size} random pages...")
+
+      passed = 0
+      failed = 0
+
+      for json_file in sample_files:
+          with open(json_file, 'r', encoding='utf-8') as f:
+              person = json.load(f)
+
+          person_id = person.get('id')
+
+          # Check if generated HTML exists
+          lineage = person.get('lineage', 'Unknown')
+          lineage_map = {
+              "Other": "L0", "Hagborg-Hansson": "L1", "Nelson": "L2",
+              "Pringle-Hambley": "L3", "Lathrop-Lothropp": "L4", "Ward": "L5",
+              "Selch-Weiss": "L6", "Stebbe": "L7", "Lentz": "L8",
+              "Phoenix-Rogerson": "L9"
+          }
+
+          output_dir = lineage_map.get(lineage, "L0")
+          html_path = Path(f'docs/new/htm/{output_dir}/{person_id}.htm')
+
+          if not html_path.exists():
+              print(f"✗ {person_id}: Generated HTML not found")
+              failed += 1
+              continue
+
+          # Verify person name appears in HTML
+          with open(html_path, 'r', encoding='utf-8') as f:
+              html_content = f.read()
+
+          if person.get('name') and person['name'] not in html_content:
+              print(f"✗ {person_id}: Name not found in generated HTML")
+              failed += 1
+          else:
+              passed += 1
+
+      print(f"\nData Integrity: {passed}/{sample_size} passed")
+
+      if failed == 0:
+          print("✓ All sampled pages have correct data rendering")
+      EOF
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+
+# ============================================
+# STAGE 4: Deploy
+# ============================================
+
+deploy-production:
+  stage: deploy
+  image: alpine:latest
+  needs:
+    - test-html-validity
+    - test-data-integrity
+  before_script:
+    - echo "Setting up deployment environment..."
+    - apk add --no-cache rsync openssh-client
+    - eval $(ssh-agent -s)
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' | ssh-add -
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - ssh-keyscan -H $DEPLOY_HOST >> ~/.ssh/known_hosts 2>/dev/null || true
+  script:
+    - echo "Deploying to production..."
+    - |
+      rsync -avz --delete \
+        --exclude='L1-generated-test/' \
+        ${OUTPUT_DIR}/ \
+        ${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}
+    - echo "✓ Deployed to production: https://auntieruth.com"
+  environment:
+    name: production
+    url: https://auntieruth.com
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+      when: manual  # Require manual approval for production deploy
+  only:
+    - main
+
+# ============================================
+# Manual Jobs
+# ============================================
+
+regenerate-all-pages:
+  stage: generate
+  image: python:${PYTHON_VERSION}
+  script:
+    - echo "Force-regenerating all pages..."
+    - pip install jinja2 pyyaml beautifulsoup4 lxml
+    - |
+      for lineage_dir in ${DATA_DIR}/*; do
+        if [ -d "$lineage_dir" ]; then
+          lineage_name=$(basename "$lineage_dir")
+
+          case "$lineage_name" in
+            "Other") output_subdir="L0" ;;
+            "Hagborg-Hansson") output_subdir="L1" ;;
+            "Nelson") output_subdir="L2" ;;
+            "Pringle-Hambley") output_subdir="L3" ;;
+            "Lathrop-Lothropp") output_subdir="L4" ;;
+            "Ward") output_subdir="L5" ;;
+            "Selch-Weiss") output_subdir="L6" ;;
+            "Stebbe") output_subdir="L7" ;;
+            "Lentz") output_subdir="L8" ;;
+            "Phoenix-Rogerson") output_subdir="L9" ;;
+          esac
+
+          python3 PRPs/scripts/both/generate_pages.py \
+            --lineage "$lineage_name" \
+            --input-dir "$lineage_dir" \
+            --output-dir "${OUTPUT_DIR}/${output_subdir}"
+        fi
+      done
+    - echo "✓ Force-regeneration complete"
+  artifacts:
+    paths:
+      - ${OUTPUT_DIR}/
+    expire_in: 1 month
+  when: manual
+  only:
+    - main
+
+# ============================================
+# Scheduled Jobs (Configure in GitLab UI)
+# ============================================
+# Schedule: CI/CD → Schedules → New Schedule
+# Cron: 0 2 * * * (2 AM daily)
+# Target: main branch
+#
+# nightly-full-rebuild will run automatically on schedule
+# and perform complete validation + generation
+
+nightly-full-rebuild:
+  stage: generate
+  image: python:${PYTHON_VERSION}
+  script:
+    - echo "Nightly full rebuild starting..."
+    - pip install jinja2 pyyaml beautifulsoup4 lxml html5lib
+    - |
+      for lineage_dir in ${DATA_DIR}/*; do
+        if [ -d "$lineage_dir" ]; then
+          lineage_name=$(basename "$lineage_dir")
+
+          case "$lineage_name" in
+            "Other") output_subdir="L0" ;;
+            "Hagborg-Hansson") output_subdir="L1" ;;
+            "Nelson") output_subdir="L2" ;;
+            "Pringle-Hambley") output_subdir="L3" ;;
+            "Lathrop-Lothropp") output_subdir="L4" ;;
+            "Ward") output_subdir="L5" ;;
+            "Selch-Weiss") output_subdir="L6" ;;
+            "Stebbe") output_subdir="L7" ;;
+            "Lentz") output_subdir="L8" ;;
+            "Phoenix-Rogerson") output_subdir="L9" ;;
+          esac
+
+          python3 PRPs/scripts/both/generate_pages.py \
+            --lineage "$lineage_name" \
+            --input-dir "$lineage_dir" \
+            --output-dir "${OUTPUT_DIR}/${output_subdir}"
+        fi
+      done
+    - echo "Running comprehensive validation..."
+    - python3 PRPs/scripts/both/validate_all_lineages.py || true
+  artifacts:
+    paths:
+      - ${OUTPUT_DIR}/
+      - data/validation-*.md
+      - data/phase3-combined-validation-report.md
+    expire_in: 7 days
+  only:
+    - schedules

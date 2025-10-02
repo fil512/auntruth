@@ -1,0 +1,60 @@
+{
+  "id": "XF1349",
+  "name": "Ida Alberti Wilkins",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, October 06, 1871",
+  "birthLocation": "Williamstown IO   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1347",
+    "name": "Charles Wilkins [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1347.htm"
+  },
+  "mother": {
+    "id": "XF1348",
+    "name": "Eliza Sarah Stubbins-Wilkins [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1348.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1350",
+      "name": "Charles Eben Lilibridge [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1350.htm",
+      "marriageDate": "Wednesday, October 16, 1895"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1352",
+      "name": "Clyde Wilkins Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1352.htm",
+      "birthDate": "01/02/1898"
+    },
+    {
+      "id": "XF1351",
+      "name": "Waldo Clair Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1351.htm",
+      "birthDate": "08/02/1896"
+    }
+  ],
+  "occupation": null,
+  "address": "Corona CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:34Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1349.htm",
+    "extractionDate": "2025-10-02T00:05:36.058535Z"
+  }
+}

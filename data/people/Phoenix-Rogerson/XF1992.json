@@ -1,0 +1,40 @@
+{
+  "id": "XF1992",
+  "name": "Son  Lotimer",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1990",
+    "name": "Ernest Farquar Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1990.htm"
+  },
+  "mother": {
+    "id": "XF1991",
+    "name": "-Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1991.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": "Died in infancy",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:06Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1992.htm",
+    "extractionDate": "2025-10-02T00:04:52.875097Z"
+  }
+}

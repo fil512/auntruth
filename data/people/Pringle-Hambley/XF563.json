@@ -1,0 +1,40 @@
+{
+  "id": "XF563",
+  "name": "Robert  Aiken",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF559",
+    "name": "Aiken [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF559.htm"
+  },
+  "mother": {
+    "id": "XF560",
+    "name": "-Aiken [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF560.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:28Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF563.htm",
+    "extractionDate": "2025-10-02T00:05:27.560072Z"
+  }
+}

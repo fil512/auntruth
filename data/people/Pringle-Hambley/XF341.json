@@ -1,0 +1,60 @@
+{
+  "id": "XF341",
+  "name": "Randy  Smadella",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF340",
+      "name": "Gail Louise Campbell-Smadella-Sharland [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF340.htm",
+      "marriageDate": "Sunday, December 19, 1982"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1918",
+      "name": "Samantha   Smadella",
+      "url": "/auntruth/new/htm/L3/XF1918.htm",
+      "birthDate": "06/25/1986"
+    }
+  ],
+  "occupation": null,
+  "address": "Ottawa ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "divorced from Gail Campbell in 1989",
+  "photos": [
+    {
+      "name": "At St. Andrews River Heights United Church",
+      "date": "Sunday, December 19, 1982",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI902.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Visiting",
+      "date": "Friday, December 20, 1985",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI993.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:18Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF341.htm",
+    "extractionDate": "2025-10-02T00:05:26.048930Z"
+  }
+}

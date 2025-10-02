@@ -1,0 +1,47 @@
+{
+  "id": "XF1141",
+  "name": "Lucy Jane Ward",
+  "lineage": "Ward",
+  "birthDate": "Sunday, May 12, 1833",
+  "birthLocation": "Dover ME   USA",
+  "deathDate": "Sunday, June 26, 1853",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF353",
+    "name": "Sumner Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF353.htm"
+  },
+  "mother": {
+    "id": "XF352",
+    "name": "Sabra Lothrop-Ward [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF352.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF287",
+      "name": "William Lathrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF287.htm",
+      "marriageDate": "Tuesday, May 15, 1849"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Lowell IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:06Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1141.htm",
+    "extractionDate": "2025-10-02T00:03:35.704392Z"
+  }
+}

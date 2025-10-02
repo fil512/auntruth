@@ -1,0 +1,46 @@
+{
+  "id": "XF1006",
+  "name": "Hannah  Bellows",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": "Thursday, July 18, 1765",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1005",
+      "name": "Hezekiah Jr. Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF1005.htm",
+      "marriageDate": "Saturday, June 07, 1749"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF985",
+      "name": "Kerley   Ward",
+      "url": "/auntruth/new/htm/L5/XF985.htm",
+      "birthDate": "02/17/1752"
+    }
+  ],
+  "occupation": null,
+  "address": "Grafton MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 7 Jun 1749 in Southboro MA Died in Grafton MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:04Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1006.htm",
+    "extractionDate": "2025-10-02T00:03:35.346864Z"
+  }
+}

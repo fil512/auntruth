@@ -1,0 +1,40 @@
+{
+  "id": "XF1815",
+  "name": "Lindsey Juleen Byrnes",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Wednesday, June 13, 1990",
+  "birthLocation": "BC   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1813",
+    "name": "Jim Byrnes [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1813.htm"
+  },
+  "mother": {
+    "id": "XF348",
+    "name": "Lisa Rowena Hambley-Byrnes-Burke [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF348.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:51Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1815.htm",
+    "extractionDate": "2025-10-02T00:05:07.391818Z"
+  }
+}

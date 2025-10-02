@@ -1,0 +1,53 @@
+{
+  "id": "XF2320",
+  "name": "Annie Mary Moffatt",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, January 01, 1901",
+  "birthLocation": "Roland MB   CAN",
+  "deathDate": "Saturday, January 01, 1994",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1276",
+    "name": "William John Moffatt [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1276.htm"
+  },
+  "mother": {
+    "id": "XF1275",
+    "name": "Mary Hambley-Moffatt [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1275.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Registered Nurse",
+  "address": "Roland MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "buried in Fairview Roland Cemetery",
+  "photos": [
+    {
+      "name": "Moffatt-Hambley Family",
+      "date": "Tuesday, June 21, 2005",
+      "location": "Roland Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2668.htm"
+    },
+    {
+      "name": "After Uncle Jack's Funeral",
+      "date": "Wednesday, September 30, 1964",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1620.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:26Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2320.htm",
+    "extractionDate": "2025-10-02T00:05:10.675931Z"
+  }
+}

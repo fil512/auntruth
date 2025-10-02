@@ -1,0 +1,54 @@
+{
+  "id": "XF561",
+  "name": "Nancy  Aiken",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "IRE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF559",
+    "name": "Aiken [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF559.htm"
+  },
+  "mother": {
+    "id": "XF560",
+    "name": "-Aiken [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF560.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF562",
+      "name": "Dee Bennet [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF562.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF564",
+      "name": "Agnes   Bennet",
+      "url": "/auntruth/new/htm/L3/XF564.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Utica IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:27Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF561.htm",
+    "extractionDate": "2025-10-02T00:05:27.461732Z"
+  }
+}

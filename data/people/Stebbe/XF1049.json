@@ -1,0 +1,43 @@
+{
+  "id": "XF1049",
+  "name": "Andy(Antonio?)  Ucci",
+  "lineage": "Stebbe",
+  "birthDate": "Sunday, January 01, 1939",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1048",
+    "name": "Molis Ucci [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF1048.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF493",
+      "name": "Sandra Stebbe-Ucci-Gibson [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF493.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:25Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1049.htm",
+    "extractionDate": "2025-10-02T00:03:49.820134Z"
+  }
+}

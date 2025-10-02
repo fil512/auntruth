@@ -1,0 +1,67 @@
+{
+  "id": "XF2974",
+  "name": "Les  Langner",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Saturday, January 01, 1955",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2541",
+    "name": "Albert Langner [Selch-Weiss]",
+    "url": "/auntruth/htm/L6/XF2541.htm"
+  },
+  "mother": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "CLU, District Representative, Lutheran Life",
+  "address": null,
+  "email": "les.langner@lutheranlife.ca",
+  "phone": "(204) 661-4055, (204) 661-4055",
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:14Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2974.htm",
+    "extractionDate": "2025-10-02T00:04:22.866937Z"
+  }
+}

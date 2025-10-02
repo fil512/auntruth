@@ -1,0 +1,40 @@
+{
+  "id": "XF920",
+  "name": "Alfred L. Ward",
+  "lineage": "Ward",
+  "birthDate": "Wednesday, March 18, 1840",
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF353",
+    "name": "Sumner Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF353.htm"
+  },
+  "mother": {
+    "id": "XF352",
+    "name": "Sabra Lothrop-Ward [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF352.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "GDRH",
+  "address": null,
+  "email": null,
+  "phone": "USA, USA",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:09Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF920.htm",
+    "extractionDate": "2025-10-02T00:03:37.399164Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "XF2059",
+  "name": "James  Hamilton",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2054",
+    "name": "Joseph Hamilton [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2054.htm"
+  },
+  "mother": {
+    "id": "XF2055",
+    "name": "Agnes Beattie-Hamilton [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2055.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2060",
+      "name": "Agnes Haig-Hamilton [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2060.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2065",
+      "name": "Andrew   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2065.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2064",
+      "name": "Agnes   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2064.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2063",
+      "name": "Annie   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2063.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2062",
+      "name": "Joseph   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2062.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:33Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2059.htm",
+    "extractionDate": "2025-10-02T00:04:56.245218Z"
+  }
+}

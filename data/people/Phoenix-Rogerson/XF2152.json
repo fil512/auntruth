@@ -1,0 +1,40 @@
+{
+  "id": "XF2152",
+  "name": "James  Gillespie",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Mousewald     UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1871",
+    "name": "David Gillespie [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1871.htm"
+  },
+  "mother": {
+    "id": "XF1870",
+    "name": "Margaret Mounsey-Gillespie [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1870.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Mousewald   UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": "Died in infancy",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:13Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2152.htm",
+    "extractionDate": "2025-10-02T00:05:00.887831Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "XF46",
+  "name": "David Stanley Knowles",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF45",
+    "name": "Stanley Knowles [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF45.htm"
+  },
+  "mother": {
+    "id": "XF2327",
+    "name": "Vida -Knowles [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2327.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF44",
+      "name": "Shirley Doris Nelson-Knowles [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF44.htm",
+      "marriageDate": "Friday, June 08, 1962"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF784",
+      "name": "Peter Charles Knowles",
+      "url": "/auntruth/new/htm/L2/XF784.htm",
+      "birthDate": "11/06/1966"
+    },
+    {
+      "id": "XF783",
+      "name": "Susan Marion Knowles",
+      "url": "/auntruth/new/htm/L2/XF783.htm",
+      "birthDate": "03/05/1965"
+    }
+  ],
+  "occupation": null,
+  "address": "Ottawa ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "fisheries",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:18Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF46.htm",
+    "extractionDate": "2025-10-02T00:04:10.122589Z"
+  }
+}

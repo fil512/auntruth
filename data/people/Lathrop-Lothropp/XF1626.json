@@ -1,0 +1,76 @@
+{
+  "id": "XF1626",
+  "name": "Joseph Doten Stevens",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1620",
+      "name": "Frances Adriann Lothrop-Stevens [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1620.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1663",
+      "name": "Lewis Ely Stephens",
+      "url": "/auntruth/new/htm/L4/XF1663.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1662",
+      "name": "Roscoe William Stephens",
+      "url": "/auntruth/new/htm/L4/XF1662.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1661",
+      "name": "Lillie May Stephens",
+      "url": "/auntruth/new/htm/L4/XF1661.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1660",
+      "name": "Ellen Adra Stephens",
+      "url": "/auntruth/new/htm/L4/XF1660.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1659",
+      "name": "Eugene Samuel Stephens",
+      "url": "/auntruth/new/htm/L4/XF1659.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1658",
+      "name": "Arthur Joseph Stephens",
+      "url": "/auntruth/new/htm/L4/XF1658.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Pasadena CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:32Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1626.htm",
+    "extractionDate": "2025-10-02T00:05:50.473643Z"
+  }
+}

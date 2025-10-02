@@ -1,0 +1,41 @@
+{
+  "id": "XF2871",
+  "name": "Ann  Hendricks",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2870",
+      "name": "Jacob Stewart [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2870.htm",
+      "marriageDate": "Thursday, October 03, 1822"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Decatur Co Greensburg IN   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:30Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2871.htm",
+    "extractionDate": "2025-10-02T00:05:21.988289Z"
+  }
+}

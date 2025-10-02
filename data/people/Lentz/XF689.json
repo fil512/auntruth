@@ -1,0 +1,40 @@
+{
+  "id": "XF689",
+  "name": "Herman  Kaatz",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1055",
+    "name": "Kaatz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF1055.htm"
+  },
+  "mother": {
+    "id": "XF688",
+    "name": "Amelia Hoffman-Kaatz-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF688.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:23Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF689.htm",
+    "extractionDate": "2025-10-02T00:03:03.407856Z"
+  }
+}

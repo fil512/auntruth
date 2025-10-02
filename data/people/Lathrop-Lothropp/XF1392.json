@@ -1,0 +1,40 @@
+{
+  "id": "XF1392",
+  "name": "Gracie May Allen",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, June 25, 1890",
+  "birthLocation": "Williamstown IO   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1390",
+    "name": "George Winfiel Allen [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1390.htm"
+  },
+  "mother": {
+    "id": "XF1391",
+    "name": "Eva Mae Lathrop-Allen [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1391.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Williamstown IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:52Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1392.htm",
+    "extractionDate": "2025-10-02T00:05:38.282185Z"
+  }
+}

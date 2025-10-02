@@ -1,0 +1,65 @@
+{
+  "id": "XF492",
+  "name": "Jean  Davidson",
+  "lineage": "Stebbe",
+  "birthDate": "Thursday, January 01, 1920",
+  "birthLocation": "CAN",
+  "deathDate": "Sunday, March 01, 1998",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF491",
+      "name": "Ralph Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF491.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF495",
+      "name": "Margaret   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF495.htm",
+      "birthDate": "01/01/1954"
+    },
+    {
+      "id": "XF493",
+      "name": "Sandra   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF493.htm",
+      "birthDate": "01/01/1948"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [
+    {
+      "name": "You see, it's like this",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1607.htm"
+    },
+    {
+      "name": "Front Yard",
+      "date": "Saturday, July 01, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1507.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:33Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF492.htm",
+    "extractionDate": "2025-10-02T00:03:53.482174Z"
+  }
+}

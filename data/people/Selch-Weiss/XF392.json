@@ -1,0 +1,53 @@
+{
+  "id": "XF392",
+  "name": "Florence  Weiss",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Saturday, January 01, 1887",
+  "birthLocation": "Cherlich Be   RUS",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF386",
+    "name": "August Weiss [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF386.htm"
+  },
+  "mother": {
+    "id": "XF385",
+    "name": "Anna Lang-Weiss-Budner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF385.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF396",
+      "name": "Betty   Schreyer",
+      "url": "/auntruth/new/htm/L6/XF396.htm",
+      "birthDate": "10/01/1913"
+    },
+    {
+      "id": "XF1832",
+      "name": "Vicky   Schreyer",
+      "url": "/auntruth/new/htm/L6/XF1832.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "DS/ER",
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:41Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF392.htm",
+    "extractionDate": "2025-10-02T00:04:24.012953Z"
+  }
+}

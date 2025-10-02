@@ -1,0 +1,41 @@
+{
+  "id": "XF2866",
+  "name": "James  Hunter",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2865",
+      "name": "Mary Stewart-Hunter [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2865.htm",
+      "marriageDate": "Monday, November 28, 1808"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Hamilton Co Madisonville OH   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:28Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2866.htm",
+    "extractionDate": "2025-10-02T00:05:21.769281Z"
+  }
+}

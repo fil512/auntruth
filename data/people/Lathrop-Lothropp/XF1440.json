@@ -1,0 +1,46 @@
+{
+  "id": "XF1440",
+  "name": "William Clark Dennen",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1441",
+      "name": "Julia Adaline Porter-Dennen [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1441.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1442",
+      "name": "Flavilla Adaline Dennen",
+      "url": "/auntruth/new/htm/L4/XF1442.htm",
+      "birthDate": "06/21/1862"
+    }
+  ],
+  "occupation": null,
+  "address": "Winsted CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:13Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1440.htm",
+    "extractionDate": "2025-10-02T00:05:40.764494Z"
+  }
+}

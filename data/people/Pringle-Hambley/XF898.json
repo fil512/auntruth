@@ -1,0 +1,46 @@
+{
+  "id": "XF898",
+  "name": "Teresa  Lucci",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "ITA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF897",
+      "name": "Alfredo Dragani [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF897.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF330",
+      "name": "Lidia(Lil)   Dragani",
+      "url": "/auntruth/new/htm/L3/XF330.htm",
+      "birthDate": "07/12/1925"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Bruce Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:59Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF898.htm",
+    "extractionDate": "2025-10-02T00:05:28.054476Z"
+  }
+}

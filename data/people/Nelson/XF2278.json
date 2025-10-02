@@ -1,0 +1,52 @@
+{
+  "id": "XF2278",
+  "name": "White",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2275",
+      "name": "Joyce Elaine Oligney-Tudor-White [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2275.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2280",
+      "name": "Pamela   White",
+      "url": "/auntruth/new/htm/L2/XF2280.htm",
+      "birthDate": "01/01/1957"
+    },
+    {
+      "id": "XF2279",
+      "name": "Richard   White",
+      "url": "/auntruth/new/htm/L2/XF2279.htm",
+      "birthDate": "01/01/1954"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:07Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2278.htm",
+    "extractionDate": "2025-10-02T00:04:00.948946Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "XF38",
+  "name": "Mary Irene Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, April 19, 1921",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF8",
+    "name": "Franz Erhard Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF8.htm"
+  },
+  "mother": {
+    "id": "XF9",
+    "name": "Rhea Frances Rimmington-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF9.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF651",
+      "name": "Victor Foskett [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF651.htm",
+      "marriageDate": "Wednesday, June 21, 1944"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2397",
+      "name": "Joan Irene Foskett",
+      "url": "/auntruth/new/htm/L2/XF2397.htm",
+      "birthDate": "05/21/1950"
+    },
+    {
+      "id": "XF2395",
+      "name": "James Victor Foskett",
+      "url": "/auntruth/new/htm/L2/XF2395.htm",
+      "birthDate": "04/22/1948"
+    },
+    {
+      "id": "XF795",
+      "name": "",
+      "url": "/auntruth/new/htm/L2/XF795.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF794",
+      "name": "Jim   Hoskett",
+      "url": "/auntruth/new/htm/L2/XF794.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "13114-107th Ave Surrey BC V3T 2G3 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:14Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF38.htm",
+    "extractionDate": "2025-10-02T00:04:09.715187Z"
+  }
+}

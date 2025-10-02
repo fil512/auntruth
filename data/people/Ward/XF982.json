@@ -1,0 +1,64 @@
+{
+  "id": "XF982",
+  "name": "William  Ward",
+  "lineage": "Ward",
+  "birthDate": "Wednesday, January 01, 1597",
+  "birthLocation": "UKG",
+  "deathDate": "Sunday, August 10, 1687",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF983",
+      "name": "-Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF983.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF984",
+      "name": "Elizabeth -Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF984.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF990",
+      "name": "William   Ward",
+      "url": "/auntruth/new/htm/L5/XF990.htm",
+      "birthDate": "11/19/1664"
+    },
+    {
+      "id": "XF996",
+      "name": "William Jr.   Ward",
+      "url": "/auntruth/new/htm/L5/XF996.htm",
+      "birthDate": "01/22/1640"
+    },
+    {
+      "id": "XF987",
+      "name": "John   Ward",
+      "url": "/auntruth/new/htm/L5/XF987.htm",
+      "birthDate": "01/01/1626"
+    }
+  ],
+  "occupation": null,
+  "address": "Marlboro MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Came to USA about 1639 and settled in Sudbury MA, removing to Marlboro MA in 1660 as one of the first settlers, where he was a deacon of the first church in that town. Died there.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:42Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF982.htm",
+    "extractionDate": "2025-10-02T00:03:40.603934Z"
+  }
+}

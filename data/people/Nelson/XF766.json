@@ -1,0 +1,58 @@
+{
+  "id": "XF766",
+  "name": "LeRae  Phipps",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF765",
+      "name": "Frank Gordon Esterberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF765.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF769",
+      "name": "Gail Wynn Esterberg",
+      "url": "/auntruth/new/htm/L2/XF769.htm",
+      "birthDate": "01/01/1953"
+    },
+    {
+      "id": "XF768",
+      "name": "Kari Dee Esterberg",
+      "url": "/auntruth/new/htm/L2/XF768.htm",
+      "birthDate": "01/01/1949"
+    },
+    {
+      "id": "XF767",
+      "name": "Kimball Bryan Esterberg",
+      "url": "/auntruth/new/htm/L2/XF767.htm",
+      "birthDate": "09/25/1945"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:57Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF766.htm",
+    "extractionDate": "2025-10-02T00:04:12.763821Z"
+  }
+}

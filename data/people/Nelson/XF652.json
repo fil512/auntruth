@@ -1,0 +1,60 @@
+{
+  "id": "XF652",
+  "name": "Richard Gordon Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Sunday, June 29, 1919",
+  "birthLocation": "BC   CAN",
+  "deathDate": "Saturday, June 29, 1957",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF8",
+    "name": "Franz Erhard Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF8.htm"
+  },
+  "mother": {
+    "id": "XF9",
+    "name": "Rhea Frances Rimmington-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF9.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2400",
+      "name": "Mildred Isabell Staple-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2400.htm",
+      "marriageDate": "Saturday, August 30, 1947"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2402",
+      "name": "Cathrene Frances Nelson",
+      "url": "/auntruth/new/htm/L2/XF2402.htm",
+      "birthDate": "04/27/1957"
+    },
+    {
+      "id": "XF2401",
+      "name": "Karen Isabell Nelson",
+      "url": "/auntruth/new/htm/L2/XF2401.htm",
+      "birthDate": "01/22/1951"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:07Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF652.htm",
+    "extractionDate": "2025-10-02T00:04:11.577445Z"
+  }
+}

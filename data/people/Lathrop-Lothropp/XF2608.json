@@ -1,0 +1,46 @@
+{
+  "id": "XF2608",
+  "name": "Charles  Seymour",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2609",
+      "name": "Sarah Catherine Schoonmaker-Seumour [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2609.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1711",
+      "name": "Winifred Gertrude Seymour",
+      "url": "/auntruth/new/htm/L4/XF1711.htm",
+      "birthDate": "11/19/1871"
+    }
+  ],
+  "occupation": null,
+  "address": "Newburgh, Orange NY  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:33Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2608.htm",
+    "extractionDate": "2025-10-02T00:06:02.447472Z"
+  }
+}

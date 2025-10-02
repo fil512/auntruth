@@ -1,0 +1,39 @@
+{
+  "id": "XF789",
+  "name": "Harry  Westberg",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF30",
+      "name": "Florence Muriel Nelson-Ridgeway-Westberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF30.htm",
+      "marriageDate": "Tuesday, October 08, 1946"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "7154 W51st Place Chicago IL 60638 USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:07Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF789.htm",
+    "extractionDate": "2025-10-02T00:04:13.996132Z"
+  }
+}

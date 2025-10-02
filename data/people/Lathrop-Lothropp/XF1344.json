@@ -1,0 +1,60 @@
+{
+  "id": "XF1344",
+  "name": "Warren Herbert Lillibridge",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, January 01, 1869",
+  "birthLocation": "New Hampton IO   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1339",
+    "name": "Bradley Maxon Lillibridge [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1339.htm"
+  },
+  "mother": {
+    "id": "XF1340",
+    "name": "Lucinda Ann Lathrop-Lillibridge [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1340.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1343",
+      "name": "Vienna Maria Shove-Lillibridge [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1343.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1346",
+      "name": "Mildred Elouise Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1346.htm",
+      "birthDate": "09/15/1896"
+    },
+    {
+      "id": "XF1345",
+      "name": "Lydia Beth Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1345.htm",
+      "birthDate": "09/28/1894"
+    }
+  ],
+  "occupation": null,
+  "address": "Dysart IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:32Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1344.htm",
+    "extractionDate": "2025-10-02T00:05:35.772621Z"
+  }
+}

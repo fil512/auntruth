@@ -1,0 +1,46 @@
+{
+  "id": "XF1413",
+  "name": "Martha Ann Hubbard",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1412",
+      "name": "Stevens Charles Couch [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1412.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1414",
+      "name": "Ella Amelia Couch",
+      "url": "/auntruth/new/htm/L4/XF1414.htm",
+      "birthDate": "01/02/1851"
+    }
+  ],
+  "occupation": null,
+  "address": "Holyoke MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:01Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1413.htm",
+    "extractionDate": "2025-10-02T00:05:39.344693Z"
+  }
+}

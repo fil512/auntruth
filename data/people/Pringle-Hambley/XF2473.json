@@ -1,0 +1,39 @@
+{
+  "id": "XF2473",
+  "name": "Mary  Luke",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, April 05, 1830",
+  "birthLocation": "USA",
+  "deathDate": "Saturday, April 27, 1889",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2472",
+      "name": "Phillip W. Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2472.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Pringle Hill Cemetery Book",
+  "notes": "Pringle Hill Cemetery Lot#31",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:32Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2473.htm",
+    "extractionDate": "2025-10-02T00:05:12.250638Z"
+  }
+}

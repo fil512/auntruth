@@ -1,0 +1,108 @@
+{
+  "id": "XF1164",
+  "name": "Elizabeth  Hinckley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, July 28, 1804",
+  "birthLocation": "Cherryfield ME   USA",
+  "deathDate": "Saturday, January 17, 1885",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1165",
+    "name": "Moses Hinckley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1165.htm"
+  },
+  "mother": {
+    "id": "XF1166",
+    "name": "Mary Wallace-Hinckley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1166.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1163",
+      "name": "Daniel Jr. Lathrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1163.htm",
+      "marriageDate": "Sunday, April 02, 1826"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1601",
+      "name": "Abbie Maria Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1601.htm",
+      "birthDate": "12/24/1836"
+    },
+    {
+      "id": "XF1736",
+      "name": "Albert Henry Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1736.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1733",
+      "name": "Lucy Emily Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1733.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1718",
+      "name": "Nancy Elizabe Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1718.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1702",
+      "name": "John Emory Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1702.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1701",
+      "name": "Daniel Andress Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1701.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1575",
+      "name": "Susan Jane Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1575.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1335",
+      "name": "Mary Jane Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1335.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1334",
+      "name": "Amasa Davis Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1334.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1316",
+      "name": "Alethea Bradbur Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1316.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Vineland NJ  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 2 Apr 1826 in Dover ME Died in Vineland NJ",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:16Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1164.htm",
+    "extractionDate": "2025-10-02T00:05:30.316107Z"
+  }
+}

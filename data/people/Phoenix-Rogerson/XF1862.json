@@ -1,0 +1,47 @@
+{
+  "id": "XF1862",
+  "name": "Janet  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1847",
+    "name": "William Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1847.htm"
+  },
+  "mother": {
+    "id": "XF1848",
+    "name": "Margaret Rogerson-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1848.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1863",
+      "name": "William Nicholson [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1863.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:11Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1862.htm",
+    "extractionDate": "2025-10-02T00:04:47.715918Z"
+  }
+}

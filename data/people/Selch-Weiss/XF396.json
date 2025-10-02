@@ -1,0 +1,72 @@
+{
+  "id": "XF396",
+  "name": "Betty  Schreyer",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Wednesday, October 01, 1913",
+  "birthLocation": "Beausejour MB R0E 0C0 CAN",
+  "deathDate": "Wednesday, January 19, 2005",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF393",
+    "name": "Jacob J. Schreyer [Selch-Weiss]",
+    "url": "/auntruth/htm/L6/XF393.htm"
+  },
+  "mother": {
+    "id": "XF392",
+    "name": "Florence Weiss [Selch-Weiss]",
+    "url": "/auntruth/htm/L6/XF392.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF397",
+      "name": "Alex Girvitz []",
+      "url": "/auntruth/htm/L0/XF397.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Rosh Pina Cemetery Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Kept chicks in livingroom during early part of marriage. They got away and there was much ado : Rabbi Henry Balzer at funeral Jan 20 2005 Eth Chayim.",
+  "photos": [],
+  "photographedBy": [
+    {
+      "name": "Horsing Around",
+      "date": "Thursday, August 31, 1939",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/htm/L0/XI1493.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:42Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF396.htm",
+    "extractionDate": "2025-10-02T00:04:24.258651Z"
+  }
+}

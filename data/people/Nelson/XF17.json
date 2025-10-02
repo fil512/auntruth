@@ -1,0 +1,46 @@
+{
+  "id": "XF17",
+  "name": "Margaret(Madge) Isabel Murray",
+  "lineage": "Nelson",
+  "birthDate": "Friday, February 04, 1921",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF16",
+      "name": "Gustavus Donald Pearson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF16.htm",
+      "marriageDate": "Friday, November 26, 1943"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF40",
+      "name": "Murray Glen Pearson",
+      "url": "/auntruth/new/htm/L2/XF40.htm",
+      "birthDate": "11/28/1950"
+    }
+  ],
+  "occupation": "Domestic Engineer",
+  "address": "406-1660 Pembina Hwy Winnipeg MB  CAN",
+  "email": null,
+  "phone": "(204) 275-2014, (204) 275-2014",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "David Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:00Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF17.htm",
+    "extractionDate": "2025-10-02T00:03:58.686982Z"
+  }
+}

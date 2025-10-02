@@ -1,0 +1,41 @@
+{
+  "id": "XF2941",
+  "name": "X  X",
+  "lineage": "",
+  "birthDate": null,
+  "birthLocation": "I1   ind",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2939",
+      "name": "Priya   Watson",
+      "url": "/auntruth/new/htm/L1/XF2939.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:01Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF2941.htm",
+    "extractionDate": "2025-10-02T00:06:12.661807Z"
+  }
+}

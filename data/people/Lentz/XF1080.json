@@ -1,0 +1,47 @@
+{
+  "id": "XF1080",
+  "name": "Ryan  Lentz",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF450",
+    "name": "Bill Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF450.htm"
+  },
+  "mother": {
+    "id": "XF1058",
+    "name": "Elizabeth(Betsy Dunn-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF1058.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2928",
+      "name": "Shannon X-Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF2928.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:39Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF1080.htm",
+    "extractionDate": "2025-10-02T00:03:01.001616Z"
+  }
+}

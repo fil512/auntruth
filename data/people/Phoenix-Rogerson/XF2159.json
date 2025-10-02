@@ -1,0 +1,39 @@
+{
+  "id": "XF2159",
+  "name": "Samuel  Rogerson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Boreland     UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2161",
+      "name": "David   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2161.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Boreland   UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:16Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2159.htm",
+    "extractionDate": "2025-10-02T00:05:01.276569Z"
+  }
+}

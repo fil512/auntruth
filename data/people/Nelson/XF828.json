@@ -1,0 +1,91 @@
+{
+  "id": "XF828",
+  "name": "Agnes  Oman",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "MB   CAN",
+  "deathDate": "Saturday, December 04, 1943",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1900",
+    "name": "John Oman [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF1900.htm"
+  },
+  "mother": {
+    "id": "XF1901",
+    "name": "-Oman [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF1901.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF23",
+      "name": "Hilding Vilhelm Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF23.htm",
+      "marriageDate": "Tuesday, June 05, 1973"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF42",
+      "name": "Pamela Elizabeth Nelson",
+      "url": "/auntruth/new/htm/L2/XF42.htm",
+      "birthDate": "04/26/1941"
+    },
+    {
+      "id": "XF41",
+      "name": "William Jackie Nelson",
+      "url": "/auntruth/new/htm/L2/XF41.htm",
+      "birthDate": "04/14/1937"
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Christmas",
+      "date": "Sunday, December 25, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1451.htm"
+    },
+    {
+      "name": "More Picnic",
+      "date": "Friday, July 01, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1454.htm"
+    },
+    {
+      "name": "Picnic",
+      "date": "Friday, July 01, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1453.htm"
+    },
+    {
+      "name": "Just Married",
+      "date": "Sunday, June 05, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1450.htm"
+    },
+    {
+      "name": "Wedding",
+      "date": "Sunday, June 05, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1408.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:26Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF828.htm",
+    "extractionDate": "2025-10-02T00:04:14.432554Z"
+  }
+}

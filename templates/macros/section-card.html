@@ -1,0 +1,14 @@
+{% macro section_card(title, icon, open=false) %}
+<section class="disclosure-section {% if open %}open{% endif %}">
+    <button class="disclosure-section-toggle"
+            aria-expanded="{{ 'true' if open else 'false' }}"
+            aria-label="Toggle {{ title }}">
+        <span class="disclosure-icon">{{ icon }}</span>
+        <span class="disclosure-title">{{ title }}</span>
+        <span class="disclosure-toggle">{{ '▼' if open else '▶' }}</span>
+    </button>
+    <div class="disclosure-content" style="display: {{ 'block' if open else 'none' }}">
+        {{ caller() }}
+    </div>
+</section>
+{% endmacro %}

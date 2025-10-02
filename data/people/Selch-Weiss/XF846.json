@@ -1,0 +1,100 @@
+{
+  "id": "XF846",
+  "name": "Herman  Boisse",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF847",
+      "name": "Delina Charlebois-Boisse [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF847.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF861",
+      "name": "William   Boisse",
+      "url": "/auntruth/new/htm/L6/XF861.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF860",
+      "name": "Pierrette   Boisse",
+      "url": "/auntruth/new/htm/L6/XF860.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF859",
+      "name": "Georgette   Boisse",
+      "url": "/auntruth/new/htm/L6/XF859.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF858",
+      "name": "Jacqueline   Boisse",
+      "url": "/auntruth/new/htm/L6/XF858.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF857",
+      "name": "Jean-Roch   Boisse",
+      "url": "/auntruth/new/htm/L6/XF857.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF856",
+      "name": "Raoul   Boisse",
+      "url": "/auntruth/new/htm/L6/XF856.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF855",
+      "name": "Gaston   Boisse",
+      "url": "/auntruth/new/htm/L6/XF855.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF854",
+      "name": "Bella   Boisse",
+      "url": "/auntruth/new/htm/L6/XF854.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF853",
+      "name": "Yves   Boisse",
+      "url": "/auntruth/new/htm/L6/XF853.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF852",
+      "name": "Noella   Boisse",
+      "url": "/auntruth/new/htm/L6/XF852.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Joseph-Guy Parent",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:33Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF846.htm",
+    "extractionDate": "2025-10-02T00:04:32.946539Z"
+  }
+}

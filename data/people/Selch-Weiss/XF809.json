@@ -1,0 +1,79 @@
+{
+  "id": "XF809",
+  "name": "Dorothy  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, July 16, 1931",
+  "birthLocation": "Green Bay MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF405",
+    "name": "Vilhelm (Bill) Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF405.htm"
+  },
+  "mother": {
+    "id": "XF406",
+    "name": "Alvine Litke-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF406.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF810",
+      "name": "Rheinhold (Roy) Sackvie [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF810.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF820",
+      "name": "Beverly   Sackvie",
+      "url": "/auntruth/new/htm/L6/XF820.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF819",
+      "name": "Kenneth   Sackvie",
+      "url": "/auntruth/new/htm/L6/XF819.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF813",
+      "name": "Caroline   Sackvie",
+      "url": "/auntruth/new/htm/L6/XF813.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'They Stopped at a Good Place' History of Beausejour",
+  "notes": "Married Roy Sachvie 11/25/1950 in St. Paul's Lutheran Church Green Bay by Pastor H. Moertelmeyer. Were members of St. Paul's. In 1962 they built a new home on William Avenue in Beausejour and later joined Zion Lutheran Church in Beausejour.",
+  "photos": [
+    {
+      "name": "In Kitchen",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1586.htm"
+    },
+    {
+      "name": "Dorothy Selch/Roy Sackvie Wedding",
+      "date": "Tuesday, June 01, 1948",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1801.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:16Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF809.htm",
+    "extractionDate": "2025-10-02T00:04:31.649949Z"
+  }
+}

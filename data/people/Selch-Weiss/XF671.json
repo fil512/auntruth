@@ -1,0 +1,52 @@
+{
+  "id": "XF671",
+  "name": null,
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF670",
+      "name": "Michael Smokoroski [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF670.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF673",
+      "name": "Mary   Smokoroski",
+      "url": "/auntruth/new/htm/L6/XF673.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF672",
+      "name": "Michael   Smokoroski",
+      "url": "/auntruth/new/htm/L6/XF672.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Ann Smokoroski-Peluk",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:15Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF671.htm",
+    "extractionDate": "2025-10-02T00:04:30.454255Z"
+  }
+}

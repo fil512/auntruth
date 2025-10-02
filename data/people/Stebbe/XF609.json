@@ -1,0 +1,60 @@
+{
+  "id": "XF609",
+  "name": "?  Vargova",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "CZE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF725",
+    "name": "Vargova [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF725.htm"
+  },
+  "mother": {
+    "id": "XF724",
+    "name": "Margareta Fedorco-Vargova [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF724.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF610",
+      "name": "[Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF610.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF612",
+      "name": "",
+      "url": "/auntruth/new/htm/L7/XF612.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF611",
+      "name": "",
+      "url": "/auntruth/new/htm/L7/XF611.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:49Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF609.htm",
+    "extractionDate": "2025-10-02T00:03:54.385295Z"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "XF1287",
+  "name": "Charles  Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, September 18, 1818",
+  "birthLocation": "Granby MA   USA",
+  "deathDate": "Saturday, September 22, 1888",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1151",
+    "name": "Erastus Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1151.htm"
+  },
+  "mother": {
+    "id": "XF1152",
+    "name": "Rebeckah Ward-Lathrop [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1152.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF1355",
+      "name": "Charles Monroe Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1355.htm",
+      "birthDate": "08/14/1848"
+    },
+    {
+      "id": "XF1340",
+      "name": "Lucinda Ann Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1340.htm",
+      "birthDate": "07/20/1846"
+    }
+  ],
+  "occupation": null,
+  "address": "Toledo IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:08Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1287.htm",
+    "extractionDate": "2025-10-02T00:05:32.752571Z"
+  }
+}

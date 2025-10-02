@@ -1,0 +1,46 @@
+{
+  "id": "XF1050",
+  "name": "Alan  Gibson",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF493",
+      "name": "Sandra Stebbe-Ucci-Gibson [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF493.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1051",
+      "name": "Shelley   Gibson",
+      "url": "/auntruth/new/htm/L7/XF1051.htm",
+      "birthDate": "01/01/1968"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:26Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1050.htm",
+    "extractionDate": "2025-10-02T00:03:49.902609Z"
+  }
+}

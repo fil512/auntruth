@@ -1,0 +1,40 @@
+{
+  "id": "XF2606",
+  "name": "John T. Bradley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, January 01, 1847",
+  "birthLocation": "CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2564",
+    "name": "John Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2564.htm"
+  },
+  "mother": {
+    "id": "XF2571",
+    "name": "Laura Sophia Woodruff-Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2571.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:32Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2606.htm",
+    "extractionDate": "2025-10-02T00:06:02.341222Z"
+  }
+}

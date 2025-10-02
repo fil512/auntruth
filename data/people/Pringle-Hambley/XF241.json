@@ -1,0 +1,53 @@
+{
+  "id": "XF241",
+  "name": "Margaret  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, May 30, 1817",
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF208",
+    "name": "Philip Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF208.htm"
+  },
+  "mother": {
+    "id": "XF209",
+    "name": "Mary Cable-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF209.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF242",
+      "name": "Abraham Klotz [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF242.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF243",
+      "name": "Adam Mosey [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF243.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:26Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF241.htm",
+    "extractionDate": "2025-10-02T00:05:11.143823Z"
+  }
+}

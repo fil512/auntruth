@@ -68,6 +68,10 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": "Heart",
+  "genetics": "NS/ND",
+  "waitingStatus": "Yes",
   "source": "David Hagborg",
   "notes": "Have picture at age 25 (1893) 3 years after emigrating to Canada from Skane(Scania) Sweden. After working a year in Canada, he sent tickets to his sister Martha and brother Andrew to come to Canada. His polio-crippled brother Ola remained and taught school for many years in Sweden. Two sisters Elsa and Una also remained in Sweden. All had families. - WAFH Note - also sister Matta, Elna remained in Sweden. Worked loading ties on Montreal docks first. Then came to Manitoba as farm labourer. Anvil at Treherne displayed which he could pick up with little finger. Began hauling wood & water in Winnipeg in 1890's on cart. Turned into Hagborg Fuel Co. which was major coal dealer. Buried in lot 1895 Brookside Cemetery Winnipeg, Manitoba, Canada. Married Karolina Nelson 09/14/1892 Changed name from Hansson to Hagborg (after Hagestaborg ) ca 1883 as Swedish military encouraged name changes (ie was confusing in more modern world to have your last name your father's first name followed by either son or dotter - or maybe even after your mother's first name) Buried in Plot 1859 Brookside Cemetery 3001 Notre Dame Winnipeg MB Canada",
   "photos": [
@@ -262,7 +266,7 @@
   ],
   "metadata": {
     "lastUpdated": "2005-12-19T18:51:51Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF4.htm",
-    "extractionDate": "2025-10-01T04:27:31.027904Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF4.htm",
+    "extractionDate": "2025-10-01T22:03:15.916667Z"
   }
 }

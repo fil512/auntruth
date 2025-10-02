@@ -1,0 +1,80 @@
+{
+  "id": "XF697",
+  "name": "John  Fedorco",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "Mich Lorice     HUN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF696",
+    "name": "Grov  [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF696.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF699",
+      "name": "Ann Jacob-Fedorco [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF699.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF487",
+      "name": "Jan (Uncle John John Fedorco",
+      "url": "/auntruth/new/htm/L7/XF487.htm",
+      "birthDate": "02/14/1903"
+    },
+    {
+      "id": "XF712",
+      "name": "Michael   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF712.htm",
+      "birthDate": "01/01/1901"
+    },
+    {
+      "id": "XF713",
+      "name": "George   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF713.htm",
+      "birthDate": "01/01/1900"
+    },
+    {
+      "id": "XF714",
+      "name": "Ann   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF714.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF709",
+      "name": "Mary   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF709.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF703",
+      "name": "Joe   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF703.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Adopted as indentured servant by the \"Grov\" when he was 8 years old. Well-educated up to age 17-18. Was scheduled to marry the wealthy Grov's daughter but the Grov died when John was in the army. During 1916 famine he built a water-wheel flour mill and was quite successful. Went to USA and took sister Maryanna who stayed.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:26Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF697.htm",
+    "extractionDate": "2025-10-02T00:03:55.581482Z"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "XF2954",
+  "name": "Laura  McAvoy",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2953",
+    "name": "Art McAvoy [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2953.htm"
+  },
+  "mother": {
+    "id": "XF2952",
+    "name": "Eva Hambley-McAvoy [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2952.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2955",
+      "name": "Sol Chooljian [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2955.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2957",
+      "name": "Laura McAvoy Chooljian",
+      "url": "/auntruth/new/htm/L3/XF2957.htm",
+      "birthDate": "05/31/1982"
+    },
+    {
+      "id": "XF2956",
+      "name": "David   Chooljian",
+      "url": "/auntruth/new/htm/L3/XF2956.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Corporation Lawyer",
+  "address": "Camarillo ca  USA",
+  "email": "kooljian@west.net",
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:06Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2954.htm",
+    "extractionDate": "2025-10-02T00:05:22.942696Z"
+  }
+}

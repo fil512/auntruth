@@ -1,0 +1,169 @@
+{
+  "id": "XF384",
+  "name": "Amalia (Oma)  Weiss",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, January 01, 1882",
+  "birthLocation": "Cherlich Be   BI",
+  "deathDate": "Friday, July 14, 1972",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF386",
+    "name": "August Weiss [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF386.htm"
+  },
+  "mother": {
+    "id": "XF385",
+    "name": "Anna Lang-Weiss-Budner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF385.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF383",
+      "name": "August Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF383.htm",
+      "marriageDate": "Friday, April 20, 1900"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF409",
+      "name": "Albert   Selch",
+      "url": "/auntruth/new/htm/L6/XF409.htm",
+      "birthDate": "04/04/1922"
+    },
+    {
+      "id": "XF413",
+      "name": "Frederick (Freddy) Henry Selch",
+      "url": "/auntruth/new/htm/L6/XF413.htm",
+      "birthDate": "04/05/1919"
+    },
+    {
+      "id": "XF420",
+      "name": "Thelma   Selch",
+      "url": "/auntruth/new/htm/L6/XF420.htm",
+      "birthDate": "08/30/1916"
+    },
+    {
+      "id": "XF442",
+      "name": "August (Art) Arthur Selch",
+      "url": "/auntruth/new/htm/L6/XF442.htm",
+      "birthDate": "08/08/1913"
+    },
+    {
+      "id": "XF398",
+      "name": "Edward   Selch",
+      "url": "/auntruth/new/htm/L6/XF398.htm",
+      "birthDate": "10/30/1910"
+    },
+    {
+      "id": "XF400",
+      "name": "Leo   Selch",
+      "url": "/auntruth/new/htm/L6/XF400.htm",
+      "birthDate": "03/18/1908"
+    },
+    {
+      "id": "XF402",
+      "name": "Hilda(Hulda?)   Selch",
+      "url": "/auntruth/new/htm/L6/XF402.htm",
+      "birthDate": "08/25/1905"
+    },
+    {
+      "id": "XF679",
+      "name": "Alvine   Selch",
+      "url": "/auntruth/new/htm/L6/XF679.htm",
+      "birthDate": "02/25/1903"
+    },
+    {
+      "id": "XF405",
+      "name": "Vilhelm (Bill)   Selch",
+      "url": "/auntruth/new/htm/L6/XF405.htm",
+      "birthDate": "09/09/1901"
+    }
+  ],
+  "occupation": null,
+  "address": "Box 16 Beausejour MB R0E 0C0 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Married August Selch in Winnipeg MB 04/20/1900",
+  "photos": [
+    {
+      "name": "Oma",
+      "date": "Monday, December 01, 1980",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1795.htm"
+    },
+    {
+      "name": "Oma",
+      "date": "Tuesday, December 01, 1970",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1794.htm"
+    },
+    {
+      "name": "Oma",
+      "date": "Sunday, December 20, 1964",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1490.htm"
+    },
+    {
+      "name": "Oma 82nd Birthday",
+      "date": "Thursday, October 01, 1964",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1791.htm"
+    },
+    {
+      "name": "Oma and Grandchildren",
+      "date": "Sunday, July 30, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1789.htm"
+    },
+    {
+      "name": "Oma & Auntie Linda",
+      "date": "Sunday, July 30, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1788.htm"
+    },
+    {
+      "name": "Oma with Gilbert, Brenda, Diane",
+      "date": "Monday, August 01, 1949",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1792.htm"
+    },
+    {
+      "name": "Oma & Kids",
+      "date": "Wednesday, August 01, 1945",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1787.htm"
+    },
+    {
+      "name": "Oma",
+      "date": "Tuesday, July 30, 1940",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1793.htm"
+    },
+    {
+      "name": "In front of Red Barn",
+      "date": "Wednesday, March 20, 1940",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1790.htm"
+    },
+    {
+      "name": "Horsing Around",
+      "date": "Thursday, August 31, 1939",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1493.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:37Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF384.htm",
+    "extractionDate": "2025-10-02T00:04:23.678945Z"
+  }
+}

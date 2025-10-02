@@ -1,0 +1,39 @@
+{
+  "id": "XF2470",
+  "name": "Lucinda  Ake",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, August 19, 1833",
+  "birthLocation": "USA",
+  "deathDate": "Sunday, March 04, 1900",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2469",
+      "name": "Joseph Walter Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2469.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Pringle Hill Cemetery Book",
+  "notes": "Pringle Hill Cemetery Lot#28",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:31Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2470.htm",
+    "extractionDate": "2025-10-02T00:05:12.122780Z"
+  }
+}

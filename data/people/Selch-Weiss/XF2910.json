@@ -1,0 +1,42 @@
+{
+  "id": "XF2910",
+  "name": "Jim  Cunningham",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2908",
+    "name": "Jim Cunningham [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2908.htm"
+  },
+  "mother": {
+    "id": "XF2907",
+    "name": "Jean Bush-Cunningham [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2907.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:47Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2910.htm",
+    "extractionDate": "2025-10-02T00:04:22.218061Z"
+  }
+}

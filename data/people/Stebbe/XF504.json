@@ -1,0 +1,67 @@
+{
+  "id": "XF504",
+  "name": "Teresa Diane Kubesh",
+  "lineage": "Stebbe",
+  "birthDate": "Tuesday, January 01, 1952",
+  "birthLocation": "Tyndall MB   CAN",
+  "deathDate": "Sunday, August 14, 2005",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2979",
+    "name": "Ralph Kubesh [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF2979.htm"
+  },
+  "mother": {
+    "id": "XF2980",
+    "name": "Lillian X-Kubesh [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF2980.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF503",
+      "name": "Wayne Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF503.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1110",
+      "name": "Jon-Nathan   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF1110.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1109",
+      "name": "Llana   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF1109.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Information Technology",
+  "address": "285 Brock St. Winnipeg MB  CAN",
+  "email": null,
+  "phone": "204-489-9629, 204-489-9629",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Visit from Cowboys",
+      "date": "Monday, August 01, 1977",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1043.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:39Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF504.htm",
+    "extractionDate": "2025-10-02T00:03:54.166194Z"
+  }
+}

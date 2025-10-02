@@ -1,0 +1,43 @@
+{
+  "id": "XF1915",
+  "name": "Robert  de Louthorp",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, January 01, 1310",
+  "birthLocation": "Lowthorpe YO   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1912",
+    "name": "Walter de Lowthorpe [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1912.htm"
+  },
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF1829",
+      "name": "Walter   Lawthrop",
+      "url": "/auntruth/new/htm/L4/XF1829.htm",
+      "birthDate": "01/01/1355"
+    }
+  ],
+  "occupation": "Chaplain at Collegiate Church of Saint Martin in Lowthorpe",
+  "address": "Lowthorpe YO  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "During reign of Richard II",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:33Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1915.htm",
+    "extractionDate": "2025-10-02T00:05:58.616707Z"
+  }
+}

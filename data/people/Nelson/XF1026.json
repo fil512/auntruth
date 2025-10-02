@@ -1,0 +1,40 @@
+{
+  "id": "XF1026",
+  "name": "Angela Veronic Redesic",
+  "lineage": "Nelson",
+  "birthDate": "Sunday, December 29, 1991",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF61",
+    "name": "John Neil Redesic(Ardacci) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF61.htm"
+  },
+  "mother": {
+    "id": "XF60",
+    "name": "Ruth Nadine Cameron-Redesic(Ardacci) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF60.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:14Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF1026.htm",
+    "extractionDate": "2025-10-02T00:03:58.279427Z"
+  }
+}

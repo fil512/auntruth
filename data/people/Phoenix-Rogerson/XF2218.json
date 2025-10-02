@@ -1,0 +1,40 @@
+{
+  "id": "XF2218",
+  "name": "John  Smith",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2211",
+    "name": "John Stone Smith [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2211.htm"
+  },
+  "mother": {
+    "id": "XF2210",
+    "name": "Margaret Richardson-Smith [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2210.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:41Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2218.htm",
+    "extractionDate": "2025-10-02T00:05:04.338420Z"
+  }
+}

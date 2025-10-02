@@ -1,0 +1,58 @@
+{
+  "id": "XF634",
+  "name": "Verner  Johnson",
+  "lineage": "",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF633",
+      "name": "Edith(Ede) Carlson-Johnson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF633.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1796",
+      "name": "Grant   Johnson",
+      "url": "/auntruth/new/htm/L0/XF1796.htm",
+      "birthDate": "05/02/1946"
+    },
+    {
+      "id": "XF1792",
+      "name": "Wayne   Johnson",
+      "url": "/auntruth/new/htm/L0/XF1792.htm",
+      "birthDate": "09/07/1942"
+    },
+    {
+      "id": "XF1788",
+      "name": "Roy   Johnson",
+      "url": "/auntruth/new/htm/L0/XF1788.htm",
+      "birthDate": "09/13/1940"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Was carpenter for Harper Construction Co.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:59Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF634.htm",
+    "extractionDate": "2025-10-02T00:06:13.343935Z"
+  }
+}

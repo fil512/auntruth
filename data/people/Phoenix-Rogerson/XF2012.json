@@ -1,0 +1,36 @@
+{
+  "id": "XF2012",
+  "name": "William  Patterson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Dumfries S2   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2011",
+    "name": "John Carson Patterson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2011.htm"
+  },
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "77 Queensbury Square Dumfries S2  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:14Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2012.htm",
+    "extractionDate": "2025-10-02T00:04:53.950593Z"
+  }
+}

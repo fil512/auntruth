@@ -1,0 +1,40 @@
+{
+  "id": "XF712",
+  "name": "Michael  Fedorco",
+  "lineage": "Stebbe",
+  "birthDate": "Tuesday, January 01, 1901",
+  "birthLocation": "HUN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF697",
+    "name": "John Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF697.htm"
+  },
+  "mother": {
+    "id": "XF699",
+    "name": "Ann Jacob-Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF699.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Age 16 went to war. Was POW in Russia. As he spoke German & Russian, a Russian general took him to a dacha with a swimming pool where everyone swam naked. He became connected with the American Consul and in October 1918 he went to USA. Became an electrician for Westinghouse. He made radios and Uncle Johnny made the cabinets in the 1930s when Johnny was in USA.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:33Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF712.htm",
+    "extractionDate": "2025-10-02T00:03:56.310013Z"
+  }
+}

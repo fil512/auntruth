@@ -1,0 +1,49 @@
+{
+  "id": "XF2870",
+  "name": "Jacob  Stewart",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, October 14, 1794",
+  "birthLocation": "Westmoreland Co     USA",
+  "deathDate": "Monday, April 18, 1864",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2789",
+    "name": "Jacob Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2789.htm"
+  },
+  "mother": {
+    "id": "XF2790",
+    "name": "Eunice Edith Dunn-Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2790.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2871",
+      "name": "Ann Hendricks-Stewart [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2871.htm",
+      "marriageDate": "Thursday, October 03, 1822"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Decatur Co Greensburg IN   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:30Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2870.htm",
+    "extractionDate": "2025-10-02T00:05:21.970535Z"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "XF2909",
+  "name": "Alison  Cunningham",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Saturday, July 01, 1950",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2908",
+    "name": "Jim Cunningham [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2908.htm"
+  },
+  "mother": {
+    "id": "XF2907",
+    "name": "Jean Bush-Cunningham [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2907.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2911",
+      "name": "Ron XX [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2911.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2912",
+      "name": "Darcy   XX",
+      "url": "/auntruth/new/htm/L6/XF2912.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Jean, Alison & Dave P.",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1945.htm"
+    },
+    {
+      "name": "Alison, Jean & Ron",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1939.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:47Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2909.htm",
+    "extractionDate": "2025-10-02T00:04:22.130913Z"
+  }
+}

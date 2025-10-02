@@ -1,0 +1,41 @@
+{
+  "id": "XF2778",
+  "name": "Emma C. Burke",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2777",
+      "name": "William Henry Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2777.htm",
+      "marriageDate": "Thursday, June 07, 1894"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:49Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2778.htm",
+    "extractionDate": "2025-10-02T00:05:16.776750Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "XF2946",
+  "name": "Bev  ZZ",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2945",
+      "name": "Gordon Muth [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2945.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2947",
+      "name": "Dwayne   Muth",
+      "url": "/auntruth/new/htm/L6/XF2947.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:02Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2946.htm",
+    "extractionDate": "2025-10-02T00:04:22.549624Z"
+  }
+}

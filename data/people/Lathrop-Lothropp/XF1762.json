@@ -1,0 +1,40 @@
+{
+  "id": "XF1762",
+  "name": "Henry Judson Camp",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Waterbury CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1759",
+    "name": "Seymour Judson Camp [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1759.htm"
+  },
+  "mother": {
+    "id": "XF1760",
+    "name": "Mary Irene Lathrop-Camp-Roberts [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1760.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Waterbury CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died in infancy",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:29Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1762.htm",
+    "extractionDate": "2025-10-02T00:05:57.005356Z"
+  }
+}

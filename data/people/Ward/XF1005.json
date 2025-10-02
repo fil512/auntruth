@@ -1,0 +1,54 @@
+{
+  "id": "XF1005",
+  "name": "Hezekiah Jr.  Ward",
+  "lineage": "Ward",
+  "birthDate": "Saturday, October 06, 1725",
+  "birthLocation": "Southboro MA   USA",
+  "deathDate": "Tuesday, May 11, 1802",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1002",
+    "name": "Hezekiah Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1002.htm"
+  },
+  "mother": {
+    "id": "XF1003",
+    "name": "Abigail Perry-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1003.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1006",
+      "name": "Hannah Bellows-Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF1006.htm",
+      "marriageDate": "Saturday, June 07, 1749"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF985",
+      "name": "Kerley   Ward",
+      "url": "/auntruth/new/htm/L5/XF985.htm",
+      "birthDate": "02/17/1752"
+    }
+  ],
+  "occupation": null,
+  "address": "Paxton MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 7 June 1749 in Southboro MA Died in Paxton MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:04Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1005.htm",
+    "extractionDate": "2025-10-02T00:03:35.329854Z"
+  }
+}

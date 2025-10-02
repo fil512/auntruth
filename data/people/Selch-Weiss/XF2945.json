@@ -1,0 +1,56 @@
+{
+  "id": "XF2945",
+  "name": "Gordon  Muth",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Friday, January 01, 1943",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1038",
+    "name": "Edward(Ed) Muth [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1038.htm"
+  },
+  "mother": {
+    "id": "XF1039",
+    "name": "Tophilia YY [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1039.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2946",
+      "name": "Bev ZZ-Muth [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2946.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2947",
+      "name": "Dwayne   Muth",
+      "url": "/auntruth/new/htm/L6/XF2947.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:02Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2945.htm",
+    "extractionDate": "2025-10-02T00:04:22.529241Z"
+  }
+}

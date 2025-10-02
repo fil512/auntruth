@@ -1,0 +1,47 @@
+{
+  "id": "XF2545",
+  "name": "Margaret  Langner",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF558",
+    "name": "Gustave Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF558.htm"
+  },
+  "mother": {
+    "id": "XF667",
+    "name": "Maria Patzer [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF667.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Wedding Marlene Langner/Ken Kiel",
+      "date": "Thursday, June 01, 1961",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1803.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:05Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2545.htm",
+    "extractionDate": "2025-10-02T00:04:17.462157Z"
+  }
+}

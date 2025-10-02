@@ -1,0 +1,102 @@
+{
+  "id": "XF2078",
+  "name": "Jean  Pagan",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2053",
+    "name": "John Pagan [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2053.htm"
+  },
+  "mother": {
+    "id": "XF2052",
+    "name": "Mary Hamilton-Pagan [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2052.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2079",
+      "name": "John Lawrie [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2079.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2094",
+      "name": "Thomas   Lawrie",
+      "url": "/auntruth/new/htm/L9/XF2094.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2093",
+      "name": "Maggie   Lawrie",
+      "url": "/auntruth/new/htm/L9/XF2093.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2092",
+      "name": "Robert   Lawrie",
+      "url": "/auntruth/new/htm/L9/XF2092.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2091",
+      "name": "Joan   Lawrie",
+      "url": "/auntruth/new/htm/L9/XF2091.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2090",
+      "name": "William   Lawrie",
+      "url": "/auntruth/new/htm/L9/XF2090.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2089",
+      "name": "Agnes   Lawrie",
+      "url": "/auntruth/new/htm/L9/XF2089.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2088",
+      "name": "John   Lawrie",
+      "url": "/auntruth/new/htm/L9/XF2088.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2087",
+      "name": "Jane   Lawrie",
+      "url": "/auntruth/new/htm/L9/XF2087.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2086",
+      "name": "James   Lawrie",
+      "url": "/auntruth/new/htm/L9/XF2086.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:41Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2078.htm",
+    "extractionDate": "2025-10-02T00:04:57.233927Z"
+  }
+}

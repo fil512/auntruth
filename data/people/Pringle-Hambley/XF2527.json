@@ -1,0 +1,60 @@
+{
+  "id": "XF2527",
+  "name": "Verna  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Swan Lake MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2525",
+    "name": "Russell Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2525.htm"
+  },
+  "mother": {
+    "id": "XF2526",
+    "name": "Mildred Yeo-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2526.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2528",
+      "name": "Horst Loy [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2528.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2530",
+      "name": "Stewart   Loy",
+      "url": "/auntruth/new/htm/L3/XF2530.htm",
+      "birthDate": "01/01/1965"
+    },
+    {
+      "id": "XF2529",
+      "name": "Steven   Loy",
+      "url": "/auntruth/new/htm/L3/XF2529.htm",
+      "birthDate": "01/01/1965"
+    }
+  ],
+  "occupation": "Nurse",
+  "address": "London ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Had lived in Dorchester ON. Separated",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:57Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2527.htm",
+    "extractionDate": "2025-10-02T00:05:13.103905Z"
+  }
+}

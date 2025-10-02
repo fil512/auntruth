@@ -1,0 +1,40 @@
+{
+  "id": "XF2350",
+  "name": "Kenneth  Esterberg",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF49",
+    "name": "Victor Emil Esterberg [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF49.htm"
+  },
+  "mother": {
+    "id": "XF758",
+    "name": "Inga -Esterberg [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF758.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:39Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2350.htm",
+    "extractionDate": "2025-10-02T00:04:02.736309Z"
+  }
+}

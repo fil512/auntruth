@@ -1,0 +1,40 @@
+{
+  "id": "XF2369",
+  "name": "Mark Nelson Ridgeway",
+  "lineage": "Nelson",
+  "birthDate": "Thursday, April 21, 1966",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2365",
+    "name": "Donald Raymond Ridgeway [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2365.htm"
+  },
+  "mother": {
+    "id": "XF2366",
+    "name": "Carol -Ridgeway [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2366.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:47Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2369.htm",
+    "extractionDate": "2025-10-02T00:04:03.685680Z"
+  }
+}

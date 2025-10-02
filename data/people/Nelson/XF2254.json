@@ -1,0 +1,58 @@
+{
+  "id": "XF2254",
+  "name": "Virginia",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF26",
+      "name": "Wilford Norman Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF26.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2257",
+      "name": "Raymond Philip Nelson",
+      "url": "/auntruth/new/htm/L2/XF2257.htm",
+      "birthDate": "09/01/1945"
+    },
+    {
+      "id": "XF2256",
+      "name": "Allen   Nelson",
+      "url": "/auntruth/new/htm/L2/XF2256.htm",
+      "birthDate": "01/01/1941"
+    },
+    {
+      "id": "XF2255",
+      "name": "Norman Wilford Nelson",
+      "url": "/auntruth/new/htm/L2/XF2255.htm",
+      "birthDate": "02/21/1938"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:56Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2254.htm",
+    "extractionDate": "2025-10-02T00:03:59.658233Z"
+  }
+}

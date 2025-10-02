@@ -1,0 +1,84 @@
+{
+  "id": "XF332",
+  "name": "Patricia Marilyn Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Thursday, August 25, 1955",
+  "birthLocation": "Edmonton AB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF329",
+    "name": "Bruce Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF329.htm"
+  },
+  "mother": {
+    "id": "XF330",
+    "name": "Lidia(Lil) Dragani-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF330.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF334",
+      "name": "Marc Leclair [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF334.htm",
+      "marriageDate": "Saturday, December 17, 1977"
+    },
+    {
+      "id": "XF1816",
+      "name": "David J. Dewhurst [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1816.htm",
+      "marriageDate": "Wednesday, December 01, 1982"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Victoria BC  CAN",
+  "email": "pattimd@telus.net",
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "divorced Marc Leclair March 1 1981",
+  "photos": [
+    {
+      "name": "Auntie Ruth Dinner by Patti",
+      "date": "Thursday, June 05, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2126.htm"
+    },
+    {
+      "name": "DiningRoom Dinner Party with Auntie Ruth",
+      "date": "Thursday, June 05, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2125.htm"
+    },
+    {
+      "name": "Tea Grannies",
+      "date": "Thursday, June 05, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2124.htm"
+    },
+    {
+      "name": "Patti",
+      "date": "Thursday, June 05, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2123.htm"
+    },
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1638.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:12Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF332.htm",
+    "extractionDate": "2025-10-02T00:05:25.449164Z"
+  }
+}

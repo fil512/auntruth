@@ -1,0 +1,73 @@
+{
+  "id": "XF436",
+  "name": "Marlene  Langner",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, January 01, 1939",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF421",
+    "name": "Reinhold(Roy) Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF421.htm"
+  },
+  "mother": {
+    "id": "XF420",
+    "name": "Thelma Selch-Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF420.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF437",
+      "name": "Ken Kiel [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF437.htm",
+      "marriageDate": "Thursday, June 01, 1961"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1042",
+      "name": "Bradley   Kiel",
+      "url": "/auntruth/new/htm/L6/XF1042.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF669",
+      "name": "Kevin   Kiel",
+      "url": "/auntruth/new/htm/L6/XF669.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Gilbert & Marlene",
+      "date": "Saturday, March 01, 1947",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1767.htm"
+    },
+    {
+      "name": "In front of Red Barn",
+      "date": "Wednesday, March 20, 1940",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1790.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:06Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF436.htm",
+    "extractionDate": "2025-10-02T00:04:26.482532Z"
+  }
+}

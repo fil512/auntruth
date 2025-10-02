@@ -1,0 +1,47 @@
+{
+  "id": "XF2478",
+  "name": "Abraham W. Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, August 03, 1845",
+  "birthLocation": "Summerhill PA   USA",
+  "deathDate": "Friday, December 13, 1929",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF224",
+    "name": "Martin Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF224.htm"
+  },
+  "mother": {
+    "id": "XF225",
+    "name": "Elizabeth Walter-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF225.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2479",
+      "name": "Barbara E. -Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2479.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Pringle Hill Cemetery Book",
+  "notes": "Buried in Pringle Hill Cemetery",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:35Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2478.htm",
+    "extractionDate": "2025-10-02T00:05:12.541541Z"
+  }
+}

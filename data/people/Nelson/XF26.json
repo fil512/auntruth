@@ -1,0 +1,79 @@
+{
+  "id": "XF26",
+  "name": "Wilford Norman Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Wednesday, May 16, 1900",
+  "birthLocation": "Narcisse MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF13",
+    "name": "Olaf Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF13.htm"
+  },
+  "mother": {
+    "id": "XF755",
+    "name": "Josefina Getz-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF755.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2253",
+      "name": "Florence Ritz-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2253.htm",
+      "marriageDate": "Friday, January 01, 1926"
+    },
+    {
+      "id": "XF2254",
+      "name": "Virginia -Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2254.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2257",
+      "name": "Raymond Philip Nelson",
+      "url": "/auntruth/new/htm/L2/XF2257.htm",
+      "birthDate": "09/01/1945"
+    },
+    {
+      "id": "XF2256",
+      "name": "Allen   Nelson",
+      "url": "/auntruth/new/htm/L2/XF2256.htm",
+      "birthDate": "01/01/1941"
+    },
+    {
+      "id": "XF2255",
+      "name": "Norman Wilford Nelson",
+      "url": "/auntruth/new/htm/L2/XF2255.htm",
+      "birthDate": "02/21/1938"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Uncle Olaf Nelson's Farm",
+      "date": "Sunday, August 01, 1915",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1414.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:07Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF26.htm",
+    "extractionDate": "2025-10-02T00:04:08.271561Z"
+  }
+}

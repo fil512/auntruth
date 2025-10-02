@@ -1,0 +1,47 @@
+{
+  "id": "XF455",
+  "name": "Theodore (Ted)  Lentz",
+  "lineage": "Lentz",
+  "birthDate": "Wednesday, January 01, 1908",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF445",
+    "name": "Ludwig Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF445.htm"
+  },
+  "mother": {
+    "id": "XF686",
+    "name": "Juliana Klingbeil-Klingbeil-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF686.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF456",
+      "name": "Mary Butler-Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF456.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:16Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF455.htm",
+    "extractionDate": "2025-10-02T00:03:02.383365Z"
+  }
+}

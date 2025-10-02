@@ -1,0 +1,52 @@
+{
+  "id": "XF1908",
+  "name": "Margaret  Wade",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, January 01, 1490",
+  "birthLocation": "Cherry Burton YO   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1009",
+      "name": "John C. Lowthroppe [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1009.htm",
+      "marriageDate": "Sunday, January 01, 1505"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1826",
+      "name": "Micael   Lowthroppe",
+      "url": "/auntruth/new/htm/L4/XF1826.htm",
+      "birthDate": "01/01/1515"
+    },
+    {
+      "id": "XF1010",
+      "name": "Robert B. Lowthroppe",
+      "url": "/auntruth/new/htm/L4/XF1010.htm",
+      "birthDate": "01/01/1510"
+    }
+  ],
+  "occupation": null,
+  "address": "Cherry Burton YO  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Church of Jesus Christ of Latter-Day Saints (Mormons)",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:30Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1908.htm",
+    "extractionDate": "2025-10-02T00:05:58.253514Z"
+  }
+}

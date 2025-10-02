@@ -1,0 +1,40 @@
+{
+  "id": "XF1606",
+  "name": "Mildred Edith Holmes",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Stratford CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1772",
+    "name": "William Frank Holmes [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1772.htm"
+  },
+  "mother": {
+    "id": "XF1771",
+    "name": "Addie May Porter-Holmes [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1771.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Stratford CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:23Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1606.htm",
+    "extractionDate": "2025-10-02T00:05:49.400761Z"
+  }
+}

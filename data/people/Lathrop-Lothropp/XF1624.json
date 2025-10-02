@@ -1,0 +1,88 @@
+{
+  "id": "XF1624",
+  "name": "Marcia Maria Mitchell",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1618",
+      "name": "John Stillma Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1618.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1635",
+      "name": "Harriet Mitchel Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1635.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1634",
+      "name": "Kate Mable Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1634.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1633",
+      "name": "George Lewis Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1633.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1632",
+      "name": "Ralph Waldo Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1632.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1631",
+      "name": "Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1631.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1630",
+      "name": "Merton Lee Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1630.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1629",
+      "name": "Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1629.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1628",
+      "name": "Gertrude Rena Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1628.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Sioux City IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:31Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1624.htm",
+    "extractionDate": "2025-10-02T00:05:50.338826Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "XF692",
+  "name": "Elizabeth (Bett  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, September 06, 1923",
+  "birthLocation": "Green Bay MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF405",
+    "name": "Vilhelm (Bill) Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF405.htm"
+  },
+  "mother": {
+    "id": "XF406",
+    "name": "Alvine Litke-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF406.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF693",
+      "name": "Frederic(Freddy Martin [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF693.htm",
+      "marriageDate": "Tuesday, June 01, 1943"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Married Freddy Martin in Winnipeg Zion Lutheran Church 10/02/1943 by Pastor W.E. Riehert. They were members of St. Paul's Lutheran Church in Green Bay and later joined Zion Lutheran Church in Beausejour.",
+  "photos": [
+    {
+      "name": "Albert & Linda Wedding",
+      "date": "Thursday, June 01, 1944",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1765.htm"
+    },
+    {
+      "name": "Quadruple Wedding",
+      "date": "Tuesday, June 01, 1943",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1802.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:24Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF692.htm",
+    "extractionDate": "2025-10-02T00:04:30.954709Z"
+  }
+}

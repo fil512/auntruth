@@ -1,0 +1,60 @@
+{
+  "id": "XF375",
+  "name": "Mary  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "RUS",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF371",
+    "name": "Christian Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF371.htm"
+  },
+  "mother": {
+    "id": "XF372",
+    "name": "Wilhelmine Lentz-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF372.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF376",
+      "name": "Gottlieb Freund [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF376.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF377",
+      "name": "Harold   Freund",
+      "url": "/auntruth/new/htm/L6/XF377.htm",
+      "birthDate": "01/01/1915"
+    },
+    {
+      "id": "XF378",
+      "name": "Gustaf(Gus)   Freund",
+      "url": "/auntruth/new/htm/L6/XF378.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:33Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF375.htm",
+    "extractionDate": "2025-10-02T00:04:23.178977Z"
+  }
+}

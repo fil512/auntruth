@@ -1,0 +1,45 @@
+{
+  "id": "XF1013",
+  "name": "Elizabeth  Harthill-Clarke",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "YO   UKG",
+  "deathDate": "Monday, July 29, 1574",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1828",
+      "name": "Clarke [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1828.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF1012",
+      "name": "Thomas Lowthroppe [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1012.htm",
+      "marriageDate": "Friday, January 01, 1560"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Etton Harthill Wapentake East Riding YO  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "see GDRH and LDS",
+  "notes": "Buried in Etton",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:07Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1013.htm",
+    "extractionDate": "2025-10-02T00:05:28.718667Z"
+  }
+}

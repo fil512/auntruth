@@ -1,0 +1,80 @@
+{
+  "id": "XF2783",
+  "name": "John Wesley Hill",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, March 30, 1822",
+  "birthLocation": "Greensburg Westmoreland     USA",
+  "deathDate": "Sunday, September 21, 1890",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2785",
+    "name": "Aaron M. Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2785.htm"
+  },
+  "mother": {
+    "id": "XF2786",
+    "name": "Mary Anne  -Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2786.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2784",
+      "name": "Martha Stewart-Hill [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2784.htm",
+      "marriageDate": "Tuesday, January 01, 1850"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2808",
+      "name": "Harriet (Hallie A. Hill",
+      "url": "/auntruth/new/htm/L3/XF2808.htm",
+      "birthDate": "01/01/1856"
+    },
+    {
+      "id": "XF2807",
+      "name": "Sarah W. Hill",
+      "url": "/auntruth/new/htm/L3/XF2807.htm",
+      "birthDate": "01/01/1855"
+    },
+    {
+      "id": "XF2772",
+      "name": "Stewart Aaron Hill",
+      "url": "/auntruth/new/htm/L3/XF2772.htm",
+      "birthDate": "06/18/1853"
+    },
+    {
+      "id": "XF2805",
+      "name": "Mary A. Hill",
+      "url": "/auntruth/new/htm/L3/XF2805.htm",
+      "birthDate": "01/01/1852"
+    },
+    {
+      "id": "XF2810",
+      "name": "Laura M. Hill",
+      "url": "/auntruth/new/htm/L3/XF2810.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Indiana Co. Armagh PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:52Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2783.htm",
+    "extractionDate": "2025-10-02T00:05:17.050124Z"
+  }
+}

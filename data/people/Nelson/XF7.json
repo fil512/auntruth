@@ -1,0 +1,58 @@
+{
+  "id": "XF7",
+  "name": "Gustav  Pearson(Pehrson)",
+  "lineage": "Nelson",
+  "birthDate": "Wednesday, November 12, 1879",
+  "birthLocation": "Varmland S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF6",
+      "name": "Ellida Augusta Nelson-Pearson(Pehrson) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF6.htm",
+      "marriageDate": "Saturday, September 27, 1913"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF19",
+      "name": "Esther Adele Pearson",
+      "url": "/auntruth/new/htm/L2/XF19.htm",
+      "birthDate": "10/27/1916"
+    },
+    {
+      "id": "XF16",
+      "name": "Gustavus Donald Pearson",
+      "url": "/auntruth/new/htm/L2/XF16.htm",
+      "birthDate": "10/27/1916"
+    },
+    {
+      "id": "XF18",
+      "name": "Frances Maria Pearson",
+      "url": "/auntruth/new/htm/L2/XF18.htm",
+      "birthDate": "07/29/1914"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "David Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:51:53Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF7.htm",
+    "extractionDate": "2025-10-02T00:04:12.080064Z"
+  }
+}

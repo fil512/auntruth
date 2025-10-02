@@ -1,0 +1,63 @@
+{
+  "id": "XF24",
+  "name": "Esther  Orvis",
+  "lineage": "Nelson",
+  "birthDate": "Saturday, September 14, 1912",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2943",
+    "name": "XX Orvis [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2943.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1899",
+      "name": "YY XX [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF1899.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF23",
+      "name": "Hilding Vilhelm Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF23.htm",
+      "marriageDate": "Wednesday, June 27, 1945"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF44",
+      "name": "Shirley Doris Nelson",
+      "url": "/auntruth/new/htm/L2/XF44.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "In front of the Hi-Fi",
+      "date": "Saturday, September 01, 1962",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1475.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:05Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF24.htm",
+    "extractionDate": "2025-10-02T00:04:05.282835Z"
+  }
+}

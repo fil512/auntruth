@@ -1,0 +1,47 @@
+{
+  "id": "XF1918",
+  "name": "Samantha  Smadella",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Wednesday, June 25, 1986",
+  "birthLocation": "Ottawa ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF341",
+    "name": "Randy Smadella [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF341.htm"
+  },
+  "mother": {
+    "id": "XF340",
+    "name": "Gail Louise Campbell-Smadella-Sharland [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF340.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Ottawa ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "In Kanata",
+      "date": "Thursday, August 01, 1996",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI714.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:34Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1918.htm",
+    "extractionDate": "2025-10-02T00:05:07.942186Z"
+  }
+}

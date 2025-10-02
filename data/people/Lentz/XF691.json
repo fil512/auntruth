@@ -1,0 +1,47 @@
+{
+  "id": "XF691",
+  "name": "Fred  Lentz",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF443",
+    "name": "Johannes Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF443.htm"
+  },
+  "mother": {
+    "id": "XF444",
+    "name": "Amelia Von Belaff-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF444.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1054",
+      "name": "Molla Goltz-Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF1054.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:24Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF691.htm",
+    "extractionDate": "2025-10-02T00:03:03.505632Z"
+  }
+}

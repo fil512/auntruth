@@ -1,0 +1,40 @@
+{
+  "id": "XF1538",
+  "name": "Victor Roy Bartlett",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Monson ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1525",
+    "name": "Alphonso Elwin Bartlett [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1525.htm"
+  },
+  "mother": {
+    "id": "XF1524",
+    "name": "Hattie Myra Mansell-Bartlett [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1524.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Monson ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:54Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1538.htm",
+    "extractionDate": "2025-10-02T00:05:45.821626Z"
+  }
+}

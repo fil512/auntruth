@@ -1,0 +1,40 @@
+{
+  "id": "XF1969",
+  "name": "Girl 1  Warner",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1966",
+    "name": "Warner [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1966.htm"
+  },
+  "mother": {
+    "id": "XF1965",
+    "name": "Fern Gordon-Warner [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1965.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:56Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1969.htm",
+    "extractionDate": "2025-10-02T00:04:51.701871Z"
+  }
+}

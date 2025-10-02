@@ -1,0 +1,39 @@
+{
+  "id": "XF2232",
+  "name": "Olivia",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2231",
+      "name": "Francis Leonard Palmquist [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2231.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:47Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2232.htm",
+    "extractionDate": "2025-10-02T00:05:09.577576Z"
+  }
+}

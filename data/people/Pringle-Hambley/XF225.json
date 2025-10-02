@@ -1,0 +1,94 @@
+{
+  "id": "XF225",
+  "name": "Elizabeth  Walter",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, January 01, 1805",
+  "birthLocation": "USA",
+  "deathDate": "Monday, January 01, 1855",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF224",
+      "name": "Martin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF224.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2478",
+      "name": "Abraham W. Pringle",
+      "url": "/auntruth/new/htm/L3/XF2478.htm",
+      "birthDate": "08/03/1845"
+    },
+    {
+      "id": "XF2476",
+      "name": "Emanuel   Pringle",
+      "url": "/auntruth/new/htm/L3/XF2476.htm",
+      "birthDate": "06/19/1843"
+    },
+    {
+      "id": "XF2475",
+      "name": "Henry H. Pringle",
+      "url": "/auntruth/new/htm/L3/XF2475.htm",
+      "birthDate": "01/01/1836"
+    },
+    {
+      "id": "XF2472",
+      "name": "Phillip W. Pringle",
+      "url": "/auntruth/new/htm/L3/XF2472.htm",
+      "birthDate": "05/03/1833"
+    },
+    {
+      "id": "XF2471",
+      "name": "Samuel   Pringle",
+      "url": "/auntruth/new/htm/L3/XF2471.htm",
+      "birthDate": "01/01/1829"
+    },
+    {
+      "id": "XF2469",
+      "name": "Joseph Walter Pringle",
+      "url": "/auntruth/new/htm/L3/XF2469.htm",
+      "birthDate": "06/15/1828"
+    },
+    {
+      "id": "XF2474",
+      "name": "David Martin Pringle",
+      "url": "/auntruth/new/htm/L3/XF2474.htm",
+      "birthDate": "01/01/834"
+    },
+    {
+      "id": "XF2468",
+      "name": "Sarah A. Pringle",
+      "url": "/auntruth/new/htm/L3/XF2468.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2467",
+      "name": "Martin   Pringle",
+      "url": "/auntruth/new/htm/L3/XF2467.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Pringle Hill Cemetery Lot#32",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:19Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF225.htm",
+    "extractionDate": "2025-10-02T00:05:10.161874Z"
+  }
+}

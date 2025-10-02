@@ -1,0 +1,140 @@
+{
+  "id": "XF336",
+  "name": "William Philip Campbell",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, August 01, 1922",
+  "birthLocation": "ND   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2949",
+    "name": "XX Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2949.htm"
+  },
+  "mother": {
+    "id": "XF2950",
+    "name": "XXX YYY-Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2950.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF335",
+      "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF335.htm",
+      "marriageDate": "Saturday, July 01, 1950"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF342",
+      "name": "Ian Philip Campbell",
+      "url": "/auntruth/new/htm/L3/XF342.htm",
+      "birthDate": "12/12/1958"
+    },
+    {
+      "id": "XF340",
+      "name": "Gail Louise Campbell",
+      "url": "/auntruth/new/htm/L3/XF340.htm",
+      "birthDate": "06/11/1954"
+    },
+    {
+      "id": "XF337",
+      "name": "Janet Ruth Campbell",
+      "url": "/auntruth/new/htm/L3/XF337.htm",
+      "birthDate": "06/10/1952"
+    }
+  ],
+  "occupation": null,
+  "address": "Nepean ON  CAN",
+  "email": null,
+  "phone": "(613) 226-5785, (613) 226-5785",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "PhD in Agriculture. Switched from Research to Inspection",
+  "photos": [
+    {
+      "name": "Brandy 22nd Birthday - Brandy & Phil",
+      "date": "Thursday, April 21, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2650.htm"
+    },
+    {
+      "name": "Roast Beef Dinner",
+      "date": "Friday, January 21, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2623.htm"
+    },
+    {
+      "name": "Dinner Party",
+      "date": "Friday, January 21, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2621.htm"
+    },
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1639.htm"
+    },
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1628.htm"
+    },
+    {
+      "name": "Phil & Marion",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI387.htm"
+    },
+    {
+      "name": "Visiting",
+      "date": "Friday, December 20, 1985",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI993.htm"
+    },
+    {
+      "name": "Campbell Family",
+      "date": "Thursday, December 20, 1984",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L0/XI1626.htm"
+    },
+    {
+      "name": "At Marion's",
+      "date": "Tuesday, February 01, 1955",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI944.htm"
+    },
+    {
+      "name": "Christmas Dinner",
+      "date": "Saturday, December 25, 1954",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI975.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Christmas Dinner",
+      "date": "Tuesday, December 25, 1973",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1320.htm"
+    },
+    {
+      "name": "After Uncle Jack's Funeral",
+      "date": "Wednesday, September 30, 1964",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1620.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:15Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF336.htm",
+    "extractionDate": "2025-10-02T00:05:25.683659Z"
+  }
+}

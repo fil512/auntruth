@@ -1,0 +1,40 @@
+{
+  "id": "XF1439",
+  "name": "Hattie Lucille Hosmer",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, December 05, 1891",
+  "birthLocation": "pringfield MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1437",
+    "name": "George Herbert Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1437.htm"
+  },
+  "mother": {
+    "id": "XF1436",
+    "name": "Stella Marilla Woodman-Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1436.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Springfield MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:12Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1439.htm",
+    "extractionDate": "2025-10-02T00:05:40.676704Z"
+  }
+}

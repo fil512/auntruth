@@ -1,0 +1,66 @@
+{
+  "id": "XF469",
+  "name": "Shirley  Agar",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF466",
+    "name": "Mac Agar [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF466.htm"
+  },
+  "mother": {
+    "id": "XF465",
+    "name": "Marge Kreiger-Agar [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF465.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF470",
+      "name": "John Michaloski [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF470.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1077",
+      "name": "Kelsey   Michaloski",
+      "url": "/auntruth/new/htm/L8/XF1077.htm",
+      "birthDate": "01/01/1990"
+    },
+    {
+      "id": "XF1076",
+      "name": "Lee Anne   Michaloski",
+      "url": "/auntruth/new/htm/L8/XF1076.htm",
+      "birthDate": "01/01/1973"
+    },
+    {
+      "id": "XF1075",
+      "name": "Troy   Michaloski",
+      "url": "/auntruth/new/htm/L8/XF1075.htm",
+      "birthDate": "01/01/1971"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:22Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF469.htm",
+    "extractionDate": "2025-10-02T00:03:03.104073Z"
+  }
+}

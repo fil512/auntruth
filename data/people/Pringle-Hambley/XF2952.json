@@ -1,0 +1,56 @@
+{
+  "id": "XF2952",
+  "name": "Eva  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF571",
+    "name": "John Joseph Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF571.htm"
+  },
+  "mother": {
+    "id": "XF570",
+    "name": "Jane McLaughlin-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF570.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2953",
+      "name": "Art McAvoy [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2953.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2954",
+      "name": "Laura   McAvoy",
+      "url": "/auntruth/new/htm/L3/XF2954.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:05Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2952.htm",
+    "extractionDate": "2025-10-02T00:05:22.843220Z"
+  }
+}

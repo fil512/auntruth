@@ -1,0 +1,40 @@
+{
+  "id": "XF2183",
+  "name": "Lily  Gillespie",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2170",
+    "name": "John Gillespie [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2170.htm"
+  },
+  "mother": {
+    "id": "XF2171",
+    "name": "Jessie Creighton-Gillespie [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2171.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:26Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2183.htm",
+    "extractionDate": "2025-10-02T00:05:02.489789Z"
+  }
+}

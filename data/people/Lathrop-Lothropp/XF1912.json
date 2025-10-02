@@ -1,0 +1,43 @@
+{
+  "id": "XF1912",
+  "name": "Walter  de Lowthorpe",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, January 01, 1250",
+  "birthLocation": "YO   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1911",
+    "name": "Walter de Lowthorpe [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1911.htm"
+  },
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF1915",
+      "name": "Robert   de Louthorp",
+      "url": "/auntruth/new/htm/L4/XF1915.htm",
+      "birthDate": "01/01/1310"
+    }
+  ],
+  "occupation": null,
+  "address": "YO  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "In 1292 summoned to answer to King Edward I for a minor alleged offence.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:32Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1912.htm",
+    "extractionDate": "2025-10-02T00:05:58.457476Z"
+  }
+}

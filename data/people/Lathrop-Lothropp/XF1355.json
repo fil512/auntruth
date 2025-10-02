@@ -1,0 +1,47 @@
+{
+  "id": "XF1355",
+  "name": "Charles Monroe Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Monday, August 14, 1848",
+  "birthLocation": "Ware MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1287",
+    "name": "Charles Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1287.htm"
+  },
+  "mother": {
+    "id": "XF1290",
+    "name": "Susan Hutchinson-Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1290.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1354",
+      "name": "Lucy Jane Shively-Lathrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1354.htm",
+      "marriageDate": "Tuesday, September 19, 1871"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Toledo IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:37Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1355.htm",
+    "extractionDate": "2025-10-02T00:05:36.333315Z"
+  }
+}

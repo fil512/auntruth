@@ -1,0 +1,73 @@
+<div class="biographical-details">
+    <dl class="data-list">
+        {% if person.occupation %}
+        <div class="data-item">
+            <dt class="field-label">Occupation:</dt>
+            <dd class="field-value">{{ person.occupation }}</dd>
+        </div>
+        {% endif %}
+
+        {% if person.address %}
+        <div class="data-item">
+            <dt class="field-label">Address:</dt>
+            <dd class="field-value">{{ person.address }}</dd>
+        </div>
+        {% endif %}
+
+        {% if person.email %}
+        <div class="data-item">
+            <dt class="field-label">Email:</dt>
+            <dd class="field-value"><a href="mailto:{{ person.email }}">{{ person.email }}</a></dd>
+        </div>
+        {% endif %}
+
+        {% if person.phone %}
+        <div class="data-item">
+            <dt class="field-label">Phone:</dt>
+            <dd class="field-value">{{ person.phone }}</dd>
+        </div>
+        {% endif %}
+
+        {% if person.website %}
+        <div class="data-item">
+            <dt class="field-label">Website:</dt>
+            <dd class="field-value"><a href="{{ person.website }}" target="_blank" rel="noopener">{{ person.website }}</a></dd>
+        </div>
+        {% endif %}
+
+        {% if person.languages and person.languages|length > 0 %}
+        <div class="data-item">
+            <dt class="field-label">Languages:</dt>
+            <dd class="field-value">{{ person.languages|join(', ') }}</dd>
+        </div>
+        {% endif %}
+
+        {% if person.causeOfDeath %}
+        <div class="data-item">
+            <dt class="field-label">Cause of Death:</dt>
+            <dd class="field-value">{{ person.causeOfDeath }}</dd>
+        </div>
+        {% endif %}
+
+        {% if person.genetics %}
+        <div class="data-item">
+            <dt class="field-label">Genetics:</dt>
+            <dd class="field-value">{{ person.genetics }}</dd>
+        </div>
+        {% endif %}
+
+        {% if person.waitingStatus %}
+        <div class="data-item">
+            <dt class="field-label">Waiting Status:</dt>
+            <dd class="field-value">{{ person.waitingStatus }}</dd>
+        </div>
+        {% endif %}
+
+        {% if person.notes %}
+        <div class="data-item">
+            <dt class="field-label">Notes:</dt>
+            <dd class="field-value">{{ person.notes }}</dd>
+        </div>
+        {% endif %}
+    </dl>
+</div>

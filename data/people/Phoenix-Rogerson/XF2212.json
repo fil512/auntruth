@@ -1,0 +1,40 @@
+{
+  "id": "XF2212",
+  "name": "Sarah  Richardson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Goodhope Johnson     UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2157",
+    "name": "James Richardson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2157.htm"
+  },
+  "mother": {
+    "id": "XF2156",
+    "name": "Sarah Gillespie-Richardson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2156.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:38Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2212.htm",
+    "extractionDate": "2025-10-02T00:05:04.029950Z"
+  }
+}

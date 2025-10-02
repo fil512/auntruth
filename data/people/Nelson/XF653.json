@@ -1,0 +1,46 @@
+{
+  "id": "XF653",
+  "name": "Dorothy Evelyn Wagner",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF49",
+      "name": "Victor Emil Esterberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF49.htm",
+      "marriageDate": "Friday, October 24, 1941"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF654",
+      "name": "Ruth Louise Esterberg",
+      "url": "/auntruth/new/htm/L2/XF654.htm",
+      "birthDate": "04/22/1944"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:07Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF653.htm",
+    "extractionDate": "2025-10-02T00:04:11.598717Z"
+  }
+}

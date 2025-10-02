@@ -1,0 +1,46 @@
+{
+  "id": "XF2524",
+  "name": "Mary  Jones",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2523",
+      "name": "Charles Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2523.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2525",
+      "name": "Russell   Hambley",
+      "url": "/auntruth/new/htm/L3/XF2525.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Swan Lake MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:55Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2524.htm",
+    "extractionDate": "2025-10-02T00:05:12.987761Z"
+  }
+}

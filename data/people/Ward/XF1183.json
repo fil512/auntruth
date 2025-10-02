@@ -1,0 +1,54 @@
+{
+  "id": "XF1183",
+  "name": "Henry  Ward",
+  "lineage": "Ward",
+  "birthDate": "Monday, January 01, 1635",
+  "birthLocation": "UKG",
+  "deathDate": "Thursday, April 04, 1715",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1181",
+    "name": "Samuel Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1181.htm"
+  },
+  "mother": {
+    "id": "XF1182",
+    "name": "-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1182.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1184",
+      "name": "Remember Farrow-Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF1184.htm",
+      "marriageDate": "Monday, February 03, 1659"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1187",
+      "name": "Edward   Ward",
+      "url": "/auntruth/new/htm/L5/XF1187.htm",
+      "birthDate": "07/24/1672"
+    }
+  ],
+  "occupation": null,
+  "address": "Hingham MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 3 Feb 1659 in Hingham MA Died in Hingham MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:24Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1183.htm",
+    "extractionDate": "2025-10-02T00:03:35.939049Z"
+  }
+}

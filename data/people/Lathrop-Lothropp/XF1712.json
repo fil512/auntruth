@@ -1,0 +1,72 @@
+{
+  "id": "XF1712",
+  "name": "Albert Ernest Bradley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, August 23, 1871",
+  "birthLocation": "Manchester, Hartford CT   USA",
+  "deathDate": "Sunday, July 27, 1958",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1600",
+    "name": "Henry Johnson Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1600.htm"
+  },
+  "mother": {
+    "id": "XF1601",
+    "name": "Abbie Maria Lathrop-Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1601.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1711",
+      "name": "Winifred Gertrude Seymour-Bradley [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1711.htm",
+      "marriageDate": "Sunday, January 01, 1893"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2566",
+      "name": "Winifred Gertrude Bradley",
+      "url": "/auntruth/new/htm/L4/XF2566.htm",
+      "birthDate": "03/04/1904"
+    },
+    {
+      "id": "XF2567",
+      "name": "Frank A. Bradley",
+      "url": "/auntruth/new/htm/L4/XF2567.htm",
+      "birthDate": "10/02/1901"
+    },
+    {
+      "id": "XF1714",
+      "name": "Della Mae Bradley",
+      "url": "/auntruth/new/htm/L4/XF1714.htm",
+      "birthDate": "05/06/1898"
+    },
+    {
+      "id": "XF1713",
+      "name": "Florence Ethel Bradley",
+      "url": "/auntruth/new/htm/L4/XF1713.htm",
+      "birthDate": "01/01/1894"
+    }
+  ],
+  "occupation": "Wholesale Confectionary & Tobacco for 60 years",
+  "address": "Newburgh, Orange NY  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Buried in Woodlawn Cemetery, Newburgh, Orange, NY USA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:08Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1712.htm",
+    "extractionDate": "2025-10-02T00:05:54.386264Z"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "XF2760",
+  "name": "Elias  Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, August 08, 1834",
+  "birthLocation": "Jackson Twp Cambria Co     USA",
+  "deathDate": "Thursday, August 02, 1917",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2769",
+    "name": "Samuel Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2769.htm"
+  },
+  "mother": {
+    "id": "XF2770",
+    "name": "Susannah Eyler-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2770.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2759",
+      "name": "Maria Pringle-Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2759.htm",
+      "marriageDate": "Thursday, February 03, 1859"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2781",
+      "name": "Daniel Melroy Paul",
+      "url": "/auntruth/new/htm/L3/XF2781.htm",
+      "birthDate": "05/29/1875"
+    },
+    {
+      "id": "XF2779",
+      "name": "John Wallace Paul",
+      "url": "/auntruth/new/htm/L3/XF2779.htm",
+      "birthDate": "05/27/1873"
+    },
+    {
+      "id": "XF2777",
+      "name": "William Henry Paul",
+      "url": "/auntruth/new/htm/L3/XF2777.htm",
+      "birthDate": "06/04/1870"
+    },
+    {
+      "id": "XF2776",
+      "name": "Anna (Annie) Mary Paul",
+      "url": "/auntruth/new/htm/L3/XF2776.htm",
+      "birthDate": "09/12/1866"
+    },
+    {
+      "id": "XF2774",
+      "name": "Samuel Winfield Paul",
+      "url": "/auntruth/new/htm/L3/XF2774.htm",
+      "birthDate": "05/07/1864"
+    },
+    {
+      "id": "XF2773",
+      "name": "James Lincoln Paul",
+      "url": "/auntruth/new/htm/L3/XF2773.htm",
+      "birthDate": "07/30/1861"
+    },
+    {
+      "id": "XF2771",
+      "name": "Laura Jane Paul",
+      "url": "/auntruth/new/htm/L3/XF2771.htm",
+      "birthDate": "12/13/1859"
+    }
+  ],
+  "occupation": null,
+  "address": "Altoona Blair Co PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:41Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2760.htm",
+    "extractionDate": "2025-10-02T00:05:15.741937Z"
+  }
+}

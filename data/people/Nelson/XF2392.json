@@ -1,0 +1,46 @@
+{
+  "id": "XF2392",
+  "name": "Doris  Gray",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, February 06, 1923",
+  "birthLocation": "Regina SK   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF37",
+      "name": "Franklin Irwin Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF37.htm",
+      "marriageDate": "Thursday, October 12, 1944"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2393",
+      "name": "Heather Leslie Nelson",
+      "url": "/auntruth/new/htm/L2/XF2393.htm",
+      "birthDate": "06/02/1948"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "married in Hitchin England during war",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:56Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2392.htm",
+    "extractionDate": "2025-10-02T00:04:04.884318Z"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "XF348",
+  "name": "Lisa Rowena Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Wednesday, September 04, 1963",
+  "birthLocation": "Abbotsford BC   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF343",
+    "name": "Bryan Spencer Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF343.htm"
+  },
+  "mother": {
+    "id": "XF344",
+    "name": "Elaine (Jo) Josefina Chantler-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF344.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1813",
+      "name": "Jim Byrnes [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1813.htm",
+      "marriageDate": "Thursday, September 01, 1988"
+    },
+    {
+      "id": "XF1814",
+      "name": "Robert Burke [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1814.htm",
+      "marriageDate": "Sunday, August 01, 1993"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1815",
+      "name": "Lindsey Juleen Byrnes",
+      "url": "/auntruth/new/htm/L3/XF1815.htm",
+      "birthDate": "06/13/1990"
+    }
+  ],
+  "occupation": null,
+  "address": "BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1638.htm"
+    },
+    {
+      "name": "At Bryan Hambley's",
+      "date": "Wednesday, August 05, 1964",
+      "location": "Abbotsford British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI429.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:21Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF348.htm",
+    "extractionDate": "2025-10-02T00:05:26.355342Z"
+  }
+}

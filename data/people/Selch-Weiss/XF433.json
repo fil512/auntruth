@@ -1,0 +1,59 @@
+{
+  "id": "XF433",
+  "name": "Clifford  Langner",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, March 01, 1951",
+  "birthLocation": "CAN",
+  "deathDate": "Tuesday, May 20, 2003",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF421",
+    "name": "Reinhold(Roy) Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF421.htm"
+  },
+  "mother": {
+    "id": "XF420",
+    "name": "Thelma Selch-Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF420.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Grade 5 Beausejour Elementary School",
+      "date": "Monday, October 01, 1962",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1769.htm"
+    },
+    {
+      "name": "On Back Porch",
+      "date": "Sunday, July 01, 1956",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1764.htm"
+    },
+    {
+      "name": "Diane & Cliff",
+      "date": "Tuesday, January 01, 1952",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1805.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:04Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF433.htm",
+    "extractionDate": "2025-10-02T00:04:26.365114Z"
+  }
+}

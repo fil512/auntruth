@@ -1,0 +1,86 @@
+{
+  "id": "XF303",
+  "name": "Keith  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF301",
+    "name": "Ira Howard Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF301.htm"
+  },
+  "mother": {
+    "id": "XF302",
+    "name": "Rita Comm-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF302.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF304",
+      "name": "Helen Bosal-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF304.htm",
+      "marriageDate": "Saturday, September 10, 1955"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF306",
+      "name": "Bruce   Pringle",
+      "url": "/auntruth/new/htm/L3/XF306.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF305",
+      "name": "Howard(Howie)   Pringle",
+      "url": "/auntruth/new/htm/L3/XF305.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "14437 Spyglass St. Orlando FL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Pharmacist",
+  "photos": [
+    {
+      "name": "Pringle Men",
+      "date": "Saturday, March 01, 1997",
+      "location": "Orlando Florida United States of America",
+      "url": "/auntruth/new/htm/L3/XI1624.htm"
+    },
+    {
+      "name": "Marion & Phil's Wedding",
+      "date": "Saturday, July 01, 1950",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI1613.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Memory Card from Keith for Auntie Ruth",
+      "date": "Monday, April 01, 2002",
+      "location": "Orlando Florida United States of America",
+      "url": "/auntruth/new/htm/L3/XI1625.htm"
+    },
+    {
+      "name": "Sister & Brother",
+      "date": "Saturday, March 01, 1997",
+      "location": "Orlando Florida United States of America",
+      "url": "/auntruth/new/htm/L3/XI1623.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:56Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF303.htm",
+    "extractionDate": "2025-10-02T00:05:23.802641Z"
+  }
+}

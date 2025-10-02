@@ -1,0 +1,39 @@
+{
+  "id": "XF374",
+  "name": "Julius  Somerfeldt(Sommerfld",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF373",
+      "name": "Theophilia Selch-Somerfeldt(Sommerfld [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF373.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:32Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF374.htm",
+    "extractionDate": "2025-10-02T00:04:23.095681Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF2279",
+  "name": "Richard  White",
+  "lineage": "Nelson",
+  "birthDate": "Friday, January 01, 1954",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2278",
+    "name": "White [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2278.htm"
+  },
+  "mother": {
+    "id": "XF2275",
+    "name": "Joyce Elaine Oligney-Tudor-White [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2275.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:07Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2279.htm",
+    "extractionDate": "2025-10-02T00:04:00.969127Z"
+  }
+}

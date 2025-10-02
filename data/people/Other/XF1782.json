@@ -1,0 +1,47 @@
+{
+  "id": "XF1782",
+  "name": "Tyler  Carlson",
+  "lineage": "",
+  "birthDate": "Saturday, February 03, 1962",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF74",
+    "name": "Arthur Carlson []",
+    "url": "/auntruth/new/htm/L0/XF74.htm"
+  },
+  "mother": {
+    "id": "XF75",
+    "name": "Hilda -Carlson []",
+    "url": "/auntruth/new/htm/L0/XF75.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1783",
+      "name": "Michelle -Bradford-Carlson []",
+      "url": "/auntruth/new/htm/L0/XF1783.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "299 Morgan Crescent Winnipeg MB R2Y 0C9 CAN",
+  "email": null,
+  "phone": "204-837-8976, 204-837-8976",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2004-05-26T23:15:38Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF1782.htm",
+    "extractionDate": "2025-10-02T00:06:10.454196Z"
+  }
+}

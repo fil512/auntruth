@@ -1,0 +1,91 @@
+{
+  "id": "XF25",
+  "name": "Alice Maria Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Monday, March 26, 1906",
+  "birthLocation": "Narcisse MB   CAN",
+  "deathDate": "Wednesday, January 01, 1986",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF13",
+    "name": "Olaf Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF13.htm"
+  },
+  "mother": {
+    "id": "XF755",
+    "name": "Josefina Getz-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF755.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2269",
+      "name": "Don Oligney [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2269.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2285",
+      "name": "John Arnold Oligney",
+      "url": "/auntruth/new/htm/L2/XF2285.htm",
+      "birthDate": "01/17/1944"
+    },
+    {
+      "id": "XF2283",
+      "name": "Janice Marie Oligney",
+      "url": "/auntruth/new/htm/L2/XF2283.htm",
+      "birthDate": "03/10/1940"
+    },
+    {
+      "id": "XF2281",
+      "name": "Kenneth Carl Oligney",
+      "url": "/auntruth/new/htm/L2/XF2281.htm",
+      "birthDate": "06/10/1938"
+    },
+    {
+      "id": "XF2275",
+      "name": "Joyce Elaine Oligney",
+      "url": "/auntruth/new/htm/L2/XF2275.htm",
+      "birthDate": "08/02/1934"
+    },
+    {
+      "id": "XF2271",
+      "name": "Beverley Ann Oligney",
+      "url": "/auntruth/new/htm/L2/XF2271.htm",
+      "birthDate": "12/14/1932"
+    },
+    {
+      "id": "XF2270",
+      "name": "Donald Jr. Oligney",
+      "url": "/auntruth/new/htm/L2/XF2270.htm",
+      "birthDate": "07/27/1929"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "David Hagborg",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Uncle Olaf Nelson's Farm",
+      "date": "Sunday, August 01, 1915",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1414.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:06Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF25.htm",
+    "extractionDate": "2025-10-02T00:04:07.101329Z"
+  }
+}

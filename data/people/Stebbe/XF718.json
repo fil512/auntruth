@@ -1,0 +1,52 @@
+{
+  "id": "XF718",
+  "name": "Tim",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "POL",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF719",
+      "name": "Ann Simcoe- [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF719.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF721",
+      "name": "",
+      "url": "/auntruth/new/htm/L7/XF721.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF720",
+      "name": "George",
+      "url": "/auntruth/new/htm/L7/XF720.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Jersey City NJ  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Uncle Mike Fedorco (number 728) showed him how to make radios out of tubes. He became very wealthy in this business and made instruments for US and Canadian governments(used silver). Had a cottage in Miami which Auntie Edna Fedorco visited. Died at age 50.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:35Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF718.htm",
+    "extractionDate": "2025-10-02T00:03:56.663715Z"
+  }
+}

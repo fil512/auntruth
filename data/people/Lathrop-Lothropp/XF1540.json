@@ -1,0 +1,40 @@
+{
+  "id": "XF1540",
+  "name": "Arthur Raymond Lary",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Foxcroft ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1526",
+    "name": "George William Lary [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1526.htm"
+  },
+  "mother": {
+    "id": "XF1527",
+    "name": "Rose Mary Bartlett-Lary [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1527.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Foxcroft ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:55Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1540.htm",
+    "extractionDate": "2025-10-02T00:05:45.947075Z"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "id": "XF3",
+  "name": "Karolina  Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Monday, February 02, 1874",
+  "birthLocation": "Tralleborg     SWE",
+  "deathDate": "Friday, September 10, 1948",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1",
+    "name": "Nils Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF1.htm"
+  },
+  "mother": {
+    "id": "XF2",
+    "name": "Kristina Hansdotter-Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF4",
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm",
+      "marriageDate": "Wednesday, September 14, 1892"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF178",
+      "name": "Walter Arnold Hagborg",
+      "url": "/auntruth/new/htm/L1/XF178.htm",
+      "birthDate": "06/15/1908"
+    },
+    {
+      "id": "XF160",
+      "name": "Helmer Vilhelm Hagborg",
+      "url": "/auntruth/new/htm/L1/XF160.htm",
+      "birthDate": "05/15/1903"
+    },
+    {
+      "id": "XF157",
+      "name": "Naomi Gunhild Hagborg",
+      "url": "/auntruth/new/htm/L1/XF157.htm",
+      "birthDate": "01/30/1901"
+    },
+    {
+      "id": "XF167",
+      "name": "Emil Albin Hagborg",
+      "url": "/auntruth/new/htm/L1/XF167.htm",
+      "birthDate": "05/18/1897"
+    },
+    {
+      "id": "XF173",
+      "name": "Esther Marie Hagborg",
+      "url": "/auntruth/new/htm/L1/XF173.htm",
+      "birthDate": "02/28/1895"
+    },
+    {
+      "id": "XF156",
+      "name": "Harry   Hagborg",
+      "url": "/auntruth/new/htm/L1/XF156.htm",
+      "birthDate": "08/10/1893"
+    }
+  ],
+  "occupation": "Domestic Engineer",
+  "address": "783 Bannatyne Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": "NS/ND",
+  "waitingStatus": "Yes",
+  "source": "David Hagborg",
+  "notes": "Brought over from Sweden to marry Borje Hansson Hagborg Have picture at age 17 in first year after her arrival in Winnipeg from Sweden. Her travelling companion had been Karolina Ek who married Pete Martensson (Morrison). Buried in lot 1895 Brookside Cemetery, Winnipeg, Manitoba, Canada. Married Borje Hagborg 09/14/1892 Quite fundamentalist abstainer. Buried in Plot 1859 Brookside Cemetery 3001 Notre Dame Winnipeg MB Canada",
+  "photos": [
+    {
+      "name": "At Great-Grandparents Hagborg Grave",
+      "date": "Sunday, August 01, 1993",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI764.htm"
+    },
+    {
+      "name": "Auntie Esther leaving for Sweden",
+      "date": "Thursday, August 01, 1946",
+      "location": "Montral Quebec Canada",
+      "url": "/auntruth/new/htm/L1/XI1304.htm"
+    },
+    {
+      "name": "In the Back Yard",
+      "date": "Saturday, June 30, 1945",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1397.htm"
+    },
+    {
+      "name": "50th Anniversary",
+      "date": "Monday, September 14, 1942",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1399.htm"
+    },
+    {
+      "name": "At a motel",
+      "date": "Monday, July 25, 1938",
+      "location": "British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1477.htm"
+    },
+    {
+      "name": "Movie at Hagborg Duplex",
+      "date": "Monday, May 02, 1938",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI2418.htm"
+    },
+    {
+      "name": "In the front yard",
+      "date": "Monday, July 15, 1935",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1287.htm"
+    },
+    {
+      "name": "Dinner",
+      "date": "Wednesday, December 20, 1933",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1410.htm"
+    },
+    {
+      "name": "Wedding",
+      "date": "Wednesday, December 28, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1407.htm"
+    },
+    {
+      "name": "More Picnic",
+      "date": "Friday, July 01, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1454.htm"
+    },
+    {
+      "name": "Picnic",
+      "date": "Friday, July 01, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1453.htm"
+    },
+    {
+      "name": "Whole Family",
+      "date": "Wednesday, September 18, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1455.htm"
+    },
+    {
+      "name": "Dinner",
+      "date": "Wednesday, September 18, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1435.htm"
+    },
+    {
+      "name": "37th Anniversary",
+      "date": "Saturday, September 14, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1400.htm"
+    },
+    {
+      "name": "Picnic in the woods",
+      "date": "Monday, July 15, 1929",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1433.htm"
+    },
+    {
+      "name": "Back Yard under Tree",
+      "date": "Friday, May 31, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1440.htm"
+    },
+    {
+      "name": "Picnic in a brook",
+      "date": "Saturday, September 01, 1928",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1412.htm"
+    },
+    {
+      "name": "Under the Ferris Wheel",
+      "date": "Monday, June 01, 1925",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1466.htm"
+    },
+    {
+      "name": "Dad's 16th birthday Bible inscription from Gramma Hagborg",
+      "date": "Sunday, June 15, 1924",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2612.htm"
+    },
+    {
+      "name": "In Red River at the Cottage",
+      "date": "Sunday, August 01, 1920",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1427.htm"
+    },
+    {
+      "name": "Sitting on the Running Board",
+      "date": "Sunday, June 01, 1919",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1431.htm"
+    },
+    {
+      "name": "In front",
+      "date": "Wednesday, February 05, 1919",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1429.htm"
+    },
+    {
+      "name": "Back Garden",
+      "date": "Wednesday, June 12, 1918",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1434.htm"
+    },
+    {
+      "name": "On Chesterfield",
+      "date": "Saturday, June 01, 1918",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1432.htm"
+    },
+    {
+      "name": "Picking Wild Strawberries",
+      "date": "Tuesday, June 15, 1915",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1436.htm"
+    },
+    {
+      "name": "At Front Gate",
+      "date": "Wednesday, February 12, 1913",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1430.htm"
+    },
+    {
+      "name": "Buggy Party at Assiniboine Park Pavilion",
+      "date": "Monday, August 01, 1910",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1390.htm"
+    },
+    {
+      "name": "Hagborg Family 1907",
+      "date": "Sunday, December 01, 1907",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1385.htm"
+    },
+    {
+      "name": "Hagborg Family 1898",
+      "date": "Thursday, December 01, 1898",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1382.htm"
+    },
+    {
+      "name": "The Original Borje Hansson Home and Water Delivery Cart",
+      "date": "Tuesday, June 01, 1897",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1381.htm"
+    },
+    {
+      "name": "The Manitoba Hagborgs 1892",
+      "date": "Tuesday, September 20, 1892",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1376.htm"
+    },
+    {
+      "name": "Wedding Borje & Karolina",
+      "date": "Wednesday, September 14, 1892",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1373.htm"
+    },
+    {
+      "name": "Gramma Hagborg age 17",
+      "date": "Monday, February 02, 1891",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1365.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Christmas Cactus 53 Blooms",
+      "date": "Friday, May 31, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1443.htm"
+    },
+    {
+      "name": "Diving Backwards at Hagborg Summer Cottage(Wildwood Golf Course now)",
+      "date": "Sunday, August 01, 1920",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1426.htm"
+    },
+    {
+      "name": "Shovelling Snow",
+      "date": "Friday, December 12, 1919",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1424.htm"
+    },
+    {
+      "name": "Jersey Calf Walter fed for market",
+      "date": "Sunday, March 03, 1918",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1423.htm"
+    },
+    {
+      "name": "Uncle Olaf Nelson's Farm",
+      "date": "Sunday, August 01, 1915",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1414.htm"
+    },
+    {
+      "name": "On Steps with cats",
+      "date": "Monday, June 01, 1914",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1421.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:51:50Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF3.htm",
+    "extractionDate": "2025-10-02T00:04:09.275585Z"
+  }
+}

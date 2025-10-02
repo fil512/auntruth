@@ -1,0 +1,40 @@
+{
+  "id": "XF2130",
+  "name": "Henry Leonard Thorne",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2128",
+    "name": "Ben Leonard Thorne [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2128.htm"
+  },
+  "mother": {
+    "id": "XF2129",
+    "name": "E. Robertson-Thorne [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2129.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:04Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2130.htm",
+    "extractionDate": "2025-10-02T00:04:59.842335Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF522",
+  "name": "Franca  Bush",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF520",
+    "name": "Lyle Bush [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF520.htm"
+  },
+  "mother": {
+    "id": "XF521",
+    "name": "Margaret -Bush [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF521.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:49Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF522.htm",
+    "extractionDate": "2025-10-02T00:04:27.732185Z"
+  }
+}

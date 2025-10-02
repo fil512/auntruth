@@ -1,0 +1,79 @@
+{
+  "id": "XF505",
+  "name": "Jan  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF496",
+    "name": "Lawrence (Larry Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF496.htm"
+  },
+  "mother": {
+    "id": "XF497",
+    "name": "Anne Lewko-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF497.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF684",
+      "name": "Rick Ash [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF684.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF683",
+      "name": "Art Gross [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF683.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1111",
+      "name": "Kate   Gross",
+      "url": "/auntruth/new/htm/L7/XF1111.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Dessert",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2259.htm"
+    },
+    {
+      "name": "Whole Stebbe Family",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2258.htm"
+    },
+    {
+      "name": "Basking in Sun",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2254.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:40Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF505.htm",
+    "extractionDate": "2025-10-02T00:03:54.182868Z"
+  }
+}

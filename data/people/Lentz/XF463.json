@@ -1,0 +1,66 @@
+{
+  "id": "XF463",
+  "name": "Daisy  Lentz",
+  "lineage": "Lentz",
+  "birthDate": "Monday, January 01, 1906",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF445",
+    "name": "Ludwig Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF445.htm"
+  },
+  "mother": {
+    "id": "XF686",
+    "name": "Juliana Klingbeil-Klingbeil-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF686.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF464",
+      "name": "Karl (Charlie) Kreiger [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF464.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1061",
+      "name": "Lawrence   Kreiger",
+      "url": "/auntruth/new/htm/L8/XF1061.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1059",
+      "name": "Carl   Kreiger",
+      "url": "/auntruth/new/htm/L8/XF1059.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF465",
+      "name": "Marge   Kreiger",
+      "url": "/auntruth/new/htm/L8/XF465.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:20Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF463.htm",
+    "extractionDate": "2025-10-02T00:03:02.806760Z"
+  }
+}

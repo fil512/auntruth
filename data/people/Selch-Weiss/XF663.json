@@ -1,0 +1,46 @@
+{
+  "id": "XF663",
+  "name": null,
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF416",
+      "name": "Louis Young [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF416.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF664",
+      "name": "Ron   Young",
+      "url": "/auntruth/new/htm/L6/XF664.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:12Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF663.htm",
+    "extractionDate": "2025-10-02T00:04:30.053336Z"
+  }
+}

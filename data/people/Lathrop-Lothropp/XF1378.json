@@ -1,0 +1,40 @@
+{
+  "id": "XF1378",
+  "name": "Alice  Smith",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Fort Dodge IO   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1376",
+    "name": "William Philley Smith [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1376.htm"
+  },
+  "mother": {
+    "id": "XF1377",
+    "name": "Eliza Ellen Lathrop-Smith [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1377.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Fort Dodge IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:46Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1378.htm",
+    "extractionDate": "2025-10-02T00:05:37.530357Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF2410",
+  "name": "Albin  Persson",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2409",
+    "name": "Nils Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2409.htm"
+  },
+  "mother": {
+    "id": "XF2408",
+    "name": "Hanna Eks-Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2408.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:04Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2410.htm",
+    "extractionDate": "2025-10-02T00:04:05.873836Z"
+  }
+}

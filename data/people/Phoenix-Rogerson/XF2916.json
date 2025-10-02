@@ -1,0 +1,42 @@
+{
+  "id": "XF2916",
+  "name": "Eliza Hannah Marie Lott",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": "Monday, September 08, 1997",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF837",
+    "name": "Thomas Ian Andrew Lott [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF837.htm"
+  },
+  "mother": {
+    "id": "XF2914",
+    "name": "Mandi Lonsberry-Lott [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2914.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:50Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2916.htm",
+    "extractionDate": "2025-10-02T00:05:05.107529Z"
+  }
+}

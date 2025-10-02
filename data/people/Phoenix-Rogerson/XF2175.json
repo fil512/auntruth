@@ -1,0 +1,94 @@
+{
+  "id": "XF2175",
+  "name": "James  Carruthers",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Broomhill     UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2174",
+      "name": "Margaret Jane Gillespie-Carruthers [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2174.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2199",
+      "name": "James   Carruthers",
+      "url": "/auntruth/new/htm/L9/XF2199.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2198",
+      "name": "Margaret   Carruthers",
+      "url": "/auntruth/new/htm/L9/XF2198.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2197",
+      "name": "Elizabeth   Carruthers",
+      "url": "/auntruth/new/htm/L9/XF2197.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2196",
+      "name": "Mary Ann   Carruthers",
+      "url": "/auntruth/new/htm/L9/XF2196.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2195",
+      "name": "Sarah   Carruthers",
+      "url": "/auntruth/new/htm/L9/XF2195.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2194",
+      "name": "Andrew   Carruthers",
+      "url": "/auntruth/new/htm/L9/XF2194.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2193",
+      "name": "Jessie   Carruthers",
+      "url": "/auntruth/new/htm/L9/XF2193.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2192",
+      "name": "Graham   Carruthers",
+      "url": "/auntruth/new/htm/L9/XF2192.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2191",
+      "name": "Joseph   Carruthers",
+      "url": "/auntruth/new/htm/L9/XF2191.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:22Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2175.htm",
+    "extractionDate": "2025-10-02T00:05:02.070423Z"
+  }
+}

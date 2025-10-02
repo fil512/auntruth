@@ -1,0 +1,40 @@
+{
+  "id": "XF1122",
+  "name": "Karen  Hickman",
+  "lineage": "Stebbe",
+  "birthDate": "Sunday, January 01, 1956",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF483",
+    "name": "Ivan Hickman [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF483.htm"
+  },
+  "mother": {
+    "id": "XF482",
+    "name": "Florence Stebbe-Hickman [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF482.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:58Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1122.htm",
+    "extractionDate": "2025-10-02T00:03:50.815801Z"
+  }
+}

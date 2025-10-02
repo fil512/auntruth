@@ -1,0 +1,60 @@
+{
+  "id": "XF487",
+  "name": "Jan (Uncle John John Fedorco",
+  "lineage": "Stebbe",
+  "birthDate": "Saturday, February 14, 1903",
+  "birthLocation": "HUN",
+  "deathDate": "Monday, February 10, 1992",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF697",
+    "name": "John Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF697.htm"
+  },
+  "mother": {
+    "id": "XF699",
+    "name": "Ann Jacob-Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF699.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF486",
+      "name": "Edna Stebbe-Fedorco [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF486.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Elgin & Ellen Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Fought for Austro-Hungarian Empire in WWI. Cabinet-maker.",
+  "photos": [
+    {
+      "name": "With Uncle Johnny",
+      "date": "Friday, August 19, 1983",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1087.htm"
+    },
+    {
+      "name": "Just Married",
+      "date": "Friday, September 17, 1948",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1494.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:31Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF487.htm",
+    "extractionDate": "2025-10-02T00:03:53.187098Z"
+  }
+}

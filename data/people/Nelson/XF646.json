@@ -1,0 +1,82 @@
+{
+  "id": "XF646",
+  "name": "Karna  Jonsson",
+  "lineage": "Nelson",
+  "birthDate": "Sunday, April 27, 1806",
+  "birthLocation": "Klorup S0   SWE",
+  "deathDate": "Monday, February 10, 1873",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF647",
+      "name": "Hans Olsson Loo [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF647.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2",
+      "name": "Kristina   Hansdotter",
+      "url": "/auntruth/new/htm/L2/XF2.htm",
+      "birthDate": "07/24/1848"
+    },
+    {
+      "id": "XF2403",
+      "name": "Kjerstin   Hansson",
+      "url": "/auntruth/new/htm/L2/XF2403.htm",
+      "birthDate": "07/05/1819"
+    },
+    {
+      "id": "XF2514",
+      "name": "Marianna   Hansson",
+      "url": "/auntruth/new/htm/L2/XF2514.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2510",
+      "name": "Anna   Hansson",
+      "url": "/auntruth/new/htm/L2/XF2510.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2504",
+      "name": "Katarina   Hansson",
+      "url": "/auntruth/new/htm/L2/XF2504.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2502",
+      "name": "Elna   Hansson",
+      "url": "/auntruth/new/htm/L2/XF2502.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2404",
+      "name": "Malina   Hansson",
+      "url": "/auntruth/new/htm/L2/XF2404.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Trelleborg S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:04Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF646.htm",
+    "extractionDate": "2025-10-02T00:04:11.267374Z"
+  }
+}

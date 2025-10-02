@@ -1,0 +1,40 @@
+{
+  "id": "XF1221",
+  "name": "William Enoch Brittingham",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Tuesday, September 27, 1892",
+  "birthLocation": "Vermillion IL   USA",
+  "deathDate": "Thursday, February 16, 1893",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1218",
+    "name": "Byron Adolphu Brittingham [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1218.htm"
+  },
+  "mother": {
+    "id": "XF1217",
+    "name": "Alma Almira Lathrop-Brittingham [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1217.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Vermillion IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:40Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1221.htm",
+    "extractionDate": "2025-10-02T00:05:32.478127Z"
+  }
+}

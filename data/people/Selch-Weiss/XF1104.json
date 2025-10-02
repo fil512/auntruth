@@ -1,0 +1,66 @@
+{
+  "id": "XF1104",
+  "name": "Derek  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, January 01, 1976",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF418",
+    "name": "Richard Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF418.htm"
+  },
+  "mother": {
+    "id": "XF426",
+    "name": "Joan Selch-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF426.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2904",
+      "name": "Heidi Brenden-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2904.htm",
+      "marriageDate": "Saturday, July 27, 2002"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Engagement Announcement",
+      "date": "Monday, July 01, 2002",
+      "location": "Minot North Dakota United States of America",
+      "url": "/auntruth/new/htm/L6/XI1812.htm"
+    },
+    {
+      "name": "Rick Selch Family",
+      "date": "Wednesday, December 01, 1982",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1816.htm"
+    },
+    {
+      "name": "Derek 1 Year",
+      "date": "Thursday, December 01, 1977",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1815.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:50Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1104.htm",
+    "extractionDate": "2025-10-02T00:04:16.721820Z"
+  }
+}

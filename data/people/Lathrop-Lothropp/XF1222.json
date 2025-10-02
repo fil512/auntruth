@@ -1,0 +1,60 @@
+{
+  "id": "XF1222",
+  "name": "Flora Rozella Brittingham",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, March 09, 1894",
+  "birthLocation": "Vermillion IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1218",
+    "name": "Byron Adolphu Brittingham [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1218.htm"
+  },
+  "mother": {
+    "id": "XF1217",
+    "name": "Alma Almira Lathrop-Brittingham [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1217.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1223",
+      "name": "Claude Brady [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1223.htm",
+      "marriageDate": "Wednesday, January 01, 1913"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2296",
+      "name": "Raymond   Brady",
+      "url": "/auntruth/new/htm/L4/XF2296.htm",
+      "birthDate": "01/01/1914"
+    },
+    {
+      "id": "XF2294",
+      "name": "Harold   Brady",
+      "url": "/auntruth/new/htm/L4/XF2294.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:41Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1222.htm",
+    "extractionDate": "2025-10-02T00:05:32.494775Z"
+  }
+}

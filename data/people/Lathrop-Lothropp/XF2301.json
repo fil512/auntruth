@@ -1,0 +1,39 @@
+{
+  "id": "XF2301",
+  "name": "Reid  Riley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2300",
+      "name": "Linda Brady-Riley [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2300.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Tonica IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:17Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2301.htm",
+    "extractionDate": "2025-10-02T00:05:59.370885Z"
+  }
+}

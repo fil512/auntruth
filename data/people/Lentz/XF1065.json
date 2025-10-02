@@ -1,0 +1,53 @@
+{
+  "id": "XF1065",
+  "name": "Carlyle  Kreiger",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1059",
+    "name": "Carl Kreiger [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF1059.htm"
+  },
+  "mother": {
+    "id": "XF1060",
+    "name": "Betty Clifford-Kreiger [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF1060.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1066",
+      "name": "Betty Lou Klassen-Kreiger [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF1066.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF1067",
+      "name": "Joan McGillivray-Kreiger [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF1067.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:32Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF1065.htm",
+    "extractionDate": "2025-10-02T00:03:00.169591Z"
+  }
+}

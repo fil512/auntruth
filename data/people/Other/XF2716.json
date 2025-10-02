@@ -1,0 +1,45 @@
+{
+  "id": "XF2716",
+  "name": "Unknown",
+  "lineage": "",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Hilding Nelson's Catamaran",
+      "date": "Wednesday, July 01, 1964",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI424.htm"
+    },
+    {
+      "name": "Hilding Nelson's",
+      "date": "Wednesday, April 03, 1963",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI417.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:22Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF2716.htm",
+    "extractionDate": "2025-10-02T00:06:12.565373Z"
+  }
+}

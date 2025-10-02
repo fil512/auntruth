@@ -1,0 +1,40 @@
+{
+  "id": "XF2311",
+  "name": "Mary Jane  Pfau",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Serena IL   USA",
+  "deathDate": "Friday, January 01, 1993",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2310",
+    "name": "Robert Pfau [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2310.htm"
+  },
+  "mother": {
+    "id": "XF2309",
+    "name": "Gladys Nagel-Pfau [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2309.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Serena IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "Cancer",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:21Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2311.htm",
+    "extractionDate": "2025-10-02T00:05:59.907739Z"
+  }
+}

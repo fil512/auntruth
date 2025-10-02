@@ -1,0 +1,108 @@
+{
+  "id": "XF924",
+  "name": "Sarah Rozella Ward",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1139",
+    "name": "Martin Luther Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1139.htm"
+  },
+  "mother": {
+    "id": "XF1140",
+    "name": "Eleanor Jane Hobbs-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1140.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF925",
+      "name": "Frank Fred Wi Utech [Ward]",
+      "url": "/auntruth/new/htm/L5/XF925.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF939",
+      "name": "Julius Albert Utech",
+      "url": "/auntruth/new/htm/L5/XF939.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF938",
+      "name": "Fritz Arthur Utech",
+      "url": "/auntruth/new/htm/L5/XF938.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF937",
+      "name": "Walter Albert Utech",
+      "url": "/auntruth/new/htm/L5/XF937.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF936",
+      "name": "Frank George Utech",
+      "url": "/auntruth/new/htm/L5/XF936.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF935",
+      "name": "Annie Eamilia Utech",
+      "url": "/auntruth/new/htm/L5/XF935.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF934",
+      "name": "Herman Bernhar Utech",
+      "url": "/auntruth/new/htm/L5/XF934.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF933",
+      "name": "Louis Martin Utech",
+      "url": "/auntruth/new/htm/L5/XF933.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF931",
+      "name": "Ida   Utech",
+      "url": "/auntruth/new/htm/L5/XF931.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF930",
+      "name": "Mary Sophia Utech",
+      "url": "/auntruth/new/htm/L5/XF930.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF926",
+      "name": "Elnora   Utech",
+      "url": "/auntruth/new/htm/L5/XF926.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Leonore IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:10Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF924.htm",
+    "extractionDate": "2025-10-02T00:03:37.580484Z"
+  }
+}

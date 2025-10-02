@@ -44,6 +44,10 @@
   "email": null,
   "phone": "(416) 846-3912, (416) 846-3912",
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Auntie Annie Nelson's Black Book",
   "notes": "Retired 2002",
   "photos": [
@@ -172,7 +176,7 @@
   ],
   "metadata": {
     "lastUpdated": "2005-12-19T18:54:03Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF186.htm",
-    "extractionDate": "2025-10-01T04:27:21.196523Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF186.htm",
+    "extractionDate": "2025-10-01T22:03:04.886211Z"
   }
 }

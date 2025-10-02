@@ -1,0 +1,40 @@
+{
+  "id": "XF2033",
+  "name": "Jane  Rogerson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1873",
+    "name": "Samuel Rogerson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1873.htm"
+  },
+  "mother": {
+    "id": "XF1872",
+    "name": "Janet Mounsey-Rogerson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1872.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:23Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2033.htm",
+    "extractionDate": "2025-10-02T00:04:55.002519Z"
+  }
+}

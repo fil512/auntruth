@@ -1,0 +1,54 @@
+{
+  "id": "XF274",
+  "name": "Peter  Fleck",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "PA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF272",
+    "name": "Conrad Fleck [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF272.htm"
+  },
+  "mother": {
+    "id": "XF273",
+    "name": "Anna Marie -Fleck [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF273.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF275",
+      "name": "Magdalena Christi Troxel-Fleck [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF275.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF276",
+      "name": "Abraham   Fleck",
+      "url": "/auntruth/new/htm/L3/XF276.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Revolutionary War Soldier, Pension Record. Baptismal Record of New Hanover Lutheran Church. Pennsylvania German Society of Proceedings and Address, Vol 20 page 235",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:41Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF274.htm",
+    "extractionDate": "2025-10-02T00:05:15.044971Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "XF1363",
+  "name": "Jonathan  Morrison",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "VT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1364",
+      "name": "Melinda Edwards-Morrison [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1364.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1365",
+      "name": "Martha Sophia Morrison",
+      "url": "/auntruth/new/htm/L4/XF1365.htm",
+      "birthDate": "02/17/1829"
+    }
+  ],
+  "occupation": null,
+  "address": "Vernon VT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:40Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1363.htm",
+    "extractionDate": "2025-10-02T00:05:36.761988Z"
+  }
+}

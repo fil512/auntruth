@@ -1,0 +1,132 @@
+{
+  "id": "XF2565",
+  "name": "Martha  Johnson",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, December 03, 1773",
+  "birthLocation": "USA",
+  "deathDate": "Saturday, October 24, 1846",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2582",
+    "name": "Nathaniel Johnson [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2582.htm"
+  },
+  "mother": {
+    "id": "XF2583",
+    "name": "Martha Washburn-Johnson [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2583.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2572",
+      "name": "John Bradley [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2572.htm",
+      "marriageDate": "Thursday, March 14, 1793"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2598",
+      "name": "Charlotte   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2598.htm",
+      "birthDate": "01/31/1821"
+    },
+    {
+      "id": "XF2597",
+      "name": "Lucinda   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2597.htm",
+      "birthDate": "06/05/1817"
+    },
+    {
+      "id": "XF2596",
+      "name": "Parley   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2596.htm",
+      "birthDate": "06/15/1815"
+    },
+    {
+      "id": "XF2595",
+      "name": "Joshua   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2595.htm",
+      "birthDate": "07/06/1813"
+    },
+    {
+      "id": "XF2594",
+      "name": "Gardner   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2594.htm",
+      "birthDate": "10/13/1811"
+    },
+    {
+      "id": "XF2593",
+      "name": "Daniel Astrander Bradley",
+      "url": "/auntruth/new/htm/L4/XF2593.htm",
+      "birthDate": "08/06/1809"
+    },
+    {
+      "id": "XF2592",
+      "name": "Elijah   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2592.htm",
+      "birthDate": "09/13/1807"
+    },
+    {
+      "id": "XF2564",
+      "name": "John   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2564.htm",
+      "birthDate": "08/02/1805"
+    },
+    {
+      "id": "XF2591",
+      "name": "Isaac   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2591.htm",
+      "birthDate": "08/26/1803"
+    },
+    {
+      "id": "XF2590",
+      "name": "Sally   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2590.htm",
+      "birthDate": "06/21/1801"
+    },
+    {
+      "id": "XF2589",
+      "name": "Menervy   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2589.htm",
+      "birthDate": "06/09/1797"
+    },
+    {
+      "id": "XF2588",
+      "name": "Martha   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2588.htm",
+      "birthDate": "07/21/1795"
+    },
+    {
+      "id": "XF2587",
+      "name": "Abigail   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2587.htm",
+      "birthDate": "07/21/1795"
+    },
+    {
+      "id": "XF2586",
+      "name": "Olinda   Bradley",
+      "url": "/auntruth/new/htm/L4/XF2586.htm",
+      "birthDate": "09/03/1793"
+    }
+  ],
+  "occupation": null,
+  "address": "Tolland CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": "Buried in New Cemetery Stafford, Tolland CT",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:14Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2565.htm",
+    "extractionDate": "2025-10-02T00:06:00.183115Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "XF2334",
+  "name": "Anna  Persson",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2520",
+    "name": "Pers  [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2520.htm"
+  },
+  "mother": {
+    "id": "XF2519",
+    "name": "Kjerstin Lustru- [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2519.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2335",
+      "name": "Erlandson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2335.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:32Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2334.htm",
+    "extractionDate": "2025-10-02T00:04:01.801609Z"
+  }
+}

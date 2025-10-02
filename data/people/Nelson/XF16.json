@@ -1,0 +1,67 @@
+{
+  "id": "XF16",
+  "name": "Gustavus Donald Pearson",
+  "lineage": "Nelson",
+  "birthDate": "Friday, October 27, 1916",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Friday, March 14, 1997",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF7",
+    "name": "Gustav Pearson(Pehrson) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF7.htm"
+  },
+  "mother": {
+    "id": "XF6",
+    "name": "Ellida Augusta Nelson-Pearson(Pehrson) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF6.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF17",
+      "name": "Margaret(Madge) Isabel Murray-Pearson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF17.htm",
+      "marriageDate": "Friday, November 26, 1943"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF40",
+      "name": "Murray Glen Pearson",
+      "url": "/auntruth/new/htm/L2/XF40.htm",
+      "birthDate": "11/28/1950"
+    }
+  ],
+  "occupation": "Manufacturer's Agent",
+  "address": "Deer Lodge Hospital Winnipeg   CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "Series of stro",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Joined Canadian Navy in 1942, stationed in Halifax/Sidney NS and St. John NF. Was educated in Winnipeg, and while studying accounting at business college he joined Hagborg Fuel. In 1954 he became a manufacturers agent representing firms in Canada, the United States, and England. As a young man Don was member of the Order of the Demolay, Winnipeg Junior Chamber of Commerce and Kildonan Canoe Club. Don was a member of the board of the Central YMCA and a longtime member of the Northwest Commercial Travellers. Don was an active Mason, first with the Fort Garry Lodge, then as a founding member of the Gateway Lodge. He later joined the Friendship Lodge and was Master in 1956. He was also a member of the Scottish Rite Bethesda Chapter Rose Croix. He was a member of the Granite Curling Club and the Wildewood Club where he enjoyed many years of curling and golf. Don enjoyed Toastmasters 250 for several years, and won a number of speech contests.",
+  "photos": [
+    {
+      "name": "Cousin Don Tombstone",
+      "date": "Friday, September 05, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2405.htm"
+    },
+    {
+      "name": "Pearson Siblings",
+      "date": "Thursday, March 29, 1917",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1370.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:51:59Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF16.htm",
+    "extractionDate": "2025-10-02T00:03:58.666073Z"
+  }
+}

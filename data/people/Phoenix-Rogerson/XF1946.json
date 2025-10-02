@@ -1,0 +1,58 @@
+{
+  "id": "XF1946",
+  "name": "Wayman  Prosser",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1945",
+      "name": "Janet Nicol-Prosser [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1945.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1949",
+      "name": "Myrtle   Prosser",
+      "url": "/auntruth/new/htm/L9/XF1949.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1948",
+      "name": "Allan   Prosser",
+      "url": "/auntruth/new/htm/L9/XF1948.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1947",
+      "name": "Glen   Prosser",
+      "url": "/auntruth/new/htm/L9/XF1947.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:46Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1946.htm",
+    "extractionDate": "2025-10-02T00:04:50.541266Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF2102",
+  "name": "James  Lotimer",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2095",
+    "name": "John Greer Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2095.htm"
+  },
+  "mother": {
+    "id": "XF2096",
+    "name": "Mary Chalmers-Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2096.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:52Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2102.htm",
+    "extractionDate": "2025-10-02T00:04:58.438099Z"
+  }
+}

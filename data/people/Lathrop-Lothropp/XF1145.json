@@ -1,0 +1,60 @@
+{
+  "id": "XF1145",
+  "name": "John 4th  Lothrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Sunday, May 19, 1680",
+  "birthLocation": "Wallingford CT   USA",
+  "deathDate": "Saturday, August 04, 1753",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1142",
+    "name": "John 3rd Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1142.htm"
+  },
+  "mother": {
+    "id": "XF1143",
+    "name": "Ruth Royce-Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1143.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1147",
+      "name": "-Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1147.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF1146",
+      "name": "Lydia Palmeter-Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1146.htm",
+      "marriageDate": "Friday, February 14, 1721"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1148",
+      "name": "John 5th   Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1148.htm",
+      "birthDate": "02/17/1728"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:08Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1145.htm",
+    "extractionDate": "2025-10-02T00:05:29.475562Z"
+  }
+}

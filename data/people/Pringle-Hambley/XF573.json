@@ -1,0 +1,58 @@
+{
+  "id": "XF573",
+  "name": "Florence  Blair",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF327",
+      "name": "George Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF327.htm",
+      "marriageDate": "Sunday, January 01, 1928"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF328",
+      "name": "Ruth   Hambley",
+      "url": "/auntruth/new/htm/L3/XF328.htm",
+      "birthDate": "04/24/1933"
+    },
+    {
+      "id": "XF2533",
+      "name": "Barrie   Hambley",
+      "url": "/auntruth/new/htm/L3/XF2533.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2532",
+      "name": "Grant   Hambley",
+      "url": "/auntruth/new/htm/L3/XF2532.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:33Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF573.htm",
+    "extractionDate": "2025-10-02T00:05:27.952043Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF2194",
+  "name": "Andrew  Carruthers",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Broomhill     UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2175",
+    "name": "James Carruthers [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2175.htm"
+  },
+  "mother": {
+    "id": "XF2174",
+    "name": "Margaret Jane Gillespie-Carruthers [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2174.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:30Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2194.htm",
+    "extractionDate": "2025-10-02T00:05:03.052154Z"
+  }
+}

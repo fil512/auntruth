@@ -1,0 +1,45 @@
+{
+  "id": "XF2230",
+  "name": "Palmquist",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2231",
+      "name": "Francis Leonard Palmquist",
+      "url": "/auntruth/new/htm/L3/XF2231.htm",
+      "birthDate": "03/27/1908"
+    },
+    {
+      "id": "XF292",
+      "name": "Karl Edwin Palmquist",
+      "url": "/auntruth/new/htm/L3/XF292.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:46Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2230.htm",
+    "extractionDate": "2025-10-02T00:05:09.478874Z"
+  }
+}

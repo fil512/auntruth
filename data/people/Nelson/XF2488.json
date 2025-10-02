@@ -1,0 +1,40 @@
+{
+  "id": "XF2488",
+  "name": "Doreen  Morrison",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2418",
+    "name": "Oscar Morrison [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2418.htm"
+  },
+  "mother": {
+    "id": "XF2419",
+    "name": "Marjorie -Morrison [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2419.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "2 children",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:39Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2488.htm",
+    "extractionDate": "2025-10-02T00:04:06.476391Z"
+  }
+}

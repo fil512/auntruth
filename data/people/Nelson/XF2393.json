@@ -1,0 +1,47 @@
+{
+  "id": "XF2393",
+  "name": "Heather Leslie Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Wednesday, June 02, 1948",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF37",
+    "name": "Franklin Irwin Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF37.htm"
+  },
+  "mother": {
+    "id": "XF2392",
+    "name": "Doris Gray-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2392.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2394",
+      "name": "James Douglas Hunter [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2394.htm",
+      "marriageDate": "Thursday, May 07, 1970"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:57Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2393.htm",
+    "extractionDate": "2025-10-02T00:04:04.904954Z"
+  }
+}

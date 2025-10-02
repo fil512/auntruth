@@ -1,0 +1,73 @@
+{
+  "id": "XF320",
+  "name": "Woodson(Woody)( Richard Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF309",
+    "name": "Maurice(Jerry) Ervin Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF309.htm"
+  },
+  "mother": {
+    "id": "XF311",
+    "name": "Jane MacGreer-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF311.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF321",
+      "name": "Lynne -Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF321.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF323",
+      "name": "Matthew   Pringle",
+      "url": "/auntruth/new/htm/L3/XF323.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF322",
+      "name": "Mark   Pringle",
+      "url": "/auntruth/new/htm/L3/XF322.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "2443 163rd St. White Rock BC V4B 4Z5 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "With Grandchildren",
+      "date": "Saturday, December 15, 1984",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L3/XI990.htm"
+    },
+    {
+      "name": "Marion & Phil's Wedding",
+      "date": "Saturday, July 01, 1950",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI1613.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:04Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF320.htm",
+    "extractionDate": "2025-10-02T00:05:24.742923Z"
+  }
+}

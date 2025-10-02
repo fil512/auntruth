@@ -1,0 +1,52 @@
+{
+  "id": "XF1223",
+  "name": "Claude  Brady",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1222",
+      "name": "Flora Rozella Brittingham-Brady [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1222.htm",
+      "marriageDate": "Wednesday, January 01, 1913"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2296",
+      "name": "Raymond   Brady",
+      "url": "/auntruth/new/htm/L4/XF2296.htm",
+      "birthDate": "01/01/1914"
+    },
+    {
+      "id": "XF2294",
+      "name": "Harold   Brady",
+      "url": "/auntruth/new/htm/L4/XF2294.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Head of the Brick Works",
+  "address": "IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:41Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1223.htm",
+    "extractionDate": "2025-10-02T00:05:32.578521Z"
+  }
+}

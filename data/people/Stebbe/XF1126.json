@@ -1,0 +1,67 @@
+{
+  "id": "XF1126",
+  "name": "Gregory  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF488",
+    "name": "George Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF488.htm"
+  },
+  "mother": {
+    "id": "XF489",
+    "name": "Connie Trithart-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF489.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1127",
+      "name": "Catherine Pentland-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1127.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1128",
+      "name": "Samantha   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF1128.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [
+    {
+      "name": "At Uncle George's",
+      "date": "Saturday, July 01, 1978",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L1/XI909.htm"
+    },
+    {
+      "name": "At Dinosaur Park with the Stebbes",
+      "date": "Saturday, August 01, 1970",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L1/XI1160.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:00Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1126.htm",
+    "extractionDate": "2025-10-02T00:03:51.012659Z"
+  }
+}

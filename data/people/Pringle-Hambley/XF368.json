@@ -1,0 +1,40 @@
+{
+  "id": "XF368",
+  "name": "Frank  Dunmire",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF369",
+    "name": "Daniel Dunmire [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF369.htm"
+  },
+  "mother": {
+    "id": "XF370",
+    "name": "Maria -Dunmire [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF370.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:30Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF368.htm",
+    "extractionDate": "2025-10-02T00:05:27.173813Z"
+  }
+}

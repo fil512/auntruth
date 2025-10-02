@@ -1,0 +1,39 @@
+{
+  "id": "XF1486",
+  "name": "Humphrey  Kneeland",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1487",
+      "name": "Mary Angove Brown-Bartlett-Kneeland [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1487.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Dover ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:32Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1486.htm",
+    "extractionDate": "2025-10-02T00:05:43.165886Z"
+  }
+}

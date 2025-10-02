@@ -1,0 +1,40 @@
+{
+  "id": "XF1556",
+  "name": "Effie Mabel Lambert",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "South Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1548",
+    "name": "Samuel Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1548.htm"
+  },
+  "mother": {
+    "id": "XF1547",
+    "name": "Franssena Wagner-Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1547.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "South Dover ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:02Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1556.htm",
+    "extractionDate": "2025-10-02T00:05:46.786900Z"
+  }
+}

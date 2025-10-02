@@ -1,0 +1,36 @@
+{
+  "id": "XF54",
+  "name": "Glen  Esterberg",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF51",
+    "name": "Frank Arvid Esterberg [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF51.htm"
+  },
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Portland OR  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:23Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF54.htm",
+    "extractionDate": "2025-10-02T00:04:10.605034Z"
+  }
+}

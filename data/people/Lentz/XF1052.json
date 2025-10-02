@@ -1,0 +1,46 @@
+{
+  "id": "XF1052",
+  "name": "Klingbeil",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1053",
+      "name": "Karoline -Klingbeil [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF1053.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF686",
+      "name": "Juliana   Klingbeil",
+      "url": "/auntruth/new/htm/L8/XF686.htm",
+      "birthDate": "01/01/1874"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:27Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF1052.htm",
+    "extractionDate": "2025-10-02T00:02:59.483240Z"
+  }
+}

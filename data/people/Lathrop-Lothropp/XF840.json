@@ -1,0 +1,47 @@
+{
+  "id": "XF840",
+  "name": "Ada  Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Woodville OH   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF287",
+    "name": "William Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF287.htm"
+  },
+  "mother": {
+    "id": "XF288",
+    "name": "Rozella Ward-Lathrop [Ward]",
+    "url": "/auntruth/new/htm/L5/XF288.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF842",
+      "name": "Louis Breedlove [Ward]",
+      "url": "/auntruth/new/htm/L5/XF842.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Tipton OH  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Maurice Franklin Pringle died here in 1956.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:31Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF840.htm",
+    "extractionDate": "2025-10-02T00:06:04.054014Z"
+  }
+}

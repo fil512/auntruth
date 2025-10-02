@@ -1,0 +1,90 @@
+{
+  "id": "XF2038",
+  "name": "Alexander  Rogerson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1877",
+    "name": "John Johnson Rogerson of Third [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1877.htm"
+  },
+  "mother": {
+    "id": "XF1876",
+    "name": "Elizabeth Mounsey-Rogerson of Third [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1876.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2039",
+      "name": "Sarah Philips-Rogerson [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2039.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2040",
+      "name": "Donald   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2040.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2149",
+      "name": "William   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2149.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2148",
+      "name": "Jean   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2148.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2147",
+      "name": "Son   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2147.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2142",
+      "name": "Margaret   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2142.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2141",
+      "name": "James   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2141.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF624",
+      "name": "Donald   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF624.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:25Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2038.htm",
+    "extractionDate": "2025-10-02T00:04:55.216785Z"
+  }
+}

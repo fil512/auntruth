@@ -1,0 +1,40 @@
+{
+  "id": "XF1480",
+  "name": "Frank Burdett Dresser",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Freeport IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1476",
+    "name": "Charles Burdett Dresser [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1476.htm"
+  },
+  "mother": {
+    "id": "XF1474",
+    "name": "Edith Eldorah Lathrop-Dresser [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1474.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Freeport IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:30Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1480.htm",
+    "extractionDate": "2025-10-02T00:05:42.810312Z"
+  }
+}

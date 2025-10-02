@@ -1,0 +1,45 @@
+{
+  "id": "XF1029",
+  "name": "Schreyer",
+  "lineage": "",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF394",
+      "name": "John   Schreyer",
+      "url": "/auntruth/new/htm/L0/XF394.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF393",
+      "name": "Jacob J. Schreyer",
+      "url": "/auntruth/new/htm/L0/XF393.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2004-09-08T23:40:21Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF1029.htm",
+    "extractionDate": "2025-10-02T00:06:09.653676Z"
+  }
+}

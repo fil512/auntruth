@@ -1,0 +1,40 @@
+{
+  "id": "XF2546",
+  "name": "Mary  Langner",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF558",
+    "name": "Gustave Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF558.htm"
+  },
+  "mother": {
+    "id": "XF667",
+    "name": "Maria Patzer [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF667.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Victoria BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:05Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2546.htm",
+    "extractionDate": "2025-10-02T00:04:17.478942Z"
+  }
+}

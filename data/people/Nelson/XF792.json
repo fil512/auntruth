@@ -1,0 +1,46 @@
+{
+  "id": "XF792",
+  "name": "Anna Olivia Nykvist",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": "Monday, February 18, 1918",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF15",
+      "name": "Otto Ernest Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF15.htm",
+      "marriageDate": "Friday, September 15, 1911"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF32",
+      "name": "Elsie Althea Nelson",
+      "url": "/auntruth/new/htm/L2/XF32.htm",
+      "birthDate": "11/08/1912"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Married Otto Nelson",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:08Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF792.htm",
+    "extractionDate": "2025-10-02T00:04:14.155714Z"
+  }
+}

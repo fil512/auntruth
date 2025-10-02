@@ -1,0 +1,39 @@
+{
+  "id": "XF657",
+  "name": "Elgie  Wallstrom",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": "Monday, March 01, 1920",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF656",
+      "name": "Emma Ellida Esterberg-Wallstrom [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF656.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": "Died in accident.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:09Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF657.htm",
+    "extractionDate": "2025-10-02T00:04:11.849648Z"
+  }
+}

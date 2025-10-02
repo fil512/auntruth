@@ -1,0 +1,40 @@
+{
+  "id": "XF1715",
+  "name": "Emily Elfrett Bradley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Sunday, January 01, 1865",
+  "birthLocation": "Manchester CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1600",
+    "name": "Henry Johnson Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1600.htm"
+  },
+  "mother": {
+    "id": "XF1601",
+    "name": "Abbie Maria Lathrop-Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1601.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Manchester CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:09Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1715.htm",
+    "extractionDate": "2025-10-02T00:05:54.552314Z"
+  }
+}

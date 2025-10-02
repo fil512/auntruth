@@ -1,0 +1,64 @@
+{
+  "id": "XF844",
+  "name": "Trefle  Parent",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF845",
+      "name": "Lavigne-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF845.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF851",
+      "name": "Gerard   Parent",
+      "url": "/auntruth/new/htm/L6/XF851.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF850",
+      "name": "Georges   Parent",
+      "url": "/auntruth/new/htm/L6/XF850.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF849",
+      "name": "Henri   Parent",
+      "url": "/auntruth/new/htm/L6/XF849.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF848",
+      "name": "Maurice   Parent",
+      "url": "/auntruth/new/htm/L6/XF848.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Joseph-Guy Parent",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:33Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF844.htm",
+    "extractionDate": "2025-10-02T00:04:32.846828Z"
+  }
+}

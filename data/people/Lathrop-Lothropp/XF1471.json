@@ -1,0 +1,47 @@
+{
+  "id": "XF1471",
+  "name": "Ida May Whitman",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1468",
+    "name": "Stillman Ford Whitman [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1468.htm"
+  },
+  "mother": {
+    "id": "XF1469",
+    "name": "Cynthia Steadma Lathrop-Whitman [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1469.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1470",
+      "name": "William Osgood Bent [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1470.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Hadley MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:26Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1471.htm",
+    "extractionDate": "2025-10-02T00:05:42.395109Z"
+  }
+}

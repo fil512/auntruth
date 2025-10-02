@@ -30,13 +30,17 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Janet Grennes",
   "notes": null,
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T19:15:18Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2710.htm",
-    "extractionDate": "2025-10-01T04:27:28.884591Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF2710.htm",
+    "extractionDate": "2025-10-01T22:03:13.146844Z"
   }
 }

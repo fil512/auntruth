@@ -1,0 +1,46 @@
+{
+  "id": "XF1182",
+  "name": null,
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": "Sunday, November 28, 1638",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1181",
+      "name": "Samuel Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF1181.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1183",
+      "name": "Henry   Ward",
+      "url": "/auntruth/new/htm/L5/XF1183.htm",
+      "birthDate": "01/01/1635"
+    }
+  ],
+  "occupation": null,
+  "address": "Hingham MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married in England Died in Hingham MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:24Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1182.htm",
+    "extractionDate": "2025-10-02T00:03:35.922010Z"
+  }
+}

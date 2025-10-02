@@ -1,0 +1,46 @@
+{
+  "id": "XF1003",
+  "name": "Abigail  Perry",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": "Wednesday, March 30, 1735",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1002",
+      "name": "Hezekiah Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF1002.htm",
+      "marriageDate": "Sunday, November 26, 1724"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1005",
+      "name": "Hezekiah Jr.   Ward",
+      "url": "/auntruth/new/htm/L5/XF1005.htm",
+      "birthDate": "10/06/1725"
+    }
+  ],
+  "occupation": null,
+  "address": "Southboro MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Died in Southboro MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:03Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1003.htm",
+    "extractionDate": "2025-10-02T00:03:35.231684Z"
+  }
+}

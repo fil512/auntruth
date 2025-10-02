@@ -1,0 +1,60 @@
+{
+  "id": "XF962",
+  "name": "Rosalie Rachel Ward",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF918",
+    "name": "Sumner Perkins Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF918.htm"
+  },
+  "mother": {
+    "id": "XF919",
+    "name": "Flora Helen Schoonover-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF919.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF963",
+      "name": "Richard John Blower [Ward]",
+      "url": "/auntruth/new/htm/L5/XF963.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF966",
+      "name": "Marion Richard Clower",
+      "url": "/auntruth/new/htm/L5/XF966.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF964",
+      "name": "Sumner John Blower",
+      "url": "/auntruth/new/htm/L5/XF964.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "St. Helena CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:27Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF962.htm",
+    "extractionDate": "2025-10-02T00:03:39.552499Z"
+  }
+}

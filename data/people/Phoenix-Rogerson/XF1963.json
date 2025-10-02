@@ -1,0 +1,47 @@
+{
+  "id": "XF1963",
+  "name": "Jean  Gordon",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1958",
+    "name": "Chris Gordon [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1958.htm"
+  },
+  "mother": {
+    "id": "XF1957",
+    "name": "Mary Nicol-Gordon [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1957.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1964",
+      "name": "Dr. Dieterlie [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1964.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:53Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1963.htm",
+    "extractionDate": "2025-10-02T00:04:51.406265Z"
+  }
+}

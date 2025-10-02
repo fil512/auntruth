@@ -1,0 +1,85 @@
+{
+  "id": "XF405",
+  "name": "Vilhelm (Bill)  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Monday, September 09, 1901",
+  "birthLocation": "CAN",
+  "deathDate": "Thursday, January 01, 1987",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF383",
+    "name": "August Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF383.htm"
+  },
+  "mother": {
+    "id": "XF384",
+    "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF384.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF406",
+      "name": "Alvine Litke-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF406.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF407",
+      "name": "Evangeline (Van   Selch",
+      "url": "/auntruth/new/htm/L6/XF407.htm",
+      "birthDate": "05/04/1941"
+    },
+    {
+      "id": "XF809",
+      "name": "Dorothy   Selch",
+      "url": "/auntruth/new/htm/L6/XF809.htm",
+      "birthDate": "07/16/1931"
+    },
+    {
+      "id": "XF692",
+      "name": "Elizabeth (Bett   Selch",
+      "url": "/auntruth/new/htm/L6/XF692.htm",
+      "birthDate": "09/06/1923"
+    },
+    {
+      "id": "XF808",
+      "name": "Lily   Selch",
+      "url": "/auntruth/new/htm/L6/XF808.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Green Bay MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Vilhelm took over the Green Bay homestead when he married Alvine Litke on 06/13/1922 at Zion Lutheran Church, Beausejour by Pastor Buechner. Both were active in the church all their lives, singing in the choir starting at the ages of 16 and 14 respectively. Vilhelm was a church councillor for 7 years and choir director from 1965 to 1980 when daughter Lily took over. They were engaged in mixed farming and for many years Vilhelm operated a threshing machine for his father and did custom threshing for the neighbours well into November. Vilhelm also worked for the RM of Brokenhead as an operator of a pull-type road grader and later he operated a well-drilling machine with his brother-in-law Emil Litke. He recalled those winters when he used to pick up cream in cans from farmers in Green Bay. He then hauled them to the Beausejour Creamery. For this purpose a horse-drawn heated caboose, mounted on a sleigh, was used. In 1945 Vilhelm went to the bush and hauled out logs and made lumber for the home he built in 1946. Vilhelm and Alvina officially retired from farming in 1977.",
+  "photos": [],
+  "photographedBy": [
+    {
+      "name": "Dorothy Selch/Roy Sackvie Wedding",
+      "date": "Tuesday, June 01, 1948",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1801.htm"
+    },
+    {
+      "name": "Quadruple Wedding",
+      "date": "Tuesday, June 01, 1943",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1802.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:50Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF405.htm",
+    "extractionDate": "2025-10-02T00:04:24.578028Z"
+  }
+}

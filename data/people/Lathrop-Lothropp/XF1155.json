@@ -1,0 +1,108 @@
+{
+  "id": "XF1155",
+  "name": "Lucy  Lothrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, August 24, 1798",
+  "birthLocation": "Granby MA   USA",
+  "deathDate": "Wednesday, March 03, 1880",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1007",
+    "name": "Daniel Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1007.htm"
+  },
+  "mother": {
+    "id": "XF1008",
+    "name": "Lucy Smith-Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1008.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1156",
+      "name": "Alva Bartlett [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1156.htm",
+      "marriageDate": "Wednesday, December 31, 1817"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1513",
+      "name": "Albert Adolphu Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1513.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1512",
+      "name": "Alfred Lothrop Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1512.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1511",
+      "name": "Jane Lurinda Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1511.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1509",
+      "name": "Alphonso   Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1509.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1508",
+      "name": "Sabra Ann Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1508.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1507",
+      "name": "Erastus   Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1507.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1492",
+      "name": "Aaron   Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1492.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1488",
+      "name": "Daniel   Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1488.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1485",
+      "name": "Henry Denison Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1485.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1484",
+      "name": "Eliza Pamelia Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1484.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Atkinson ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 31 Dec 1817 in Granby MA Died in Atkinson ME",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:12Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1155.htm",
+    "extractionDate": "2025-10-02T00:05:29.878604Z"
+  }
+}

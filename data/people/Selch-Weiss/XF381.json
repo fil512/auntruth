@@ -1,0 +1,39 @@
+{
+  "id": "XF381",
+  "name": "August  Freund",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Wednesday, January 01, 1873",
+  "birthLocation": "POL",
+  "deathDate": "Saturday, January 01, 1955",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF382",
+      "name": "Paulina Selch-Freund [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF382.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:36Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF381.htm",
+    "extractionDate": "2025-10-02T00:04:23.514182Z"
+  }
+}

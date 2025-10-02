@@ -1,0 +1,54 @@
+{
+  "id": "XF1211",
+  "name": "George Adolph Hornung",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, September 06, 1871",
+  "birthLocation": "La Salle IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1209",
+    "name": "John Hornung [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1209.htm"
+  },
+  "mother": {
+    "id": "XF1210",
+    "name": "Maydela Lutz-Hornung [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1210.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1203",
+      "name": "Nellie Eliza Lathrop-Porter-Hornung [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1203.htm",
+      "marriageDate": "Thursday, December 05, 1895"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1212",
+      "name": "Mildred   Hornung",
+      "url": "/auntruth/new/htm/L4/XF1212.htm",
+      "birthDate": "08/29/1901"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:36Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1211.htm",
+    "extractionDate": "2025-10-02T00:05:31.941333Z"
+  }
+}

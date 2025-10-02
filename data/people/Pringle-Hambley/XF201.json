@@ -1,0 +1,100 @@
+{
+  "id": "XF201",
+  "name": "William  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, January 22, 1745",
+  "birthLocation": "S2   UKGG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF202",
+      "name": "Mary Wertz-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF202.htm",
+      "marriageDate": "Friday, December 20, 1765"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF217",
+      "name": "William   Pringle",
+      "url": "/auntruth/new/htm/L3/XF217.htm",
+      "birthDate": "03/19/1790"
+    },
+    {
+      "id": "XF216",
+      "name": "Elba   Pringle",
+      "url": "/auntruth/new/htm/L3/XF216.htm",
+      "birthDate": "08/06/1785"
+    },
+    {
+      "id": "XF215",
+      "name": "Caty   Pringle",
+      "url": "/auntruth/new/htm/L3/XF215.htm",
+      "birthDate": "04/17/1783"
+    },
+    {
+      "id": "XF213",
+      "name": "Elizabeth   Pringle",
+      "url": "/auntruth/new/htm/L3/XF213.htm",
+      "birthDate": "02/09/1781"
+    },
+    {
+      "id": "XF211",
+      "name": "Susannah   Pringle",
+      "url": "/auntruth/new/htm/L3/XF211.htm",
+      "birthDate": "02/08/1778"
+    },
+    {
+      "id": "XF210",
+      "name": "Mary   Pringle",
+      "url": "/auntruth/new/htm/L3/XF210.htm",
+      "birthDate": "12/25/1775"
+    },
+    {
+      "id": "XF208",
+      "name": "Philip   Pringle",
+      "url": "/auntruth/new/htm/L3/XF208.htm",
+      "birthDate": "10/20/1772"
+    },
+    {
+      "id": "XF207",
+      "name": "Christina   Pringle",
+      "url": "/auntruth/new/htm/L3/XF207.htm",
+      "birthDate": "06/19/1770"
+    },
+    {
+      "id": "XF204",
+      "name": "George   Pringle",
+      "url": "/auntruth/new/htm/L3/XF204.htm",
+      "birthDate": "12/06/1767"
+    },
+    {
+      "id": "XF203",
+      "name": "Pringle",
+      "url": "/auntruth/new/htm/L3/XF203.htm",
+      "birthDate": "11/27/1766"
+    }
+  ],
+  "occupation": null,
+  "address": "Conocoheague Valley  MD  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Emigrated to USA and married Mary Wertz Dec 20 1765 at Lancaster County, PA. Had 10 children. The first children of William and Mary were born in Lancaster County. They then moved westward and settled in the Conocoheague Valley MD. It was here that Mary was born, and it was here they resided when William Sr. joined the 7th Maryland Regiment under the command of Captain Morris as a private in the Revolutionary War. He was a prisoner of war and later received a pension from the government. He is listed in Vol. 18 Page 442 Maryland Archives. He was also with Captain Jack's Rangers. He and two of his brothers spent the winter at Valley Forge with General George Washington. Family history written by son William 12 Mar 1809 and recorded in diary of grandson Christian Shaffer. PA archives 3rd series Vol 24 P 152. 1790 Census Huntingdon County PA. War Record, Revolutionary War Vol 18 Page 442 in Maryland Archives.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:08Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF201.htm",
+    "extractionDate": "2025-10-02T00:05:08.225330Z"
+  }
+}

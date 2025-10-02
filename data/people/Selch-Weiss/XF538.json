@@ -1,0 +1,152 @@
+{
+  "id": "XF538",
+  "name": "Joseph (Guy) Guy Parent",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, January 01, 1948",
+  "birthLocation": "QU   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF851",
+    "name": "Gerard Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF851.htm"
+  },
+  "mother": {
+    "id": "XF852",
+    "name": "Noella Boisse-Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF852.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF537",
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm",
+      "marriageDate": "Monday, July 25, 1977"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF540",
+      "name": "Krystyna   Parent",
+      "url": "/auntruth/new/htm/L6/XF540.htm",
+      "birthDate": "01/01/1981"
+    },
+    {
+      "id": "XF539",
+      "name": "Dominique (Dom) Parent",
+      "url": "/auntruth/new/htm/L6/XF539.htm",
+      "birthDate": "01/01/1979"
+    }
+  ],
+  "occupation": null,
+  "address": "55 Golden Willow Cr. Winnipeg MB R2M 4E1 CAN",
+  "email": null,
+  "phone": "(204) 255-6608, (204) 255-6608",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Pam's Wedding Family Picture",
+      "date": "Monday, July 02, 1990",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1573.htm"
+    },
+    {
+      "name": "Asleep",
+      "date": "Monday, August 01, 1988",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI825.htm"
+    },
+    {
+      "name": "Canoeing",
+      "date": "Monday, August 01, 1988",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI812.htm"
+    },
+    {
+      "name": "At Bryan & Colleen Fenske's",
+      "date": "Sunday, July 10, 1988",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI818.htm"
+    },
+    {
+      "name": "Brandy's 4th Birthday Party",
+      "date": "Monday, April 20, 1987",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI2423.htm"
+    },
+    {
+      "name": "David's Surprise 40th - Gerry Mueller, Joe & Davee Stern, Hari's father, Rita Carriere",
+      "date": "Monday, November 12, 1984",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI885.htm"
+    },
+    {
+      "name": "Most of The Family",
+      "date": "Thursday, July 07, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI458.htm"
+    },
+    {
+      "name": "Full Family Picture",
+      "date": "Saturday, July 02, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1577.htm"
+    },
+    {
+      "name": "Famiglia Parent in front of fireplace",
+      "date": "Wednesday, September 01, 1982",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1004.htm"
+    },
+    {
+      "name": "Fun on the Trunk",
+      "date": "Sunday, January 10, 1982",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI473.htm"
+    },
+    {
+      "name": "Assembling with Dad",
+      "date": "Thursday, December 25, 1980",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L6/XI1868.htm"
+    },
+    {
+      "name": "With Dad",
+      "date": "Saturday, December 20, 1980",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L6/XI1869.htm"
+    },
+    {
+      "name": "Wedding Picture",
+      "date": "Monday, July 25, 1977",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI911.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "New Trike",
+      "date": "Friday, December 26, 1980",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L6/XI1870.htm"
+    },
+    {
+      "name": "Under the Tree with Unk",
+      "date": "Thursday, December 25, 1980",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L6/XI1867.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:08Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF538.htm",
+    "extractionDate": "2025-10-02T00:04:28.555408Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "XF322",
+  "name": "Mark  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF320",
+    "name": "Woodson(Woody)( Richard Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF320.htm"
+  },
+  "mother": {
+    "id": "XF321",
+    "name": "Lynne -Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF321.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Vancouver BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "With Grandchildren",
+      "date": "Saturday, December 15, 1984",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L3/XI990.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:04Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF322.htm",
+    "extractionDate": "2025-10-02T00:05:24.821556Z"
+  }
+}

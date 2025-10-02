@@ -1,0 +1,57 @@
+{
+  "id": "XF907",
+  "name": "Zieske",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF404",
+      "name": "Hermina(Minnie)   Zieske",
+      "url": "/auntruth/new/htm/L6/XF404.htm",
+      "birthDate": "12/30/1903"
+    },
+    {
+      "id": "XF911",
+      "name": "Gustav   Zieske",
+      "url": "/auntruth/new/htm/L6/XF911.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF910",
+      "name": "William   Zieske",
+      "url": "/auntruth/new/htm/L6/XF910.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF909",
+      "name": "Helen   Zieske",
+      "url": "/auntruth/new/htm/L6/XF909.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:03Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF907.htm",
+    "extractionDate": "2025-10-02T00:04:35.545947Z"
+  }
+}

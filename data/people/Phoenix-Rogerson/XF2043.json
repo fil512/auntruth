@@ -1,0 +1,64 @@
+{
+  "id": "XF2043",
+  "name": "Janet  Bell",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2042",
+      "name": "John Hamilton [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2042.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2049",
+      "name": "Mary   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2049.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2048",
+      "name": "Joseph   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2048.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2047",
+      "name": "Richard   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2047.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2046",
+      "name": "Alexander   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2046.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:26Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2043.htm",
+    "extractionDate": "2025-10-02T00:04:55.451653Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "XF391",
+  "name": "Nagel",
+  "lineage": "",
+  "birthDate": null,
+  "birthLocation": "POL",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF390",
+      "name": "Paulina Wiess [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF390.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1833",
+      "name": "Leon   Nagel",
+      "url": "/auntruth/new/htm/L0/XF1833.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:40Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF391.htm",
+    "extractionDate": "2025-10-02T00:06:12.857632Z"
+  }
+}

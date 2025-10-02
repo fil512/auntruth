@@ -1,0 +1,66 @@
+{
+  "id": "XF286",
+  "name": "Edward Smith Ward",
+  "lineage": "Ward",
+  "birthDate": "Saturday, November 25, 1843",
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF353",
+    "name": "Sumner Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF353.htm"
+  },
+  "mother": {
+    "id": "XF352",
+    "name": "Sabra Lothrop-Ward [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF352.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF565",
+      "name": "Linda(Malinda) Simmons-Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF565.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF285",
+      "name": "Rose(Rosella)   Ward",
+      "url": "/auntruth/new/htm/L5/XF285.htm",
+      "birthDate": "06/10/1878"
+    },
+    {
+      "id": "XF567",
+      "name": "Frank   Ward",
+      "url": "/auntruth/new/htm/L5/XF567.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF566",
+      "name": "Charles   Ward",
+      "url": "/auntruth/new/htm/L5/XF566.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "see AR",
+  "notes": "Fought in Civil War",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:47Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF286.htm",
+    "extractionDate": "2025-10-02T00:03:36.741372Z"
+  }
+}

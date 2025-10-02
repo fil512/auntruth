@@ -1,0 +1,41 @@
+{
+  "id": "XF2775",
+  "name": "Magdalena (Lena M. Snyder",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2774",
+      "name": "Samuel Winfield Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2774.htm",
+      "marriageDate": "Thursday, September 30, 1886"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:48Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2775.htm",
+    "extractionDate": "2025-10-02T00:05:16.617569Z"
+  }
+}

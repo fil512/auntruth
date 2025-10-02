@@ -1,0 +1,78 @@
+{
+  "id": "XF1207",
+  "name": "Lilly May Porter",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, February 12, 1887",
+  "birthLocation": "Deer Park IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1204",
+    "name": "John Richmon Porter [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1204.htm"
+  },
+  "mother": {
+    "id": "XF1203",
+    "name": "Nellie Eliza Lathrop-Porter-Hornung [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1203.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2291",
+      "name": "George Nagel [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2291.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2303",
+      "name": "Dorothy   Nagel",
+      "url": "/auntruth/new/htm/L4/XF2303.htm",
+      "birthDate": "01/01/1916"
+    },
+    {
+      "id": "XF2309",
+      "name": "Gladys   Nagel",
+      "url": "/auntruth/new/htm/L4/XF2309.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2308",
+      "name": "Ivan (Pete)   Nagel",
+      "url": "/auntruth/new/htm/L4/XF2308.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2306",
+      "name": "Juanita   Nagel",
+      "url": "/auntruth/new/htm/L4/XF2306.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2302",
+      "name": "Ernest   Nagel",
+      "url": "/auntruth/new/htm/L4/XF2302.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Deer Park IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:34Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1207.htm",
+    "extractionDate": "2025-10-02T00:05:31.688689Z"
+  }
+}

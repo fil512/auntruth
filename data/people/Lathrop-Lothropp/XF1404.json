@@ -1,0 +1,47 @@
+{
+  "id": "XF1404",
+  "name": "Irvin Herbert Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, November 20, 1875",
+  "birthLocation": "Rutland IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1362",
+    "name": "Francis Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1362.htm"
+  },
+  "mother": {
+    "id": "XF1361",
+    "name": "Mary Rosabel Lothrop-Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1361.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1403",
+      "name": "Nina Christe Johnson-Lathrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1403.htm",
+      "marriageDate": "Thursday, December 30, 1897"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Sloan IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:57Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1404.htm",
+    "extractionDate": "2025-10-02T00:05:38.889552Z"
+  }
+}

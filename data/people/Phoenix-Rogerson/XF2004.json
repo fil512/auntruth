@@ -1,0 +1,54 @@
+{
+  "id": "XF2004",
+  "name": "Elizabeth  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1841",
+    "name": "Thomas Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1841.htm"
+  },
+  "mother": {
+    "id": "XF1844",
+    "name": "Jackie Grieve-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1844.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2005",
+      "name": "Major Heron [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2005.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2006",
+      "name": "Heron",
+      "url": "/auntruth/new/htm/L9/XF2006.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:11Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2004.htm",
+    "extractionDate": "2025-10-02T00:04:53.555936Z"
+  }
+}

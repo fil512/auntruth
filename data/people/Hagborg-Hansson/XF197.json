@@ -24,13 +24,17 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "William Hagborg",
   "notes": "Found references to Winston J. Hagborg on the Internet Jan/96. Winston J. Hagborg, 1989    - Truancy in USA Hagborg, W.J. \"A Study of Persistent Absenteeism and Severely Emotionally            Disturbed Adolescents\" Behavioral Disorders, Vol 15, No. 1 (Nov 1989) 1995 'High School Student Perceptions and Satisfaction with Group Advisory' Psychology in the Schools, 32, 1, 46-57",
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:56:06Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF197.htm",
-    "extractionDate": "2025-10-01T04:27:23.043154Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF197.htm",
+    "extractionDate": "2025-10-01T22:03:05.988210Z"
   }
 }

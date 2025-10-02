@@ -1,0 +1,36 @@
+{
+  "id": "XF494",
+  "name": "Shelley",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": {
+    "id": "XF493",
+    "name": "Sandra Stebbe-Ucci-Gibson [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF493.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:34Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF494.htm",
+    "extractionDate": "2025-10-02T00:03:53.621566Z"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "XF302",
+  "name": "Rita  Comm",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": "Sunday, January 01, 1984",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF301",
+      "name": "Ira Howard Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF301.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF303",
+      "name": "Keith   Pringle",
+      "url": "/auntruth/new/htm/L3/XF303.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Wedding",
+      "date": "Saturday, September 10, 1955",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI986.htm"
+    },
+    {
+      "name": "In the Park Smooching",
+      "date": "Sunday, July 01, 1928",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI960.htm"
+    },
+    {
+      "name": "Chorus Line",
+      "date": "Saturday, August 01, 1925",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI950.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:55Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF302.htm",
+    "extractionDate": "2025-10-02T00:05:23.782886Z"
+  }
+}

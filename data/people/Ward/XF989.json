@@ -1,0 +1,39 @@
+{
+  "id": "XF989",
+  "name": "Edward  Jackson",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF988",
+      "name": "Hannah   Jackson",
+      "url": "/auntruth/new/htm/L5/XF988.htm",
+      "birthDate": "01/01/1631"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:55Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF989.htm",
+    "extractionDate": "2025-10-02T00:03:40.976544Z"
+  }
+}

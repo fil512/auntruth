@@ -1,0 +1,43 @@
+{
+  "id": "XF2461",
+  "name": "M. Josephine  Storey",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, January 01, 1905",
+  "birthLocation": "USA",
+  "deathDate": "Friday, January 01, 1982",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2460",
+    "name": "Alexander Storey [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2460.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF298",
+      "name": "Howard Lemon Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF298.htm",
+      "marriageDate": "Tuesday, January 01, 1935"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Johnstown PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Pringle Hill Cemetery Book",
+  "notes": "pastor asked that she marry",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:27Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2461.htm",
+    "extractionDate": "2025-10-02T00:05:11.563233Z"
+  }
+}

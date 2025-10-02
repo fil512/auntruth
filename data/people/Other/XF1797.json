@@ -1,0 +1,46 @@
+{
+  "id": "XF1797",
+  "name": "Iris",
+  "lineage": "",
+  "birthDate": "Tuesday, April 01, 1947",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1796",
+      "name": "Grant Johnson []",
+      "url": "/auntruth/new/htm/L0/XF1796.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1798",
+      "name": "Leanne   Johnson",
+      "url": "/auntruth/new/htm/L0/XF1798.htm",
+      "birthDate": "08/14/1972"
+    }
+  ],
+  "occupation": "Proprietor of Grant's Grill",
+  "address": "Box 57 Warren MB R0C 3E0 CAN",
+  "email": null,
+  "phone": "204-322-5601, 204-322-5601",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:44Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF1797.htm",
+    "extractionDate": "2025-10-02T00:06:11.264738Z"
+  }
+}

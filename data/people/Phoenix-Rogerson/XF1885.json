@@ -1,0 +1,40 @@
+{
+  "id": "XF1885",
+  "name": "John  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": "Sunday, January 01, 1837",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1866",
+    "name": "James Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1866.htm"
+  },
+  "mother": {
+    "id": "XF1867",
+    "name": "Jean White-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1867.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Physician Manchester",
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": "Unmarried",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:21Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1885.htm",
+    "extractionDate": "2025-10-02T00:04:48.845706Z"
+  }
+}

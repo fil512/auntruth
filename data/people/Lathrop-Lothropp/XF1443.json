@@ -1,0 +1,60 @@
+{
+  "id": "XF1443",
+  "name": "Francis Lathrop Hosmer",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Thursday, May 02, 1861",
+  "birthLocation": "Springfield MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1358",
+    "name": "George Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1358.htm"
+  },
+  "mother": {
+    "id": "XF1359",
+    "name": "Sarah Lathrop-Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1359.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1442",
+      "name": "Flavilla Adaline Dennen-Hosmer [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1442.htm",
+      "marriageDate": "Friday, June 01, 1883"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1445",
+      "name": "Ella Myrtie Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1445.htm",
+      "birthDate": "09/07/1885"
+    },
+    {
+      "id": "XF1444",
+      "name": "George William Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1444.htm",
+      "birthDate": "03/27/1884"
+    }
+  ],
+  "occupation": null,
+  "address": "Springfield MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:14Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1443.htm",
+    "extractionDate": "2025-10-02T00:05:40.897595Z"
+  }
+}

@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+{% from "macros/person-link.html" import person_link %}
+{% from "macros/section-card.html" import section_card %}
+{% from "macros/date-display.html" import date_display %}
+
+{% block title %}{{ person.name }} | AuntieRuth.com{% endblock %}
+
+{% block content %}
+<!-- Page Header -->
+{% include "components/person-header.html" %}
+
+<!-- Person Information Sections -->
+<div class="person-sections">
+    <!-- Essential Information -->
+    {% if person.birthDate or person.birthLocation or person.deathDate or person.deathLocation or person.deceased %}
+    {% call section_card("Essential Information", "INFO", open=true) %}
+        {% include "components/essential-info.html" %}
+    {% endcall %}
+    {% endif %}
+
+    <!-- Family Relationships -->
+    {% if person.father or person.mother or person.spouses or person.children %}
+    {% call section_card("Family Relationships", "FAMILY", open=true) %}
+        {% include "components/family-section.html" %}
+    {% endcall %}
+    {% endif %}
+
+    <!-- Biographical Details -->
+    {% if person.occupation or person.address or person.notes or person.email or person.phone or person.website %}
+    {% call section_card("Biographical Details", "BIO", open=false) %}
+        {% include "components/biographical-section.html" %}
+    {% endcall %}
+    {% endif %}
+
+    <!-- Research & Sources -->
+    {% if person.source %}
+    {% call section_card("Research & Sources", "RESEARCH", open=false) %}
+        {% include "components/research-section.html" %}
+    {% endcall %}
+    {% endif %}
+</div>
+
+<!-- Children Section (if any) -->
+{% if person.children %}
+<section class="children-section">
+    <h2>Children</h2>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Child</th>
+                <th>Born</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for child in person.children %}
+            <tr>
+                <td>{{ person_link(child) }}</td>
+                <td>{{ date_display(child.birthDate) }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</section>
+{% endif %}
+
+<!-- Photos Section -->
+{% if person.photos %}
+<section class="photos-section">
+    <h2>Pictures of this Person</h2>
+    {% set photos = person.photos %}
+    {% include "components/photos-section.html" %}
+</section>
+{% endif %}
+
+{% if person.photographedBy %}
+<section class="photographer-section">
+    <h2>Pictures Photographed by this Person</h2>
+    {% set photos = person.photographedBy %}
+    {% include "components/photos-section.html" %}
+</section>
+{% endif %}
+{% endblock %}

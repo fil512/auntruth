@@ -1,0 +1,102 @@
+{
+  "id": "XF1941",
+  "name": "Janet  Lotimer",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1882",
+    "name": "Edward Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1882.htm"
+  },
+  "mother": {
+    "id": "XF1881",
+    "name": "Janet Mounsey-Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1881.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1942",
+      "name": "Robert Nicol [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1942.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1961",
+      "name": "Susan   Nicol",
+      "url": "/auntruth/new/htm/L9/XF1961.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1959",
+      "name": "Ann Agnes Nicol",
+      "url": "/auntruth/new/htm/L9/XF1959.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1957",
+      "name": "Mary   Nicol",
+      "url": "/auntruth/new/htm/L9/XF1957.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1956",
+      "name": "William   Nicol",
+      "url": "/auntruth/new/htm/L9/XF1956.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1955",
+      "name": "Thomas   Nicol",
+      "url": "/auntruth/new/htm/L9/XF1955.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1953",
+      "name": "John   Nicol",
+      "url": "/auntruth/new/htm/L9/XF1953.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1952",
+      "name": "George   Nicol",
+      "url": "/auntruth/new/htm/L9/XF1952.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1951",
+      "name": "James   Nicol",
+      "url": "/auntruth/new/htm/L9/XF1951.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1945",
+      "name": "Janet   Nicol",
+      "url": "/auntruth/new/htm/L9/XF1945.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:44Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1941.htm",
+    "extractionDate": "2025-10-02T00:04:50.258400Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "XF1368",
+  "name": "John Ashley Atwood",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1369",
+      "name": "Nancy Lathrop-Atwood [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1369.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1370",
+      "name": "Lydia Ann Atwood",
+      "url": "/auntruth/new/htm/L4/XF1370.htm",
+      "birthDate": "05/21/1860"
+    }
+  ],
+  "occupation": null,
+  "address": "Woodbury CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:42Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1368.htm",
+    "extractionDate": "2025-10-02T00:05:37.037413Z"
+  }
+}

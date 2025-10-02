@@ -1,0 +1,40 @@
+{
+  "id": "XF1226",
+  "name": "Lottie Rebecca Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, June 02, 1876",
+  "birthLocation": "Vermillion IL   USA",
+  "deathDate": "Monday, July 31, 1876",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF287",
+    "name": "William Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF287.htm"
+  },
+  "mother": {
+    "id": "XF288",
+    "name": "Rozella Ward-Lathrop [Ward]",
+    "url": "/auntruth/new/htm/L5/XF288.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Vermillion IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:42Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1226.htm",
+    "extractionDate": "2025-10-02T00:05:32.736028Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF1713",
+  "name": "Florence Ethel Bradley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Monday, January 01, 1894",
+  "birthLocation": "Newburgh NY   USA",
+  "deathDate": "Tuesday, January 01, 1907",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1712",
+    "name": "Albert Ernest Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1712.htm"
+  },
+  "mother": {
+    "id": "XF1711",
+    "name": "Winifred Gertrude Seymour-Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1711.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Newburgh NY  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:08Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1713.htm",
+    "extractionDate": "2025-10-02T00:05:54.408457Z"
+  }
+}

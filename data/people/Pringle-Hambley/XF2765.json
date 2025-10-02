@@ -1,0 +1,49 @@
+{
+  "id": "XF2765",
+  "name": "Daniel S. Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Wednesday, January 01, 1845",
+  "birthLocation": "Wilmore Cambria Co     USA",
+  "deathDate": "Tuesday, January 01, 1895",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF229",
+    "name": "Samuel Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF229.htm"
+  },
+  "mother": {
+    "id": "XF230",
+    "name": "Mary Boyles-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF230.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2766",
+      "name": "Elizabeth Butler-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2766.htm",
+      "marriageDate": "Wednesday, November 27, 1867"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Altoona Blair Co.   PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:43Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2765.htm",
+    "extractionDate": "2025-10-02T00:05:16.030185Z"
+  }
+}

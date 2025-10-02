@@ -1,0 +1,66 @@
+{
+  "id": "XF1339",
+  "name": "Bradley Maxon Lillibridge",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, November 08, 1843",
+  "birthLocation": "Rochester NY   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1291",
+    "name": "Sheffield Lillibridge [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1291.htm"
+  },
+  "mother": {
+    "id": "XF1338",
+    "name": "Lydia Walker-Lillibridge [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1338.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1340",
+      "name": "Lucinda Ann Lathrop-Lillibridge [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1340.htm",
+      "marriageDate": "Thursday, February 20, 1868"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1353",
+      "name": "Albert Edward Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1353.htm",
+      "birthDate": "10/09/1872"
+    },
+    {
+      "id": "XF1350",
+      "name": "Charles Eben Lilibridge",
+      "url": "/auntruth/new/htm/L4/XF1350.htm",
+      "birthDate": "10/31/1870"
+    },
+    {
+      "id": "XF1344",
+      "name": "Warren Herbert Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1344.htm",
+      "birthDate": "01/01/1869"
+    }
+  ],
+  "occupation": null,
+  "address": "Corona CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:30Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1339.htm",
+    "extractionDate": "2025-10-02T00:05:35.542381Z"
+  }
+}

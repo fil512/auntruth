@@ -1,0 +1,49 @@
+{
+  "id": "XF2865",
+  "name": "Mary  Stewart",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, September 16, 1785",
+  "birthLocation": "USA",
+  "deathDate": "Wednesday, February 12, 1845",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2789",
+    "name": "Jacob Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2789.htm"
+  },
+  "mother": {
+    "id": "XF2790",
+    "name": "Eunice Edith Dunn-Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2790.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2866",
+      "name": "James Hunter [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2866.htm",
+      "marriageDate": "Monday, November 28, 1808"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Hamilton Co Madisonville OH   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:27Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2865.htm",
+    "extractionDate": "2025-10-02T00:05:21.689714Z"
+  }
+}

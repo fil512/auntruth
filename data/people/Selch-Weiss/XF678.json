@@ -1,0 +1,40 @@
+{
+  "id": "XF678",
+  "name": "Bill  Smokoroski",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF670",
+    "name": "Michael Smokoroski [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF670.htm"
+  },
+  "mother": {
+    "id": "XF674",
+    "name": "Katy Oherka-Smokoroski [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF674.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Ann Smokoroski-Peluk",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:18Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF678.htm",
+    "extractionDate": "2025-10-02T00:04:30.855017Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "XF743",
+  "name": "Melanie  Bourbon",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "FRA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF742",
+      "name": "Clem Lewko [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF742.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF744",
+      "name": "Peter   Lewko",
+      "url": "/auntruth/new/htm/L7/XF744.htm",
+      "birthDate": "01/01/1892"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Anne Lewko-Stebbe",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:46Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF743.htm",
+    "extractionDate": "2025-10-02T00:03:57.351906Z"
+  }
+}

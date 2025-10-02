@@ -1,0 +1,60 @@
+{
+  "id": "XF1603",
+  "name": "Angenette Matilda Bradley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Tuesday, January 01, 1856",
+  "birthLocation": "Manchester CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1600",
+    "name": "Henry Johnson Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1600.htm"
+  },
+  "mother": {
+    "id": "XF1601",
+    "name": "Abbie Maria Lathrop-Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1601.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1602",
+      "name": "Ward Philo Cortis [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1602.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1605",
+      "name": "Jennie May Cortis",
+      "url": "/auntruth/new/htm/L4/XF1605.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1604",
+      "name": "Ernest Raymond Cortis",
+      "url": "/auntruth/new/htm/L4/XF1604.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Willimantic CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:22Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1603.htm",
+    "extractionDate": "2025-10-02T00:05:49.210159Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "XF833",
+  "name": "Samantha",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": {
+    "id": "XF832",
+    "name": "Carol Ann Rogerson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF832.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:28Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF833.htm",
+    "extractionDate": "2025-10-02T00:04:32.638899Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "XF300",
+  "name": "Lucy Idella Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, January 01, 1884",
+  "birthLocation": "Johnstown PA   USA",
+  "deathDate": "Sunday, January 01, 1928",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF255",
+    "name": "Isaac Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF255.htm"
+  },
+  "mother": {
+    "id": "XF257",
+    "name": "Mary Alice Dunmire-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF257.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF568",
+      "name": "Wesley Stage [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF568.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF569",
+      "name": "John Barkdall [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF569.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Buffalo NY  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Have many photos of Pringle Hill area taken by Lucy. She apparently was a feminist & drove a motorcycle. Rosella Pringle often used to say to the children 'You're just like your Aunt Lucy'. Eloped at age 18(Maurice Frank took care of her when parents died). Wesley and she visited Frank Pringle family at Dugald around 1908. Divorced Wesley around 1918 and married John Barkdall. (Wesley was stepping out).",
+  "photos": [],
+  "photographedBy": [
+    {
+      "name": "Site of Isaac Pringle house",
+      "date": "Friday, June 04, 1915",
+      "location": "Johnstown Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L3/XI404.htm"
+    },
+    {
+      "name": "United Brethren Church",
+      "date": "Friday, June 04, 1915",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L3/XI402.htm"
+    },
+    {
+      "name": "William Pringle House built 1850",
+      "date": "Friday, June 04, 1915",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L3/XI401.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:54Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF300.htm",
+    "extractionDate": "2025-10-02T00:05:23.683051Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "XF565",
+  "name": "Linda(Malinda)  Simmons",
+  "lineage": "Ward",
+  "birthDate": "Saturday, January 01, 1853",
+  "birthLocation": "Chicago IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF286",
+      "name": "Edward Smith Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF286.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF285",
+      "name": "Rose(Rosella)   Ward",
+      "url": "/auntruth/new/htm/L5/XF285.htm",
+      "birthDate": "06/10/1878"
+    },
+    {
+      "id": "XF567",
+      "name": "Frank   Ward",
+      "url": "/auntruth/new/htm/L5/XF567.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF566",
+      "name": "Charles   Ward",
+      "url": "/auntruth/new/htm/L5/XF566.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "RH",
+  "address": "KS  USA",
+  "email": null,
+  "phone": "USA, USA",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "18810610",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Died when daughter Rosella was 3 yrs old. Possibly was Native American",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:29Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF565.htm",
+    "extractionDate": "2025-10-02T00:03:36.941672Z"
+  }
+}

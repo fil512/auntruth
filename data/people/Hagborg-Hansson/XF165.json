@@ -38,13 +38,17 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
   "source": "Auntie Annie Nelson's Black Book",
   "notes": null,
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:53:34Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF165.htm",
-    "extractionDate": "2025-10-01T04:27:18.890083Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF165.htm",
+    "extractionDate": "2025-10-01T22:03:02.873873Z"
   }
 }

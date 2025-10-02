@@ -1,0 +1,96 @@
+{
+  "id": "XF2659",
+  "name": "Dorothy Violet Milbrandt",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, November 24, 1921",
+  "birthLocation": "CAN",
+  "deathDate": "Wednesday, January 01, 1969",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2645",
+    "name": "Rheinhold (Roy) Milbrandt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2645.htm"
+  },
+  "mother": {
+    "id": "XF2646",
+    "name": "Hilda (Hulda) Grenke-Milbrandt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2646.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2660",
+      "name": "Adolf Bauchman [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2660.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2668",
+      "name": "Floyd   Bauchman",
+      "url": "/auntruth/new/htm/L6/XF2668.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2667",
+      "name": "Kenneth   Bauchman",
+      "url": "/auntruth/new/htm/L6/XF2667.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2666",
+      "name": "Judy   Bauchman",
+      "url": "/auntruth/new/htm/L6/XF2666.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2665",
+      "name": "Carol   Bauchman",
+      "url": "/auntruth/new/htm/L6/XF2665.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2664",
+      "name": "Marion   Bauchman",
+      "url": "/auntruth/new/htm/L6/XF2664.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2663",
+      "name": "Doreen   Bauchman",
+      "url": "/auntruth/new/htm/L6/XF2663.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2662",
+      "name": "Geraldine   Bauchman",
+      "url": "/auntruth/new/htm/L6/XF2662.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2661",
+      "name": "Elaine   Bauchman",
+      "url": "/auntruth/new/htm/L6/XF2661.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Robin Lish",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:55Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2659.htm",
+    "extractionDate": "2025-10-02T00:04:19.212542Z"
+  }
+}

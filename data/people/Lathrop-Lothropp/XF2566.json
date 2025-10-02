@@ -1,0 +1,60 @@
+{
+  "id": "XF2566",
+  "name": "Winifred Gertrude Bradley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, March 04, 1904",
+  "birthLocation": "Newburgh, Orange NY   USA",
+  "deathDate": "Tuesday, January 25, 1983",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1712",
+    "name": "Albert Ernest Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1712.htm"
+  },
+  "mother": {
+    "id": "XF1711",
+    "name": "Winifred Gertrude Seymour-Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1711.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2568",
+      "name": "Emerson Edgar Jones [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2568.htm",
+      "marriageDate": "Friday, December 24, 1926"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2569",
+      "name": "Barbara Anne Jones",
+      "url": "/auntruth/new/htm/L4/XF2569.htm",
+      "birthDate": "06/24/1937"
+    },
+    {
+      "id": "XF2613",
+      "name": "Floyd Albert Jones",
+      "url": "/auntruth/new/htm/L4/XF2613.htm",
+      "birthDate": "07/25/1933"
+    }
+  ],
+  "occupation": null,
+  "address": "Warsaw, Duplin NC  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": "Buried in Devotional Gardens, Warsaw NC USA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:14Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2566.htm",
+    "extractionDate": "2025-10-02T00:06:00.250195Z"
+  }
+}

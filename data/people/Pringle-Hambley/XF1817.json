@@ -1,0 +1,39 @@
+{
+  "id": "XF1817",
+  "name": "Paul  Greuter",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "BC   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF350",
+      "name": "Donna Jayne Hambley-Harris-Greuter-Warman [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF350.htm",
+      "marriageDate": "Saturday, December 01, 1984"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Wanted to have children but Jane couldn't. Split in 1988",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:52Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1817.htm",
+    "extractionDate": "2025-10-02T00:05:07.490257Z"
+  }
+}

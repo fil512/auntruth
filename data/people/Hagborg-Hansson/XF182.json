@@ -56,6 +56,10 @@
   "email": "ken.stevens@sympatico.ca",
   "phone": "(416) 537-3126, (416) 537-3126",
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
   "source": "Ken Stevens",
   "notes": null,
   "photos": [
@@ -135,7 +139,7 @@
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:53:59Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF182.htm",
-    "extractionDate": "2025-10-01T04:27:20.860754Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF182.htm",
+    "extractionDate": "2025-10-01T22:03:04.649522Z"
   }
 }

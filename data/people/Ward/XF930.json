@@ -1,0 +1,40 @@
+{
+  "id": "XF930",
+  "name": "Mary Sophia Utech",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF925",
+    "name": "Frank Fred Wi Utech [Ward]",
+    "url": "/auntruth/new/htm/L5/XF925.htm"
+  },
+  "mother": {
+    "id": "XF924",
+    "name": "Sarah Rozella Ward-Utech [Ward]",
+    "url": "/auntruth/new/htm/L5/XF924.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Unmarried",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:13Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF930.htm",
+    "extractionDate": "2025-10-02T00:03:37.870490Z"
+  }
+}

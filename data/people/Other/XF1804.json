@@ -1,0 +1,54 @@
+{
+  "id": "XF1804",
+  "name": "Brian  Rothwell",
+  "lineage": "",
+  "birthDate": "Tuesday, December 26, 1950",
+  "birthLocation": "Stonewall MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF737",
+    "name": "Jim Rothwell []",
+    "url": "/auntruth/new/htm/L0/XF737.htm"
+  },
+  "mother": {
+    "id": "XF736",
+    "name": "Irene Carlson-Rothwell [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF736.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1805",
+      "name": "Gwen -Rothwell []",
+      "url": "/auntruth/new/htm/L0/XF1805.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1806",
+      "name": "Erin   Rothwell",
+      "url": "/auntruth/new/htm/L0/XF1806.htm",
+      "birthDate": "11/11/1982"
+    }
+  ],
+  "occupation": "Chartered Accountant",
+  "address": "18 Taylor Crescent SE Medicine Hat AB T1B 3X5 CAN",
+  "email": null,
+  "phone": "403-526-3980, 403-526-3980",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:47Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF1804.htm",
+    "extractionDate": "2025-10-02T00:06:11.583607Z"
+  }
+}

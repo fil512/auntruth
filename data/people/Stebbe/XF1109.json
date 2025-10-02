@@ -1,0 +1,47 @@
+{
+  "id": "XF1109",
+  "name": "Llana  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF503",
+    "name": "Wayne Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF503.htm"
+  },
+  "mother": {
+    "id": "XF504",
+    "name": "Teresa Diane Kubesh-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF504.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2986",
+      "name": "Shane Henderson [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF2986.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "285 Brock St Winnipeg MB  CAN",
+  "email": null,
+  "phone": "204-489-9629, 204-489-9629",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:53Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1109.htm",
+    "extractionDate": "2025-10-02T00:03:50.124001Z"
+  }
+}

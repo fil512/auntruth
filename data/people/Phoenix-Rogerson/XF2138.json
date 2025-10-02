@@ -1,0 +1,40 @@
+{
+  "id": "XF2138",
+  "name": "Agnes  Smith",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2135",
+    "name": "John Smith [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2135.htm"
+  },
+  "mother": {
+    "id": "XF2134",
+    "name": "Agnes Mary Kirkland-Smith [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2134.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": "Died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:07Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2138.htm",
+    "extractionDate": "2025-10-02T00:05:00.175678Z"
+  }
+}

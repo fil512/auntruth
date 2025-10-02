@@ -1,0 +1,56 @@
+{
+  "id": "XF2795",
+  "name": "Walter Forest Hill",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, June 25, 1889",
+  "birthLocation": "Johnstown Cambria Co     USA",
+  "deathDate": "Wednesday, December 22, 1943",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2772",
+    "name": "Stewart Aaron Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2772.htm"
+  },
+  "mother": {
+    "id": "XF2771",
+    "name": "Laura Jane Paul-Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2771.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2796",
+      "name": "Bess Eliza Foster-Hill [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2796.htm",
+      "marriageDate": "Thursday, July 09, 1914"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2830",
+      "name": "John Foster Hill",
+      "url": "/auntruth/new/htm/L3/XF2830.htm",
+      "birthDate": "03/03/1918"
+    }
+  ],
+  "occupation": null,
+  "address": "Cambria Co Johnstown PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:57Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2795.htm",
+    "extractionDate": "2025-10-02T00:05:17.752242Z"
+  }
+}

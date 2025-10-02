@@ -1,0 +1,86 @@
+{
+  "id": "XF2979",
+  "name": "Ralph  Kubesh",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "mother": {
+    "id": "XF0",
+    "name": "",
+    "url": "/auntruth/htm/L0/XF0.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2980",
+      "name": "Lillian X-Kubesh [Stebbe]",
+      "url": "/auntruth/htm/L7/XF2980.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF2981",
+      "name": "Dorothy X-Kubesh [Stebbe]",
+      "url": "/auntruth/htm/L7/XF2981.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF504",
+      "name": "Teresa Diane Kubesh",
+      "url": "/auntruth/htm/L7/XF504.htm",
+      "birthDate": "01/01/1952"
+    },
+    {
+      "id": "XF2984",
+      "name": "Carol   Kubesh",
+      "url": "/auntruth/htm/L7/XF2984.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2982",
+      "name": "Ken   Kubesh",
+      "url": "/auntruth/htm/L7/XF2982.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:17Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF2979.htm",
+    "extractionDate": "2025-10-02T00:03:51.851922Z"
+  }
+}

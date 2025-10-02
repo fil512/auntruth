@@ -1,0 +1,40 @@
+{
+  "id": "XF246",
+  "name": "John  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, September 08, 1823",
+  "birthLocation": "Cambria County PA   USA",
+  "deathDate": "Wednesday, January 01, 1890",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF222",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF222.htm"
+  },
+  "mother": {
+    "id": "XF223",
+    "name": "Elizabeth Bolewine-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF223.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Freemont PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:28Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF246.htm",
+    "extractionDate": "2025-10-02T00:05:11.445100Z"
+  }
+}

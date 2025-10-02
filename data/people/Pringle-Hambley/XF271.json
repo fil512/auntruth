@@ -1,0 +1,39 @@
+{
+  "id": "XF271",
+  "name": "Jacob  Walker",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Bedford County PA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF267",
+      "name": "Mary   Walker",
+      "url": "/auntruth/new/htm/L3/XF267.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "1790 Census Bedford County, PA. Became a second lieutenant in the Revolutionary War. \"Two Centuries of Brothersvalley\".",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:39Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF271.htm",
+    "extractionDate": "2025-10-02T00:05:14.865605Z"
+  }
+}

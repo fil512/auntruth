@@ -1,0 +1,62 @@
+{
+  "id": "XF2885",
+  "name": "Olga  Sss",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF802",
+    "name": "Johann Friedrich Sss [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF802.htm"
+  },
+  "mother": {
+    "id": "XF801",
+    "name": "Bertha Gust-Sus [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF801.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2894",
+      "name": "Eugene Sss Line [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2894.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Olga Children & Grandchildren",
+      "date": "Saturday, December 01, 1990",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1784.htm"
+    },
+    {
+      "name": "Sss Family Stooking",
+      "date": "Thursday, September 01, 1938",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1762.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:36Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2885.htm",
+    "extractionDate": "2025-10-02T00:04:20.977758Z"
+  }
+}

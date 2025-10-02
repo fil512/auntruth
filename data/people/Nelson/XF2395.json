@@ -1,0 +1,47 @@
+{
+  "id": "XF2395",
+  "name": "James Victor Foskett",
+  "lineage": "Nelson",
+  "birthDate": "Thursday, April 22, 1948",
+  "birthLocation": "BC   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF651",
+    "name": "Victor Foskett [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF651.htm"
+  },
+  "mother": {
+    "id": "XF38",
+    "name": "Mary Irene Nelson-Foskett [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF38.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2396",
+      "name": "Kathy -Foskett [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2396.htm",
+      "marriageDate": "Thursday, July 01, 1971"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:58Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2395.htm",
+    "extractionDate": "2025-10-02T00:04:05.018544Z"
+  }
+}

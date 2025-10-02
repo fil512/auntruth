@@ -1,0 +1,39 @@
+{
+  "id": "XF499",
+  "name": "Joseph (Joe)  Dziad",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF498",
+      "name": "Colleen Stebbe-Dziad-Fenske [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF498.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:37Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF499.htm",
+    "extractionDate": "2025-10-02T00:03:53.883197Z"
+  }
+}

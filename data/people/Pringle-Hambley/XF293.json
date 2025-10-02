@@ -1,0 +1,73 @@
+{
+  "id": "XF293",
+  "name": "Walter  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Dugald MB   CAN",
+  "deathDate": "Saturday, January 01, 2000",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF289",
+    "name": "Ira Daniel Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF289.htm"
+  },
+  "mother": {
+    "id": "XF290",
+    "name": "Ella Aiken-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF290.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF294",
+      "name": "Ruth Johnson-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF294.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF295",
+      "name": "James(Jimmy)   Pringle",
+      "url": "/auntruth/new/htm/L3/XF295.htm",
+      "birthDate": "01/01/1942"
+    },
+    {
+      "id": "XF296",
+      "name": "Ruth-Ann   Pringle",
+      "url": "/auntruth/new/htm/L3/XF296.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Nanaimo BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "60th Anniversary",
+      "date": "Thursday, December 20, 1956",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI968.htm"
+    },
+    {
+      "name": "Dinner at Palmquist Farm",
+      "date": "Tuesday, November 01, 1955",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI985.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:51Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF293.htm",
+    "extractionDate": "2025-10-02T00:05:22.587838Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "XF34",
+  "name": "Wilbur Ernest Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Sunday, September 14, 1924",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF15",
+    "name": "Otto Ernest Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF15.htm"
+  },
+  "mother": {
+    "id": "XF2378",
+    "name": "Anna Eugenia Andersson-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2378.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2389",
+      "name": "Elizabeth Jane Mills-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2389.htm",
+      "marriageDate": "Tuesday, February 02, 1954"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2391",
+      "name": "Sandra   Nelson",
+      "url": "/auntruth/new/htm/L2/XF2391.htm",
+      "birthDate": "01/01/1961"
+    },
+    {
+      "id": "XF2390",
+      "name": "Lorie   Nelson",
+      "url": "/auntruth/new/htm/L2/XF2390.htm",
+      "birthDate": "01/01/1958"
+    }
+  ],
+  "occupation": null,
+  "address": "BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:11Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF34.htm",
+    "extractionDate": "2025-10-02T00:04:09.504501Z"
+  }
+}

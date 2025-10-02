@@ -1,0 +1,66 @@
+{
+  "id": "XF765",
+  "name": "Frank Gordon Esterberg",
+  "lineage": "Nelson",
+  "birthDate": "Saturday, December 17, 1921",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF50",
+    "name": "Franz-Johan Albin Esterberg [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF50.htm"
+  },
+  "mother": {
+    "id": "XF762",
+    "name": "Lilly McSkimmings-Esterberg [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF762.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF766",
+      "name": "LeRae Phipps-Esterberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF766.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF769",
+      "name": "Gail Wynn Esterberg",
+      "url": "/auntruth/new/htm/L2/XF769.htm",
+      "birthDate": "01/01/1953"
+    },
+    {
+      "id": "XF768",
+      "name": "Kari Dee Esterberg",
+      "url": "/auntruth/new/htm/L2/XF768.htm",
+      "birthDate": "01/01/1949"
+    },
+    {
+      "id": "XF767",
+      "name": "Kimball Bryan Esterberg",
+      "url": "/auntruth/new/htm/L2/XF767.htm",
+      "birthDate": "09/25/1945"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:56Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF765.htm",
+    "extractionDate": "2025-10-02T00:04:12.697212Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XF1367",
+  "name": "Albert Luman Tuttle",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1365",
+      "name": "Martha Sophia Morrison-Lathrop-Tuttle [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1365.htm",
+      "marriageDate": "Monday, October 16, 1882"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Waterbury CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:42Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1367.htm",
+    "extractionDate": "2025-10-02T00:05:37.014399Z"
+  }
+}

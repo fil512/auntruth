@@ -1,0 +1,47 @@
+{
+  "id": "XF2373",
+  "name": "Judith Ann Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Thursday, September 14, 1944",
+  "birthLocation": "IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF31",
+    "name": "Clifford Emil Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF31.htm"
+  },
+  "mother": {
+    "id": "XF790",
+    "name": "Rose Pennick-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF790.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2374",
+      "name": "Dennis Gantzer [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2374.htm",
+      "marriageDate": "Sunday, March 22, 1964"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:48Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2373.htm",
+    "extractionDate": "2025-10-02T00:04:03.886985Z"
+  }
+}

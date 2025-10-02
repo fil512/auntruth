@@ -24,13 +24,17 @@
   "email": null,
   "phone": "411-19728, 411-19728",
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Hemfrid Johnsson",
   "notes": "Teacher in Ystad. Owns Johan Johnsson's farm.",
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:52:59Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF113.htm",
-    "extractionDate": "2025-10-01T04:27:13.470962Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF113.htm",
+    "extractionDate": "2025-10-01T22:02:56.160939Z"
   }
 }

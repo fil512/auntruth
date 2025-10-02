@@ -1,0 +1,101 @@
+{
+  "id": "XF2563",
+  "name": "Corey  Johnson",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "Oak Bank MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF530",
+      "name": "Deborah Selch-Johnson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF530.htm",
+      "marriageDate": "Monday, August 31, 1998"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2936",
+      "name": "Aurora Hanna Johnson",
+      "url": "/auntruth/new/htm/L6/XF2936.htm",
+      "birthDate": "05/10/2003"
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Living Room",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1909.htm"
+    },
+    {
+      "name": "Corey & Debbie",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1903.htm"
+    },
+    {
+      "name": "LivingRoom",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1902.htm"
+    },
+    {
+      "name": "By Bar",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1899.htm"
+    },
+    {
+      "name": "Family Room Christmas Eve",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1895.htm"
+    },
+    {
+      "name": "Chloe Christening - View of SunRoom",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1703.htm"
+    },
+    {
+      "name": "Chloe Christening - Back Steps",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1702.htm"
+    },
+    {
+      "name": "The Guys",
+      "date": "Saturday, March 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI605.htm"
+    },
+    {
+      "name": "Corey & debbie",
+      "date": "Monday, December 24, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1970.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:13Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2563.htm",
+    "extractionDate": "2025-10-02T00:04:17.828969Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF282",
+  "name": "Walter  Miller",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF280",
+    "name": "Al Miller [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF280.htm"
+  },
+  "mother": {
+    "id": "XF279",
+    "name": "Malinda Pringle-Miller [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF279.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "New York NY  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Edna Stebbe-Fedorco",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:44Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF282.htm",
+    "extractionDate": "2025-10-02T00:05:19.126474Z"
+  }
+}

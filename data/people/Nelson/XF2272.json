@@ -1,0 +1,52 @@
+{
+  "id": "XF2272",
+  "name": "Bill  Pelland",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2271",
+      "name": "Beverley Ann Oligney-Pelland [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2271.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2274",
+      "name": "Jeffrie   Pelland",
+      "url": "/auntruth/new/htm/L2/XF2274.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2273",
+      "name": "Jackie   Pelland",
+      "url": "/auntruth/new/htm/L2/XF2273.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:04Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2272.htm",
+    "extractionDate": "2025-10-02T00:04:00.638268Z"
+  }
+}

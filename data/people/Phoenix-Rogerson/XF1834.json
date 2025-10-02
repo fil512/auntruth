@@ -1,0 +1,39 @@
+{
+  "id": "XF1834",
+  "name": "William  Paterson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": "Saturday, January 01, 1600",
+  "birthLocation": "Skipmire     UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF1835",
+      "name": "John   Paterson",
+      "url": "/auntruth/new/htm/L9/XF1835.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Tenant Skipmire",
+  "address": "Skipmire   UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:59Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1834.htm",
+    "extractionDate": "2025-10-02T00:04:46.438486Z"
+  }
+}

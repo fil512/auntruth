@@ -1,0 +1,102 @@
+{
+  "id": "XF1017",
+  "name": "Hannah  Howse",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Eastwell, Kent       UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2968",
+    "name": "John Howse [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2968.htm"
+  },
+  "mother": {
+    "id": "XF2968",
+    "name": "John Howse [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2968.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2971",
+      "name": "Thomas Ewer [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2971.htm",
+      "marriageDate": "Thursday, January 01, 1598"
+    },
+    {
+      "id": "XF1016",
+      "name": "Rev. John 2nd Lothropp [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1016.htm",
+      "marriageDate": "Sunday, October 10, 1610"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1020",
+      "name": "Samuel   Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1020.htm",
+      "birthDate": "01/01/1621"
+    },
+    {
+      "id": "XF2962",
+      "name": "Jane   Lothropp",
+      "url": "/auntruth/new/htm/L4/XF2962.htm",
+      "birthDate": "09/01/1614"
+    },
+    {
+      "id": "XF2963",
+      "name": "Thomas   Lothropp",
+      "url": "/auntruth/new/htm/L4/XF2963.htm",
+      "birthDate": "02/01/1612"
+    },
+    {
+      "id": "XF2970",
+      "name": "Benjamin   Lothropp",
+      "url": "/auntruth/new/htm/L4/XF2970.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2969",
+      "name": "Joseph   Lothropp",
+      "url": "/auntruth/new/htm/L4/XF2969.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2967",
+      "name": "Barbara   Lothropp",
+      "url": "/auntruth/new/htm/L4/XF2967.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2966",
+      "name": "John   Lothropp",
+      "url": "/auntruth/new/htm/L4/XF2966.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2965",
+      "name": "Anne   Lothropp",
+      "url": "/auntruth/new/htm/L4/XF2965.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married in Eastwell, County Kent, England",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:09Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1017.htm",
+    "extractionDate": "2025-10-02T00:05:28.979751Z"
+  }
+}

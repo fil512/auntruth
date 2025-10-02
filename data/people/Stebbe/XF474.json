@@ -1,0 +1,58 @@
+{
+  "id": "XF474",
+  "name": "Frederick  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "Volhynia VO   RUS",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF682",
+      "name": "Ustina -Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF682.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF473",
+      "name": "Gustav (Gramps)   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF473.htm",
+      "birthDate": "01/01/1884"
+    },
+    {
+      "id": "XF557",
+      "name": "Herman(Harry)   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF557.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF475",
+      "name": "Ferdinand(Ferni   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF475.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Balsam Bay MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "see DS and ER",
+  "notes": "Stayed in Russia, wife came to Canada German records also shows Stebb, Stebbint, Stebbing related to Stebbe",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:25Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF474.htm",
+    "extractionDate": "2025-10-02T00:03:52.476752Z"
+  }
+}

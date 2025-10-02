@@ -1,0 +1,46 @@
+{
+  "id": "XF265",
+  "name": "Mary  Brody (Brady?)",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF264",
+      "name": "Philip Cable [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF264.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF266",
+      "name": "Jacob   Cable",
+      "url": "/auntruth/new/htm/L3/XF266.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:37Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF265.htm",
+    "extractionDate": "2025-10-02T00:05:14.360991Z"
+  }
+}

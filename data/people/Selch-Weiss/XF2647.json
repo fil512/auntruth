@@ -1,0 +1,64 @@
+{
+  "id": "XF2647",
+  "name": "Wallace Edward Schmidt",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "Ridgeland WI   USA",
+  "deathDate": "Sunday, January 01, 1967",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2638",
+      "name": "Eleanor Alice Milbrandt-Schmidt [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2638.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2651",
+      "name": "Darlene Ann Schmidt",
+      "url": "/auntruth/new/htm/L6/XF2651.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2650",
+      "name": "Floyd Allen Schmidt",
+      "url": "/auntruth/new/htm/L6/XF2650.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2649",
+      "name": "Wallace Roy Schmidt",
+      "url": "/auntruth/new/htm/L6/XF2649.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2639",
+      "name": "Robin Kay Schmidt",
+      "url": "/auntruth/new/htm/L6/XF2639.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Haslett MI  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Robin Lish",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:50Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2647.htm",
+    "extractionDate": "2025-10-02T00:04:18.567547Z"
+  }
+}

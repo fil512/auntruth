@@ -1,0 +1,66 @@
+{
+  "id": "XF883",
+  "name": "Jean-Yves  Parent",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF851",
+    "name": "Gerard Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF851.htm"
+  },
+  "mother": {
+    "id": "XF852",
+    "name": "Noella Boisse-Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF852.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF884",
+      "name": "Danielle -Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF884.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF887",
+      "name": "Melanie   Parent",
+      "url": "/auntruth/new/htm/L6/XF887.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF886",
+      "name": "Veronique   Parent",
+      "url": "/auntruth/new/htm/L6/XF886.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF885",
+      "name": "Genevieve   Parent",
+      "url": "/auntruth/new/htm/L6/XF885.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Joseph-Guy Parent",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:51Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF883.htm",
+    "extractionDate": "2025-10-02T00:04:34.864638Z"
+  }
+}

@@ -65,12 +65,14 @@ class PersonDataExtractor:
         return None
 
     def normalize_value(self, value: Optional[str]) -> Optional[str]:
-        """Convert empty/zero values to None."""
+        """Convert empty/zero values to None, but preserve valid short values."""
         if not value:
             return None
         value = value.strip()
-        if value in ['', '0']:
+        # Only convert these specific empty indicators to None
+        if value in ['', '0', "Don't Know", "Unknown"]:
             return None
+        # Preserve everything else, including "Yes", "No", disease names, etc.
         return value
 
     def extract_name(self, soup: BeautifulSoup) -> Optional[str]:
@@ -98,7 +100,18 @@ class PersonDataExtractor:
                 row_label = cells[0].get_text().strip()
                 if row_label == label:
                     value_cell = cells[1]
-                    # Get text, ignoring links
+
+                    # Special handling for WebSite and EMail fields with links
+                    if label in ['WebSite', 'EMail']:
+                        link = value_cell.find('a')
+                        if link and link.get('href'):
+                            href = link.get('href', '')
+                            # For email, strip "mailto:" prefix
+                            if label == 'EMail' and href.startswith('mailto:'):
+                                return self.normalize_value(href[7:])
+                            return self.normalize_value(href)
+
+                    # Default: get text content
                     text = value_cell.get_text().strip()
                     return self.normalize_value(text)
         return None
@@ -129,11 +142,22 @@ class PersonDataExtractor:
         spouses = []
         for i in range(1, 5):  # Spouse(1) through Spouse(4)
             spouse = self.extract_table_row_link(table, f'Spouse({i})')
-            if spouse and spouse['id']:
-                # Get corresponding marriage date
-                marriage_date = self.extract_table_row_value(table, f'Marriage Date({i})')
-                spouse['marriageDate'] = marriage_date
-                spouses.append(spouse)
+            marriage_date = self.extract_table_row_value(table, f'Marriage Date({i})')
+
+            # Only add if we have either a spouse link OR a marriage date
+            if (spouse and spouse['id']) or marriage_date:
+                if spouse and spouse['id']:
+                    # Has spouse link
+                    spouse['marriageDate'] = marriage_date
+                    spouses.append(spouse)
+                elif marriage_date:
+                    # Has marriage date but no spouse link (unknown/unnamed spouse)
+                    spouses.append({
+                        'id': None,
+                        'name': None,
+                        'url': None,
+                        'marriageDate': marriage_date
+                    })
         return spouses
 
     def extract_phone_numbers(self, table) -> Optional[str]:
@@ -149,8 +173,17 @@ class PersonDataExtractor:
             return ', '.join(phones)
         return None
 
+    def extract_languages(self, table) -> List[str]:
+        """Extract Language(1), Language(2), Language(3) fields."""
+        languages = []
+        for i in range(1, 4):  # Language(1) through Language(3)
+            lang = self.extract_table_row_value(table, f'Language({i})')
+            if lang:
+                languages.append(lang)
+        return languages
+
     def extract_children(self, soup: BeautifulSoup) -> List[Dict]:
-        """Extract children from second table#List."""
+        """Extract ALL children from second table#List, including those without links."""
         tables = soup.find_all('table', id='List')
 
         if len(tables) < 2:
@@ -163,19 +196,34 @@ class PersonDataExtractor:
         for row in children_table.find_all('tr')[1:]:
             cells = row.find_all('td')
             if len(cells) >= 2:
-                # First cell has child name link
+                # First cell may have child name link OR just text
                 link = cells[0].find('a')
-                if link:
-                    href = link.get('href', '')
-                    birth_date = cells[1].get_text().strip()
+                birth_date = cells[1].get_text().strip()
 
+                if link:
+                    # Child has a link (has their own page)
+                    href = link.get('href', '')
                     child = {
                         'id': self.extract_id_from_url(href),
                         'name': link.get_text().strip(),
                         'url': href,
                         'birthDate': self.normalize_value(birth_date)
                     }
-                    children.append(child)
+                else:
+                    # Child has no link (no page created for them yet)
+                    # Still extract their name and birth date
+                    child_name = cells[0].get_text().strip()
+                    if child_name and child_name != 'Child':  # Skip if it's the header
+                        child = {
+                            'id': None,  # No ID available
+                            'name': child_name,
+                            'url': None,  # No URL available
+                            'birthDate': self.normalize_value(birth_date)
+                        }
+                    else:
+                        continue  # Skip empty or header rows
+
+                children.append(child)
 
         return children
 
@@ -306,6 +354,10 @@ class PersonDataExtractor:
             'email': self.extract_table_row_value(person_table, 'EMail'),
             'phone': self.extract_phone_numbers(person_table),
             'website': self.extract_table_row_value(person_table, 'WebSite'),
+            'languages': self.extract_languages(person_table),
+            'causeOfDeath': self.extract_table_row_value(person_table, 'Cause of Death'),
+            'genetics': self.extract_table_row_value(person_table, 'Genetics'),
+            'waitingStatus': self.extract_table_row_value(person_table, 'Waiting?'),
             'source': self.extract_table_row_value(person_table, 'Source'),
             'notes': self.extract_table_row_value(person_table, 'Notes'),
             'photos': self.extract_photos(soup),

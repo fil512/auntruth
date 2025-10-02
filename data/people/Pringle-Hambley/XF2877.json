@@ -1,0 +1,45 @@
+{
+  "id": "XF2877",
+  "name": "Keith II  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, January 01, 1991",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF305",
+    "name": "Howard(Howie) Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF305.htm"
+  },
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Orlando FL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Pringle Men",
+      "date": "Saturday, March 01, 1997",
+      "location": "Orlando Florida United States of America",
+      "url": "/auntruth/new/htm/L3/XI1624.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:33Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2877.htm",
+    "extractionDate": "2025-10-02T00:05:22.309417Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "XF2098",
+  "name": "William  Chalmers",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2097",
+      "name": "Janet Mounsey Lotimer-Chalmers [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2097.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2114",
+      "name": "Margaret   Chalmers",
+      "url": "/auntruth/new/htm/L9/XF2114.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2112",
+      "name": "Jean   Chalmers",
+      "url": "/auntruth/new/htm/L9/XF2112.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2110",
+      "name": "John   Chalmers",
+      "url": "/auntruth/new/htm/L9/XF2110.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:50Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2098.htm",
+    "extractionDate": "2025-10-02T00:04:58.229925Z"
+  }
+}

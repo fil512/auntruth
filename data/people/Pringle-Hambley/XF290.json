@@ -1,0 +1,91 @@
+{
+  "id": "XF290",
+  "name": "Ella  Aiken",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "IRE",
+  "deathDate": "Wednesday, January 01, 1964",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF559",
+    "name": "Aiken [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF559.htm"
+  },
+  "mother": {
+    "id": "XF560",
+    "name": "-Aiken [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF560.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF289",
+      "name": "Ira Daniel Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF289.htm",
+      "marriageDate": "Sunday, December 20, 1896"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF291",
+      "name": "Margaret   Pringle",
+      "url": "/auntruth/new/htm/L3/XF291.htm",
+      "birthDate": "12/01/1908"
+    },
+    {
+      "id": "XF293",
+      "name": "Walter   Pringle",
+      "url": "/auntruth/new/htm/L3/XF293.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Dugald MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": "Moved from Ireland to sister Nancy Bennet's house in Utica, Illinois. Married Ira Pringle in 1906 and emigrated to Canada in 1908. Never became Canadian citizen as always wanted to return to USA.",
+  "photos": [
+    {
+      "name": "At Front Planter",
+      "date": "Saturday, November 01, 1958",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI991.htm"
+    },
+    {
+      "name": "In Front",
+      "date": "Wednesday, October 01, 1958",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI982.htm"
+    },
+    {
+      "name": "Christmas in Dugald",
+      "date": "Thursday, December 20, 1956",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI969.htm"
+    },
+    {
+      "name": "60th Anniversary",
+      "date": "Thursday, December 20, 1956",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI968.htm"
+    },
+    {
+      "name": "Dinner at Palmquist Farm",
+      "date": "Tuesday, November 01, 1955",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI985.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:49Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF290.htm",
+    "extractionDate": "2025-10-02T00:05:22.410561Z"
+  }
+}

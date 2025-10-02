@@ -1,0 +1,40 @@
+{% from "macros/date-display.html" import date_display %}
+
+<div class="essential-info">
+    <dl class="data-list">
+        {% if person.birthDate %}
+        <div class="data-item">
+            <dt class="field-label">Birth Date:</dt>
+            <dd class="field-value">{{ date_display(person.birthDate) }}</dd>
+        </div>
+        {% endif %}
+
+        {% if person.birthLocation %}
+        <div class="data-item">
+            <dt class="field-label">Birth Location:</dt>
+            <dd class="field-value">{{ person.birthLocation }}</dd>
+        </div>
+        {% endif %}
+
+        {% if person.deathDate %}
+        <div class="data-item">
+            <dt class="field-label">Death Date:</dt>
+            <dd class="field-value">{{ date_display(person.deathDate) }}</dd>
+        </div>
+        {% endif %}
+
+        {% if person.deathLocation %}
+        <div class="data-item">
+            <dt class="field-label">Death Location:</dt>
+            <dd class="field-value">{{ person.deathLocation }}</dd>
+        </div>
+        {% endif %}
+
+        {% if person.deceased %}
+        <div class="data-item">
+            <dt class="field-label">Deceased:</dt>
+            <dd class="field-value">{{ person.deceased }}</dd>
+        </div>
+        {% endif %}
+    </dl>
+</div>

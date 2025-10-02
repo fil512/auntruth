@@ -1,0 +1,47 @@
+{
+  "id": "XF2469",
+  "name": "Joseph Walter Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, June 15, 1828",
+  "birthLocation": "Summerhill PA   USA",
+  "deathDate": "Tuesday, February 27, 1900",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF224",
+    "name": "Martin Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF224.htm"
+  },
+  "mother": {
+    "id": "XF225",
+    "name": "Elizabeth Walter-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF225.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2470",
+      "name": "Lucinda Ake-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2470.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Pringle Hill Cemetery Book",
+  "notes": "Pringle Hill Cemetery Lot#28",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:31Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2469.htm",
+    "extractionDate": "2025-10-02T00:05:11.984026Z"
+  }
+}

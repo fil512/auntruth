@@ -1,0 +1,40 @@
+{
+  "id": "XF1458",
+  "name": "Austin Hawley Hosmer",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Tuesday, April 10, 1894",
+  "birthLocation": "Springfield MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1454",
+    "name": "William Eugene Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1454.htm"
+  },
+  "mother": {
+    "id": "XF1453",
+    "name": "Martha Frances Chandler-Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1453.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Springfield MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:20Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1458.htm",
+    "extractionDate": "2025-10-02T00:05:41.698553Z"
+  }
+}

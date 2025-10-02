@@ -1,0 +1,40 @@
+{
+  "id": "XF779",
+  "name": "Elin  Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Saturday, June 03, 1876",
+  "birthLocation": "S0   SWE",
+  "deathDate": "Sunday, June 10, 1877",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1",
+    "name": "Nils Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF1.htm"
+  },
+  "mother": {
+    "id": "XF2",
+    "name": "Kristina Hansdotter-Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:03Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF779.htm",
+    "extractionDate": "2025-10-02T00:04:13.413583Z"
+  }
+}

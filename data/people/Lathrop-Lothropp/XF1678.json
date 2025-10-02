@@ -1,0 +1,40 @@
+{
+  "id": "XF1678",
+  "name": "Arthur Charles Ewin",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Seney IO   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1627",
+    "name": "Matthew Ewin [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1627.htm"
+  },
+  "mother": {
+    "id": "XF1621",
+    "name": "Ella Howard Lothrop-Ewin [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1621.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Seney IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:53Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1678.htm",
+    "extractionDate": "2025-10-02T00:05:53.123078Z"
+  }
+}

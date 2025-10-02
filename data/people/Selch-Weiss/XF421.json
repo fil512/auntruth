@@ -1,0 +1,128 @@
+{
+  "id": "XF421",
+  "name": "Reinhold(Roy)  Langner",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Friday, January 01, 1915",
+  "birthLocation": "CAN",
+  "deathDate": "Sunday, January 01, 1989",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF558",
+    "name": "Gustave Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF558.htm"
+  },
+  "mother": {
+    "id": "XF667",
+    "name": "Maria Patzer [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF667.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF420",
+      "name": "Thelma Selch-Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF420.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF432",
+      "name": "Cheryl Lynn Langner",
+      "url": "/auntruth/new/htm/L6/XF432.htm",
+      "birthDate": "01/01/1958"
+    },
+    {
+      "id": "XF433",
+      "name": "Clifford   Langner",
+      "url": "/auntruth/new/htm/L6/XF433.htm",
+      "birthDate": "03/01/1951"
+    },
+    {
+      "id": "XF431",
+      "name": "Brenda   Langner",
+      "url": "/auntruth/new/htm/L6/XF431.htm",
+      "birthDate": "08/08/1948"
+    },
+    {
+      "id": "XF424",
+      "name": "Diane   Langner",
+      "url": "/auntruth/new/htm/L6/XF424.htm",
+      "birthDate": "01/01/1945"
+    },
+    {
+      "id": "XF436",
+      "name": "Marlene   Langner",
+      "url": "/auntruth/new/htm/L6/XF436.htm",
+      "birthDate": "01/01/1939"
+    },
+    {
+      "id": "XF435",
+      "name": "Gregory   Langner",
+      "url": "/auntruth/new/htm/L6/XF435.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF434",
+      "name": "Gerald   Langner",
+      "url": "/auntruth/new/htm/L6/XF434.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "40th Picnic Table",
+      "date": "Monday, August 01, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1559.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Wedding Marlene Langner/Ken Kiel",
+      "date": "Thursday, June 01, 1961",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1803.htm"
+    },
+    {
+      "name": "Diane & Cliff",
+      "date": "Tuesday, January 01, 1952",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1805.htm"
+    },
+    {
+      "name": "Oma with Gilbert, Brenda, Diane",
+      "date": "Monday, August 01, 1949",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1792.htm"
+    },
+    {
+      "name": "With Horse",
+      "date": "Wednesday, January 01, 1947",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1806.htm"
+    },
+    {
+      "name": "Diane",
+      "date": "Wednesday, January 01, 1947",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1804.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:59Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF421.htm",
+    "extractionDate": "2025-10-02T00:04:25.685451Z"
+  }
+}

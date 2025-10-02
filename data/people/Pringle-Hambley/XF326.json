@@ -1,0 +1,146 @@
+{
+  "id": "XF326",
+  "name": "John(Jack) J. Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, November 27, 1898",
+  "birthLocation": "Port Perry ON   CAN",
+  "deathDate": "Sunday, August 30, 1964",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF571",
+    "name": "John Joseph Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF571.htm"
+  },
+  "mother": {
+    "id": "XF570",
+    "name": "Jane McLaughlin-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF570.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF325",
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF343",
+      "name": "Bryan Spencer Hambley",
+      "url": "/auntruth/new/htm/L3/XF343.htm",
+      "birthDate": "05/24/1933"
+    },
+    {
+      "id": "XF335",
+      "name": "Marion   Hambley",
+      "url": "/auntruth/new/htm/L3/XF335.htm",
+      "birthDate": "07/26/1927"
+    },
+    {
+      "id": "XF329",
+      "name": "Bruce   Hambley",
+      "url": "/auntruth/new/htm/L3/XF329.htm",
+      "birthDate": "04/18/1925"
+    }
+  ],
+  "occupation": "Owner/Operator Hambley Hatcheries(Manitoba-Saskatchewa",
+  "address": "1469 Wellington Cr. Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": "NS/ND",
+  "waitingStatus": "Yes",
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Came to Swan Lake MB at age of 2 in 1900. Bought sec 5 TWP 5 Range 10 and farmed until 1927. Started Hambley Hatcheries(Manitoba/Saskatchewan). Returned to roots in 1950s by building an alfalfa mill in Swan Lake.",
+  "photos": [
+    {
+      "name": "1469 Wellington Crescent - Auntie Ruth & Uncle Jack's old home",
+      "date": "Thursday, August 29, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1739.htm"
+    },
+    {
+      "name": "On Uncle Jack's Easy Chair - Last Photo of Uncle Jack",
+      "date": "Saturday, August 01, 1964",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI967.htm"
+    },
+    {
+      "name": "Christmas in Dugald",
+      "date": "Thursday, December 20, 1956",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI969.htm"
+    },
+    {
+      "name": "J. J. Hambley",
+      "date": "Saturday, January 01, 1955",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI966.htm"
+    },
+    {
+      "name": "Birthday Party (Beryl Jones on left)",
+      "date": "Friday, November 12, 1954",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI976.htm"
+    },
+    {
+      "name": "Work Crew, the whole fam damily",
+      "date": "Saturday, August 01, 1953",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1323.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Tuesday, December 20, 1949",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1619.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Saturday, January 01, 1949",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1618.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Thursday, January 01, 1948",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1617.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Saturday, January 01, 1938",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1616.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Wednesday, January 01, 1930",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1615.htm"
+    },
+    {
+      "name": "Hambley Family",
+      "date": "Saturday, January 01, 1927",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1614.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "At a Cabin",
+      "date": "Thursday, August 01, 1929",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI1622.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:09Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF326.htm",
+    "extractionDate": "2025-10-02T00:05:25.118098Z"
+  }
+}

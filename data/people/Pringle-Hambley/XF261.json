@@ -1,0 +1,47 @@
+{
+  "id": "XF261",
+  "name": "Peter  Fleck",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": "Sunday, January 01, 1888",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF276",
+    "name": "Abraham Fleck [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF276.htm"
+  },
+  "mother": {
+    "id": "XF277",
+    "name": "Tamar Burley-Fleck [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF277.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF260",
+      "name": "Christina Pringle-Fleck [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF260.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "1860 Census of Tyrone County, Blain County, PA. Death notice of Peter and Death Certificate of his wife Christina. Storey's \"History of Cambria County\". Pringle Hill Cemetery Lot#58",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:35Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF261.htm",
+    "extractionDate": "2025-10-02T00:05:13.906371Z"
+  }
+}

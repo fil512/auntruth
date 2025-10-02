@@ -1,0 +1,54 @@
+{
+  "id": "XF2165",
+  "name": "William Christo Gillespie",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Annanbank     UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2153",
+    "name": "James Gillespie [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2153.htm"
+  },
+  "mother": {
+    "id": "XF2154",
+    "name": "Margaret Johnston-Gillespie [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2154.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2166",
+      "name": "Elizabeth Carruthers-Gillespie [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2166.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2176",
+      "name": "Daughter   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2176.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:18Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2165.htm",
+    "extractionDate": "2025-10-02T00:05:01.574225Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XF253",
+  "name": "Sarah",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF252",
+      "name": "William Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF252.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:32Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF253.htm",
+    "extractionDate": "2025-10-02T00:05:13.286560Z"
+  }
+}

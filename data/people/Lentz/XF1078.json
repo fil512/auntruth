@@ -1,0 +1,66 @@
+{
+  "id": "XF1078",
+  "name": "Carla  Lentz",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF450",
+    "name": "Bill Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF450.htm"
+  },
+  "mother": {
+    "id": "XF1058",
+    "name": "Elizabeth(Betsy Dunn-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF1058.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1079",
+      "name": "Richard Charles [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF1079.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1085",
+      "name": "Jenelle   Charles",
+      "url": "/auntruth/new/htm/L8/XF1085.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1084",
+      "name": "Andrew   Charles",
+      "url": "/auntruth/new/htm/L8/XF1084.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1083",
+      "name": "Chelsie   Charles",
+      "url": "/auntruth/new/htm/L8/XF1083.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:38Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF1078.htm",
+    "extractionDate": "2025-10-02T00:03:00.912574Z"
+  }
+}

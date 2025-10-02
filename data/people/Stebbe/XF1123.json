@@ -1,0 +1,47 @@
+{
+  "id": "XF1123",
+  "name": "Cheryl  Hickman",
+  "lineage": "Stebbe",
+  "birthDate": "Wednesday, January 01, 1958",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF483",
+    "name": "Ivan Hickman [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF483.htm"
+  },
+  "mother": {
+    "id": "XF482",
+    "name": "Florence Stebbe-Hickman [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF482.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1124",
+      "name": "? Scott [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1124.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:59Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1123.htm",
+    "extractionDate": "2025-10-02T00:03:50.896933Z"
+  }
+}

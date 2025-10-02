@@ -1,0 +1,60 @@
+{
+  "id": "XF1180",
+  "name": "John 6th  Lothrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Sunday, July 24, 1814",
+  "birthLocation": "Granby MA   USA",
+  "deathDate": "Thursday, May 24, 1900",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1007",
+    "name": "Daniel Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1007.htm"
+  },
+  "mother": {
+    "id": "XF1008",
+    "name": "Lucy Smith-Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1008.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1175",
+      "name": "Sarah Dexter Robinson-Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1175.htm",
+      "marriageDate": "Sunday, May 01, 1836"
+    },
+    {
+      "id": "XF1375",
+      "name": "Melissa Ide Harwood-Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1375.htm",
+      "marriageDate": "Monday, January 02, 1865"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1377",
+      "name": "Eliza Ellen Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1377.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Fort Dodge IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 1 May 1836 in Dover ME Died in Fort Dodge Iowa",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:23Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1180.htm",
+    "extractionDate": "2025-10-02T00:05:31.199303Z"
+  }
+}

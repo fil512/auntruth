@@ -43,7 +43,11 @@
   "address": "32 Sapphire Crescent Brampton ON L6Z 4M5 CAN",
   "email": "hayd@acm.org",
   "phone": "905-840-1716, 905-840-1716",
-  "website": "www.acm.org",
+  "website": "http://www.acm.org",
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Joyce Marion Hagborg-Hay",
   "notes": null,
   "photos": [
@@ -105,7 +109,7 @@
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:54:05Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF189.htm",
-    "extractionDate": "2025-10-01T04:27:21.447754Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF189.htm",
+    "extractionDate": "2025-10-01T22:03:05.074680Z"
   }
 }

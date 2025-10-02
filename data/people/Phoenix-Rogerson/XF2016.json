@@ -1,0 +1,47 @@
+{
+  "id": "XF2016",
+  "name": "Mary  Patterson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Kinharry S2   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1838",
+    "name": "John Patterson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1838.htm"
+  },
+  "mother": {
+    "id": "XF1837",
+    "name": "Bethia Paterson-Patterson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1837.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2017",
+      "name": "William Endsley [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2017.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "S2  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:16Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2016.htm",
+    "extractionDate": "2025-10-02T00:04:54.150657Z"
+  }
+}

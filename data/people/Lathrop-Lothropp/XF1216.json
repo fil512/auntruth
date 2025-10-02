@@ -1,0 +1,47 @@
+{
+  "id": "XF1216",
+  "name": "Roscoe  Breedlove",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1213",
+    "name": "Breedlove [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1213.htm"
+  },
+  "mother": {
+    "id": "XF1214",
+    "name": "-Breedlove [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1214.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1212",
+      "name": "Mildred Hornung-Breedlove [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1212.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:38Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1216.htm",
+    "extractionDate": "2025-10-02T00:05:32.197647Z"
+  }
+}

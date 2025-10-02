@@ -1,0 +1,70 @@
+{
+  "id": "XF1838",
+  "name": "John  Patterson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Kinharry S2   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1837",
+      "name": "Bethia Paterson-Patterson [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1837.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2016",
+      "name": "Mary   Patterson",
+      "url": "/auntruth/new/htm/L9/XF2016.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2015",
+      "name": "Elizabeth   Patterson",
+      "url": "/auntruth/new/htm/L9/XF2015.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2014",
+      "name": "John   Patterson",
+      "url": "/auntruth/new/htm/L9/XF2014.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2013",
+      "name": "William   Patterson",
+      "url": "/auntruth/new/htm/L9/XF2013.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2009",
+      "name": "Nicholas   Patterson",
+      "url": "/auntruth/new/htm/L9/XF2009.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:01Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1838.htm",
+    "extractionDate": "2025-10-02T00:04:46.599340Z"
+  }
+}

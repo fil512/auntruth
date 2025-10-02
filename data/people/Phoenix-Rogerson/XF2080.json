@@ -1,0 +1,72 @@
+{
+  "id": "XF2080",
+  "name": "John  Pagan",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2053",
+    "name": "John Pagan [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2053.htm"
+  },
+  "mother": {
+    "id": "XF2052",
+    "name": "Mary Hamilton-Pagan [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2052.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2081",
+      "name": "Margaret Lang-Pagan [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2081.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2085",
+      "name": "John   Pagan",
+      "url": "/auntruth/new/htm/L9/XF2085.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2084",
+      "name": "Gavin   Pagan",
+      "url": "/auntruth/new/htm/L9/XF2084.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2083",
+      "name": "Ann   Pagan",
+      "url": "/auntruth/new/htm/L9/XF2083.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2082",
+      "name": "Alexander   Pagan",
+      "url": "/auntruth/new/htm/L9/XF2082.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Reverend",
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:42Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2080.htm",
+    "extractionDate": "2025-10-02T00:04:57.333085Z"
+  }
+}

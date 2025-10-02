@@ -1,0 +1,40 @@
+{
+  "id": "XF207",
+  "name": "Christina  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, June 19, 1770",
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF201",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF201.htm"
+  },
+  "mother": {
+    "id": "XF202",
+    "name": "Mary Wertz-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF202.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:11Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF207.htm",
+    "extractionDate": "2025-10-02T00:05:08.514666Z"
+  }
+}

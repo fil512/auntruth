@@ -1,0 +1,54 @@
+{
+  "id": "XF1463",
+  "name": "Ethel Mae Newell",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, August 26, 1874",
+  "birthLocation": "Springfield MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1461",
+    "name": "George Boyden Newell [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1461.htm"
+  },
+  "mother": {
+    "id": "XF1462",
+    "name": "Carrie Forrest Bates-Newell [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1462.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1464",
+      "name": "Wells Rogers Hosmer [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1464.htm",
+      "marriageDate": "Tuesday, January 19, 1897"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1465",
+      "name": "Malcom Douglas Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1465.htm",
+      "birthDate": "06/28/1898"
+    }
+  ],
+  "occupation": null,
+  "address": "Salem MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:22Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1463.htm",
+    "extractionDate": "2025-10-02T00:05:41.920931Z"
+  }
+}

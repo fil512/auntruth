@@ -1,0 +1,49 @@
+{
+  "id": "XF2779",
+  "name": "John Wallace Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, May 27, 1873",
+  "birthLocation": "Summerhill Twp Cambria Co     USA",
+  "deathDate": "Sunday, January 11, 1920",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2760",
+    "name": "Elias Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2760.htm"
+  },
+  "mother": {
+    "id": "XF2759",
+    "name": "Maria Pringle-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2759.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2780",
+      "name": "Blanche Batzell-Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2780.htm",
+      "marriageDate": "Wednesday, April 03, 1901"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Cambria Co Johnstown PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:50Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2779.htm",
+    "extractionDate": "2025-10-02T00:05:16.794050Z"
+  }
+}

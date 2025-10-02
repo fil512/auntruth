@@ -1,0 +1,28 @@
+{% if photos %}
+<div class="photos-gallery">
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Photo</th>
+                <th>Date</th>
+                <th>Location</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for photo in photos %}
+            <tr>
+                <td>
+                    {% if photo.url %}
+                    <a href="{{ photo.url }}">{{ photo.name }}</a>
+                    {% else %}
+                    {{ photo.name }}
+                    {% endif %}
+                </td>
+                <td>{{ photo.date|default('Unknown') }}</td>
+                <td>{{ photo.location|default('Unknown') }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endif %}

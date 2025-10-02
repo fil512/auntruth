@@ -1,0 +1,40 @@
+{
+  "id": "XF700",
+  "name": "Andy  Jacob",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "HUN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF694",
+    "name": "Jacob [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF694.htm"
+  },
+  "mother": {
+    "id": "XF695",
+    "name": "Granny -Jacob [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF695.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Went to USA at age 17. Stayed 6 years and returned just before war. Very educated; spoke English. Was killed in war; no family.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:27Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF700.htm",
+    "extractionDate": "2025-10-02T00:03:55.761343Z"
+  }
+}

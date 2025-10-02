@@ -1,0 +1,90 @@
+{
+  "id": "XF311",
+  "name": "Jane  MacGreer",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Portland OR   USA",
+  "deathDate": "Monday, May 29, 1995",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF309",
+      "name": "Maurice(Jerry) Ervin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF309.htm",
+      "marriageDate": "Thursday, January 01, 1942"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF324",
+      "name": "Peter John   Pringle",
+      "url": "/auntruth/new/htm/L3/XF324.htm",
+      "birthDate": "01/01/1956"
+    },
+    {
+      "id": "XF320",
+      "name": "Woodson(Woody)( Richard Pringle",
+      "url": "/auntruth/new/htm/L3/XF320.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "White Rock BC  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "stroke",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "At Uncle Jerry's Cottage",
+      "date": "Tuesday, July 01, 1980",
+      "location": "Blakely Island Washington United States of America",
+      "url": "/auntruth/new/htm/L1/XI904.htm"
+    },
+    {
+      "name": "Wedding",
+      "date": "Saturday, September 10, 1955",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI986.htm"
+    },
+    {
+      "name": "Telegram from Uncle Jerry",
+      "date": "Sunday, November 12, 1944",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1280.htm"
+    },
+    {
+      "name": "Wedding Picture",
+      "date": "Thursday, January 01, 1942",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L0/XI971.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Home in Vancouver",
+      "date": "Sunday, June 15, 1986",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L3/XI865.htm"
+    },
+    {
+      "name": "With Grandchildren",
+      "date": "Saturday, December 15, 1984",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L3/XI990.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:00Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF311.htm",
+    "extractionDate": "2025-10-02T00:05:24.286354Z"
+  }
+}

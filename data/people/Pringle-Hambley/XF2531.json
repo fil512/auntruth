@@ -1,0 +1,40 @@
+{
+  "id": "XF2531",
+  "name": "David  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Swan Lake MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2525",
+    "name": "Russell Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2525.htm"
+  },
+  "mother": {
+    "id": "XF2526",
+    "name": "Mildred Yeo-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2526.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Farmer",
+  "address": "Swan Lake MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Farms some land near Swan Lake. Never married.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:58Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2531.htm",
+    "extractionDate": "2025-10-02T00:05:13.385117Z"
+  }
+}

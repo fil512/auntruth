@@ -1,0 +1,52 @@
+{
+  "id": "XF1974",
+  "name": null,
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1973",
+      "name": "Albert Edward Lotimer [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1973.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1976",
+      "name": "Albert Edward Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1976.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1975",
+      "name": "Marjory   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1975.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:58Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1974.htm",
+    "extractionDate": "2025-10-02T00:04:51.962149Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "XF1024",
+  "name": "Sherry  Zieske",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF912",
+    "name": "Alfred Zieske [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF912.htm"
+  },
+  "mother": {
+    "id": "XF913",
+    "name": "Lillian -Zieske [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF913.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF917",
+      "name": "Terry Komadowski [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF917.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:12Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1024.htm",
+    "extractionDate": "2025-10-02T00:04:14.791407Z"
+  }
+}

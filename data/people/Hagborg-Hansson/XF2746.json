@@ -31,13 +31,19 @@
   "email": "amyco@escape.ca",
   "phone": "(204) 867-2311, (204) 867-2311",
   "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Bud Amy",
   "notes": null,
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T19:15:35Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2746.htm",
-    "extractionDate": "2025-10-01T04:27:29.893751Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF2746.htm",
+    "extractionDate": "2025-10-01T22:03:14.637425Z"
   }
 }

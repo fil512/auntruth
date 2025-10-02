@@ -1,0 +1,94 @@
+{
+  "id": "XF1627",
+  "name": "Matthew  Ewin",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1621",
+      "name": "Ella Howard Lothrop-Ewin [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1621.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1683",
+      "name": "Anna   Ewin",
+      "url": "/auntruth/new/htm/L4/XF1683.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1682",
+      "name": "Albert Vernon Ewin",
+      "url": "/auntruth/new/htm/L4/XF1682.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1681",
+      "name": "Robert Leroy Ewin",
+      "url": "/auntruth/new/htm/L4/XF1681.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1680",
+      "name": "Iona Mae Ewin",
+      "url": "/auntruth/new/htm/L4/XF1680.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1679",
+      "name": "Charles Emerson Ewin",
+      "url": "/auntruth/new/htm/L4/XF1679.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1678",
+      "name": "Arthur Charles Ewin",
+      "url": "/auntruth/new/htm/L4/XF1678.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1677",
+      "name": "Mary Effie Ewin",
+      "url": "/auntruth/new/htm/L4/XF1677.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1676",
+      "name": "William Alfred Ewin",
+      "url": "/auntruth/new/htm/L4/XF1676.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1675",
+      "name": "Frances Ellen Ewin",
+      "url": "/auntruth/new/htm/L4/XF1675.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Seney IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:32Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1627.htm",
+    "extractionDate": "2025-10-02T00:05:50.491988Z"
+  }
+}

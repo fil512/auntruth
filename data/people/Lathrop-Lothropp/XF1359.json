@@ -1,0 +1,90 @@
+{
+  "id": "XF1359",
+  "name": "Sarah  Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Tuesday, October 27, 1829",
+  "birthLocation": "Granby MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1151",
+    "name": "Erastus Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1151.htm"
+  },
+  "mother": {
+    "id": "XF1152",
+    "name": "Rebeckah Ward-Lathrop [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1152.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1358",
+      "name": "George Hosmer [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1358.htm",
+      "marriageDate": "Tuesday, September 11, 1849"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1464",
+      "name": "Wells Rogers Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1464.htm",
+      "birthDate": "10/25/1871"
+    },
+    {
+      "id": "XF1454",
+      "name": "William Eugene Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1454.htm",
+      "birthDate": "06/16/1865"
+    },
+    {
+      "id": "XF1449",
+      "name": "Hattie Allette Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1449.htm",
+      "birthDate": "01/01/1863"
+    },
+    {
+      "id": "XF1443",
+      "name": "Francis Lathrop Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1443.htm",
+      "birthDate": "05/02/1861"
+    },
+    {
+      "id": "XF1437",
+      "name": "George Herbert Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1437.htm",
+      "birthDate": "09/04/1857"
+    },
+    {
+      "id": "XF1415",
+      "name": "Charles Henry Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1415.htm",
+      "birthDate": "08/28/1853"
+    },
+    {
+      "id": "XF1410",
+      "name": "Mary Ella Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1410.htm",
+      "birthDate": "06/21/1850"
+    }
+  ],
+  "occupation": null,
+  "address": "Springfield MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:38Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1359.htm",
+    "extractionDate": "2025-10-02T00:05:36.577703Z"
+  }
+}

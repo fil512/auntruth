@@ -1,0 +1,47 @@
+{
+  "id": "XF328",
+  "name": "Ruth  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, April 24, 1933",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF327",
+    "name": "George Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF327.htm"
+  },
+  "mother": {
+    "id": "XF573",
+    "name": "Florence Blair-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF573.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF572",
+      "name": "Kris Breckman [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF572.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "59 Robert Service Bay Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:10Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF328.htm",
+    "extractionDate": "2025-10-02T00:05:25.212529Z"
+  }
+}

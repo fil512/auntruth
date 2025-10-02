@@ -1,0 +1,47 @@
+{
+  "id": "XF2362",
+  "name": "Marellen  Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Monday, October 27, 1941",
+  "birthLocation": "Chicago IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF29",
+    "name": "Paul Vincent Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF29.htm"
+  },
+  "mother": {
+    "id": "XF2356",
+    "name": "Theresa Bottim-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2356.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2363",
+      "name": "Richard Kralik [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2363.htm",
+      "marriageDate": "Saturday, July 11, 1959"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:44Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2362.htm",
+    "extractionDate": "2025-10-02T00:04:03.266505Z"
+  }
+}

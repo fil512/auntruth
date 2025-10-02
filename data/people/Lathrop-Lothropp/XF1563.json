@@ -1,0 +1,40 @@
+{
+  "id": "XF1563",
+  "name": "Flossie May Lambert",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Hermond Pond ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1561",
+    "name": "Charles Alfred Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1561.htm"
+  },
+  "mother": {
+    "id": "XF1562",
+    "name": "Abbie Eliza Mayo-Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1562.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Hermond Pond ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:05Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1563.htm",
+    "extractionDate": "2025-10-02T00:05:47.143968Z"
+  }
+}

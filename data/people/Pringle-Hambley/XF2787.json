@@ -1,0 +1,86 @@
+{
+  "id": "XF2787",
+  "name": "Berekiah  Stewart",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, January 11, 1799",
+  "birthLocation": "Fairfield Twp Westmorelan     USA",
+  "deathDate": "Monday, January 01, 1849",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2789",
+    "name": "Jacob Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2789.htm"
+  },
+  "mother": {
+    "id": "XF2790",
+    "name": "Eunice Edith Dunn-Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2790.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2788",
+      "name": "Mary (Polly) Fisher-Stewart [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2788.htm",
+      "marriageDate": "Friday, December 31, 1824"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2829",
+      "name": "Caroline   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2829.htm",
+      "birthDate": "05/08/1832"
+    },
+    {
+      "id": "XF2827",
+      "name": "Benjamin   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2827.htm",
+      "birthDate": "02/17/1830"
+    },
+    {
+      "id": "XF2784",
+      "name": "Martha   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2784.htm",
+      "birthDate": "07/26/1828"
+    },
+    {
+      "id": "XF2824",
+      "name": "Eunice   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2824.htm",
+      "birthDate": "01/18/1825"
+    },
+    {
+      "id": "XF2822",
+      "name": "William A. Stewart",
+      "url": "/auntruth/new/htm/L3/XF2822.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2821",
+      "name": "Jacob   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2821.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Westmoreland Co West Fairfield PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:54Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2787.htm",
+    "extractionDate": "2025-10-02T00:05:17.255513Z"
+  }
+}

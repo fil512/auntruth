@@ -1,0 +1,40 @@
+{
+  "id": "XF711",
+  "name": "Kudrach",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF710",
+    "name": "Michael Kudrach [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF710.htm"
+  },
+  "mother": {
+    "id": "XF707",
+    "name": "Maryann Fedorco-Kudrach [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF707.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Uncle Johnny visited her in USA 1931-1936",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:32Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF711.htm",
+    "extractionDate": "2025-10-02T00:03:56.289656Z"
+  }
+}

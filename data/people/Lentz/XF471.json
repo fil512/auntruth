@@ -1,0 +1,103 @@
+{
+  "id": "XF471",
+  "name": "Olga  Lentz",
+  "lineage": "Lentz",
+  "birthDate": "Sunday, January 01, 1893",
+  "birthLocation": "CAN",
+  "deathDate": "Thursday, January 01, 1925",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF445",
+    "name": "Ludwig Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF445.htm"
+  },
+  "mother": {
+    "id": "XF686",
+    "name": "Juliana Klingbeil-Klingbeil-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF686.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF473",
+      "name": "Gustav (Gramps) Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF473.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF485",
+      "name": "Eleanor   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF485.htm",
+      "birthDate": "09/12/1925"
+    },
+    {
+      "id": "XF496",
+      "name": "Lawrence (Larry   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF496.htm",
+      "birthDate": "02/25/1923"
+    },
+    {
+      "id": "XF399",
+      "name": "Dorothy Emmelina Stebbe",
+      "url": "/auntruth/new/htm/L7/XF399.htm",
+      "birthDate": "06/21/1921"
+    },
+    {
+      "id": "XF491",
+      "name": "Ralph   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF491.htm",
+      "birthDate": "12/30/1919"
+    },
+    {
+      "id": "XF488",
+      "name": "George   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF488.htm",
+      "birthDate": "12/24/1918"
+    },
+    {
+      "id": "XF486",
+      "name": "Edna   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF486.htm",
+      "birthDate": "03/26/1916"
+    },
+    {
+      "id": "XF477",
+      "name": "Leonard   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF477.htm",
+      "birthDate": "03/25/1914"
+    },
+    {
+      "id": "XF478",
+      "name": "Richard   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF478.htm",
+      "birthDate": "10/30/1912"
+    }
+  ],
+  "occupation": "Domestic Engineer",
+  "address": "Beausejour MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [
+    {
+      "name": "With Gramma & Grampa Stebbe Picture",
+      "date": "Monday, September 06, 2004",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2592.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:23Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF471.htm",
+    "extractionDate": "2025-10-02T00:03:03.204765Z"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "XF457",
+  "name": "Henry  Lentz",
+  "lineage": "Lentz",
+  "birthDate": "Friday, January 01, 1909",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF445",
+    "name": "Ludwig Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF445.htm"
+  },
+  "mother": {
+    "id": "XF686",
+    "name": "Juliana Klingbeil-Klingbeil-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF686.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF458",
+      "name": "Ella Porter-Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF458.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF462",
+      "name": "Robert   Lentz",
+      "url": "/auntruth/new/htm/L8/XF462.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF461",
+      "name": "Ruth   Lentz",
+      "url": "/auntruth/new/htm/L8/XF461.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF460",
+      "name": "Melvin   Lentz",
+      "url": "/auntruth/new/htm/L8/XF460.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF459",
+      "name": "Larry   Lentz",
+      "url": "/auntruth/new/htm/L8/XF459.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:17Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF457.htm",
+    "extractionDate": "2025-10-02T00:03:02.487495Z"
+  }
+}

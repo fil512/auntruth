@@ -1,0 +1,40 @@
+{
+  "id": "XF1035",
+  "name": "Destiny  Fogg",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1034",
+    "name": "William(Bill) Fogg [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1034.htm"
+  },
+  "mother": {
+    "id": "XF441",
+    "name": "Twyla Muth-Fogg [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF441.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:19Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1035.htm",
+    "extractionDate": "2025-10-02T00:04:15.278338Z"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "XF327",
+  "name": "George  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Wednesday, January 01, 1896",
+  "birthLocation": "Purple Hill ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF571",
+    "name": "John Joseph Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF571.htm"
+  },
+  "mother": {
+    "id": "XF570",
+    "name": "Jane McLaughlin-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF570.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF573",
+      "name": "Florence Blair-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF573.htm",
+      "marriageDate": "Sunday, January 01, 1928"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF328",
+      "name": "Ruth   Hambley",
+      "url": "/auntruth/new/htm/L3/XF328.htm",
+      "birthDate": "04/24/1933"
+    },
+    {
+      "id": "XF2533",
+      "name": "Barrie   Hambley",
+      "url": "/auntruth/new/htm/L3/XF2533.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2532",
+      "name": "Grant   Hambley",
+      "url": "/auntruth/new/htm/L3/XF2532.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Preacher",
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Orangeman",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:09Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF327.htm",
+    "extractionDate": "2025-10-02T00:05:25.196696Z"
+  }
+}

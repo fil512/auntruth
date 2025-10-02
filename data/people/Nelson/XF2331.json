@@ -1,0 +1,47 @@
+{
+  "id": "XF2331",
+  "name": "Anna  Pehrson",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, January 28, 1823",
+  "birthLocation": "Brandstad S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2343",
+    "name": "Pehr Bengtsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2343.htm"
+  },
+  "mother": {
+    "id": "XF2344",
+    "name": "Ingar Nilsdotter-Bengtsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2344.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2338",
+      "name": "Niklas Dalsja [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2338.htm",
+      "marriageDate": "Saturday, January 01, 1848"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:30Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2331.htm",
+    "extractionDate": "2025-10-02T00:04:01.688340Z"
+  }
+}

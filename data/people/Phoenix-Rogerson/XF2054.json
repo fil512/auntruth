@@ -1,0 +1,60 @@
+{
+  "id": "XF2054",
+  "name": "Joseph  Hamilton",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": "Thursday, January 01, 1829",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1875",
+    "name": "Joseph Hamilton [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1875.htm"
+  },
+  "mother": {
+    "id": "XF1874",
+    "name": "Joan Mounsey-Hamilton [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1874.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2055",
+      "name": "Agnes Beattie-Hamilton [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2055.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2061",
+      "name": "Joan   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2061.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2059",
+      "name": "James   Hamilton",
+      "url": "/auntruth/new/htm/L9/XF2059.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:31Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2054.htm",
+    "extractionDate": "2025-10-02T00:04:55.964578Z"
+  }
+}

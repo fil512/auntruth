@@ -1,0 +1,89 @@
+{
+  "id": "XF431",
+  "name": "Brenda  Langner",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, August 08, 1948",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF421",
+    "name": "Reinhold(Roy) Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF421.htm"
+  },
+  "mother": {
+    "id": "XF420",
+    "name": "Thelma Selch-Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF420.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Poolside",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2252.htm"
+    },
+    {
+      "name": "On Deck",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2248.htm"
+    },
+    {
+      "name": "School Picture Grade 8A",
+      "date": "Thursday, May 31, 1962",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1512.htm"
+    },
+    {
+      "name": "Brenda",
+      "date": "Thursday, December 01, 1960",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1773.htm"
+    },
+    {
+      "name": "Brenda",
+      "date": "Thursday, December 01, 1960",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1771.htm"
+    },
+    {
+      "name": "On Back Porch",
+      "date": "Sunday, July 01, 1956",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1764.htm"
+    },
+    {
+      "name": "Langner & Selch kids",
+      "date": "Friday, May 06, 1955",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1763.htm"
+    },
+    {
+      "name": "Oma with Gilbert, Brenda, Diane",
+      "date": "Monday, August 01, 1949",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1792.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:03Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF431.htm",
+    "extractionDate": "2025-10-02T00:04:26.259831Z"
+  }
+}

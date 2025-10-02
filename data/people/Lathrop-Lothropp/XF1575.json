@@ -1,0 +1,90 @@
+{
+  "id": "XF1575",
+  "name": "Susan Jane Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1163",
+    "name": "Daniel Jr. Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1163.htm"
+  },
+  "mother": {
+    "id": "XF1164",
+    "name": "Elizabeth Hinckley-Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1164.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1337",
+      "name": "James Huzzy Merrill [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1337.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF1336",
+      "name": "James Munro Coburn [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1336.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1599",
+      "name": "George 2nd Colfax Merrill",
+      "url": "/auntruth/new/htm/L4/XF1599.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1596",
+      "name": "Fannie Jennie Merrill",
+      "url": "/auntruth/new/htm/L4/XF1596.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1592",
+      "name": "Albert Edmond Merrill",
+      "url": "/auntruth/new/htm/L4/XF1592.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1588",
+      "name": "Hattie Maria Merrill",
+      "url": "/auntruth/new/htm/L4/XF1588.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1578",
+      "name": "Ida Elizabe Merrill",
+      "url": "/auntruth/new/htm/L4/XF1578.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1576",
+      "name": "George Colfax Merrill",
+      "url": "/auntruth/new/htm/L4/XF1576.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Blue Anchor NJ  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:10Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1575.htm",
+    "extractionDate": "2025-10-02T00:05:47.739069Z"
+  }
+}

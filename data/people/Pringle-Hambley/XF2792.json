@@ -1,0 +1,48 @@
+{
+  "id": "XF2792",
+  "name": "Mary",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2791",
+      "name": "Charles Stewart [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2791.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2789",
+      "name": "Jacob   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2789.htm",
+      "birthDate": "01/01/1755"
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:56Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2792.htm",
+    "extractionDate": "2025-10-02T00:05:17.595595Z"
+  }
+}

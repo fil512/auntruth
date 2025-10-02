@@ -1,0 +1,40 @@
+{
+  "id": "XF794",
+  "name": "Jim  Hoskett",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF651",
+    "name": "Victor Foskett [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF651.htm"
+  },
+  "mother": {
+    "id": "XF38",
+    "name": "Mary Irene Nelson-Foskett [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF38.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:09Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF794.htm",
+    "extractionDate": "2025-10-02T00:04:14.270889Z"
+  }
+}

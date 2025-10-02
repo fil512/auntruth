@@ -1,0 +1,47 @@
+{
+  "id": "XF987",
+  "name": "John  Ward",
+  "lineage": "Ward",
+  "birthDate": "Thursday, January 01, 1626",
+  "birthLocation": "UKG",
+  "deathDate": "Sunday, July 08, 1708",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF982",
+    "name": "William Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF982.htm"
+  },
+  "mother": {
+    "id": "XF983",
+    "name": "-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF983.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF988",
+      "name": "Hannah Jackson-Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF988.htm",
+      "marriageDate": "Saturday, January 01, 1650"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Newton MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married about 1650",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:51Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF987.htm",
+    "extractionDate": "2025-10-02T00:03:40.833190Z"
+  }
+}

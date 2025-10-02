@@ -1,0 +1,59 @@
+{
+  "id": "XF1110",
+  "name": "Jon-Nathan  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF503",
+    "name": "Wayne Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF503.htm"
+  },
+  "mother": {
+    "id": "XF504",
+    "name": "Teresa Diane Kubesh-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF504.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "285 Brock St. Winnipeg MB  CAN",
+  "email": null,
+  "phone": "204-489-9629, 204-489-9629",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Whole Stebbe Family",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2258.htm"
+    },
+    {
+      "name": "Grandchildren",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2257.htm"
+    },
+    {
+      "name": "Cousins",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2255.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:53Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1110.htm",
+    "extractionDate": "2025-10-02T00:03:50.209655Z"
+  }
+}

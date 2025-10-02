@@ -1,0 +1,36 @@
+{
+  "id": "XF2332",
+  "name": "Per Persson Lustru",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "Willie S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2329",
+    "name": "Hans Andra Lustru [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2329.htm"
+  },
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Willie S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:31Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2332.htm",
+    "extractionDate": "2025-10-02T00:04:01.708058Z"
+  }
+}

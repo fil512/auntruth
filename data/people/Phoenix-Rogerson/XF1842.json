@@ -1,0 +1,46 @@
+{
+  "id": "XF1842",
+  "name": "Mary  Stell",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1841",
+      "name": "Thomas Mounsey [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1841.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1843",
+      "name": "Dr. James   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1843.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:02Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1842.htm",
+    "extractionDate": "2025-10-02T00:04:46.758716Z"
+  }
+}

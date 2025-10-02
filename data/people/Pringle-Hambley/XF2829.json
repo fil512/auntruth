@@ -1,0 +1,42 @@
+{
+  "id": "XF2829",
+  "name": "Caroline  Stewart",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, May 08, 1832",
+  "birthLocation": "USA",
+  "deathDate": "Monday, October 17, 1864",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2787",
+    "name": "Berekiah Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2787.htm"
+  },
+  "mother": {
+    "id": "XF2788",
+    "name": "Mary (Polly) Fisher-Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2788.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:12Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2829.htm",
+    "extractionDate": "2025-10-02T00:05:19.668010Z"
+  }
+}

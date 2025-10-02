@@ -1,0 +1,84 @@
+{
+  "id": "XF1883",
+  "name": "Jane  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1866",
+    "name": "James Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1866.htm"
+  },
+  "mother": {
+    "id": "XF1867",
+    "name": "Jean White-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1867.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1884",
+      "name": "John Mitchell [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1884.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1931",
+      "name": "James Mundel Mitchell",
+      "url": "/auntruth/new/htm/L9/XF1931.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1930",
+      "name": "Agnes Lawson Mitchell",
+      "url": "/auntruth/new/htm/L9/XF1930.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1929",
+      "name": "Joseph Handel Mitchell",
+      "url": "/auntruth/new/htm/L9/XF1929.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1928",
+      "name": "Mary Isabell Mitchell",
+      "url": "/auntruth/new/htm/L9/XF1928.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1927",
+      "name": "Margaret Thorbur Mitchell",
+      "url": "/auntruth/new/htm/L9/XF1927.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1925",
+      "name": "Jane   Mitchell",
+      "url": "/auntruth/new/htm/L9/XF1925.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:20Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1883.htm",
+    "extractionDate": "2025-10-02T00:04:48.746220Z"
+  }
+}

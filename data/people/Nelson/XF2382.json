@@ -1,0 +1,70 @@
+{
+  "id": "XF2382",
+  "name": "Edmond Joseph Orieux",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF33",
+      "name": "Eileen Elizabe Nelson-Orieux [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF33.htm",
+      "marriageDate": "Thursday, October 21, 1948"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2387",
+      "name": "Kevin   Orieux",
+      "url": "/auntruth/new/htm/L2/XF2387.htm",
+      "birthDate": "03/03/1960"
+    },
+    {
+      "id": "XF2386",
+      "name": "Marianne   Orieux",
+      "url": "/auntruth/new/htm/L2/XF2386.htm",
+      "birthDate": "01/01/1957"
+    },
+    {
+      "id": "XF2385",
+      "name": "Alison Del Orieux",
+      "url": "/auntruth/new/htm/L2/XF2385.htm",
+      "birthDate": "09/29/1953"
+    },
+    {
+      "id": "XF2384",
+      "name": "Marguerite Simone Orieux",
+      "url": "/auntruth/new/htm/L2/XF2384.htm",
+      "birthDate": "01/06/1952"
+    },
+    {
+      "id": "XF2383",
+      "name": "Joanna Elizabe Orieux",
+      "url": "/auntruth/new/htm/L2/XF2383.htm",
+      "birthDate": "11/02/1949"
+    }
+  ],
+  "occupation": null,
+  "address": "BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:52Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2382.htm",
+    "extractionDate": "2025-10-02T00:04:04.374415Z"
+  }
+}

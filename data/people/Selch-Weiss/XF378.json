@@ -1,0 +1,79 @@
+{
+  "id": "XF378",
+  "name": "Gustaf(Gus)  Freund",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": "Friday, August 04, 2000",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF376",
+    "name": "Gottlieb Freund [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF376.htm"
+  },
+  "mother": {
+    "id": "XF375",
+    "name": "Mary Selch-Freund [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF375.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF379",
+      "name": "Norma -Freund [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF379.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF380",
+      "name": "Pat Torrey-Freund [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF380.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2728",
+      "name": "Iris   Freund",
+      "url": "/auntruth/new/htm/L6/XF2728.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2727",
+      "name": "Stewart   Freund",
+      "url": "/auntruth/new/htm/L6/XF2727.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2726",
+      "name": "Lila   Freund",
+      "url": "/auntruth/new/htm/L6/XF2726.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Abbotsford BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Front of House",
+      "date": "Sunday, October 11, 1942",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1498.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:34Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF378.htm",
+    "extractionDate": "2025-10-02T00:04:23.348988Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "XF2067",
+  "name": "Joan  Pagan",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2053",
+    "name": "John Pagan [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2053.htm"
+  },
+  "mother": {
+    "id": "XF2052",
+    "name": "Mary Hamilton-Pagan [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2052.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2068",
+      "name": "John Halliday [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2068.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2070",
+      "name": "Adam   Halliday",
+      "url": "/auntruth/new/htm/L9/XF2070.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2069",
+      "name": "John   Halliday",
+      "url": "/auntruth/new/htm/L9/XF2069.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:37Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2067.htm",
+    "extractionDate": "2025-10-02T00:04:56.677002Z"
+  }
+}

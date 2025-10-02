@@ -1,0 +1,64 @@
+{
+  "id": "XF458",
+  "name": "Ella  Porter",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF457",
+      "name": "Henry Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF457.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF462",
+      "name": "Robert   Lentz",
+      "url": "/auntruth/new/htm/L8/XF462.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF461",
+      "name": "Ruth   Lentz",
+      "url": "/auntruth/new/htm/L8/XF461.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF460",
+      "name": "Melvin   Lentz",
+      "url": "/auntruth/new/htm/L8/XF460.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF459",
+      "name": "Larry   Lentz",
+      "url": "/auntruth/new/htm/L8/XF459.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:17Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF458.htm",
+    "extractionDate": "2025-10-02T00:03:02.546132Z"
+  }
+}

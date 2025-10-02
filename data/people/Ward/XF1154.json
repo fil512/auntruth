@@ -1,0 +1,66 @@
+{
+  "id": "XF1154",
+  "name": "Sally  Ward",
+  "lineage": "Ward",
+  "birthDate": "Monday, March 23, 1795",
+  "birthLocation": "Wilbraham MA   USA",
+  "deathDate": "Friday, April 10, 1868",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1195",
+    "name": "Nehemiah Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1195.htm"
+  },
+  "mother": {
+    "id": "XF1196",
+    "name": "Hannah Packard-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1196.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1153",
+      "name": "James Smith Lathrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1153.htm",
+      "marriageDate": "Tuesday, April 08, 1817"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1473",
+      "name": "Betsey   Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1473.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1469",
+      "name": "Cynthia Steadma Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1469.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1467",
+      "name": "Rebeckah   Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1467.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Windsor Locks CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 8 April 1817 in Springfield MA Died in Windsor Locks CN",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:12Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1154.htm",
+    "extractionDate": "2025-10-02T00:03:35.781100Z"
+  }
+}

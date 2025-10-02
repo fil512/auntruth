@@ -1,0 +1,102 @@
+{
+  "id": "XF2564",
+  "name": "John  Bradley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, August 02, 1805",
+  "birthLocation": "Stafford, Tolland CT   USA",
+  "deathDate": "Friday, December 08, 1871",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2572",
+    "name": "John Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2572.htm"
+  },
+  "mother": {
+    "id": "XF2565",
+    "name": "Martha Johnson-Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2565.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2571",
+      "name": "Laura Sophia Woodruff-Bradley [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2571.htm",
+      "marriageDate": "Sunday, October 26, 1828"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2606",
+      "name": "John T. Bradley",
+      "url": "/auntruth/new/htm/L4/XF2606.htm",
+      "birthDate": "01/01/1847"
+    },
+    {
+      "id": "XF2605",
+      "name": "Charles W. Bradley",
+      "url": "/auntruth/new/htm/L4/XF2605.htm",
+      "birthDate": "01/01/1846"
+    },
+    {
+      "id": "XF2604",
+      "name": "Caroline T. Bradley",
+      "url": "/auntruth/new/htm/L4/XF2604.htm",
+      "birthDate": "01/01/1841"
+    },
+    {
+      "id": "XF2603",
+      "name": "Samuel C. Bradley",
+      "url": "/auntruth/new/htm/L4/XF2603.htm",
+      "birthDate": "01/01/1837"
+    },
+    {
+      "id": "XF2602",
+      "name": "Mary M. Bradley",
+      "url": "/auntruth/new/htm/L4/XF2602.htm",
+      "birthDate": "01/01/1836"
+    },
+    {
+      "id": "XF2601",
+      "name": "Alonso E. Bradley",
+      "url": "/auntruth/new/htm/L4/XF2601.htm",
+      "birthDate": "01/01/1834"
+    },
+    {
+      "id": "XF1600",
+      "name": "Henry Johnson Bradley",
+      "url": "/auntruth/new/htm/L4/XF1600.htm",
+      "birthDate": "08/15/1832"
+    },
+    {
+      "id": "XF2600",
+      "name": "Jane M. Bradley",
+      "url": "/auntruth/new/htm/L4/XF2600.htm",
+      "birthDate": "01/01/1831"
+    },
+    {
+      "id": "XF2599",
+      "name": "George W. Bradley",
+      "url": "/auntruth/new/htm/L4/XF2599.htm",
+      "birthDate": "01/01/1828"
+    }
+  ],
+  "occupation": null,
+  "address": "Tolland CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": "Buried in North Yard Cemetery, Tolland CT",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:13Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2564.htm",
+    "extractionDate": "2025-10-02T00:06:00.117206Z"
+  }
+}

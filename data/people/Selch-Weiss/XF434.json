@@ -1,0 +1,67 @@
+{
+  "id": "XF434",
+  "name": "Gerald  Langner",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF421",
+    "name": "Reinhold(Roy) Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF421.htm"
+  },
+  "mother": {
+    "id": "XF420",
+    "name": "Thelma Selch-Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF420.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF668",
+      "name": "Barbara Carlson-Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF668.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1044",
+      "name": "Amanda   Langner",
+      "url": "/auntruth/new/htm/L6/XF1044.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1043",
+      "name": "Cory   Langner",
+      "url": "/auntruth/new/htm/L6/XF1043.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "On Back Porch",
+      "date": "Sunday, July 01, 1956",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1764.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:05Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF434.htm",
+    "extractionDate": "2025-10-02T00:04:26.383482Z"
+  }
+}

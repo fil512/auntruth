@@ -1,0 +1,59 @@
+{
+  "id": "XF1139",
+  "name": "Martin Luther Ward",
+  "lineage": "Ward",
+  "birthDate": "Wednesday, February 09, 1831",
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF353",
+    "name": "Sumner Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF353.htm"
+  },
+  "mother": {
+    "id": "XF352",
+    "name": "Sabra Lothrop-Ward [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF352.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF924",
+      "name": "Sarah Rozella Ward",
+      "url": "/auntruth/new/htm/L5/XF924.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF922",
+      "name": "Mary Jane Ward",
+      "url": "/auntruth/new/htm/L5/XF922.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF921",
+      "name": "George Ellis Ward",
+      "url": "/auntruth/new/htm/L5/XF921.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "IO  USA",
+  "email": null,
+  "phone": "\\, \\",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:05Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1139.htm",
+    "extractionDate": "2025-10-02T00:03:35.605502Z"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "XF493",
+  "name": "Sandra  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": "Thursday, January 01, 1948",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF491",
+    "name": "Ralph Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF491.htm"
+  },
+  "mother": {
+    "id": "XF492",
+    "name": "Jean Davidson-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF492.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1049",
+      "name": "Andy(Antonio?) Ucci [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1049.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF1050",
+      "name": "Alan Gibson [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1050.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1051",
+      "name": "Shelley   Gibson",
+      "url": "/auntruth/new/htm/L7/XF1051.htm",
+      "birthDate": "01/01/1968"
+    },
+    {
+      "id": "XF494",
+      "name": "Shelley",
+      "url": "/auntruth/new/htm/L7/XF494.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Front Yard",
+      "date": "Saturday, July 01, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1507.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:34Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF493.htm",
+    "extractionDate": "2025-10-02T00:03:53.560215Z"
+  }
+}

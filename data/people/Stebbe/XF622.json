@@ -1,0 +1,39 @@
+{
+  "id": "XF622",
+  "name": "S.  Latrav",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "CZE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF621",
+      "name": "Jana Serachnanava-Latrav [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF621.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "05985 Sbileska Plase Cheskaravenka   CZE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "is detective",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:54Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF622.htm",
+    "extractionDate": "2025-10-02T00:03:55.038012Z"
+  }
+}

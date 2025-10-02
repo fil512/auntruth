@@ -1,0 +1,76 @@
+{
+  "id": "XF230",
+  "name": "Mary  Boyles",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Thursday, January 01, 1818",
+  "birthLocation": "USA",
+  "deathDate": "Monday, January 01, 1912",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF229",
+      "name": "Samuel Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF229.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2767",
+      "name": "Emily Jane Pringle",
+      "url": "/auntruth/new/htm/L3/XF2767.htm",
+      "birthDate": "10/30/1849"
+    },
+    {
+      "id": "XF2765",
+      "name": "Daniel S. Pringle",
+      "url": "/auntruth/new/htm/L3/XF2765.htm",
+      "birthDate": "01/01/1845"
+    },
+    {
+      "id": "XF2763",
+      "name": "Sarah Ann Pringle",
+      "url": "/auntruth/new/htm/L3/XF2763.htm",
+      "birthDate": "06/30/1842"
+    },
+    {
+      "id": "XF2761",
+      "name": "Margaret (Maggie) Pringle",
+      "url": "/auntruth/new/htm/L3/XF2761.htm",
+      "birthDate": "02/12/1840"
+    },
+    {
+      "id": "XF2759",
+      "name": "Maria   Pringle",
+      "url": "/auntruth/new/htm/L3/XF2759.htm",
+      "birthDate": "11/19/1837"
+    },
+    {
+      "id": "XF2757",
+      "name": "Robert   Pringle",
+      "url": "/auntruth/new/htm/L3/XF2757.htm",
+      "birthDate": "12/19/1835"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:21Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF230.htm",
+    "extractionDate": "2025-10-02T00:05:10.492174Z"
+  }
+}

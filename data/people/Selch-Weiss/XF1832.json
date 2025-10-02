@@ -1,0 +1,65 @@
+{
+  "id": "XF1832",
+  "name": "Vicky  Schreyer",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "Ladywood MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF393",
+    "name": "Jacob J. Schreyer [Selch-Weiss]",
+    "url": "/auntruth/htm/L6/XF393.htm"
+  },
+  "mother": {
+    "id": "XF392",
+    "name": "Florence Weiss [Selch-Weiss]",
+    "url": "/auntruth/htm/L6/XF392.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF0",
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Elsie Richter-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:58Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1832.htm",
+    "extractionDate": "2025-10-02T00:04:16.903724Z"
+  }
+}

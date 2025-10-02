@@ -1,0 +1,54 @@
+{
+  "id": "XF1902",
+  "name": "Eunice  Oman",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "Clanwilliam MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1900",
+    "name": "John Oman [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF1900.htm"
+  },
+  "mother": {
+    "id": "XF1901",
+    "name": "-Oman [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF1901.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1903",
+      "name": "Johnson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF1903.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Missionary",
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Christmas",
+      "date": "Sunday, December 25, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1451.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:28Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF1902.htm",
+    "extractionDate": "2025-10-02T00:03:58.997314Z"
+  }
+}

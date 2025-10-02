@@ -1,0 +1,60 @@
+{
+  "id": "XF2613",
+  "name": "Floyd Albert Jones",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Tuesday, July 25, 1933",
+  "birthLocation": "Newburgh, Orange NY   USA",
+  "deathDate": "Sunday, January 27, 2002",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2568",
+    "name": "Emerson Edgar Jones [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2568.htm"
+  },
+  "mother": {
+    "id": "XF2566",
+    "name": "Winifred Gertrude Bradley-Jones [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2566.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2614",
+      "name": "Jeanene Frances Brown-Jones [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2614.htm",
+      "marriageDate": "Saturday, August 21, 1954"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2616",
+      "name": "Karen Elizabeth Jones",
+      "url": "/auntruth/new/htm/L4/XF2616.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2615",
+      "name": "Gary Alan Jones",
+      "url": "/auntruth/new/htm/L4/XF2615.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Clemson SC  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "cancer",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:35Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2613.htm",
+    "extractionDate": "2025-10-02T00:06:02.712125Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "XF2947",
+  "name": "Dwayne  Muth",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2945",
+    "name": "Gordon Muth [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2945.htm"
+  },
+  "mother": {
+    "id": "XF2946",
+    "name": "Bev ZZ-Muth [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2946.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": "Organist at Epiphany Lutheran Church, Ft. Richmond, Winnipeg",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:03Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2947.htm",
+    "extractionDate": "2025-10-02T00:04:22.634382Z"
+  }
+}

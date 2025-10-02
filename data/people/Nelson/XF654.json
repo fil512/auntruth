@@ -1,0 +1,60 @@
+{
+  "id": "XF654",
+  "name": "Ruth Louise Esterberg",
+  "lineage": "Nelson",
+  "birthDate": "Saturday, April 22, 1944",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF49",
+    "name": "Victor Emil Esterberg [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF49.htm"
+  },
+  "mother": {
+    "id": "XF653",
+    "name": "Dorothy Evelyn Wagner-Esterberg [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF653.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF759",
+      "name": "Donald Keith Hayes [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF759.htm",
+      "marriageDate": "Saturday, April 07, 1973"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF761",
+      "name": "Victoria   Hayes",
+      "url": "/auntruth/new/htm/L2/XF761.htm",
+      "birthDate": "11/09/1977"
+    },
+    {
+      "id": "XF760",
+      "name": "Keith   Hayes",
+      "url": "/auntruth/new/htm/L2/XF760.htm",
+      "birthDate": "07/18/1974"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:08Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF654.htm",
+    "extractionDate": "2025-10-02T00:04:11.680131Z"
+  }
+}

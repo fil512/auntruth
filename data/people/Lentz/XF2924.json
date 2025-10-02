@@ -1,0 +1,42 @@
+{
+  "id": "XF2924",
+  "name": "Connor  Ward",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2922",
+    "name": "Glenn Ward [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF2922.htm"
+  },
+  "mother": {
+    "id": "XF2923",
+    "name": "Jody Baltessen-Ward [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF2923.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:53Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF2924.htm",
+    "extractionDate": "2025-10-02T00:03:01.635235Z"
+  }
+}

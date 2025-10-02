@@ -1,0 +1,46 @@
+{
+  "id": "XF995",
+  "name": "Mary  Torrey",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": "Friday, January 01, 1768",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF994",
+      "name": "John Jr. Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF994.htm",
+      "marriageDate": "Saturday, January 16, 1745"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF980",
+      "name": "Jeremiah   Ward",
+      "url": "/auntruth/new/htm/L5/XF980.htm",
+      "birthDate": "09/14/1765"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 16 January 1745 in Mendon MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:58Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF995.htm",
+    "extractionDate": "2025-10-02T00:03:41.267367Z"
+  }
+}

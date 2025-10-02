@@ -1,0 +1,49 @@
+{
+  "id": "XF2846",
+  "name": "Hannah  Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, October 11, 1785",
+  "birthLocation": "Vincent Twp Chester Co     USA",
+  "deathDate": "Tuesday, December 17, 1872",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2832",
+    "name": "Abraham Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2832.htm"
+  },
+  "mother": {
+    "id": "XF2833",
+    "name": "Elizabeth Fluck-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2833.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2847",
+      "name": "Abraham Teeter [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2847.htm",
+      "marriageDate": "Wednesday, June 01, 1803"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Randolph Co Union IN   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:19Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2846.htm",
+    "extractionDate": "2025-10-02T00:05:20.708499Z"
+  }
+}

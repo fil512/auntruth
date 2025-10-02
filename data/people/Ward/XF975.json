@@ -1,0 +1,66 @@
+{
+  "id": "XF975",
+  "name": "Walter Remus Ward",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF918",
+    "name": "Sumner Perkins Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF918.htm"
+  },
+  "mother": {
+    "id": "XF919",
+    "name": "Flora Helen Schoonover-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF919.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF976",
+      "name": "Ella May Hill-Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF976.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF979",
+      "name": "Rosalie Ray Ward",
+      "url": "/auntruth/new/htm/L5/XF979.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF978",
+      "name": "Flora Helen Ward",
+      "url": "/auntruth/new/htm/L5/XF978.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF977",
+      "name": "Cora May Ward",
+      "url": "/auntruth/new/htm/L5/XF977.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Falk CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:35Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF975.htm",
+    "extractionDate": "2025-10-02T00:03:40.178488Z"
+  }
+}

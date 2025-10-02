@@ -1,0 +1,73 @@
+{
+  "id": "XF42",
+  "name": "Pamela Elizabeth Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Saturday, April 26, 1941",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF23",
+    "name": "Hilding Vilhelm Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF23.htm"
+  },
+  "mother": {
+    "id": "XF828",
+    "name": "Agnes Oman-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF828.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF43",
+      "name": "George Charles Byrtus [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF43.htm",
+      "marriageDate": "Friday, September 30, 1966"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF781",
+      "name": "Elaine Anne Byrtus",
+      "url": "/auntruth/new/htm/L2/XF781.htm",
+      "birthDate": "12/28/1972"
+    },
+    {
+      "id": "XF782",
+      "name": "Roman Charles Byrtus",
+      "url": "/auntruth/new/htm/L2/XF782.htm",
+      "birthDate": "02/27/1970"
+    },
+    {
+      "id": "XF780",
+      "name": "Nancy Sheila Byrtus",
+      "url": "/auntruth/new/htm/L2/XF780.htm",
+      "birthDate": "07/26/1967"
+    }
+  ],
+  "occupation": null,
+  "address": "23 Blue Meadow Way Kanata ON K2M 1L7 CAN",
+  "email": null,
+  "phone": "(613) 591-3092, (613) 591-3092",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [
+    {
+      "name": "Wedding",
+      "date": "Sunday, June 05, 1932",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1408.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:16Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF42.htm",
+    "extractionDate": "2025-10-02T00:04:09.921749Z"
+  }
+}

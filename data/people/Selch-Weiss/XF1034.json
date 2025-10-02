@@ -1,0 +1,59 @@
+{
+  "id": "XF1034",
+  "name": "William(Bill)  Fogg",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1040",
+    "name": "Gerald Fogg [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1040.htm"
+  },
+  "mother": {
+    "id": "XF1041",
+    "name": "Marie Singer [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1041.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF1037",
+      "name": "Whitney   Fogg",
+      "url": "/auntruth/new/htm/L6/XF1037.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1036",
+      "name": "Courtney   Fogg",
+      "url": "/auntruth/new/htm/L6/XF1036.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1035",
+      "name": "Destiny   Fogg",
+      "url": "/auntruth/new/htm/L6/XF1035.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:18Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1034.htm",
+    "extractionDate": "2025-10-02T00:04:15.260999Z"
+  }
+}

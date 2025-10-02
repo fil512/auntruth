@@ -1,0 +1,66 @@
+{
+  "id": "XF408",
+  "name": "Martin  Okolita",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Monday, October 23, 1933",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF821",
+    "name": "Joseph Okolita [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF821.htm"
+  },
+  "mother": {
+    "id": "XF822",
+    "name": "Katherine Chmil-Okolita [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF822.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF407",
+      "name": "Evangeline (Van Selch-Okolita [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF407.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF825",
+      "name": "Tamara(Tammy)   Okolita",
+      "url": "/auntruth/new/htm/L6/XF825.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF823",
+      "name": "Constance(Conni   Okolita",
+      "url": "/auntruth/new/htm/L6/XF823.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF826",
+      "name": "Dennis   Okolita",
+      "url": "/auntruth/new/htm/L6/XF826.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Green Bay MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:51Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF408.htm",
+    "extractionDate": "2025-10-02T00:04:24.757294Z"
+  }
+}

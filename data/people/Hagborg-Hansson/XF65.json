@@ -110,13 +110,17 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Carol Simonson",
   "notes": "Johanna was the fourth of seven sisters. Her sisters were: Karna - crippled at age of 18. She spent most of her life in the hospital. She lived to be quite old. Maria - Married Peter Nordin. They came to Canada and settled at Teulon. They had 8 children: Vera, Edwin, Clarence, Henry, Helmer, Margot, Victor and Arthur. Anna - married ? Sveinson. They had four children: Ingeborg, Eva, Gulli and Tore. Matilda - came to Canada married to ? Johnson. They had three children: Arthur, Signe, & Anna. Augusta - came to Canada and died very young. Kjestin - married to ? Goranson, had two sons Nils and Harold. Johanna came to Canada at age 16. Visited Sweden with Carlson daughters Doris and Edith in 1919.",
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:52:31Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF65.htm",
-    "extractionDate": "2025-10-01T04:27:34.118017Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF65.htm",
+    "extractionDate": "2025-10-01T22:03:19.726639Z"
   }
 }

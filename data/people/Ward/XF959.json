@@ -1,0 +1,40 @@
+{
+  "id": "XF959",
+  "name": "Donald Sumner Johnson",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF950",
+    "name": "Alexander McDonald [Ward]",
+    "url": "/auntruth/new/htm/L5/XF950.htm"
+  },
+  "mother": {
+    "id": "XF948",
+    "name": "Rozinia Sabra Ward-Burgher-McDonald [Ward]",
+    "url": "/auntruth/new/htm/L5/XF948.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:26Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF959.htm",
+    "extractionDate": "2025-10-02T00:03:39.392520Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XF2251",
+  "name": "Sven  Martensson",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "Gammalstorp S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2349",
+      "name": "Karna Pehrson-Martensson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2349.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Gammalstorp S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:55Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2251.htm",
+    "extractionDate": "2025-10-02T00:03:59.540684Z"
+  }
+}

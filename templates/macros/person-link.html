@@ -1,0 +1,11 @@
+{% macro person_link(person_obj) %}
+    {% if person_obj and person_obj.url %}
+        <a href="{{ person_obj.url }}" class="person-link">
+            <strong>{{ person_obj.name }}</strong>
+        </a>
+    {% elif person_obj and person_obj.name %}
+        <strong>{{ person_obj.name }}</strong>
+    {% else %}
+        <em class="text-tertiary">Unknown</em>
+    {% endif %}
+{% endmacro %}

@@ -1,0 +1,45 @@
+{
+  "id": "XF696",
+  "name": "Grov",
+  "lineage": "Stebbe",
+  "birthDate": "Wednesday, January 01, 1840",
+  "birthLocation": "HUN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF698",
+      "name": "Maryanna   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF698.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF697",
+      "name": "John   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF697.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "This was a baron who adopted Uncle Johnny's father John Fedorco. He was very wealthy His estate was about 5 miles from the Franz-Josef highway",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:26Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF696.htm",
+    "extractionDate": "2025-10-02T00:03:55.564495Z"
+  }
+}

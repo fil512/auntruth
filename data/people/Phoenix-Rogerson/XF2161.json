@@ -1,0 +1,90 @@
+{
+  "id": "XF2161",
+  "name": "David  Rogerson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Boreland     UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2159",
+    "name": "Samuel Rogerson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2159.htm"
+  },
+  "mother": {
+    "id": "XF2158",
+    "name": "Janet Gillespie-Rogerson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2158.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2162",
+      "name": "Miss Kennedy-Rogerson [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2162.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2206",
+      "name": "Margaret   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2206.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2205",
+      "name": "John   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2205.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2204",
+      "name": "Jessie   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2204.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2203",
+      "name": "William   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2203.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2202",
+      "name": "Joanna   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2202.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2201",
+      "name": "Samuel   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2201.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2200",
+      "name": "David   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2200.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:17Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2161.htm",
+    "extractionDate": "2025-10-02T00:05:01.377486Z"
+  }
+}

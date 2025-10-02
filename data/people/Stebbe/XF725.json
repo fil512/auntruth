@@ -1,0 +1,52 @@
+{
+  "id": "XF725",
+  "name": "Vargova",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "CZE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF724",
+      "name": "Margareta Fedorco-Vargova [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF724.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF726",
+      "name": "?   Vargova",
+      "url": "/auntruth/new/htm/L7/XF726.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF609",
+      "name": "?   Vargova",
+      "url": "/auntruth/new/htm/L7/XF609.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Died in WWII",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:38Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF725.htm",
+    "extractionDate": "2025-10-02T00:03:57.047251Z"
+  }
+}

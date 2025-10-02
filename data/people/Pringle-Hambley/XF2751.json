@@ -1,0 +1,56 @@
+{
+  "id": "XF2751",
+  "name": "Edgar Everett Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, January 24, 1868",
+  "birthLocation": "Wilmore     USA",
+  "deathDate": "Thursday, October 15, 1891",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF250",
+    "name": "Alexander B. Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF250.htm"
+  },
+  "mother": {
+    "id": "XF251",
+    "name": "Sarah A. Barnett-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF251.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2752",
+      "name": "Alice (Ellie) Ellen Byers-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2752.htm",
+      "marriageDate": "Thursday, October 15, 1891"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2753",
+      "name": "Horace Stanley Pringle",
+      "url": "/auntruth/new/htm/L3/XF2753.htm",
+      "birthDate": "12/23/1893"
+    }
+  ],
+  "occupation": null,
+  "address": "Conemaugh PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:37Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2751.htm",
+    "extractionDate": "2025-10-02T00:05:15.239280Z"
+  }
+}

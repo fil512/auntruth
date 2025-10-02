@@ -1,0 +1,40 @@
+{
+  "id": "XF2302",
+  "name": "Ernest  Nagel",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2291",
+    "name": "George Nagel [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2291.htm"
+  },
+  "mother": {
+    "id": "XF1207",
+    "name": "Lilly May Porter-Nagel [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1207.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:17Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2302.htm",
+    "extractionDate": "2025-10-02T00:05:59.453040Z"
+  }
+}

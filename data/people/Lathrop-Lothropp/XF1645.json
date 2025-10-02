@@ -1,0 +1,60 @@
+{
+  "id": "XF1645",
+  "name": "Clara Hortens Record",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Rutland IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1625",
+    "name": "Maurice Record [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1625.htm"
+  },
+  "mother": {
+    "id": "XF1619",
+    "name": "Augusta Angelia Lothrop-Record [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1619.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1651",
+      "name": "John Thomas Kroessen [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1651.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1655",
+      "name": "Franklin Wilfred Kroessen",
+      "url": "/auntruth/new/htm/L4/XF1655.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1654",
+      "name": "Mabel Augusta Kroessen",
+      "url": "/auntruth/new/htm/L4/XF1654.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Peoria IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:40Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1645.htm",
+    "extractionDate": "2025-10-02T00:05:51.434459Z"
+  }
+}

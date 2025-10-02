@@ -1,0 +1,76 @@
+{
+  "id": "XF1933",
+  "name": "Emily  Berry",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1932",
+      "name": "James Lotimer [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1932.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1995",
+      "name": "Stanley   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1995.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1990",
+      "name": "Ernest Farquar Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1990.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1983",
+      "name": "Emily Sophia Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1983.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1982",
+      "name": "John   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1982.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1977",
+      "name": "Lillian Agnes Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1977.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1973",
+      "name": "Albert Edward Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1973.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:41Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1933.htm",
+    "extractionDate": "2025-10-02T00:04:49.862701Z"
+  }
+}

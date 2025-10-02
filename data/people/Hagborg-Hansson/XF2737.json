@@ -31,13 +31,19 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Bud Amy",
   "notes": null,
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T19:15:31Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2737.htm",
-    "extractionDate": "2025-10-01T04:27:29.413851Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF2737.htm",
+    "extractionDate": "2025-10-01T22:03:13.864254Z"
   }
 }

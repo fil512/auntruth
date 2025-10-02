@@ -1,0 +1,46 @@
+{
+  "id": "XF2507",
+  "name": "Bergman",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2506",
+      "name": "Martha Hansson-Bergman [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2506.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2508",
+      "name": "Olga   Bergman",
+      "url": "/auntruth/new/htm/L2/XF2508.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:48Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2507.htm",
+    "extractionDate": "2025-10-02T00:04:07.521765Z"
+  }
+}

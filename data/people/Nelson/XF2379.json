@@ -1,0 +1,40 @@
+{
+  "id": "XF2379",
+  "name": "Jon Nelson Gray",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, June 15, 1948",
+  "birthLocation": "CA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF796",
+    "name": "Kenneth Douglas Gray [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF796.htm"
+  },
+  "mother": {
+    "id": "XF35",
+    "name": "Ruth Adele Nelson-Gray [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF35.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:51Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2379.htm",
+    "extractionDate": "2025-10-02T00:04:04.186605Z"
+  }
+}

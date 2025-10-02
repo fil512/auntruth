@@ -1,0 +1,50 @@
+{
+  "id": "XF267",
+  "name": "Mary  Walker",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF271",
+    "name": "Jacob Walker [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF271.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF266",
+      "name": "Jacob Cable [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF266.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF268",
+      "name": "John Martin Cable",
+      "url": "/auntruth/new/htm/L3/XF268.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:38Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF267.htm",
+    "extractionDate": "2025-10-02T00:05:14.475454Z"
+  }
+}

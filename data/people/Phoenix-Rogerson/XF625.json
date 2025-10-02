@@ -1,0 +1,47 @@
+{
+  "id": "XF625",
+  "name": "Allan Craig Rogerson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Coleman AB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF624",
+    "name": "Donald Rogerson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF624.htm"
+  },
+  "mother": {
+    "id": "XF829",
+    "name": "Annie Theresa Craig-Rogerson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF829.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF731",
+      "name": "Marie Chenier-Rogerson [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF731.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Grand Mere QC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": "Started and owned radio station CKSM in Shawinigan Falls, Quebec",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:55Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF625.htm",
+    "extractionDate": "2025-10-02T00:05:05.576112Z"
+  }
+}

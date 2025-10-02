@@ -1,0 +1,66 @@
+{
+  "id": "XF1990",
+  "name": "Ernest Farquar Lotimer",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1932",
+    "name": "James Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1932.htm"
+  },
+  "mother": {
+    "id": "XF1933",
+    "name": "Emily Berry-Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1933.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1991",
+      "name": "-Lotimer [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1991.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1994",
+      "name": "Gwendoline   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1994.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1993",
+      "name": "Lillian   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1993.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1992",
+      "name": "Son   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1992.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:05Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1990.htm",
+    "extractionDate": "2025-10-02T00:04:52.771211Z"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "XF31",
+  "name": "Clifford Emil Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, December 10, 1918",
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF14",
+    "name": "Karl (Charlie) Emil Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF14.htm"
+  },
+  "mother": {
+    "id": "XF195",
+    "name": "Edith Vilhelmina Malmberg-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF195.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF790",
+      "name": "Rose Pennick-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF790.htm",
+      "marriageDate": "Saturday, May 20, 1939"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2375",
+      "name": "Laura Jean Nelson",
+      "url": "/auntruth/new/htm/L2/XF2375.htm",
+      "birthDate": "09/08/1948"
+    },
+    {
+      "id": "XF2373",
+      "name": "Judith Ann Nelson",
+      "url": "/auntruth/new/htm/L2/XF2373.htm",
+      "birthDate": "09/14/1944"
+    },
+    {
+      "id": "XF2370",
+      "name": "Karen Rose Nelson",
+      "url": "/auntruth/new/htm/L2/XF2370.htm",
+      "birthDate": "04/23/1942"
+    }
+  ],
+  "occupation": null,
+  "address": "2204 Robin Lane Rolling Meadows IL 60008 USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Charlie Nelson Family",
+      "date": "Wednesday, July 10, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1387.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:10Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF31.htm",
+    "extractionDate": "2025-10-02T00:04:09.377877Z"
+  }
+}

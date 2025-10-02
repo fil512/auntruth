@@ -1,0 +1,39 @@
+{
+  "id": "XF2292",
+  "name": "Ken  DeVore",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2293",
+      "name": "Carma Breedlove-DeVore [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2293.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:13Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2292.htm",
+    "extractionDate": "2025-10-02T00:05:58.888662Z"
+  }
+}

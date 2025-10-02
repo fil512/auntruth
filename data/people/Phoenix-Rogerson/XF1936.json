@@ -1,0 +1,72 @@
+{
+  "id": "XF1936",
+  "name": "William  Lotimer",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1882",
+    "name": "Edward Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1882.htm"
+  },
+  "mother": {
+    "id": "XF1881",
+    "name": "Janet Mounsey-Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1881.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1937",
+      "name": "Sarah Jane Lowe-Lotimer [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1937.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2099",
+      "name": "Margaret Agnes Lotimer",
+      "url": "/auntruth/new/htm/L9/XF2099.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2097",
+      "name": "Janet Mounsey Lotimer",
+      "url": "/auntruth/new/htm/L9/XF2097.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2095",
+      "name": "John Greer Lotimer",
+      "url": "/auntruth/new/htm/L9/XF2095.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2101",
+      "name": "Jane Sophia Lotimer",
+      "url": "/auntruth/new/htm/L9/XF2101.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:42Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1936.htm",
+    "extractionDate": "2025-10-02T00:04:50.041487Z"
+  }
+}

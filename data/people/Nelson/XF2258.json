@@ -1,0 +1,52 @@
+{
+  "id": "XF2258",
+  "name": "Jeanette  Oligney",
+  "lineage": "Nelson",
+  "birthDate": "Monday, March 19, 1906",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF757",
+      "name": "Helgie Alphild Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF757.htm",
+      "marriageDate": "Saturday, May 02, 1925"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2260",
+      "name": "Valerie   Nelson",
+      "url": "/auntruth/new/htm/L2/XF2260.htm",
+      "birthDate": "06/01/1930"
+    },
+    {
+      "id": "XF2259",
+      "name": "Gerald Helgie Nelson",
+      "url": "/auntruth/new/htm/L2/XF2259.htm",
+      "birthDate": "08/21/1928"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:58Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2258.htm",
+    "extractionDate": "2025-10-02T00:03:59.900119Z"
+  }
+}

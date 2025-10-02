@@ -1,0 +1,39 @@
+{
+  "id": "XF1054",
+  "name": "Molla  Goltz",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF691",
+      "name": "Fred Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF691.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:27Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF1054.htm",
+    "extractionDate": "2025-10-02T00:02:59.589491Z"
+  }
+}

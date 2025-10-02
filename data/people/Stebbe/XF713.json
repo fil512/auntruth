@@ -1,0 +1,84 @@
+{
+  "id": "XF713",
+  "name": "George  Fedorco",
+  "lineage": "Stebbe",
+  "birthDate": "Monday, January 01, 1900",
+  "birthLocation": "HUN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF697",
+    "name": "John Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF697.htm"
+  },
+  "mother": {
+    "id": "XF699",
+    "name": "Ann Jacob-Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF699.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF722",
+      "name": "Margareta Varga-Fedorco [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF722.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF723",
+      "name": "Suzanne -Fedorco [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF723.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF724",
+      "name": "Margareta   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF724.htm",
+      "birthDate": "01/01/1931"
+    },
+    {
+      "id": "XF616",
+      "name": "Czerena   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF616.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF615",
+      "name": "Gloria   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF615.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF614",
+      "name": "Vladlo   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF614.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF613",
+      "name": "Frantisek   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF613.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "CZE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "9 years in army during WWII. Was wounded, and after the war had an operation.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:33Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF713.htm",
+    "extractionDate": "2025-10-02T00:03:56.395434Z"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "XF1000",
+  "name": "Col. William  Ward",
+  "lineage": "Ward",
+  "birthDate": "Wednesday, March 27, 1680",
+  "birthLocation": "Marlboro MA   USA",
+  "deathDate": "Thursday, January 08, 1767",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF996",
+    "name": "William Jr. Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF996.htm"
+  },
+  "mother": {
+    "id": "XF997",
+    "name": "Hannah Johnson Eames-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF997.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1001",
+      "name": "Jane Cleveland(?)-Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF1001.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1002",
+      "name": "Hezekiah   Ward",
+      "url": "/auntruth/new/htm/L5/XF1002.htm",
+      "birthDate": "06/28/1703"
+    }
+  ],
+  "occupation": null,
+  "address": "Southboro MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Died in Southboro MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:01Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1000.htm",
+    "extractionDate": "2025-10-02T00:03:35.055327Z"
+  }
+}

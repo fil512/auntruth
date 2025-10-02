@@ -1,0 +1,103 @@
+{
+  "id": "XF489",
+  "name": "Connie  Trithart",
+  "lineage": "Stebbe",
+  "birthDate": "Friday, January 01, 1926",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF685",
+    "name": "Gus Trithart [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF685.htm"
+  },
+  "mother": {
+    "id": "XF1112",
+    "name": "Lena Boyles-Trithart [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF1112.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF488",
+      "name": "George Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF488.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1129",
+      "name": "Cathy   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF1129.htm",
+      "birthDate": "01/01/1954"
+    },
+    {
+      "id": "XF1133",
+      "name": "Marilyn   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF1133.htm",
+      "birthDate": "01/01/1950"
+    },
+    {
+      "id": "XF1134",
+      "name": "Shelley   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF1134.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1126",
+      "name": "Gregory   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF1126.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [
+    {
+      "name": "You see, it's like this",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1607.htm"
+    },
+    {
+      "name": "Polka",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1604.htm"
+    },
+    {
+      "name": "In the Tent",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1580.htm"
+    },
+    {
+      "name": "At Uncle George's",
+      "date": "Saturday, July 01, 1978",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L1/XI909.htm"
+    },
+    {
+      "name": "At Dinosaur Park with the Stebbes",
+      "date": "Saturday, August 01, 1970",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L1/XI1160.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:32Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF489.htm",
+    "extractionDate": "2025-10-02T00:03:53.334313Z"
+  }
+}

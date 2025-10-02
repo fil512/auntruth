@@ -1,0 +1,39 @@
+{
+  "id": "XF2314",
+  "name": "Deborah Ann Robinson",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, December 08, 1841",
+  "birthLocation": "St. George MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1171",
+      "name": "Rev. Alfred Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1171.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Lewis IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:23Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2314.htm",
+    "extractionDate": "2025-10-02T00:06:00.034342Z"
+  }
+}

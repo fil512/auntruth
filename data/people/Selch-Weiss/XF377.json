@@ -1,0 +1,40 @@
+{
+  "id": "XF377",
+  "name": "Harold  Freund",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Friday, January 01, 1915",
+  "birthLocation": "CAN",
+  "deathDate": "Monday, January 01, 1934",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF376",
+    "name": "Gottlieb Freund [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF376.htm"
+  },
+  "mother": {
+    "id": "XF375",
+    "name": "Mary Selch-Freund [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF375.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:34Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF377.htm",
+    "extractionDate": "2025-10-02T00:04:23.262808Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "XF2893",
+  "name": "Jessica  Reid",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": {
+    "id": "XF2892",
+    "name": "Hazel Reid [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2892.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1095",
+      "name": "Jeffrey Gilbert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1095.htm",
+      "marriageDate": "Saturday, October 05, 2002"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2975",
+      "name": "Kathryn   Selch",
+      "url": "/auntruth/new/htm/L6/XF2975.htm",
+      "birthDate": "05/07/2004"
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:40Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2893.htm",
+    "extractionDate": "2025-10-02T00:04:21.384387Z"
+  }
+}

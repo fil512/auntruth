@@ -1,0 +1,46 @@
+{
+  "id": "XF542",
+  "name": "Raymond (Ray)  Vogel (Vogelgesang)",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Saturday, January 01, 1949",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF541",
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF546",
+      "name": "Kenneth   Lindhardsen",
+      "url": "/auntruth/new/htm/L6/XF546.htm",
+      "birthDate": "01/01/1970"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:14Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF542.htm",
+    "extractionDate": "2025-10-02T00:04:28.902933Z"
+  }
+}

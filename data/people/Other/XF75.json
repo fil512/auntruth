@@ -1,0 +1,70 @@
+{
+  "id": "XF75",
+  "name": "Hilda",
+  "lineage": "",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF74",
+      "name": "Arthur Carlson []",
+      "url": "/auntruth/new/htm/L0/XF74.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1782",
+      "name": "Tyler   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1782.htm",
+      "birthDate": "02/03/1962"
+    },
+    {
+      "id": "XF1779",
+      "name": "Ron   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1779.htm",
+      "birthDate": "10/23/1959"
+    },
+    {
+      "id": "XF1697",
+      "name": "Diana   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1697.htm",
+      "birthDate": "08/14/1958"
+    },
+    {
+      "id": "XF1694",
+      "name": "Leonard   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1694.htm",
+      "birthDate": "09/04/1957"
+    },
+    {
+      "id": "XF1690",
+      "name": "Douglas   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1690.htm",
+      "birthDate": "07/31/1953"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2004-05-26T23:11:49Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF75.htm",
+    "extractionDate": "2025-10-02T00:06:13.706822Z"
+  }
+}

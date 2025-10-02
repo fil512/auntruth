@@ -1,0 +1,40 @@
+{
+  "id": "XF857",
+  "name": "Jean-Roch  Boisse",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF846",
+    "name": "Herman Boisse [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF846.htm"
+  },
+  "mother": {
+    "id": "XF847",
+    "name": "Delina Charlebois-Boisse [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF847.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Joseph-Guy Parent",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:39Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF857.htm",
+    "extractionDate": "2025-10-02T00:04:33.547414Z"
+  }
+}

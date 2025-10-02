@@ -1,0 +1,54 @@
+{
+  "id": "XF798",
+  "name": "Emelia  Milbrandt",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Wednesday, January 01, 1879",
+  "birthLocation": "Nespodjunk Voklinge Ro   RUS",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2637",
+    "name": "Milbrandt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2637.htm"
+  },
+  "mother": {
+    "id": "XF2640",
+    "name": "Anna -Milbrandt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2640.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF799",
+      "name": "August Richter [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF799.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF401",
+      "name": "Elsie   Richter",
+      "url": "/auntruth/new/htm/L6/XF401.htm",
+      "birthDate": "01/01/1913"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:11Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF798.htm",
+    "extractionDate": "2025-10-02T00:04:31.114823Z"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "XF250",
+  "name": "Alexander B. Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Thursday, September 17, 1829",
+  "birthLocation": "Cambria County PA   USA",
+  "deathDate": "Wednesday, November 12, 1902",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF222",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF222.htm"
+  },
+  "mother": {
+    "id": "XF223",
+    "name": "Elizabeth Bolewine-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF223.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF251",
+      "name": "Sarah A. Barnett-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF251.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2751",
+      "name": "Edgar Everett Pringle",
+      "url": "/auntruth/new/htm/L3/XF2751.htm",
+      "birthDate": "01/24/1868"
+    }
+  ],
+  "occupation": null,
+  "address": "Conemaugh PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:30Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF250.htm",
+    "extractionDate": "2025-10-02T00:05:12.790884Z"
+  }
+}

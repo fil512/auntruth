@@ -1,0 +1,76 @@
+{
+  "id": "XF385",
+  "name": "Anna  Lang",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Saturday, January 01, 1859",
+  "birthLocation": "Sierpe PL   POL",
+  "deathDate": "Monday, January 01, 1923",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF386",
+      "name": "August Weiss [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF386.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF387",
+      "name": "Leopold Budner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF387.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF392",
+      "name": "Florence   Weiss",
+      "url": "/auntruth/new/htm/L6/XF392.htm",
+      "birthDate": "01/01/1887"
+    },
+    {
+      "id": "XF384",
+      "name": "Amalia (Oma)   Weiss",
+      "url": "/auntruth/new/htm/L6/XF384.htm",
+      "birthDate": "01/01/1882"
+    },
+    {
+      "id": "XF390",
+      "name": "Paulina   Wiess",
+      "url": "/auntruth/new/htm/L6/XF390.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF389",
+      "name": "Carl   Weiss",
+      "url": "/auntruth/new/htm/L6/XF389.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF388",
+      "name": "Michael   Budner",
+      "url": "/auntruth/new/htm/L6/XF388.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Cherlich County Beestrich Sierpe   POL",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "see DS and ER",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:38Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF385.htm",
+    "extractionDate": "2025-10-02T00:04:23.720380Z"
+  }
+}

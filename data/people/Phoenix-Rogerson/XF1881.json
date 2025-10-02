@@ -1,0 +1,96 @@
+{
+  "id": "XF1881",
+  "name": "Janet  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": "Wednesday, January 01, 1862",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1866",
+    "name": "James Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1866.htm"
+  },
+  "mother": {
+    "id": "XF1867",
+    "name": "Jean White-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1867.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1882",
+      "name": "Edward Lotimer [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1882.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1943",
+      "name": "John   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1943.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1941",
+      "name": "Janet   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1941.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1939",
+      "name": "Alexander   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1939.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1938",
+      "name": "Sophia   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1938.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1936",
+      "name": "William   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1936.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1935",
+      "name": "Susan   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1935.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1934",
+      "name": "George   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1934.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1932",
+      "name": "James   Lotimer",
+      "url": "/auntruth/new/htm/L9/XF1932.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:19Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1881.htm",
+    "extractionDate": "2025-10-02T00:04:48.645730Z"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "XF1561",
+  "name": "Charles Alfred Lambert",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "West Hampden ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1558",
+    "name": "Charles Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1558.htm"
+  },
+  "mother": {
+    "id": "XF1557",
+    "name": "Sarah Victori Stanley-Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1557.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1562",
+      "name": "Abbie Eliza Mayo-Lambert [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1562.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1565",
+      "name": "John Wilson Lambert",
+      "url": "/auntruth/new/htm/L4/XF1565.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1564",
+      "name": "Laura Sarah Lambert",
+      "url": "/auntruth/new/htm/L4/XF1564.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1563",
+      "name": "Flossie May Lambert",
+      "url": "/auntruth/new/htm/L4/XF1563.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Hermond Pond ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:04Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1561.htm",
+    "extractionDate": "2025-10-02T00:05:47.043771Z"
+  }
+}

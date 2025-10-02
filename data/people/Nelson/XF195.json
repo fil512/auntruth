@@ -1,0 +1,83 @@
+{
+  "id": "XF195",
+  "name": "Edith Vilhelmina Malmberg",
+  "lineage": "Nelson",
+  "birthDate": "Monday, December 29, 1884",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF14",
+      "name": "Karl (Charlie) Emil Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF14.htm",
+      "marriageDate": "Saturday, November 10, 1906"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF31",
+      "name": "Clifford Emil Nelson",
+      "url": "/auntruth/new/htm/L2/XF31.htm",
+      "birthDate": "12/10/1918"
+    },
+    {
+      "id": "XF30",
+      "name": "Florence Muriel Nelson",
+      "url": "/auntruth/new/htm/L2/XF30.htm",
+      "birthDate": "09/25/1914"
+    },
+    {
+      "id": "XF788",
+      "name": "Edith Vivian Nelson",
+      "url": "/auntruth/new/htm/L2/XF788.htm",
+      "birthDate": "03/25/1913"
+    },
+    {
+      "id": "XF48",
+      "name": "Karl Eric Nelson",
+      "url": "/auntruth/new/htm/L2/XF48.htm",
+      "birthDate": "12/03/1910"
+    },
+    {
+      "id": "XF29",
+      "name": "Paul Vincent Nelson",
+      "url": "/auntruth/new/htm/L2/XF29.htm",
+      "birthDate": "07/10/1908"
+    },
+    {
+      "id": "XF2355",
+      "name": "Lilly   Nelson",
+      "url": "/auntruth/new/htm/L2/XF2355.htm",
+      "birthDate": "07/05/1907"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Married Karl Nelson 11/10/1906",
+  "photos": [
+    {
+      "name": "Wedding Uncle Charlie & Aunt Edith Malmberg",
+      "date": "Saturday, November 10, 1906",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1386.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:06Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF195.htm",
+    "extractionDate": "2025-10-02T00:03:59.179226Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF2101",
+  "name": "Jane Sophia Lotimer",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1936",
+    "name": "William Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1936.htm"
+  },
+  "mother": {
+    "id": "XF1937",
+    "name": "Sarah Jane Lowe-Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1937.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": "Died unmarried",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:51Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2101.htm",
+    "extractionDate": "2025-10-02T00:04:58.355192Z"
+  }
+}

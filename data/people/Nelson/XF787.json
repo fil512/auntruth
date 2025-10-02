@@ -1,0 +1,52 @@
+{
+  "id": "XF787",
+  "name": "Raymond Carlyle Miller",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF786",
+      "name": "Linda Ann Gustafson-Miller [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF786.htm",
+      "marriageDate": "Saturday, December 16, 1967"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2354",
+      "name": "Kevin Ray Miller",
+      "url": "/auntruth/new/htm/L2/XF2354.htm",
+      "birthDate": "11/22/1970"
+    },
+    {
+      "id": "XF2353",
+      "name": "Jo Lee Miller",
+      "url": "/auntruth/new/htm/L2/XF2353.htm",
+      "birthDate": "07/22/1969"
+    }
+  ],
+  "occupation": null,
+  "address": "WA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:06Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF787.htm",
+    "extractionDate": "2025-10-02T00:04:13.894651Z"
+  }
+}

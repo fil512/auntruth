@@ -1,0 +1,54 @@
+{
+  "id": "XF1913",
+  "name": "Roberti D. Lowthorp",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Tuesday, January 01, 1450",
+  "birthLocation": "Bridlington YO   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1822",
+    "name": "Robert Lawthrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1822.htm"
+  },
+  "mother": {
+    "id": "XF1823",
+    "name": "-Lawthrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1823.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1914",
+      "name": "Catherine -Lowthorp [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1914.htm",
+      "marriageDate": "Wednesday, January 01, 1479"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1009",
+      "name": "John C. Lowthroppe",
+      "url": "/auntruth/new/htm/L4/XF1009.htm",
+      "birthDate": "01/01/1480"
+    }
+  ],
+  "occupation": "Rich person",
+  "address": "Bridlington YO  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "see GDRH and LDS",
+  "notes": "August 3, 1474 Robert Lowthorp of Bridlington made his will giving his landed estate to his relatives in Lowthorpe and Cherry Burton. It is noteworthy as being the earliest will now preserved in the registry at York, of any person of the name of Lowthorp. It is written in the abbreviated Latin peculiar to that period, and names his wife Catherine as executrix.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:32Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1913.htm",
+    "extractionDate": "2025-10-02T00:05:58.516365Z"
+  }
+}

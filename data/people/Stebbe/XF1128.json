@@ -1,0 +1,40 @@
+{
+  "id": "XF1128",
+  "name": "Samantha  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1126",
+    "name": "Gregory Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF1126.htm"
+  },
+  "mother": {
+    "id": "XF1127",
+    "name": "Catherine Pentland-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF1127.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:01Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1128.htm",
+    "extractionDate": "2025-10-02T00:03:51.113678Z"
+  }
+}

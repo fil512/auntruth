@@ -1,0 +1,84 @@
+{
+  "id": "XF1493",
+  "name": "Charlotte Viola Bartlett",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Dover South Mills ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1492",
+    "name": "Aaron Bartlett [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1492.htm"
+  },
+  "mother": {
+    "id": "XF1491",
+    "name": "Sarah Ursula Warren-Bartlett [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1491.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1494",
+      "name": "Benjamin Frank Hatch [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1494.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1500",
+      "name": "Maurice Clevela Hatch",
+      "url": "/auntruth/new/htm/L4/XF1500.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1499",
+      "name": "Anne Florenc Hatch",
+      "url": "/auntruth/new/htm/L4/XF1499.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1498",
+      "name": "Ernest Delmont Hatch",
+      "url": "/auntruth/new/htm/L4/XF1498.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1497",
+      "name": "Benjamin Aaron Hatch",
+      "url": "/auntruth/new/htm/L4/XF1497.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1496",
+      "name": "Lillian Eva Hatch",
+      "url": "/auntruth/new/htm/L4/XF1496.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1495",
+      "name": "Allie May Hatch",
+      "url": "/auntruth/new/htm/L4/XF1495.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "East Bradford ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:35Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1493.htm",
+    "extractionDate": "2025-10-02T00:05:43.519762Z"
+  }
+}

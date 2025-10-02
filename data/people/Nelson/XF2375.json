@@ -1,0 +1,47 @@
+{
+  "id": "XF2375",
+  "name": "Laura Jean Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Wednesday, September 08, 1948",
+  "birthLocation": "IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF31",
+    "name": "Clifford Emil Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF31.htm"
+  },
+  "mother": {
+    "id": "XF790",
+    "name": "Rose Pennick-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF790.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2376",
+      "name": "Bill Molitor [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2376.htm",
+      "marriageDate": "Sunday, January 01, 1967"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:49Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2375.htm",
+    "extractionDate": "2025-10-02T00:04:03.988252Z"
+  }
+}

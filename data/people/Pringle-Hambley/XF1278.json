@@ -1,0 +1,66 @@
+{
+  "id": "XF1278",
+  "name": "Charles  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CW   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1280",
+    "name": "Joseph Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1280.htm"
+  },
+  "mother": {
+    "id": "XF2976",
+    "name": "Jinifer X-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2976.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1279",
+      "name": "Suzannah Hambley-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1279.htm",
+      "marriageDate": "Saturday, June 01, 1839"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2977",
+      "name": "John #1   Hambley",
+      "url": "/auntruth/new/htm/L3/XF2977.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1283",
+      "name": "Moses   Hambley",
+      "url": "/auntruth/new/htm/L3/XF1283.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF571",
+      "name": "John Joseph Hambley",
+      "url": "/auntruth/new/htm/L3/XF571.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "CW  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Marion Hambley-Campbell",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:04Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1278.htm",
+    "extractionDate": "2025-10-02T00:05:06.701731Z"
+  }
+}

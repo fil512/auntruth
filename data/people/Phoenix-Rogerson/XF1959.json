@@ -1,0 +1,47 @@
+{
+  "id": "XF1959",
+  "name": "Ann Agnes Nicol",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1942",
+    "name": "Robert Nicol [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1942.htm"
+  },
+  "mother": {
+    "id": "XF1941",
+    "name": "Janet Lotimer-Nicol [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1941.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1960",
+      "name": "William Hyslop [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1960.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:52Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1959.htm",
+    "extractionDate": "2025-10-02T00:04:51.208600Z"
+  }
+}

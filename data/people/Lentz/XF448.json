@@ -1,0 +1,52 @@
+{
+  "id": "XF448",
+  "name": "Elsie  Hayes",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF447",
+      "name": "Leo Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF447.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF449",
+      "name": "Carol H. Lentz",
+      "url": "/auntruth/new/htm/L8/XF449.htm",
+      "birthDate": "07/24/1937"
+    },
+    {
+      "id": "XF450",
+      "name": "Bill   Lentz",
+      "url": "/auntruth/new/htm/L8/XF450.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:13Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF448.htm",
+    "extractionDate": "2025-10-02T00:03:02.014235Z"
+  }
+}

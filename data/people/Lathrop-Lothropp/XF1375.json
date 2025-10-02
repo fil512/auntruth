@@ -1,0 +1,47 @@
+{
+  "id": "XF1375",
+  "name": "Melissa Ide Harwood",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, October 17, 1818",
+  "birthLocation": "Corinth NY   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1373",
+    "name": "Eben Harwood [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1373.htm"
+  },
+  "mother": {
+    "id": "XF1374",
+    "name": "Sarah Cook Sherman-Harwood [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1374.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1180",
+      "name": "John 6th Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1180.htm",
+      "marriageDate": "Monday, January 02, 1865"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Fort Dodge IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 1 May 1836 in Dover ME Died in Fort Dodge Iowa",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:45Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1375.htm",
+    "extractionDate": "2025-10-02T00:05:37.414607Z"
+  }
+}

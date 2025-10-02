@@ -1,0 +1,103 @@
+{
+  "id": "XF15",
+  "name": "Otto Ernest Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Saturday, February 06, 1886",
+  "birthLocation": "Tralleborg S0   SWE",
+  "deathDate": "Thursday, December 09, 1943",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1",
+    "name": "Nils Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF1.htm"
+  },
+  "mother": {
+    "id": "XF2",
+    "name": "Kristina Hansdotter-Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF792",
+      "name": "Anna Olivia Nykvist-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF792.htm",
+      "marriageDate": "Friday, September 15, 1911"
+    },
+    {
+      "id": "XF2378",
+      "name": "Anna Eugenia Andersson-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2378.htm",
+      "marriageDate": "Friday, June 30, 1922"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF793",
+      "name": "Edwin Otto Nelson",
+      "url": "/auntruth/new/htm/L2/XF793.htm",
+      "birthDate": "01/17/1930"
+    },
+    {
+      "id": "XF35",
+      "name": "Ruth Adele Nelson",
+      "url": "/auntruth/new/htm/L2/XF35.htm",
+      "birthDate": "04/24/1928"
+    },
+    {
+      "id": "XF34",
+      "name": "Wilbur Ernest Nelson",
+      "url": "/auntruth/new/htm/L2/XF34.htm",
+      "birthDate": "09/14/1924"
+    },
+    {
+      "id": "XF33",
+      "name": "Eileen Elizabe Nelson",
+      "url": "/auntruth/new/htm/L2/XF33.htm",
+      "birthDate": "04/03/1923"
+    },
+    {
+      "id": "XF32",
+      "name": "Elsie Althea Nelson",
+      "url": "/auntruth/new/htm/L2/XF32.htm",
+      "birthDate": "11/08/1912"
+    },
+    {
+      "id": "XF36",
+      "name": "Edward   Wilson",
+      "url": "/auntruth/new/htm/L2/XF36.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Have picture as young man. Buried in grave#541 Elmwood Cemetery Wpg MB CA?",
+  "photos": [
+    {
+      "name": "Uncle Otto",
+      "date": "Monday, February 02, 1891",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1364.htm"
+    },
+    {
+      "name": "Nils Persson Family Portrait in Sweden",
+      "date": "Friday, December 05, 1890",
+      "location": "Sweden General Sweden",
+      "url": "/auntruth/new/htm/L0/XI1361.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:51:58Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF15.htm",
+    "extractionDate": "2025-10-02T00:03:58.564260Z"
+  }
+}

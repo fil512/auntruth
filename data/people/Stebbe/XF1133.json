@@ -1,0 +1,40 @@
+{
+  "id": "XF1133",
+  "name": "Marilyn  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": "Sunday, January 01, 1950",
+  "birthLocation": "Calgary AB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF488",
+    "name": "George Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF488.htm"
+  },
+  "mother": {
+    "id": "XF489",
+    "name": "Connie Trithart-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF489.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "POR",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:03Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1133.htm",
+    "extractionDate": "2025-10-02T00:03:51.442641Z"
+  }
+}

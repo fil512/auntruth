@@ -38,13 +38,17 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Hemfrid Johnsson",
   "notes": "After coming to Meadows with his parents, stayed at Clandeboye with his aunt and attended school there until the school at Meadows was built. He worked at home until 1916 when he went to St. Paul Minnesota to work for the winter as a barn boss for Jim Hill, a railway magnate. In 1918 he was conscripted to the Canadian Army, returning in 1919. He purchased 240 acres from W. L. Parrish and continued to live at home and farm with the family until his marriage in 1937. They bought a farm at Argyle, Manitoba where they lived until 1968. Clarence also continued to farm his land at Meadows until he sold it to Boonstras.",
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:52:32Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF68.htm",
-    "extractionDate": "2025-10-01T04:27:34.243853Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF68.htm",
+    "extractionDate": "2025-10-01T22:03:19.948765Z"
   }
 }

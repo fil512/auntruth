@@ -1,0 +1,40 @@
+{
+  "id": "XF2567",
+  "name": "Frank A. Bradley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Wednesday, October 02, 1901",
+  "birthLocation": "USA",
+  "deathDate": "Wednesday, June 24, 1964",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1712",
+    "name": "Albert Ernest Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1712.htm"
+  },
+  "mother": {
+    "id": "XF1711",
+    "name": "Winifred Gertrude Seymour-Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1711.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:15Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2567.htm",
+    "extractionDate": "2025-10-02T00:06:00.272434Z"
+  }
+}

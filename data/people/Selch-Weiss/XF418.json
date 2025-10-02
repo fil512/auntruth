@@ -1,0 +1,116 @@
+{
+  "id": "XF418",
+  "name": "Richard  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF413",
+    "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF413.htm"
+  },
+  "mother": {
+    "id": "XF414",
+    "name": "Ida Young-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF414.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF426",
+      "name": "Joan Selch-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF426.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF427",
+      "name": "Kevin Johnathan Selch",
+      "url": "/auntruth/new/htm/L6/XF427.htm",
+      "birthDate": "01/01/1981"
+    },
+    {
+      "id": "XF1105",
+      "name": "Trevor Mark Selch",
+      "url": "/auntruth/new/htm/L6/XF1105.htm",
+      "birthDate": "04/05/1978"
+    },
+    {
+      "id": "XF1104",
+      "name": "Derek   Selch",
+      "url": "/auntruth/new/htm/L6/XF1104.htm",
+      "birthDate": "01/01/1976"
+    }
+  ],
+  "occupation": "RCMP",
+  "address": "Winnipeg MB  CAN",
+  "email": "rfselch@hotmail.com",
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": "RCMP",
+  "photos": [
+    {
+      "name": "Rick Selch Family",
+      "date": "Wednesday, December 01, 1982",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1816.htm"
+    },
+    {
+      "name": "Derek 1 Year",
+      "date": "Thursday, December 01, 1977",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1815.htm"
+    },
+    {
+      "name": "Freddy Selch Family",
+      "date": "Monday, December 01, 1969",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1814.htm"
+    },
+    {
+      "name": "Rick Confirmation",
+      "date": "Sunday, May 01, 1960",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1810.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Engagement Photo/Wedding Invitation",
+      "date": "Saturday, May 01, 2004",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI2466.htm"
+    },
+    {
+      "name": "Engagement Announcement",
+      "date": "Monday, July 01, 2002",
+      "location": "Minot North Dakota United States of America",
+      "url": "/auntruth/new/htm/L6/XI1812.htm"
+    },
+    {
+      "name": "Uncle Freddy Funeral",
+      "date": "Tuesday, May 30, 1995",
+      "location": "Wadena Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1811.htm"
+    },
+    {
+      "name": "Beverley, Fred & Ida",
+      "date": "Monday, July 01, 1968",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1813.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:57Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF418.htm",
+    "extractionDate": "2025-10-02T00:04:25.464861Z"
+  }
+}

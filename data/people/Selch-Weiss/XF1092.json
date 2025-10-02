@@ -1,0 +1,40 @@
+{
+  "id": "XF1092",
+  "name": "Gregory  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Wednesday, December 01, 1982",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF419",
+    "name": "Bruce Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF419.htm"
+  },
+  "mother": {
+    "id": "XF1091",
+    "name": "Gail Close-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1091.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:44Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1092.htm",
+    "extractionDate": "2025-10-02T00:04:16.112161Z"
+  }
+}

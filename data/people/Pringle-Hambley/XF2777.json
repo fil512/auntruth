@@ -1,0 +1,49 @@
+{
+  "id": "XF2777",
+  "name": "William Henry Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, June 04, 1870",
+  "birthLocation": "Summerhill Twp Cambria Co     USA",
+  "deathDate": "Thursday, September 30, 1954",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2760",
+    "name": "Elias Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2760.htm"
+  },
+  "mother": {
+    "id": "XF2759",
+    "name": "Maria Pringle-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2759.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2778",
+      "name": "Emma C. Burke-Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2778.htm",
+      "marriageDate": "Thursday, June 07, 1894"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:49Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2777.htm",
+    "extractionDate": "2025-10-02T00:05:16.717311Z"
+  }
+}

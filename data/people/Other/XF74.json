@@ -1,0 +1,78 @@
+{
+  "id": "XF74",
+  "name": "Arthur  Carlson",
+  "lineage": "",
+  "birthDate": "Saturday, June 20, 1908",
+  "birthLocation": "Meadows MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF574",
+    "name": "Victor Carlson []",
+    "url": "/auntruth/new/htm/L0/XF574.htm"
+  },
+  "mother": {
+    "id": "XF65",
+    "name": "Johanna Wall-Hagborg(Hansson)-Carlson [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF65.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF75",
+      "name": "Hilda -Carlson []",
+      "url": "/auntruth/new/htm/L0/XF75.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1782",
+      "name": "Tyler   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1782.htm",
+      "birthDate": "02/03/1962"
+    },
+    {
+      "id": "XF1779",
+      "name": "Ron   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1779.htm",
+      "birthDate": "10/23/1959"
+    },
+    {
+      "id": "XF1697",
+      "name": "Diana   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1697.htm",
+      "birthDate": "08/14/1958"
+    },
+    {
+      "id": "XF1694",
+      "name": "Leonard   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1694.htm",
+      "birthDate": "09/04/1957"
+    },
+    {
+      "id": "XF1690",
+      "name": "Douglas   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1690.htm",
+      "birthDate": "07/31/1953"
+    }
+  ],
+  "occupation": "Retired Farmer",
+  "address": "Oakview Nursing Home 2395 Ness Ave Winnipeg MB R3J 1A5 CAN",
+  "email": null,
+  "phone": "204-888-3008, 204-888-3008",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Hemfrid Johnsson",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2004-05-26T23:15:29Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF74.htm",
+    "extractionDate": "2025-10-02T00:06:13.625282Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF746",
+  "name": "Kashmere  Lewko",
+  "lineage": "Stebbe",
+  "birthDate": "Sunday, January 01, 1922",
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": "Wednesday, January 01, 1969",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF744",
+    "name": "Peter Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF744.htm"
+  },
+  "mother": {
+    "id": "XF745",
+    "name": "Angeline Sikierski-Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF745.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Beausejour MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Anne Lewko-Stebbe",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:47Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF746.htm",
+    "extractionDate": "2025-10-02T00:03:57.474722Z"
+  }
+}

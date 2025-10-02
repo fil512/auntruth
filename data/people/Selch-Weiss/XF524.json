@@ -1,0 +1,59 @@
+{
+  "id": "XF524",
+  "name": "Shelley  DeMarco",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF511",
+    "name": "Julius George DeMarco [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF511.htm"
+  },
+  "mother": {
+    "id": "XF512",
+    "name": "Edith Bush-DeMarco [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF512.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Chloe Christening - Around Table",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1717.htm"
+    },
+    {
+      "name": "Chloe Christening - Patio Table",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1714.htm"
+    },
+    {
+      "name": "Chloe Christening - Picture-Taking",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1709.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:50Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF524.htm",
+    "extractionDate": "2025-10-02T00:04:27.828844Z"
+  }
+}

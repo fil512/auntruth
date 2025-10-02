@@ -1,0 +1,39 @@
+{
+  "id": "XF1828",
+  "name": "Clarke",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1013",
+      "name": "Elizabeth Harthill-Clarke-Clarke-Lowthroppe [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1013.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "YO  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Church of Jesus Christ of Latter-Day Saints (Mormons)",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:57Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1828.htm",
+    "extractionDate": "2025-10-02T00:05:58.074575Z"
+  }
+}

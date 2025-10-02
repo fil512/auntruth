@@ -1,0 +1,40 @@
+{
+  "id": "XF1285",
+  "name": "Margaret Elizabe Ward",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "KA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF566",
+    "name": "Charles Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF566.htm"
+  },
+  "mother": {
+    "id": "XF1284",
+    "name": "-Ward [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1284.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Visited Frank Pringle family in Killarney MB Canada around 1915",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:07Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1285.htm",
+    "extractionDate": "2025-10-02T00:05:07.032345Z"
+  }
+}

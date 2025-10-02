@@ -1,0 +1,40 @@
+{
+  "id": "XF1777",
+  "name": "Jill  Larkin",
+  "lineage": "",
+  "birthDate": "Friday, April 01, 1983",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1776",
+    "name": "Andy Larkin []",
+    "url": "/auntruth/new/htm/L0/XF1776.htm"
+  },
+  "mother": {
+    "id": "XF1697",
+    "name": "Diana Carlson-Larkin [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF1697.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Grade 5",
+  "address": "1122 Buchanan Blvd Winnipeg MB R2Y 2A8 CAN",
+  "email": null,
+  "phone": "204-832-3127, 204-832-3127",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:35Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF1777.htm",
+    "extractionDate": "2025-10-02T00:06:10.233374Z"
+  }
+}

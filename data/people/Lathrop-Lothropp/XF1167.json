@@ -1,0 +1,84 @@
+{
+  "id": "XF1167",
+  "name": "Albert  Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Sunday, March 18, 1810",
+  "birthLocation": "Windsor VT   USA",
+  "deathDate": "Tuesday, March 27, 1900",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1007",
+    "name": "Daniel Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1007.htm"
+  },
+  "mother": {
+    "id": "XF1008",
+    "name": "Lucy Smith-Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1008.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1168",
+      "name": "Sarah Joselyn Sampson-Lathrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1168.htm",
+      "marriageDate": "Sunday, November 06, 1831"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1767",
+      "name": "Cleora Alice Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1767.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1766",
+      "name": "Pamelia Minnie Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1766.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1764",
+      "name": "Sarah Euphemi Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1764.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1754",
+      "name": "Calvin Judson Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1754.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1742",
+      "name": "George Richmon Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1742.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1472",
+      "name": "Alpheus Daniel Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1472.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Stratford CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Twin of Alfred Lothrop Married 6 Nov 1831 in Dover ME Died in Stratford CN",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:17Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1167.htm",
+    "extractionDate": "2025-10-02T00:05:30.473325Z"
+  }
+}

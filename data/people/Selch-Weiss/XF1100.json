@@ -1,0 +1,47 @@
+{
+  "id": "XF1100",
+  "name": "Lindsay Dawn Nicholson",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Friday, August 20, 1982",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1098",
+    "name": "Gordon Nicholson [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1098.htm"
+  },
+  "mother": {
+    "id": "XF1097",
+    "name": "Sharon Elaine Selch-Nicholson [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1097.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Lindsay Nicholson",
+      "date": "Tuesday, June 20, 2000",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1785.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:48Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1100.htm",
+    "extractionDate": "2025-10-02T00:04:16.540432Z"
+  }
+}

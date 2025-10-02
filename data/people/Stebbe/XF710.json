@@ -1,0 +1,54 @@
+{
+  "id": "XF710",
+  "name": "Michael  Kudrach",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF705",
+    "name": "Kudrach [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF705.htm"
+  },
+  "mother": {
+    "id": "XF704",
+    "name": "-Kudrach [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF704.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF707",
+      "name": "Maryann Fedorco-Kudrach [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF707.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF711",
+      "name": "Kudrach",
+      "url": "/auntruth/new/htm/L7/XF711.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:32Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF710.htm",
+    "extractionDate": "2025-10-02T00:03:56.203767Z"
+  }
+}

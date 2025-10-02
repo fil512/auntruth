@@ -1,0 +1,84 @@
+{
+  "id": "XF1316",
+  "name": "Alethea Bradbur Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1163",
+    "name": "Daniel Jr. Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1163.htm"
+  },
+  "mother": {
+    "id": "XF1164",
+    "name": "Elizabeth Hinckley-Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1164.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1315",
+      "name": "Lyman Lillibridge [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1315.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1332",
+      "name": "Gustella Elizabe Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1332.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1327",
+      "name": "Emily Myrtell Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1327.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1325",
+      "name": "Emery Leveret Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1325.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1320",
+      "name": "Mary Etta Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1320.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1318",
+      "name": "Willie Myro Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1318.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1317",
+      "name": "Amasa Dwight Lillibridge",
+      "url": "/auntruth/new/htm/L4/XF1317.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Westford CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "deceased",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:20Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1316.htm",
+    "extractionDate": "2025-10-02T00:05:34.322373Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "XF2578",
+  "name": "Levi Lewis Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2576",
+    "name": "Azariah Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2576.htm"
+  },
+  "mother": {
+    "id": "XF2577",
+    "name": "Esther Lewis-Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2577.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2579",
+      "name": "Fred   Lathrop",
+      "url": "/auntruth/new/htm/L4/XF2579.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Anonymous",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:19Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2578.htm",
+    "extractionDate": "2025-10-02T00:06:00.867289Z"
+  }
+}

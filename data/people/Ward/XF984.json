@@ -1,0 +1,46 @@
+{
+  "id": "XF984",
+  "name": "Elizabeth",
+  "lineage": "Ward",
+  "birthDate": "Tuesday, January 01, 1613",
+  "birthLocation": "Sudbury MA",
+  "deathDate": "Thursday, December 09, 1700",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF982",
+      "name": "William Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF982.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF996",
+      "name": "William Jr.   Ward",
+      "url": "/auntruth/new/htm/L5/XF996.htm",
+      "birthDate": "01/22/1640"
+    }
+  ],
+  "occupation": null,
+  "address": "Marlboro MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:44Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF984.htm",
+    "extractionDate": "2025-10-02T00:03:40.706057Z"
+  }
+}

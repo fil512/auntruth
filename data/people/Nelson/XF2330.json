@@ -1,0 +1,40 @@
+{
+  "id": "XF2330",
+  "name": "Bengt Persson Lustru",
+  "lineage": "Nelson",
+  "birthDate": "Thursday, April 19, 1838",
+  "birthLocation": "Willie S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2343",
+    "name": "Pehr Bengtsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2343.htm"
+  },
+  "mother": {
+    "id": "XF2344",
+    "name": "Ingar Nilsdotter-Bengtsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2344.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Willie S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:30Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2330.htm",
+    "extractionDate": "2025-10-02T00:04:01.601938Z"
+  }
+}

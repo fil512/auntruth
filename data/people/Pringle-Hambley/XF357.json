@@ -1,0 +1,40 @@
+{
+  "id": "XF357",
+  "name": "Heather  McVicar",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF356",
+    "name": "Albert McVicar [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF356.htm"
+  },
+  "mother": {
+    "id": "XF296",
+    "name": "Ruth-Ann Pringle-McVicar [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF296.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:25Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF357.htm",
+    "extractionDate": "2025-10-02T00:05:26.651475Z"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "XF1007",
+  "name": "Daniel  Lothrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Thursday, March 03, 1768",
+  "birthLocation": "Bethel VT   USA",
+  "deathDate": "Wednesday, March 03, 1841",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1148",
+    "name": "John 5th Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1148.htm"
+  },
+  "mother": {
+    "id": "XF1150",
+    "name": "Sarah Peck [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1150.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1008",
+      "name": "Lucy Smith-Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1008.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1180",
+      "name": "John 6th   Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1180.htm",
+      "birthDate": "07/24/1814"
+    },
+    {
+      "id": "XF1171",
+      "name": "Rev. Alfred   Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1171.htm",
+      "birthDate": "03/18/1810"
+    },
+    {
+      "id": "XF1167",
+      "name": "Albert   Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1167.htm",
+      "birthDate": "03/18/1810"
+    },
+    {
+      "id": "XF352",
+      "name": "Sabra   Lothrop",
+      "url": "/auntruth/new/htm/L4/XF352.htm",
+      "birthDate": "05/24/1806"
+    },
+    {
+      "id": "XF1163",
+      "name": "Daniel Jr.   Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1163.htm",
+      "birthDate": "08/16/1802"
+    },
+    {
+      "id": "XF1159",
+      "name": "Pamelia   Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1159.htm",
+      "birthDate": "08/25/1800"
+    },
+    {
+      "id": "XF1155",
+      "name": "Lucy   Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1155.htm",
+      "birthDate": "08/24/1798"
+    },
+    {
+      "id": "XF1153",
+      "name": "James Smith Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1153.htm",
+      "birthDate": "05/20/1796"
+    },
+    {
+      "id": "XF1151",
+      "name": "Erastus   Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1151.htm",
+      "birthDate": "09/02/1793"
+    }
+  ],
+  "occupation": null,
+  "address": "Dover ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married in Bethel VT Died in Dover ME",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:05Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1007.htm",
+    "extractionDate": "2025-10-02T00:05:28.373902Z"
+  }
+}

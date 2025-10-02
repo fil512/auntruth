@@ -1,0 +1,47 @@
+{
+  "id": "XF1334",
+  "name": "Amasa Davis Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1163",
+    "name": "Daniel Jr. Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1163.htm"
+  },
+  "mother": {
+    "id": "XF1164",
+    "name": "Elizabeth Hinckley-Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1164.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1333",
+      "name": "Eliza Snell-Lathrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1333.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "deceased",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:28Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1334.htm",
+    "extractionDate": "2025-10-02T00:05:35.261019Z"
+  }
+}

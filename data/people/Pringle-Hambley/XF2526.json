@@ -1,0 +1,52 @@
+{
+  "id": "XF2526",
+  "name": "Mildred  Yeo",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2525",
+      "name": "Russell Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2525.htm",
+      "marriageDate": "Saturday, January 01, 1938"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2531",
+      "name": "David   Hambley",
+      "url": "/auntruth/new/htm/L3/XF2531.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2527",
+      "name": "Verna   Hambley",
+      "url": "/auntruth/new/htm/L3/XF2527.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Nursing Home Pilot Mound MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:56Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2526.htm",
+    "extractionDate": "2025-10-02T00:05:13.087532Z"
+  }
+}

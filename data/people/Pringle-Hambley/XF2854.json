@@ -1,0 +1,49 @@
+{
+  "id": "XF2854",
+  "name": "Barbara  Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, January 01, 1793",
+  "birthLocation": "Vincent Twp Chester Co     USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2832",
+    "name": "Abraham Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2832.htm"
+  },
+  "mother": {
+    "id": "XF2833",
+    "name": "Elizabeth Fluck-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2833.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2855",
+      "name": "Henry Smith [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2855.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:23Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2854.htm",
+    "extractionDate": "2025-10-02T00:05:21.124103Z"
+  }
+}

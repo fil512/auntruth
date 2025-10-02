@@ -1,0 +1,40 @@
+{
+  "id": "XF885",
+  "name": "Genevieve  Parent",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF883",
+    "name": "Jean-Yves Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF883.htm"
+  },
+  "mother": {
+    "id": "XF884",
+    "name": "Danielle -Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF884.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Joseph-Guy Parent",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:52Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF885.htm",
+    "extractionDate": "2025-10-02T00:04:34.964481Z"
+  }
+}

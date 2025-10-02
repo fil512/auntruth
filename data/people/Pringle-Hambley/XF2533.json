@@ -1,0 +1,40 @@
+{
+  "id": "XF2533",
+  "name": "Barrie  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF327",
+    "name": "George Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF327.htm"
+  },
+  "mother": {
+    "id": "XF573",
+    "name": "Florence Blair-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF573.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:59Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2533.htm",
+    "extractionDate": "2025-10-02T00:05:13.484031Z"
+  }
+}

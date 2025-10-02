@@ -1,0 +1,76 @@
+{
+  "id": "XF2640",
+  "name": "Anna",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "RUS",
+  "deathDate": "Tuesday, October 23, 1928",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2637",
+      "name": "Milbrandt [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2637.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2645",
+      "name": "Rheinhold (Roy)   Milbrandt",
+      "url": "/auntruth/new/htm/L6/XF2645.htm",
+      "birthDate": "02/24/1890"
+    },
+    {
+      "id": "XF798",
+      "name": "Emelia   Milbrandt",
+      "url": "/auntruth/new/htm/L6/XF798.htm",
+      "birthDate": "01/01/1879"
+    },
+    {
+      "id": "XF2644",
+      "name": "Charlie   Milbrandt",
+      "url": "/auntruth/new/htm/L6/XF2644.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2643",
+      "name": "Louis   Milbrandt",
+      "url": "/auntruth/new/htm/L6/XF2643.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2642",
+      "name": "Fred   Milbrandt",
+      "url": "/auntruth/new/htm/L6/XF2642.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2641",
+      "name": "Martha   Milbrandt",
+      "url": "/auntruth/new/htm/L6/XF2641.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Robin Lish",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:47Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2640.htm",
+    "extractionDate": "2025-10-02T00:04:18.240647Z"
+  }
+}

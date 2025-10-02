@@ -1,0 +1,40 @@
+{
+  "id": "XF2403",
+  "name": "Kjerstin  Hansson",
+  "lineage": "Nelson",
+  "birthDate": "Monday, July 05, 1819",
+  "birthLocation": "Bosarp S0   SWE",
+  "deathDate": "Monday, January 26, 1885",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF647",
+    "name": "Hans Olsson Loo [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF647.htm"
+  },
+  "mother": {
+    "id": "XF646",
+    "name": "Karna Jonsson-Loo [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF646.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Vemmingkog S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "adopted",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:01Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2403.htm",
+    "extractionDate": "2025-10-02T00:04:05.484873Z"
+  }
+}

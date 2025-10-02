@@ -1,0 +1,58 @@
+{
+  "id": "XF43",
+  "name": "George Charles Byrtus",
+  "lineage": "Nelson",
+  "birthDate": "Saturday, April 25, 1936",
+  "birthLocation": "Athabasca AB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF42",
+      "name": "Pamela Elizabeth Nelson-Byrtus [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF42.htm",
+      "marriageDate": "Friday, September 30, 1966"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF781",
+      "name": "Elaine Anne Byrtus",
+      "url": "/auntruth/new/htm/L2/XF781.htm",
+      "birthDate": "12/28/1972"
+    },
+    {
+      "id": "XF782",
+      "name": "Roman Charles Byrtus",
+      "url": "/auntruth/new/htm/L2/XF782.htm",
+      "birthDate": "02/27/1970"
+    },
+    {
+      "id": "XF780",
+      "name": "Nancy Sheila Byrtus",
+      "url": "/auntruth/new/htm/L2/XF780.htm",
+      "birthDate": "07/26/1967"
+    }
+  ],
+  "occupation": null,
+  "address": "23 Blue Meadow Way Kanata ON K2M 1L7 CAN",
+  "email": null,
+  "phone": "(613) 591-3092, (613) 591-3092",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Pam Nelson-Byrtus",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:16Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF43.htm",
+    "extractionDate": "2025-10-02T00:04:10.002929Z"
+  }
+}

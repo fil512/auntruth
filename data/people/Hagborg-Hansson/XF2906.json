@@ -24,6 +24,12 @@
   "email": "hayd@acm.org",
   "phone": "(905) 840-1716, (905) 840-1716",
   "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": null,
   "notes": null,
   "photos": [
@@ -55,7 +61,7 @@
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T19:16:46Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2906.htm",
-    "extractionDate": "2025-10-01T04:27:30.115907Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF2906.htm",
+    "extractionDate": "2025-10-01T22:03:14.882509Z"
   }
 }

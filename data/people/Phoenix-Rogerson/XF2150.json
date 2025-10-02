@@ -1,0 +1,39 @@
+{
+  "id": "XF2150",
+  "name": "Mabel  Lord",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2149",
+      "name": "William Rogerson [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2149.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:12Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2150.htm",
+    "extractionDate": "2025-10-02T00:05:00.779999Z"
+  }
+}

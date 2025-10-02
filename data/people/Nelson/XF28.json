@@ -1,0 +1,61 @@
+{
+  "id": "XF28",
+  "name": "Edwin Gordon Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, February 23, 1904",
+  "birthLocation": "Narcisse MB   CAN",
+  "deathDate": "Tuesday, October 09, 1973",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF13",
+    "name": "Olaf Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF13.htm"
+  },
+  "mother": {
+    "id": "XF755",
+    "name": "Josefina Getz-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF755.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2264",
+      "name": "Annie Nowicki-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2264.htm",
+      "marriageDate": "Sunday, June 05, 1938"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2265",
+      "name": "Althea Anne Nelson",
+      "url": "/auntruth/new/htm/L2/XF2265.htm",
+      "birthDate": "10/30/1944"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "married in Sioux Lookout ON Canada",
+  "photos": [
+    {
+      "name": "Uncle Olaf Nelson's Farm",
+      "date": "Sunday, August 01, 1915",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1414.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:08Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF28.htm",
+    "extractionDate": "2025-10-02T00:04:08.858536Z"
+  }
+}

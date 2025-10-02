@@ -1,0 +1,49 @@
+{
+  "id": "XF2861",
+  "name": "Charles  Stewart",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, December 02, 1781",
+  "birthLocation": "USA",
+  "deathDate": "Sunday, December 24, 1854",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2789",
+    "name": "Jacob Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2789.htm"
+  },
+  "mother": {
+    "id": "XF2790",
+    "name": "Eunice Edith Dunn-Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2790.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2862",
+      "name": "Mary Hunter-Stewart [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2862.htm",
+      "marriageDate": "Tuesday, January 05, 1808"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Morgan Twp Butler Co   OH   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:26Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2861.htm",
+    "extractionDate": "2025-10-02T00:05:21.512018Z"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "XF484",
+  "name": "Alvin  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": "Monday, January 01, 1934",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF478",
+    "name": "Richard Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF478.htm"
+  },
+  "mother": {
+    "id": "XF479",
+    "name": "Martha Wensel-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF479.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1118",
+      "name": "-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1118.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1121",
+      "name": "Todd   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF1121.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1120",
+      "name": "Richard   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF1120.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1119",
+      "name": "Shelley   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF1119.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Brantford ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:29Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF484.htm",
+    "extractionDate": "2025-10-02T00:03:53.068621Z"
+  }
+}

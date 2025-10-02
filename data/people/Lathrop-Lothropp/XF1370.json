@@ -1,0 +1,53 @@
+{
+  "id": "XF1370",
+  "name": "Lydia Ann Atwood",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Monday, May 21, 1860",
+  "birthLocation": "Woodbury CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1368",
+    "name": "John Ashley Atwood [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1368.htm"
+  },
+  "mother": {
+    "id": "XF1369",
+    "name": "Nancy Lathrop-Atwood [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1369.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1371",
+      "name": "Howe [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1371.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF1372",
+      "name": "Oscar Jacob Lathrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1372.htm",
+      "marriageDate": "Thursday, September 17, 1896"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "North Woodbury CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:43Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1370.htm",
+    "extractionDate": "2025-10-02T00:05:37.131196Z"
+  }
+}

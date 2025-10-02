@@ -1,0 +1,47 @@
+{
+  "id": "XF1409",
+  "name": "Albert Alphons Stone",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Monday, September 27, 1847",
+  "birthLocation": "Sharon CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1407",
+    "name": "James Albert Stone [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1407.htm"
+  },
+  "mother": {
+    "id": "XF1408",
+    "name": "Caroline Matilda Cartwright-Stone [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1408.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1410",
+      "name": "Mary Ella Hosmer-Fuller-Stone [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1410.htm",
+      "marriageDate": "Friday, September 11, 1874"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Oakville CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:00Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1409.htm",
+    "extractionDate": "2025-10-02T00:05:39.149179Z"
+  }
+}

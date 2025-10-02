@@ -1,0 +1,66 @@
+{
+  "id": "XF1012",
+  "name": "Thomas  Lowthroppe",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Sunday, January 01, 1550",
+  "birthLocation": "Cherry Burton YO   UKG",
+  "deathDate": "Monday, January 01, 1607",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1010",
+    "name": "Robert B. Lowthroppe [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1010.htm"
+  },
+  "mother": {
+    "id": "XF1011",
+    "name": "Ellen Ashton (Aston?)-Lowthroppe [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1011.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1013",
+      "name": "Elizabeth Harthill-Clarke-Clarke-Lowthroppe [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1013.htm",
+      "marriageDate": "Friday, January 01, 1560"
+    },
+    {
+      "id": "XF1014",
+      "name": "Mary Howell (Salte?)-Lowthroppe [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1014.htm",
+      "marriageDate": "Friday, September 05, 1575"
+    },
+    {
+      "id": "XF1015",
+      "name": "Jane Carter-Lowthroppe [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1015.htm",
+      "marriageDate": "Sunday, January 01, 1589"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1016",
+      "name": "Rev. John 2nd   Lothropp",
+      "url": "/auntruth/new/htm/L4/XF1016.htm",
+      "birthDate": "12/20/1584"
+    }
+  ],
+  "occupation": null,
+  "address": "Etton Harthill Wapentake East Riding YO  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "see GDRH and LDS",
+  "notes": "Born in Cherry Burton. Married Mrs. Elizabeth Clark, by whom he had eight children; she was buried in Etton 29 July 1574. His second wife Mary was buried in Etton 6 January 1588. He married third wife Jane by whom he had nine children. He moved to Etton, Harthill Wapentake, East Riding, about 1576 and made his will 5 October 1606 which was proved in January 1607.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:07Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1012.htm",
+    "extractionDate": "2025-10-02T00:05:28.635142Z"
+  }
+}

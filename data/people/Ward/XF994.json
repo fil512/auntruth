@@ -1,0 +1,54 @@
+{
+  "id": "XF994",
+  "name": "John Jr.  Ward",
+  "lineage": "Ward",
+  "birthDate": "Monday, August 12, 1720",
+  "birthLocation": "Newton MA   USA",
+  "deathDate": "Tuesday, January 01, 1805",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF992",
+    "name": "John Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF992.htm"
+  },
+  "mother": {
+    "id": "XF993",
+    "name": "Deborah -Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF993.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF995",
+      "name": "Mary Torrey-Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF995.htm",
+      "marriageDate": "Saturday, January 16, 1745"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF980",
+      "name": "Jeremiah   Ward",
+      "url": "/auntruth/new/htm/L5/XF980.htm",
+      "birthDate": "09/14/1765"
+    }
+  ],
+  "occupation": null,
+  "address": "Buckland MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 16 January 1745 in Mendon MA Died in Buckland MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:58Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF994.htm",
+    "extractionDate": "2025-10-02T00:03:41.247454Z"
+  }
+}

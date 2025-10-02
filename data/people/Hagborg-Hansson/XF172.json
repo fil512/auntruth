@@ -44,13 +44,17 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Auntie Annie Nelson's Black Book",
   "notes": "St. John's College(University of Manitoba) graduate",
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:53:39Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF172.htm",
-    "extractionDate": "2025-10-01T04:27:19.831113Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF172.htm",
+    "extractionDate": "2025-10-01T22:03:03.797438Z"
   }
 }

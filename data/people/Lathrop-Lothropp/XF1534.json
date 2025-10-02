@@ -1,0 +1,40 @@
+{
+  "id": "XF1534",
+  "name": "Charlie Orman Bartlett",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Foxcroft ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1522",
+    "name": "Laurin Ai Bartlett [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1522.htm"
+  },
+  "mother": {
+    "id": "XF1521",
+    "name": "Lucy Francen Chandler-Bartlett [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1521.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Foxcroft ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:53Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1534.htm",
+    "extractionDate": "2025-10-02T00:05:45.662468Z"
+  }
+}

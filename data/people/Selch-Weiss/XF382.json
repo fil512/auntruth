@@ -1,0 +1,47 @@
+{
+  "id": "XF382",
+  "name": "Paulina  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Saturday, January 01, 1876",
+  "birthLocation": "RUS",
+  "deathDate": "Friday, January 01, 1954",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF371",
+    "name": "Christian Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF371.htm"
+  },
+  "mother": {
+    "id": "XF372",
+    "name": "Wilhelmine Lentz-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF372.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF381",
+      "name": "August Freund [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF381.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:36Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF382.htm",
+    "extractionDate": "2025-10-02T00:04:23.530806Z"
+  }
+}

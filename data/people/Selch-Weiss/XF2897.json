@@ -1,0 +1,45 @@
+{
+  "id": "XF2897",
+  "name": "Kathy  Woloskoski",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2896",
+    "name": "Victor Woloskoski [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2896.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF826",
+      "name": "Dennis Okolita [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF826.htm",
+      "marriageDate": "Monday, May 01, 2000"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:42Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2897.htm",
+    "extractionDate": "2025-10-02T00:04:21.634348Z"
+  }
+}

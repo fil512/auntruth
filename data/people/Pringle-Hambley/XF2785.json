@@ -1,0 +1,78 @@
+{
+  "id": "XF2785",
+  "name": "Aaron M. Hill",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, January 01, 1782",
+  "birthLocation": "MD?     USA",
+  "deathDate": "Friday, July 01, 1842",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2786",
+      "name": "Mary Anne  -Hill [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2786.htm",
+      "marriageDate": "Friday, December 31, 1819"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2818",
+      "name": "Aaron   Hill",
+      "url": "/auntruth/new/htm/L3/XF2818.htm",
+      "birthDate": "01/01/1829"
+    },
+    {
+      "id": "XF2816",
+      "name": "Joseph Ford Hill",
+      "url": "/auntruth/new/htm/L3/XF2816.htm",
+      "birthDate": "11/15/1826"
+    },
+    {
+      "id": "XF2814",
+      "name": "James B. Hill",
+      "url": "/auntruth/new/htm/L3/XF2814.htm",
+      "birthDate": "01/01/1825"
+    },
+    {
+      "id": "XF2783",
+      "name": "John Wesley Hill",
+      "url": "/auntruth/new/htm/L3/XF2783.htm",
+      "birthDate": "03/30/1822"
+    },
+    {
+      "id": "XF2812",
+      "name": "Sarah Anne Hill",
+      "url": "/auntruth/new/htm/L3/XF2812.htm",
+      "birthDate": "01/01/1820"
+    },
+    {
+      "id": "XF2813",
+      "name": "Harriet   Hill",
+      "url": "/auntruth/new/htm/L3/XF2813.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Westmoreland Co Greensburg PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:53Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2785.htm",
+    "extractionDate": "2025-10-02T00:05:17.148745Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "XF1632",
+  "name": "Ralph Waldo Lothrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Sioux City IO   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1618",
+    "name": "John Stillma Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1618.htm"
+  },
+  "mother": {
+    "id": "XF1624",
+    "name": "Marcia Maria Mitchell-Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1624.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1638",
+      "name": "Clara Dora House-Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1638.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Ottumwa IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:34Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1632.htm",
+    "extractionDate": "2025-10-02T00:05:50.770555Z"
+  }
+}

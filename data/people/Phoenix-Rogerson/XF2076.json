@@ -1,0 +1,40 @@
+{
+  "id": "XF2076",
+  "name": "Son  French",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "AUS",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2074",
+    "name": "John French [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2074.htm"
+  },
+  "mother": {
+    "id": "XF2075",
+    "name": "-French [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2075.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "AUS",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:41Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2076.htm",
+    "extractionDate": "2025-10-02T00:04:57.134331Z"
+  }
+}

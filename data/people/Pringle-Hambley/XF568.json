@@ -1,0 +1,39 @@
+{
+  "id": "XF568",
+  "name": "Wesley  Stage",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF300",
+      "name": "Lucy Idella Pringle-Stage-Barkdall [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF300.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Edna Stebbe-Fedorco",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:30Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF568.htm",
+    "extractionDate": "2025-10-02T00:05:27.662082Z"
+  }
+}

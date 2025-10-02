@@ -1,0 +1,43 @@
+{
+  "id": "XF988",
+  "name": "Hannah  Jackson",
+  "lineage": "Ward",
+  "birthDate": "Wednesday, January 01, 1631",
+  "birthLocation": "UKG",
+  "deathDate": "Thursday, April 24, 1704",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF989",
+    "name": "Edward Jackson [Ward]",
+    "url": "/auntruth/new/htm/L5/XF989.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF987",
+      "name": "John Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF987.htm",
+      "marriageDate": "Saturday, January 01, 1650"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Newton MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married about 1650",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:55Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF988.htm",
+    "extractionDate": "2025-10-02T00:03:40.913394Z"
+  }
+}

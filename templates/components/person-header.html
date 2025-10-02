@@ -1,0 +1,18 @@
+{% from "macros/date-display.html" import date_display %}
+
+<header class="person-header card">
+    <h1 class="person-name">{{ person.name }}</h1>
+    <div class="person-meta">
+        {% if person.lineage == "Hagborg-Hansson" %}
+        <a href="/auntruth/new/htm/L1/index.htm" class="lineage-badge">{{ person.lineage }}</a>
+        {% else %}
+        <span class="lineage-badge">{{ person.lineage }}</span>
+        {% endif %}
+        {% if person.birthDate or person.deathDate %}
+        <span class="vital-dates">
+            {% if person.birthDate %}b. {{ date_display(person.birthDate) }}{% endif %}
+            {% if person.deathDate %} - d. {{ date_display(person.deathDate) }}{% endif %}
+        </span>
+        {% endif %}
+    </div>
+</header>

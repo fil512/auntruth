@@ -1,0 +1,46 @@
+{
+  "id": "XF1192",
+  "name": "Deborah  Bryant",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1191",
+      "name": "Nehemiah Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF1191.htm",
+      "marriageDate": "Tuesday, June 22, 1728"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1193",
+      "name": "Lemuel   Ward",
+      "url": "/auntruth/new/htm/L5/XF1193.htm",
+      "birthDate": "09/07/1729"
+    }
+  ],
+  "occupation": null,
+  "address": "North Yarmouth ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Marriage intentions published 22 June 1728",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:28Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1192.htm",
+    "extractionDate": "2025-10-02T00:03:36.439353Z"
+  }
+}

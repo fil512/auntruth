@@ -1,0 +1,41 @@
+{
+  "id": "XF2971",
+  "name": "Thomas  Ewer",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1017",
+      "name": "Hannah Howse-Ewer-Lothropp [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1017.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:13Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2971.htm",
+    "extractionDate": "2025-10-02T00:06:03.934578Z"
+  }
+}

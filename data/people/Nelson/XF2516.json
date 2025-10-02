@@ -1,0 +1,40 @@
+{
+  "id": "XF2516",
+  "name": "Khristian  Appelgren",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2515",
+    "name": "Per Karlsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2515.htm"
+  },
+  "mother": {
+    "id": "XF2514",
+    "name": "Marianna Hansson-Karlsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2514.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:52Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2516.htm",
+    "extractionDate": "2025-10-02T00:04:07.965772Z"
+  }
+}

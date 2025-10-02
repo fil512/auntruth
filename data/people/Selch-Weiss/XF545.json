@@ -1,0 +1,158 @@
+{
+  "id": "XF545",
+  "name": "Steen Otto Lindhardsen",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Monday, January 01, 1951",
+  "birthLocation": "Lynn Lake MB   CAN",
+  "deathDate": "Thursday, August 01, 1985",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF543",
+    "name": "Svend Lindhardsen [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF543.htm"
+  },
+  "mother": {
+    "id": "XF544",
+    "name": "Grete -Lindhardsen [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF544.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF541",
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm",
+      "marriageDate": "Thursday, November 01, 1979"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF547",
+      "name": "Dana   Lindhardsen",
+      "url": "/auntruth/new/htm/L6/XF547.htm",
+      "birthDate": "01/01/1982"
+    }
+  ],
+  "occupation": "Electrical Engineer",
+  "address": "Vancouver BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Graduated Electrical Engineer from University of Manitoba in about 1973. After working in larger organisations, became technical operations director for Computerland Western Canada franchise. Had had a SOL microcomputer prior to 1977. Was introduced to Connie Selch by David & Lorraine Hagborg summer 1979 when David was developing software for Computerland customers. The meeting took place at David's parents' cottage at Caddy Lake MB when the stars were especially brilliant in the dark, non-urban sky.",
+  "photos": [
+    {
+      "name": "Front of House",
+      "date": "Thursday, July 07, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI461.htm"
+    },
+    {
+      "name": "Lindhardsens & Rick Mueller",
+      "date": "Thursday, July 07, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI454.htm"
+    },
+    {
+      "name": "Playing with Shane",
+      "date": "Thursday, July 07, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI451.htm"
+    },
+    {
+      "name": "Under the Tree at Front",
+      "date": "Thursday, July 07, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI449.htm"
+    },
+    {
+      "name": "Front Porch Joyce & Rick",
+      "date": "Thursday, July 07, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI448.htm"
+    },
+    {
+      "name": "Front Steps with Rick Mueller & Joyce Kamaraus-Mueller",
+      "date": "Thursday, July 07, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI447.htm"
+    },
+    {
+      "name": "Backyard",
+      "date": "Friday, August 01, 1980",
+      "location": "Brandon Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI325.htm"
+    },
+    {
+      "name": "Souris Swinging Bridge",
+      "date": "Tuesday, July 15, 1980",
+      "location": "Souris Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI342.htm"
+    },
+    {
+      "name": "Skating St. Vital Park with Ngoc Yen, Ngoc Chanh & Phuoc Luong",
+      "date": "Thursday, January 10, 1980",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1013.htm"
+    },
+    {
+      "name": "New Year's",
+      "date": "Monday, December 31, 1979",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1017.htm"
+    },
+    {
+      "name": "Auld Lang Syne",
+      "date": "Monday, December 31, 1979",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1012.htm"
+    },
+    {
+      "name": "Dining Room (Grete Lindhardsen)",
+      "date": "Monday, October 01, 1979",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1014.htm"
+    },
+    {
+      "name": "Under the Spreading Umbrella Tree",
+      "date": "Friday, June 15, 1979",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI361.htm"
+    },
+    {
+      "name": "Quiet Reading",
+      "date": "Friday, June 15, 1979",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI360.htm"
+    },
+    {
+      "name": "On the Water",
+      "date": "Friday, June 15, 1979",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI359.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "At the Stoney Place with small waterfall",
+      "date": "Monday, October 01, 1984",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L6/XI1001.htm"
+    },
+    {
+      "name": "Mother & Child",
+      "date": "Tuesday, January 05, 1982",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L6/XI1003.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:15Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF545.htm",
+    "extractionDate": "2025-10-02T00:04:29.074284Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "XF2808",
+  "name": "Harriet (Hallie A. Hill",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, January 01, 1856",
+  "birthLocation": "Leechburg Armstrong Co     USA",
+  "deathDate": "Sunday, December 31, 1893",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2783",
+    "name": "John Wesley Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2783.htm"
+  },
+  "mother": {
+    "id": "XF2784",
+    "name": "Martha Stewart-Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2784.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2809",
+      "name": "Wilbur Harvey McConaughy [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2809.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:03Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2808.htm",
+    "extractionDate": "2025-10-02T00:05:18.452633Z"
+  }
+}

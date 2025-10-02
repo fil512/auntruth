@@ -1,0 +1,39 @@
+{
+  "id": "XF741",
+  "name": "Struss",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "GER",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF742",
+      "name": "Clem   Lewko",
+      "url": "/auntruth/new/htm/L7/XF742.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Anne Lewko-Stebbe",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:45Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF741.htm",
+    "extractionDate": "2025-10-02T00:03:57.247535Z"
+  }
+}

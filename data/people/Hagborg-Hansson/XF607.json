@@ -54,13 +54,17 @@
   "email": null,
   "phone": "204-322-5677, 204-322-5677",
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Hemfrid Johnsson",
   "notes": "married in 1954 does off the farm carpenter work in winter",
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:59:48Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF607.htm",
-    "extractionDate": "2025-10-01T04:27:32.937944Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF607.htm",
+    "extractionDate": "2025-10-01T22:03:18.245075Z"
   }
 }

@@ -1,0 +1,67 @@
+{
+  "id": "XF1129",
+  "name": "Cathy  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": "Friday, January 01, 1954",
+  "birthLocation": "Calgary AB   CAN",
+  "deathDate": "Thursday, June 22, 2000",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF488",
+    "name": "George Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF488.htm"
+  },
+  "mother": {
+    "id": "XF489",
+    "name": "Connie Trithart-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF489.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1130",
+      "name": "Terry Fedora [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1130.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1132",
+      "name": "Ryan   Fedora",
+      "url": "/auntruth/new/htm/L7/XF1132.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1131",
+      "name": "Becky   Fedora",
+      "url": "/auntruth/new/htm/L7/XF1131.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [
+    {
+      "name": "At Dinosaur Park with the Stebbes",
+      "date": "Saturday, August 01, 1970",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L1/XI1160.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:01Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1129.htm",
+    "extractionDate": "2025-10-02T00:03:51.197707Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "XF427",
+  "name": "Kevin Johnathan Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, January 01, 1981",
+  "birthLocation": "Saskatoon SK   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF418",
+    "name": "Richard Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF418.htm"
+  },
+  "mother": {
+    "id": "XF426",
+    "name": "Joan Selch-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF426.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Student(1999)",
+  "address": "407 Country Club Blvd. (also Whitewater WI) Winnipeg MB R3K 1X5 CAN",
+  "email": "kselch@hotmail.com",
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Rick Selch Family",
+      "date": "Wednesday, December 01, 1982",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1816.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:01Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF427.htm",
+    "extractionDate": "2025-10-02T00:04:26.030624Z"
+  }
+}

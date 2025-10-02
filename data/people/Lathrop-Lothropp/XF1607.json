@@ -1,0 +1,40 @@
+{
+  "id": "XF1607",
+  "name": "David  Holmes",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Stratford CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1774",
+    "name": "George Legrand Holmes [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1774.htm"
+  },
+  "mother": {
+    "id": "XF1773",
+    "name": "Amy Lincoln Judson-Holmes [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1773.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Stratford CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died at birth",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:24Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1607.htm",
+    "extractionDate": "2025-10-02T00:05:49.423572Z"
+  }
+}

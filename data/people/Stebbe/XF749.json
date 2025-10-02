@@ -1,0 +1,47 @@
+{
+  "id": "XF749",
+  "name": "George  Lewko",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF744",
+    "name": "Peter Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF744.htm"
+  },
+  "mother": {
+    "id": "XF745",
+    "name": "Angeline Sikierski-Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF745.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF750",
+      "name": "Eleanor Hindorff-Lewko [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF750.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Beausejour MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Anne Lewko-Stebbe",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:49Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF749.htm",
+    "extractionDate": "2025-10-02T00:03:57.665992Z"
+  }
+}

@@ -44,13 +44,17 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Hemfrid Johnsson",
   "notes": null,
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:53:04Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF123.htm",
-    "extractionDate": "2025-10-01T04:27:14.093656Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF123.htm",
+    "extractionDate": "2025-10-01T22:02:56.997566Z"
   }
 }

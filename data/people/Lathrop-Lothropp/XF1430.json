@@ -1,0 +1,60 @@
+{
+  "id": "XF1430",
+  "name": "George David Hubbard",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, February 20, 1857",
+  "birthLocation": "Painted Post NY   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1428",
+    "name": "Colman Smith Hubbard [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1428.htm"
+  },
+  "mother": {
+    "id": "XF1429",
+    "name": "Mary Platts Read-Hubbard [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1429.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1431",
+      "name": "Sara Maria Hosmer-Hawkes-Hubbard [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1431.htm",
+      "marriageDate": "Monday, May 01, 1882"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1433",
+      "name": "Nelson Eugene Hubbard",
+      "url": "/auntruth/new/htm/L4/XF1433.htm",
+      "birthDate": "11/18/1885"
+    },
+    {
+      "id": "XF1432",
+      "name": "Carleton Spencer Hubbard",
+      "url": "/auntruth/new/htm/L4/XF1432.htm",
+      "birthDate": "01/04/1884"
+    }
+  ],
+  "occupation": "Writer",
+  "address": "73 Grove Street Brooklyn NY  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "This is the source GDRH in this database. Authour of 'Ancestors and Descendants of Daniel Lothrop Sr. 1545 to 1901' He is 8th in descent from George Hubbard, of England, who settled in Hartford CN about 1635",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:08Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1430.htm",
+    "extractionDate": "2025-10-02T00:05:40.222133Z"
+  }
+}

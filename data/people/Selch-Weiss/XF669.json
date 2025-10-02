@@ -1,0 +1,47 @@
+{
+  "id": "XF669",
+  "name": "Kevin  Kiel",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF437",
+    "name": "Ken Kiel [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF437.htm"
+  },
+  "mother": {
+    "id": "XF436",
+    "name": "Marlene Langner-Kiel [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF436.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2902",
+      "name": "Beverley Kiel-Kiel [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2902.htm",
+      "marriageDate": "Saturday, July 02, 1994"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:14Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF669.htm",
+    "extractionDate": "2025-10-02T00:04:30.359453Z"
+  }
+}

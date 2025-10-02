@@ -1,0 +1,43 @@
+{
+  "id": "XF228",
+  "name": "Lewis  Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": "Sunday, January 01, 1860",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2465",
+    "name": "Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2465.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF227",
+      "name": "Mary Pringle-Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF227.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:20Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF228.htm",
+    "extractionDate": "2025-10-02T00:05:10.374585Z"
+  }
+}

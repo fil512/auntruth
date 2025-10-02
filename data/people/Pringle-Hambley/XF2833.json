@@ -1,0 +1,104 @@
+{
+  "id": "XF2833",
+  "name": "Elizabeth  Fluck",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, November 24, 1765",
+  "birthLocation": "Hill Twp Chester Co     USA",
+  "deathDate": "Sunday, October 10, 1852",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2836",
+    "name": "Philip Fluck [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2836.htm"
+  },
+  "mother": {
+    "id": "XF2837",
+    "name": "Anna Barbara Kern-Fluck [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2837.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2832",
+      "name": "Abraham Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2832.htm",
+      "marriageDate": "Sunday, June 20, 1784"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2859",
+      "name": "Isaac   Paul",
+      "url": "/auntruth/new/htm/L3/XF2859.htm",
+      "birthDate": "09/02/1810"
+    },
+    {
+      "id": "XF2769",
+      "name": "Samuel   Paul",
+      "url": "/auntruth/new/htm/L3/XF2769.htm",
+      "birthDate": "04/24/1805"
+    },
+    {
+      "id": "XF2857",
+      "name": "David   Paul",
+      "url": "/auntruth/new/htm/L3/XF2857.htm",
+      "birthDate": "08/27/1802"
+    },
+    {
+      "id": "XF2856",
+      "name": "Mary (Polly) Paul",
+      "url": "/auntruth/new/htm/L3/XF2856.htm",
+      "birthDate": "01/01/1796"
+    },
+    {
+      "id": "XF2854",
+      "name": "Barbara   Paul",
+      "url": "/auntruth/new/htm/L3/XF2854.htm",
+      "birthDate": "01/01/1793"
+    },
+    {
+      "id": "XF2852",
+      "name": "Jacob S. Paul",
+      "url": "/auntruth/new/htm/L3/XF2852.htm",
+      "birthDate": "01/18/1792"
+    },
+    {
+      "id": "XF2850",
+      "name": "Elizabeth   Paul",
+      "url": "/auntruth/new/htm/L3/XF2850.htm",
+      "birthDate": "06/19/1790"
+    },
+    {
+      "id": "XF2848",
+      "name": "John   Paul",
+      "url": "/auntruth/new/htm/L3/XF2848.htm",
+      "birthDate": "01/01/1786"
+    },
+    {
+      "id": "XF2846",
+      "name": "Hannah   Paul",
+      "url": "/auntruth/new/htm/L3/XF2846.htm",
+      "birthDate": "10/11/1785"
+    }
+  ],
+  "occupation": null,
+  "address": "Summerhill Twp Cambria Co   PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:14Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2833.htm",
+    "extractionDate": "2025-10-02T00:05:19.935043Z"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "XF204",
+  "name": "George  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, December 06, 1767",
+  "birthLocation": "USA",
+  "deathDate": "Friday, January 16, 1846",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF201",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF201.htm"
+  },
+  "mother": {
+    "id": "XF202",
+    "name": "Mary Wertz-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF202.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF205",
+      "name": "Catherine Cable-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF205.htm",
+      "marriageDate": "Sunday, May 05, 1793"
+    },
+    {
+      "id": "XF206",
+      "name": "Mrs. Elizabeth Reitz-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF206.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2464",
+      "name": "George   Pringle",
+      "url": "/auntruth/new/htm/L3/XF2464.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [
+    {
+      "name": "George Pringle 1767-1846",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Summerhill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI389.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:10Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF204.htm",
+    "extractionDate": "2025-10-02T00:05:08.389063Z"
+  }
+}

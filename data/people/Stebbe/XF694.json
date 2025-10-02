@@ -1,0 +1,58 @@
+{
+  "id": "XF694",
+  "name": "Jacob",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "HUN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF695",
+      "name": "Granny -Jacob [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF695.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF701",
+      "name": "Mary   Jacob",
+      "url": "/auntruth/new/htm/L7/XF701.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF700",
+      "name": "Andy   Jacob",
+      "url": "/auntruth/new/htm/L7/XF700.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF699",
+      "name": "Ann   Jacob",
+      "url": "/auntruth/new/htm/L7/XF699.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Looked after the horses on the \"Grov\"'s estate",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:25Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF694.htm",
+    "extractionDate": "2025-10-02T00:03:55.463752Z"
+  }
+}

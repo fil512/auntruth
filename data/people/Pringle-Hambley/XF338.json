@@ -1,0 +1,127 @@
+{
+  "id": "XF338",
+  "name": "Darrell  Newediuk",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, May 01, 1955",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1916",
+    "name": "Fred Newediuk [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1916.htm"
+  },
+  "mother": {
+    "id": "XF1917",
+    "name": "Bernice X-Newediuk [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1917.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF337",
+      "name": "Janet Ruth Campbell-Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF337.htm",
+      "marriageDate": "Saturday, December 18, 1982"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1227",
+      "name": "Jillian Janet Newediuk",
+      "url": "/auntruth/new/htm/L3/XF1227.htm",
+      "birthDate": "06/25/1987"
+    },
+    {
+      "id": "XF339",
+      "name": "Jessica   Newediuk",
+      "url": "/auntruth/new/htm/L3/XF339.htm",
+      "birthDate": "05/03/1985"
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": "newediuk@mts.net",
+  "phone": "204-339-0240, 204-339-0240",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Auntie Ruth Dinner by Patti",
+      "date": "Thursday, June 05, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2126.htm"
+    },
+    {
+      "name": "DiningRoom Dinner Party with Auntie Ruth",
+      "date": "Thursday, June 05, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2125.htm"
+    },
+    {
+      "name": "Newediuks",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2084.htm"
+    },
+    {
+      "name": "Bryan & Darrell",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2081.htm"
+    },
+    {
+      "name": "At Janet & Darrells'",
+      "date": "Sunday, May 18, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2078.htm"
+    },
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1633.htm"
+    },
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1630.htm"
+    },
+    {
+      "name": "Dining Room",
+      "date": "Monday, June 02, 1986",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI856.htm"
+    },
+    {
+      "name": "Campbell Family",
+      "date": "Thursday, December 20, 1984",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L0/XI1626.htm"
+    },
+    {
+      "name": "In Livingroom",
+      "date": "Sunday, June 05, 1983",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI994.htm"
+    },
+    {
+      "name": "In our Livingroom",
+      "date": "Tuesday, March 15, 1983",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI900.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:16Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF338.htm",
+    "extractionDate": "2025-10-02T00:05:25.847294Z"
+  }
+}

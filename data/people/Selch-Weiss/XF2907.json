@@ -1,0 +1,71 @@
+{
+  "id": "XF2907",
+  "name": "Jean  Bush",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Tuesday, June 01, 1926",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF513",
+    "name": "Bush [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF513.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2908",
+      "name": "Jim Cunningham [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2908.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2909",
+      "name": "Alison   Cunningham",
+      "url": "/auntruth/new/htm/L6/XF2909.htm",
+      "birthDate": "07/01/1950"
+    },
+    {
+      "id": "XF2910",
+      "name": "Jim   Cunningham",
+      "url": "/auntruth/new/htm/L6/XF2910.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Banking",
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Started in bank age 17. Was held up first day. Was held up 5 times throughout career",
+  "photos": [
+    {
+      "name": "Jean, Alison & Dave P.",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1945.htm"
+    },
+    {
+      "name": "Alison, Jean & Ron",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1939.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:46Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2907.htm",
+    "extractionDate": "2025-10-02T00:04:22.031773Z"
+  }
+}

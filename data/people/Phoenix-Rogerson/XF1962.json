@@ -1,0 +1,58 @@
+{
+  "id": "XF1962",
+  "name": "Philip  Lance",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1961",
+      "name": "Susan Nicol-Lance [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1961.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1972",
+      "name": "Philip   Lance",
+      "url": "/auntruth/new/htm/L9/XF1972.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1971",
+      "name": "John   Lance",
+      "url": "/auntruth/new/htm/L9/XF1971.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1970",
+      "name": "Ann   Lance",
+      "url": "/auntruth/new/htm/L9/XF1970.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:53Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1962.htm",
+    "extractionDate": "2025-10-02T00:04:51.326106Z"
+  }
+}

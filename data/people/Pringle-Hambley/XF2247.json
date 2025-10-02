@@ -1,0 +1,67 @@
+{
+  "id": "XF2247",
+  "name": "Nelda  Heffren",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Thursday, January 01, 1925",
+  "birthLocation": "Chicago IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2244",
+    "name": "James William Heffren [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2244.htm"
+  },
+  "mother": {
+    "id": "XF2243",
+    "name": "Ethel Elizabeth Sophia Victoria Hambley-Hefrin [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2243.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2248",
+      "name": "Tony MacKay [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2248.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2989",
+      "name": "Douglas   MacKay",
+      "url": "/auntruth/new/htm/L3/XF2989.htm",
+      "birthDate": "01/01/1950"
+    }
+  ],
+  "occupation": null,
+  "address": "Regina SK  CAN",
+  "email": "nmackay@sasktel.net",
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Roast Beef Dinner",
+      "date": "Friday, January 21, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2623.htm"
+    },
+    {
+      "name": "Nelda Making Gravy",
+      "date": "Friday, January 21, 2005",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2620.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:53Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2247.htm",
+    "extractionDate": "2025-10-02T00:05:09.997138Z"
+  }
+}

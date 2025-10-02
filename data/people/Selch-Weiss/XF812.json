@@ -1,0 +1,46 @@
+{
+  "id": "XF812",
+  "name": "Emilie  Freund",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF811",
+      "name": "Reinhold (Roy) Sackvie [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF811.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF810",
+      "name": "Rheinhold (Roy)   Sackvie",
+      "url": "/auntruth/new/htm/L6/XF810.htm",
+      "birthDate": "12/09/1926"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'They Stopped at a Good Place' History of Beausejour",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:18Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF812.htm",
+    "extractionDate": "2025-10-02T00:04:31.830717Z"
+  }
+}

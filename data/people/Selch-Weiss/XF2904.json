@@ -1,0 +1,52 @@
+{
+  "id": "XF2904",
+  "name": "Heidi  Brenden",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2903",
+    "name": "Owen Brenden [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2903.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1104",
+      "name": "Derek Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1104.htm",
+      "marriageDate": "Wednesday, February 27, 2002"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Engagement Announcement",
+      "date": "Monday, July 01, 2002",
+      "location": "Minot North Dakota United States of America",
+      "url": "/auntruth/new/htm/L6/XI1812.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:45Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2904.htm",
+    "extractionDate": "2025-10-02T00:04:22.013340Z"
+  }
+}

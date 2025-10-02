@@ -1,0 +1,40 @@
+{
+  "id": "XF1103",
+  "name": "Justin  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1101",
+    "name": "Kenneth Grant Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1101.htm"
+  },
+  "mother": {
+    "id": "XF1102",
+    "name": "Marnie Klassen-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1102.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:50Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1103.htm",
+    "extractionDate": "2025-10-02T00:04:16.700135Z"
+  }
+}

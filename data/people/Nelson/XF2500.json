@@ -1,0 +1,47 @@
+{
+  "id": "XF2500",
+  "name": "Myrtle  Hoglund",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2497",
+    "name": "Nils Hoglund [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2497.htm"
+  },
+  "mother": {
+    "id": "XF2496",
+    "name": "Mathilda Eks-Hoglund [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2496.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2501",
+      "name": "Bill Mackie [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2501.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:45Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2500.htm",
+    "extractionDate": "2025-10-02T00:04:07.121034Z"
+  }
+}

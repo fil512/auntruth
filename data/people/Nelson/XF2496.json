@@ -1,0 +1,60 @@
+{
+  "id": "XF2496",
+  "name": "Mathilda  Eks",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2405",
+    "name": "Nils Eks [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2405.htm"
+  },
+  "mother": {
+    "id": "XF2404",
+    "name": "Malina Hansson-Eks [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2404.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2497",
+      "name": "Nils Hoglund [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2497.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2500",
+      "name": "Myrtle   Hoglund",
+      "url": "/auntruth/new/htm/L2/XF2500.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2498",
+      "name": "Mamie   Hoglund",
+      "url": "/auntruth/new/htm/L2/XF2498.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:43Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2496.htm",
+    "extractionDate": "2025-10-02T00:04:06.894155Z"
+  }
+}

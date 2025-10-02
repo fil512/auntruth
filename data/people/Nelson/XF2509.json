@@ -1,0 +1,40 @@
+{
+  "id": "XF2509",
+  "name": "Khristian  Hansson",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2505",
+    "name": "Per Hansson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2505.htm"
+  },
+  "mother": {
+    "id": "XF2504",
+    "name": "Katarina Hansson-Hansson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2504.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:49Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2509.htm",
+    "extractionDate": "2025-10-02T00:04:07.627828Z"
+  }
+}

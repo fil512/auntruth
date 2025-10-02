@@ -1,0 +1,43 @@
+{
+  "id": "XF1281",
+  "name": "John  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, January 01, 1786",
+  "birthLocation": "CW   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1282",
+    "name": "Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1282.htm"
+  },
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF1279",
+      "name": "Suzannah   Hambley",
+      "url": "/auntruth/new/htm/L3/XF1279.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Slateman",
+  "address": "CW  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Marion Hambley-Campbell",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:05Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1281.htm",
+    "extractionDate": "2025-10-02T00:05:06.817446Z"
+  }
+}

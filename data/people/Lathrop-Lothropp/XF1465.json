@@ -1,0 +1,40 @@
+{
+  "id": "XF1465",
+  "name": "Malcom Douglas Hosmer",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Tuesday, June 28, 1898",
+  "birthLocation": "Brooklyn NY   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1464",
+    "name": "Wells Rogers Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1464.htm"
+  },
+  "mother": {
+    "id": "XF1463",
+    "name": "Ethel Mae Newell-Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1463.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Salem MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:23Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1465.htm",
+    "extractionDate": "2025-10-02T00:05:42.027271Z"
+  }
+}

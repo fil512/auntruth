@@ -1,0 +1,39 @@
+{
+  "id": "XF2460",
+  "name": "Alexander  Storey",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2461",
+      "name": "M. Josephine   Storey",
+      "url": "/auntruth/new/htm/L3/XF2461.htm",
+      "birthDate": "01/01/1905"
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:27Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2460.htm",
+    "extractionDate": "2025-10-02T00:05:11.503710Z"
+  }
+}

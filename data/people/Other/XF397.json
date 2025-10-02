@@ -1,0 +1,46 @@
+{
+  "id": "XF397",
+  "name": "Alex  Girvitz",
+  "lineage": "",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": "Thursday, January 01, 1981",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF396",
+      "name": "Betty Schreyer-Girvitz [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF396.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Beausejour MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Cattle buyer, then had Alex's Meat Market in Beausejour where David & Lorraine would buy supplies for their restaurant.",
+  "photos": [
+    {
+      "name": "Horsing Around",
+      "date": "Thursday, August 31, 1939",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1493.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:43Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF397.htm",
+    "extractionDate": "2025-10-02T00:06:13.157978Z"
+  }
+}

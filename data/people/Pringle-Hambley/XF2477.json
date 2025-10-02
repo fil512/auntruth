@@ -1,0 +1,39 @@
+{
+  "id": "XF2477",
+  "name": "Minerva  Shaffer",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, January 01, 1860",
+  "birthLocation": "USA",
+  "deathDate": "Thursday, January 01, 1948",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2476",
+      "name": "Emanuel Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2476.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Pringle Hill Cemetery Book",
+  "notes": "Pringle Hill Cemetery Lot#32",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:34Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2477.htm",
+    "extractionDate": "2025-10-02T00:05:12.460050Z"
+  }
+}

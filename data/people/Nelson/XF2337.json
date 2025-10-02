@@ -1,0 +1,39 @@
+{
+  "id": "XF2337",
+  "name": "Ingrid",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2336",
+      "name": "Ola Persson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2336.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:33Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2337.htm",
+    "extractionDate": "2025-10-02T00:04:01.994742Z"
+  }
+}

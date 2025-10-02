@@ -1,0 +1,61 @@
+{
+  "id": "XF58",
+  "name": "Ronald Andrew Cameron",
+  "lineage": "Nelson",
+  "birthDate": "Monday, February 05, 1923",
+  "birthLocation": "MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF56",
+    "name": "Andrew Cameron [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF56.htm"
+  },
+  "mother": {
+    "id": "XF52",
+    "name": "Hilma Agneta Esterberg-Cameron [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF52.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF59",
+      "name": "Lois Marie Brand(Anderson)-Cameron [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF59.htm",
+      "marriageDate": "Saturday, February 03, 1962"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF60",
+      "name": "Ruth Nadine Cameron",
+      "url": "/auntruth/new/htm/L2/XF60.htm",
+      "birthDate": "08/12/1963"
+    }
+  ],
+  "occupation": null,
+  "address": "50 Wedgewood Bay Brandon MB  CAN",
+  "email": null,
+  "phone": "(204) 726-8517, (204) 726-8517",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [
+    {
+      "name": "The Esterbergs",
+      "date": "Sunday, January 20, 1924",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1368.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:25Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF58.htm",
+    "extractionDate": "2025-10-02T00:04:10.814035Z"
+  }
+}

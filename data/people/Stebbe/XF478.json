@@ -1,0 +1,72 @@
+{
+  "id": "XF478",
+  "name": "Richard  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": "Wednesday, October 30, 1912",
+  "birthLocation": "CAN",
+  "deathDate": "Saturday, January 01, 1977",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF473",
+    "name": "Gustav (Gramps) Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF473.htm"
+  },
+  "mother": {
+    "id": "XF471",
+    "name": "Olga Lentz-Stebbe [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF471.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF479",
+      "name": "Martha Wensel-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF479.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF481",
+      "name": "Baby   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF481.htm",
+      "birthDate": "01/01/1946"
+    },
+    {
+      "id": "XF480",
+      "name": "Rhoda   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF480.htm",
+      "birthDate": "01/01/1941"
+    },
+    {
+      "id": "XF482",
+      "name": "Florence   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF482.htm",
+      "birthDate": "01/01/1935"
+    },
+    {
+      "id": "XF484",
+      "name": "Alvin   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF484.htm",
+      "birthDate": "01/01/1934"
+    }
+  ],
+  "occupation": "Owner/Operator Stebbe Blacksmith Beausejour MB",
+  "address": "Beausejour MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "Lung Cancer",
+  "genetics": "S/D",
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Had blacksmith's shop in Beausejour. 'Jingo Jingo'",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:26Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF478.htm",
+    "extractionDate": "2025-10-02T00:03:52.727695Z"
+  }
+}

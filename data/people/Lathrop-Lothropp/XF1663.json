@@ -1,0 +1,40 @@
+{
+  "id": "XF1663",
+  "name": "Lewis Ely Stephens",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Pasadena CA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1626",
+    "name": "Joseph Doten Stevens [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1626.htm"
+  },
+  "mother": {
+    "id": "XF1620",
+    "name": "Frances Adriann Lothrop-Stevens [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1620.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Pasadena CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:47Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1663.htm",
+    "extractionDate": "2025-10-02T00:05:52.380243Z"
+  }
+}

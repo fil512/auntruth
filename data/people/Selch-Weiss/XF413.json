@@ -1,0 +1,133 @@
+{
+  "id": "XF413",
+  "name": "Frederick (Freddy) Henry Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Saturday, April 05, 1919",
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": "Friday, May 26, 1995",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF383",
+    "name": "August Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF383.htm"
+  },
+  "mother": {
+    "id": "XF384",
+    "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF384.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF414",
+      "name": "Ida Young-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF414.htm",
+      "marriageDate": "Sunday, December 01, 1946"
+    },
+    {
+      "id": "XF415",
+      "name": "Rose Moroz-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF415.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF428",
+      "name": "Beverly   Selch",
+      "url": "/auntruth/new/htm/L6/XF428.htm",
+      "birthDate": "04/21/1963"
+    },
+    {
+      "id": "XF419",
+      "name": "Bruce   Selch",
+      "url": "/auntruth/new/htm/L6/XF419.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF418",
+      "name": "Richard   Selch",
+      "url": "/auntruth/new/htm/L6/XF418.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Farmer",
+  "address": "Wadena SK  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "Car Accident",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Great sense of humour. Heel & Toe with Louis Young.",
+  "photos": [
+    {
+      "name": "Uncle Freddy Funeral",
+      "date": "Tuesday, May 30, 1995",
+      "location": "Wadena Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1811.htm"
+    },
+    {
+      "name": "Obituary Freddie Selch",
+      "date": "Sunday, May 28, 1995",
+      "location": "Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L0/XI1565.htm"
+    },
+    {
+      "name": "Freddy Selch Family",
+      "date": "Monday, December 01, 1969",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1814.htm"
+    },
+    {
+      "name": "Beverley, Fred & Ida",
+      "date": "Monday, July 01, 1968",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1813.htm"
+    },
+    {
+      "name": "Rick Confirmation",
+      "date": "Sunday, May 01, 1960",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1810.htm"
+    },
+    {
+      "name": "With Freddy & Ida",
+      "date": "Monday, December 01, 1947",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1766.htm"
+    },
+    {
+      "name": "Wedding Ida & Fred",
+      "date": "Sunday, December 01, 1946",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1809.htm"
+    },
+    {
+      "name": "Fred & Ida",
+      "date": "Sunday, December 01, 1946",
+      "location": "Wadena Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1808.htm"
+    },
+    {
+      "name": "Front of House",
+      "date": "Sunday, October 11, 1942",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1498.htm"
+    },
+    {
+      "name": "Soldiers Visit",
+      "date": "Saturday, May 02, 1942",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1492.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:55Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF413.htm",
+    "extractionDate": "2025-10-02T00:04:25.142670Z"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "XF340",
+  "name": "Gail Louise Campbell",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, June 11, 1954",
+  "birthLocation": "Ottawa ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF336",
+    "name": "William Philip Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF336.htm"
+  },
+  "mother": {
+    "id": "XF335",
+    "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF335.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF341",
+      "name": "Randy Smadella [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF341.htm",
+      "marriageDate": "Sunday, December 19, 1982"
+    },
+    {
+      "id": "XF1919",
+      "name": "Kenneth Sharland [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1919.htm",
+      "marriageDate": "Tuesday, January 31, 1995"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1918",
+      "name": "Samantha   Smadella",
+      "url": "/auntruth/new/htm/L3/XF1918.htm",
+      "birthDate": "06/25/1986"
+    }
+  ],
+  "occupation": null,
+  "address": "Kanata ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "divorced from Randy Smadella 1989",
+  "photos": [
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1632.htm"
+    },
+    {
+      "name": "Visiting",
+      "date": "Friday, December 20, 1985",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L3/XI993.htm"
+    },
+    {
+      "name": "Campbell Family",
+      "date": "Thursday, December 20, 1984",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L0/XI1626.htm"
+    },
+    {
+      "name": "At St. Andrews River Heights United Church",
+      "date": "Sunday, December 19, 1982",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI902.htm"
+    },
+    {
+      "name": "Siblings",
+      "date": "Saturday, February 10, 1962",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI987.htm"
+    },
+    {
+      "name": "At Marion's",
+      "date": "Tuesday, February 01, 1955",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI944.htm"
+    },
+    {
+      "name": "Christmas Dinner",
+      "date": "Saturday, December 25, 1954",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI975.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:17Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF340.htm",
+    "extractionDate": "2025-10-02T00:05:25.988473Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "XF2762",
+  "name": "James Martin Palmer",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2761",
+      "name": "Margaret (Maggie) Pringle-Palmer [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2761.htm",
+      "marriageDate": "Saturday, January 01, 1859"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:42Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2762.htm",
+    "extractionDate": "2025-10-02T00:05:15.837897Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "XF61",
+  "name": "John Neil Redesic(Ardacci)",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF60",
+      "name": "Ruth Nadine Cameron-Redesic(Ardacci) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF60.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1026",
+      "name": "Angela Veronic Redesic",
+      "url": "/auntruth/new/htm/L2/XF1026.htm",
+      "birthDate": "12/29/1991"
+    }
+  ],
+  "occupation": null,
+  "address": "Yorkton SK  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:27Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF61.htm",
+    "extractionDate": "2025-10-02T00:04:11.019981Z"
+  }
+}

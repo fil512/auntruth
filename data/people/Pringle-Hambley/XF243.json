@@ -1,0 +1,39 @@
+{
+  "id": "XF243",
+  "name": "Adam  Mosey",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF241",
+      "name": "Margaret Pringle-Klotz-Mosey [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF241.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:27Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF243.htm",
+    "extractionDate": "2025-10-02T00:05:11.246178Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF1090",
+  "name": "Doug  Peluk",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF551",
+    "name": "Theodore (Ted) Peluk [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF551.htm"
+  },
+  "mother": {
+    "id": "XF552",
+    "name": "Gail Draward-Peluk [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF552.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:43Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1090.htm",
+    "extractionDate": "2025-10-02T00:04:15.992943Z"
+  }
+}

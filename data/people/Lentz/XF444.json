@@ -1,0 +1,58 @@
+{
+  "id": "XF444",
+  "name": "Amelia  Von Belaff",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": "POL",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF443",
+      "name": "Johannes Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF443.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF446",
+      "name": "Juliana   Lentz",
+      "url": "/auntruth/new/htm/L8/XF446.htm",
+      "birthDate": "01/01/1874"
+    },
+    {
+      "id": "XF445",
+      "name": "Ludwig   Lentz",
+      "url": "/auntruth/new/htm/L8/XF445.htm",
+      "birthDate": "01/01/1870"
+    },
+    {
+      "id": "XF691",
+      "name": "Fred   Lentz",
+      "url": "/auntruth/new/htm/L8/XF691.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:11Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF444.htm",
+    "extractionDate": "2025-10-02T00:03:01.839174Z"
+  }
+}

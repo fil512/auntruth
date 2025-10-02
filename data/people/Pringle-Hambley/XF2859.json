@@ -1,0 +1,49 @@
+{
+  "id": "XF2859",
+  "name": "Isaac  Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, September 02, 1810",
+  "birthLocation": "Morrisons Cove Bedford Co     USA",
+  "deathDate": "Wednesday, October 14, 1896",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2832",
+    "name": "Abraham Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2832.htm"
+  },
+  "mother": {
+    "id": "XF2833",
+    "name": "Elizabeth Fluck-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2833.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF262",
+      "name": "Susannah Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF262.htm",
+      "marriageDate": "Thursday, July 10, 1834"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Cambria Co Pringle Hill PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:25Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2859.htm",
+    "extractionDate": "2025-10-02T00:05:21.414180Z"
+  }
+}

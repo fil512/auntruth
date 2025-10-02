@@ -24,13 +24,17 @@
   "email": null,
   "phone": "204-222-0303, 204-222-0303",
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Bonnie M. Hagborg",
   "notes": null,
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T19:04:53Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1252.htm",
-    "extractionDate": "2025-10-01T04:27:15.505294Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF1252.htm",
+    "extractionDate": "2025-10-01T22:02:58.728938Z"
   }
 }

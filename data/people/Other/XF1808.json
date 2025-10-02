@@ -1,0 +1,52 @@
+{
+  "id": "XF1808",
+  "name": "Esther",
+  "lineage": "",
+  "birthDate": "Saturday, July 05, 1958",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1807",
+      "name": "Neil Rothwell []",
+      "url": "/auntruth/new/htm/L0/XF1807.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1810",
+      "name": "Michael   Rothwell",
+      "url": "/auntruth/new/htm/L0/XF1810.htm",
+      "birthDate": "04/07/1979"
+    },
+    {
+      "id": "XF1809",
+      "name": "Sherry   Rothwell",
+      "url": "/auntruth/new/htm/L0/XF1809.htm",
+      "birthDate": "06/18/1976"
+    }
+  ],
+  "occupation": "Woodlands School Secretary",
+  "address": "Rosser MB R0H 1E0 CAN",
+  "email": null,
+  "phone": "204-322-5562, 204-322-5562",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:48Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF1808.htm",
+    "extractionDate": "2025-10-02T00:06:11.786247Z"
+  }
+}

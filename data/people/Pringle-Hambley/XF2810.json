@@ -1,0 +1,49 @@
+{
+  "id": "XF2810",
+  "name": "Laura M. Hill",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Leechburg Armstrong Co     USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2783",
+    "name": "John Wesley Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2783.htm"
+  },
+  "mother": {
+    "id": "XF2784",
+    "name": "Martha Stewart-Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2784.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2811",
+      "name": "Thomas Wilson Cramer [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2811.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:04Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2810.htm",
+    "extractionDate": "2025-10-02T00:05:18.634318Z"
+  }
+}

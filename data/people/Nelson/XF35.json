@@ -1,0 +1,66 @@
+{
+  "id": "XF35",
+  "name": "Ruth Adele Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, April 24, 1928",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF15",
+    "name": "Otto Ernest Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF15.htm"
+  },
+  "mother": {
+    "id": "XF2378",
+    "name": "Anna Eugenia Andersson-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2378.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF796",
+      "name": "Kenneth Douglas Gray [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF796.htm",
+      "marriageDate": "Monday, August 25, 1947"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2381",
+      "name": "Woodrow   Gray",
+      "url": "/auntruth/new/htm/L2/XF2381.htm",
+      "birthDate": "01/01/1959"
+    },
+    {
+      "id": "XF2380",
+      "name": "Kathleen Anna Gray",
+      "url": "/auntruth/new/htm/L2/XF2380.htm",
+      "birthDate": "10/27/1949"
+    },
+    {
+      "id": "XF2379",
+      "name": "Jon Nelson Gray",
+      "url": "/auntruth/new/htm/L2/XF2379.htm",
+      "birthDate": "06/15/1948"
+    }
+  ],
+  "occupation": null,
+  "address": "CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:12Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF35.htm",
+    "extractionDate": "2025-10-02T00:04:09.587505Z"
+  }
+}

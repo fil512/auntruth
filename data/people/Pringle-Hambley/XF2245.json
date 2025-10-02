@@ -1,0 +1,40 @@
+{
+  "id": "XF2245",
+  "name": "Hazel  Heffren",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "SK   CAN",
+  "deathDate": "Wednesday, January 01, 1969",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2244",
+    "name": "James William Heffren [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2244.htm"
+  },
+  "mother": {
+    "id": "XF2243",
+    "name": "Ethel Elizabeth Sophia Victoria Hambley-Hefrin [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2243.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Missionary",
+  "address": "Ascot SK  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Was missionary to China in 1930-50's",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:52Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2245.htm",
+    "extractionDate": "2025-10-02T00:05:09.896632Z"
+  }
+}

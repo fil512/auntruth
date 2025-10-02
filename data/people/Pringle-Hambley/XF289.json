@@ -1,0 +1,91 @@
+{
+  "id": "XF289",
+  "name": "Ira Daniel Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, January 01, 1877",
+  "birthLocation": "PA   USA",
+  "deathDate": "Monday, January 01, 1962",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF255",
+    "name": "Isaac Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF255.htm"
+  },
+  "mother": {
+    "id": "XF257",
+    "name": "Mary Alice Dunmire-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF257.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF290",
+      "name": "Ella Aiken-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF290.htm",
+      "marriageDate": "Sunday, December 20, 1896"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF291",
+      "name": "Margaret   Pringle",
+      "url": "/auntruth/new/htm/L3/XF291.htm",
+      "birthDate": "12/01/1908"
+    },
+    {
+      "id": "XF293",
+      "name": "Walter   Pringle",
+      "url": "/auntruth/new/htm/L3/XF293.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Dugald MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": "When father Isaac died, Ira went to live with his uncle Joseph Dunmire. He stuck together with brother Frank as they grew older. Settled in Dugald, Man. Canada (Built schoolhouse there). Never became Canadian citizen as wife Ella always wanted to return to USA.",
+  "photos": [
+    {
+      "name": "At Front Planter",
+      "date": "Saturday, November 01, 1958",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI991.htm"
+    },
+    {
+      "name": "In Front",
+      "date": "Wednesday, October 01, 1958",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI982.htm"
+    },
+    {
+      "name": "Christmas in Dugald",
+      "date": "Thursday, December 20, 1956",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI969.htm"
+    },
+    {
+      "name": "60th Anniversary",
+      "date": "Thursday, December 20, 1956",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI968.htm"
+    },
+    {
+      "name": "Dinner at Palmquist Farm",
+      "date": "Tuesday, November 01, 1955",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI985.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:49Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF289.htm",
+    "extractionDate": "2025-10-02T00:05:22.389027Z"
+  }
+}

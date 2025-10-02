@@ -1,0 +1,59 @@
+{
+  "id": "XF843",
+  "name": "Norma  Breedlove",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1215",
+    "name": "Louis Breedlove [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1215.htm"
+  },
+  "mother": {
+    "id": "XF1224",
+    "name": "Ada Josephi Brittingham-Breedlove [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1224.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2290",
+      "name": "Anne   Barkley",
+      "url": "/auntruth/new/htm/L4/XF2290.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2289",
+      "name": "John   Barkley",
+      "url": "/auntruth/new/htm/L4/XF2289.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2288",
+      "name": "Gerry   Barkley",
+      "url": "/auntruth/new/htm/L4/XF2288.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Fort Wayne IN  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:32Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF843.htm",
+    "extractionDate": "2025-10-02T00:06:04.072479Z"
+  }
+}

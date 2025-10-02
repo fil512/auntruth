@@ -1,0 +1,64 @@
+{
+  "id": "XF371",
+  "name": "Christian  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, January 01, 1832",
+  "birthLocation": "RUS",
+  "deathDate": "Tuesday, March 06, 1928",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF372",
+      "name": "Wilhelmine Lentz-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF372.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF382",
+      "name": "Paulina   Selch",
+      "url": "/auntruth/new/htm/L6/XF382.htm",
+      "birthDate": "01/01/1876"
+    },
+    {
+      "id": "XF383",
+      "name": "August   Selch",
+      "url": "/auntruth/new/htm/L6/XF383.htm",
+      "birthDate": "01/01/1874"
+    },
+    {
+      "id": "XF375",
+      "name": "Mary   Selch",
+      "url": "/auntruth/new/htm/L6/XF375.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF373",
+      "name": "Theophilia   Selch",
+      "url": "/auntruth/new/htm/L6/XF373.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Beausejour MB R0E 0C0 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Immigrated with wife Wilhelmine from Russia in 1892. bringing August, Paulina, Mary, Theophilia; settling first in Winnipeg. In 1896 August Selch took a homestead on 16-13-8E in Green Bay, MB. Christian settled with them. The homestead was a dense forest. With the help of a team of oxen they began to clear the land. Soon they also acquired a horse. The horse, teamed up with the one owned by the neighbouring Litke family enabled the 2 families to make trips to Beausejour for supplies. German records show Selch name also Salcher, Selchert",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:31Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF371.htm",
+    "extractionDate": "2025-10-02T00:04:22.972878Z"
+  }
+}

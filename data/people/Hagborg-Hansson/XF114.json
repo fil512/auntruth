@@ -44,13 +44,17 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Hemfrid Johnsson",
   "notes": "Agronom. Has lived one year in USA",
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:52:59Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF114.htm",
-    "extractionDate": "2025-10-01T04:27:13.552309Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF114.htm",
+    "extractionDate": "2025-10-01T22:02:56.238074Z"
   }
 }

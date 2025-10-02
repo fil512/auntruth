@@ -1,0 +1,42 @@
+{
+  "id": "XF2812",
+  "name": "Sarah Anne Hill",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, January 01, 1820",
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2785",
+    "name": "Aaron M. Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2785.htm"
+  },
+  "mother": {
+    "id": "XF2786",
+    "name": "Mary Anne  -Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2786.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:05Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2812.htm",
+    "extractionDate": "2025-10-02T00:05:18.735865Z"
+  }
+}

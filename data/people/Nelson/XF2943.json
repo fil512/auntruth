@@ -1,0 +1,47 @@
+{
+  "id": "XF2943",
+  "name": "XX  Orvis",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF24",
+      "name": "Esther   Orvis",
+      "url": "/auntruth/new/htm/L2/XF24.htm",
+      "birthDate": "09/14/1912"
+    },
+    {
+      "id": "XF2944",
+      "name": "YY   Orvis",
+      "url": "/auntruth/new/htm/L2/XF2944.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:01Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2943.htm",
+    "extractionDate": "2025-10-02T00:04:09.166506Z"
+  }
+}

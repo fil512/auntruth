@@ -1,0 +1,40 @@
+{
+  "id": "XF660",
+  "name": "Brian Andrew Cameron",
+  "lineage": "Nelson",
+  "birthDate": "Friday, January 01, 1971",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF57",
+    "name": "Hilton Cameron [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF57.htm"
+  },
+  "mother": {
+    "id": "XF659",
+    "name": "Alice Brand(Anderson)-Cameron [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF659.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:10Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF660.htm",
+    "extractionDate": "2025-10-02T00:04:11.972468Z"
+  }
+}

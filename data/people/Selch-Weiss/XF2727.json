@@ -1,0 +1,49 @@
+{
+  "id": "XF2727",
+  "name": "Stewart  Freund",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF378",
+    "name": "Gustaf(Gus) Freund [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF378.htm"
+  },
+  "mother": {
+    "id": "XF379",
+    "name": "Norma -Freund [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF379.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "In Front",
+      "date": "Wednesday, July 01, 1959",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1530.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:26Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2727.htm",
+    "extractionDate": "2025-10-02T00:04:20.549386Z"
+  }
+}

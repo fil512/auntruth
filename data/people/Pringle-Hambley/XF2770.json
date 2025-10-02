@@ -1,0 +1,78 @@
+{
+  "id": "XF2770",
+  "name": "Susannah  Eyler",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2769",
+      "name": "Samuel Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2769.htm",
+      "marriageDate": "Tuesday, January 01, 1833"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2844",
+      "name": "Emmanuel S. Paul",
+      "url": "/auntruth/new/htm/L3/XF2844.htm",
+      "birthDate": "03/25/1850"
+    },
+    {
+      "id": "XF2843",
+      "name": "John   Paul",
+      "url": "/auntruth/new/htm/L3/XF2843.htm",
+      "birthDate": "01/01/1844"
+    },
+    {
+      "id": "XF2842",
+      "name": "Maria   Paul",
+      "url": "/auntruth/new/htm/L3/XF2842.htm",
+      "birthDate": "03/17/1839"
+    },
+    {
+      "id": "XF2840",
+      "name": "Elizabeth   Paul",
+      "url": "/auntruth/new/htm/L3/XF2840.htm",
+      "birthDate": "02/14/1837"
+    },
+    {
+      "id": "XF2838",
+      "name": "William Henry Paul",
+      "url": "/auntruth/new/htm/L3/XF2838.htm",
+      "birthDate": "11/01/1835"
+    },
+    {
+      "id": "XF2760",
+      "name": "Elias   Paul",
+      "url": "/auntruth/new/htm/L3/XF2760.htm",
+      "birthDate": "08/08/1834"
+    }
+  ],
+  "occupation": null,
+  "address": "Indiana Co   PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:46Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2770.htm",
+    "extractionDate": "2025-10-02T00:05:16.310182Z"
+  }
+}

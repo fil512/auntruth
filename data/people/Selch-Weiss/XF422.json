@@ -1,0 +1,60 @@
+{
+  "id": "XF422",
+  "name": "Gottlieb (Curly  Langner",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Friday, November 17, 1922",
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": "Saturday, August 07, 1999",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF558",
+    "name": "Gustave Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF558.htm"
+  },
+  "mother": {
+    "id": "XF667",
+    "name": "Maria Patzer [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF667.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF423",
+      "name": "Martha (Mardy) Lachman-Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF423.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Construction 30 years G.W. & R. Langner Construction",
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "cancer",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Curly Funeral",
+      "date": "Tuesday, August 10, 1999",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1807.htm"
+    },
+    {
+      "name": "Obituary Curly Langner",
+      "date": "Monday, August 09, 1999",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1564.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:59Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF422.htm",
+    "extractionDate": "2025-10-02T00:04:25.759286Z"
+  }
+}

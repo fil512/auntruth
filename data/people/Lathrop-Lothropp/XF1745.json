@@ -1,0 +1,40 @@
+{
+  "id": "XF1745",
+  "name": "Alena Clara Holcomb",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1744",
+    "name": "Alton Holcomb [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1744.htm"
+  },
+  "mother": {
+    "id": "XF1743",
+    "name": "Pauline Bowers Lathrop-Holcomb [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1743.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died unmarried",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:22Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1745.htm",
+    "extractionDate": "2025-10-02T00:05:56.097601Z"
+  }
+}

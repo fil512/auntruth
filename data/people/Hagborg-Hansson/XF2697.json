@@ -38,13 +38,17 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Janet Grennes",
   "notes": "Ur Solberga fodelsebok 1850: Februari 23 foddes och d. 27 doptes husm. Lars Rasmussons och hustru Kerstina Persdotters son som bars till dopet af hustru Ingar Ifwards. Faddrar woro hsm Pehr Pehrsson och hustru Ingrid Pehrsdotter - alla i Thorsjo, Modren 34 ar.",
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T19:15:12Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2697.htm",
-    "extractionDate": "2025-10-01T04:27:28.093726Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF2697.htm",
+    "extractionDate": "2025-10-01T22:03:12.225429Z"
   }
 }

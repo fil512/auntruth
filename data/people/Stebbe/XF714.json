@@ -1,0 +1,60 @@
+{
+  "id": "XF714",
+  "name": "Ann  Fedorco",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "HUN",
+  "deathDate": "Saturday, January 01, 1938",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF697",
+    "name": "John Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF697.htm"
+  },
+  "mother": {
+    "id": "XF699",
+    "name": "Ann Jacob-Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF699.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF715",
+      "name": "George Simcoe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF715.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF719",
+      "name": "Ann   Simcoe",
+      "url": "/auntruth/new/htm/L7/XF719.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF717",
+      "name": "Mary   Simcoe",
+      "url": "/auntruth/new/htm/L7/XF717.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "NJ  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Went to USA with father in 1912. Married George Simcoe who was in railroad. George went to saloon a lot. Ann had operation in 1935 and Uncle Johnny provided blood for her as he had the right type. A German doctor stabbed her as she was bloated. She died 3 years later after a visit to Czechoslovakia.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:34Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF714.htm",
+    "extractionDate": "2025-10-02T00:03:56.417283Z"
+  }
+}

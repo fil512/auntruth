@@ -1,0 +1,60 @@
+{
+  "id": "XF623",
+  "name": "Jean Craig Rogerson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF624",
+    "name": "Donald Rogerson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF624.htm"
+  },
+  "mother": {
+    "id": "XF829",
+    "name": "Annie Theresa Craig-Rogerson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF829.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF732",
+      "name": "Elmer Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF732.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF730",
+      "name": "Donna Dorothy Marie Phoenix",
+      "url": "/auntruth/new/htm/L9/XF730.htm",
+      "birthDate": "10/30/1941"
+    },
+    {
+      "id": "XF533",
+      "name": "Michael David Phoenix",
+      "url": "/auntruth/new/htm/L9/XF533.htm",
+      "birthDate": "12/12/1937"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:55Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF623.htm",
+    "extractionDate": "2025-10-02T00:05:05.478982Z"
+  }
+}

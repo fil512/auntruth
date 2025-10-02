@@ -1,0 +1,47 @@
+{
+  "id": "XF2294",
+  "name": "Harold  Brady",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1223",
+    "name": "Claude Brady [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1223.htm"
+  },
+  "mother": {
+    "id": "XF1222",
+    "name": "Flora Rozella Brittingham-Brady [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1222.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2295",
+      "name": "Beulah -Brady [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2295.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Tonica IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "blind",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:14Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2294.htm",
+    "extractionDate": "2025-10-02T00:05:58.990347Z"
+  }
+}

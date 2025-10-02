@@ -1,0 +1,40 @@
+{
+  "id": "XF1604",
+  "name": "Ernest Raymond Cortis",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Willimantic CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1602",
+    "name": "Ward Philo Cortis [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1602.htm"
+  },
+  "mother": {
+    "id": "XF1603",
+    "name": "Angenette Matilda Bradley-Cortis [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1603.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Willimantic CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died in infancy",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:22Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1604.htm",
+    "extractionDate": "2025-10-02T00:05:49.294318Z"
+  }
+}

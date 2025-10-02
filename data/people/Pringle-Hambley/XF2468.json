@@ -1,0 +1,40 @@
+{
+  "id": "XF2468",
+  "name": "Sarah A. Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Summerhill PA   USA",
+  "deathDate": "Tuesday, January 01, 1901",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF224",
+    "name": "Martin Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF224.htm"
+  },
+  "mother": {
+    "id": "XF225",
+    "name": "Elizabeth Walter-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF225.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Pringle Hill Cemetery Book",
+  "notes": "Pringle Hill Cemetery Lot#32",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:30Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2468.htm",
+    "extractionDate": "2025-10-02T00:05:11.891895Z"
+  }
+}

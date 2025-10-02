@@ -1,0 +1,82 @@
+{
+  "id": "XF1506",
+  "name": "Sarah  Brown",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1507",
+      "name": "Erastus Bartlett [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1507.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1530",
+      "name": "William Herbert Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1530.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1528",
+      "name": "Albert Henry Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1528.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1527",
+      "name": "Rose Mary Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1527.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1525",
+      "name": "Alphonso Elwin Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1525.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1523",
+      "name": "Alonzo Elden Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1523.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1522",
+      "name": "Laurin Ai Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1522.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1520",
+      "name": "Florin Adolphu Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1520.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Dover ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:41Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1506.htm",
+    "extractionDate": "2025-10-02T00:05:44.228100Z"
+  }
+}

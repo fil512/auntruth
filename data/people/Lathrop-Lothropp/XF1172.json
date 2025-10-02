@@ -1,0 +1,90 @@
+{
+  "id": "XF1172",
+  "name": "Deborah Ann Robinson",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Monday, December 13, 1813",
+  "birthLocation": "Cherryfield ME   USA",
+  "deathDate": "Saturday, August 04, 1883",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1173",
+    "name": "Rev. Nathaniel Robinson [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1173.htm"
+  },
+  "mother": {
+    "id": "XF1174",
+    "name": "Mary Ward-Robinson [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1174.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1171",
+      "name": "Rev. Alfred Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1171.htm",
+      "marriageDate": "Monday, August 15, 1831"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1361",
+      "name": "Mary Rosabel Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1361.htm",
+      "birthDate": "12/08/1841"
+    },
+    {
+      "id": "XF1622",
+      "name": "Howard Alfred Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1622.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1621",
+      "name": "Ella Howard Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1621.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1620",
+      "name": "Frances Adriann Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1620.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1619",
+      "name": "Augusta Angelia Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1619.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1618",
+      "name": "John Stillma Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1618.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1617",
+      "name": "Lewis Cass Lothrop",
+      "url": "/auntruth/new/htm/L4/XF1617.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Rutlanda IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:19Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1172.htm",
+    "extractionDate": "2025-10-02T00:05:30.747099Z"
+  }
+}

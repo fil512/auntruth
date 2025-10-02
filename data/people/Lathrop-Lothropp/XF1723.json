@@ -1,0 +1,40 @@
+{
+  "id": "XF1723",
+  "name": "Florence Sumner Lincoln",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Willimantic CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1720",
+    "name": "Edward Sumner Lincoln [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1720.htm"
+  },
+  "mother": {
+    "id": "XF1721",
+    "name": "Mary Sophia Kendall-Lincoln [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1721.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Willimantic CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:12Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1723.htm",
+    "extractionDate": "2025-10-02T00:05:54.933146Z"
+  }
+}

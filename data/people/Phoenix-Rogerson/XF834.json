@@ -1,0 +1,46 @@
+{
+  "id": "XF834",
+  "name": "Philip  Lott",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "BR   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF835",
+      "name": "Liza -Lott [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF835.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF729",
+      "name": "Thomas Philip Lott",
+      "url": "/auntruth/new/htm/L9/XF729.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Sooke BR  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:28Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF834.htm",
+    "extractionDate": "2025-10-02T00:05:06.063368Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF650",
+  "name": "David Alexander MacKenzie",
+  "lineage": "Nelson",
+  "birthDate": "Sunday, February 18, 1951",
+  "birthLocation": "WA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF791",
+    "name": "Alexander Miller MacKenzie [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF791.htm"
+  },
+  "mother": {
+    "id": "XF19",
+    "name": "Esther Adele Pearson-MacKenzie-Patten [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF19.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "6302 Albion Way #110 Mount Lake Terrace WA 98043 USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:06Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF650.htm",
+    "extractionDate": "2025-10-02T00:04:11.474782Z"
+  }
+}

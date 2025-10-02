@@ -1,0 +1,80 @@
+{
+  "id": "XF1840",
+  "name": "Janet  Paterson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1835",
+    "name": "John Paterson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1835.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1841",
+      "name": "Thomas Mounsey [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1841.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1852",
+      "name": "A.   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1852.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1851",
+      "name": "Janet   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1851.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1849",
+      "name": "Elizabeth   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1849.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1847",
+      "name": "William   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1847.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1846",
+      "name": "John   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1846.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1845",
+      "name": "T.   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1845.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:02Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1840.htm",
+    "extractionDate": "2025-10-02T00:04:46.678130Z"
+  }
+}

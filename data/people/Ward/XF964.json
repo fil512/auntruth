@@ -1,0 +1,47 @@
+{
+  "id": "XF964",
+  "name": "Sumner John Blower",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF963",
+    "name": "Richard John Blower [Ward]",
+    "url": "/auntruth/new/htm/L5/XF963.htm"
+  },
+  "mother": {
+    "id": "XF962",
+    "name": "Rosalie Rachel Ward-Blower [Ward]",
+    "url": "/auntruth/new/htm/L5/XF962.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF965",
+      "name": "Carrie Leininger-Blower [Ward]",
+      "url": "/auntruth/new/htm/L5/XF965.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "St. Helena CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:28Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF964.htm",
+    "extractionDate": "2025-10-02T00:03:39.652567Z"
+  }
+}

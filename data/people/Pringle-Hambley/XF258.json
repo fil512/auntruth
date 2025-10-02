@@ -1,0 +1,47 @@
+{
+  "id": "XF258",
+  "name": "Jacob  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, April 06, 1834",
+  "birthLocation": "Cambria County PA   USA",
+  "deathDate": "Saturday, June 13, 1908",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF222",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF222.htm"
+  },
+  "mother": {
+    "id": "XF223",
+    "name": "Elizabeth Bolewine-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF223.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF259",
+      "name": "Mary Tredennick-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF259.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Conemaugh PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:34Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF258.htm",
+    "extractionDate": "2025-10-02T00:05:13.784741Z"
+  }
+}

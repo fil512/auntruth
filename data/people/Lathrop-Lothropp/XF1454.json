@@ -1,0 +1,84 @@
+{
+  "id": "XF1454",
+  "name": "William Eugene Hosmer",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Friday, June 16, 1865",
+  "birthLocation": "Springfield MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1358",
+    "name": "George Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1358.htm"
+  },
+  "mother": {
+    "id": "XF1359",
+    "name": "Sarah Lathrop-Hosmer [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1359.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1453",
+      "name": "Martha Frances Chandler-Hosmer [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1453.htm",
+      "marriageDate": "Tuesday, July 07, 1885"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1460",
+      "name": "Paul Hedges Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1460.htm",
+      "birthDate": "09/26/1898"
+    },
+    {
+      "id": "XF1459",
+      "name": "Milford Bliss Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1459.htm",
+      "birthDate": "03/05/1897"
+    },
+    {
+      "id": "XF1458",
+      "name": "Austin Hawley Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1458.htm",
+      "birthDate": "04/10/1894"
+    },
+    {
+      "id": "XF1457",
+      "name": "Earl Lathrop Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1457.htm",
+      "birthDate": "08/03/1891"
+    },
+    {
+      "id": "XF1456",
+      "name": "Edward Everett Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1456.htm",
+      "birthDate": "06/10/1889"
+    },
+    {
+      "id": "XF1455",
+      "name": "Eugene Chandle Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1455.htm",
+      "birthDate": "02/21/1887"
+    }
+  ],
+  "occupation": null,
+  "address": "Springfield MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:19Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1454.htm",
+    "extractionDate": "2025-10-02T00:05:41.458981Z"
+  }
+}

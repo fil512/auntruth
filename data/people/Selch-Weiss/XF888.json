@@ -1,0 +1,40 @@
+{
+  "id": "XF888",
+  "name": "Bernard  Parent",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF851",
+    "name": "Gerard Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF851.htm"
+  },
+  "mother": {
+    "id": "XF852",
+    "name": "Noella Boisse-Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF852.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Joseph-Guy Parent",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:54Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF888.htm",
+    "extractionDate": "2025-10-02T00:04:35.145308Z"
+  }
+}

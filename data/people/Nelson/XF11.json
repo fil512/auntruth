@@ -1,0 +1,103 @@
+{
+  "id": "XF11",
+  "name": "Maria  Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Sunday, October 29, 1871",
+  "birthLocation": "Trelleborg S0   SWE",
+  "deathDate": "Thursday, April 08, 1954",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1",
+    "name": "Nils Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF1.htm"
+  },
+  "mother": {
+    "id": "XF2",
+    "name": "Kristina Hansdotter-Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF12",
+      "name": "Johannes John Esterberg(Osterberg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF12.htm",
+      "marriageDate": "Thursday, May 29, 1890"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF764",
+      "name": "Joseph Nils Os Esterberg",
+      "url": "/auntruth/new/htm/L2/XF764.htm",
+      "birthDate": "03/20/1906"
+    },
+    {
+      "id": "XF661",
+      "name": "Herbert William Esterberg",
+      "url": "/auntruth/new/htm/L2/XF661.htm",
+      "birthDate": "02/15/1903"
+    },
+    {
+      "id": "XF763",
+      "name": "Hans Edwin Esterberg",
+      "url": "/auntruth/new/htm/L2/XF763.htm",
+      "birthDate": "09/01/1900"
+    },
+    {
+      "id": "XF50",
+      "name": "Franz-Johan Albin Esterberg",
+      "url": "/auntruth/new/htm/L2/XF50.htm",
+      "birthDate": "12/29/1899"
+    },
+    {
+      "id": "XF49",
+      "name": "Victor Emil Esterberg",
+      "url": "/auntruth/new/htm/L2/XF49.htm",
+      "birthDate": "11/09/1897"
+    },
+    {
+      "id": "XF52",
+      "name": "Hilma Agneta Esterberg",
+      "url": "/auntruth/new/htm/L2/XF52.htm",
+      "birthDate": "11/27/1895"
+    },
+    {
+      "id": "XF51",
+      "name": "Frank Arvid Esterberg",
+      "url": "/auntruth/new/htm/L2/XF51.htm",
+      "birthDate": "03/10/1893"
+    },
+    {
+      "id": "XF656",
+      "name": "Emma Ellida Esterberg",
+      "url": "/auntruth/new/htm/L2/XF656.htm",
+      "birthDate": "03/23/1891"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "Married Johannes(John) Osterberg(Esterberg) 06/13/1890",
+  "photos": [
+    {
+      "name": "The Esterbergs",
+      "date": "Sunday, January 20, 1924",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1368.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:51:55Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF11.htm",
+    "extractionDate": "2025-10-02T00:03:58.364528Z"
+  }
+}

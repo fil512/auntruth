@@ -1,0 +1,58 @@
+{
+  "id": "XF560",
+  "name": null,
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "IRE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF559",
+      "name": "Aiken [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF559.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF563",
+      "name": "Robert   Aiken",
+      "url": "/auntruth/new/htm/L3/XF563.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF561",
+      "name": "Nancy   Aiken",
+      "url": "/auntruth/new/htm/L3/XF561.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF290",
+      "name": "Ella   Aiken",
+      "url": "/auntruth/new/htm/L3/XF290.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "IRE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:27Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF560.htm",
+    "extractionDate": "2025-10-02T00:05:27.377119Z"
+  }
+}

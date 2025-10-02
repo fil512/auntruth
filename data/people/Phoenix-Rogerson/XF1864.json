@@ -1,0 +1,84 @@
+{
+  "id": "XF1864",
+  "name": "Beatrice  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": "Monday, January 01, 1781",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1847",
+    "name": "William Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1847.htm"
+  },
+  "mother": {
+    "id": "XF1848",
+    "name": "Margaret Rogerson-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1848.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1865",
+      "name": "Peter Rogerson [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1865.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2029",
+      "name": "Jane   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2029.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2028",
+      "name": "Janet   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2028.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2027",
+      "name": "Mary   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2027.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2025",
+      "name": "Ann   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2025.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2024",
+      "name": "James   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2024.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2023",
+      "name": "William   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2023.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:12Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1864.htm",
+    "extractionDate": "2025-10-02T00:04:47.815259Z"
+  }
+}

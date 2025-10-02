@@ -1,0 +1,66 @@
+{
+  "id": "XF407",
+  "name": "Evangeline (Van  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, May 04, 1941",
+  "birthLocation": "Green Bay MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF405",
+    "name": "Vilhelm (Bill) Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF405.htm"
+  },
+  "mother": {
+    "id": "XF406",
+    "name": "Alvine Litke-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF406.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF408",
+      "name": "Martin Okolita [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF408.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF825",
+      "name": "Tamara(Tammy)   Okolita",
+      "url": "/auntruth/new/htm/L6/XF825.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF823",
+      "name": "Constance(Conni   Okolita",
+      "url": "/auntruth/new/htm/L6/XF823.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF826",
+      "name": "Dennis   Okolita",
+      "url": "/auntruth/new/htm/L6/XF826.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Green Bay MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'They Stopped at a Good Place' History of Beausejour",
+  "notes": "Married Martin Okalita 06/24/1961 in St. Paul's Lutheran Church Green Bay by Reverend Green of Lac du Bonnet. Green Bay was temporarily without a minister. Their first home was the Green Bay teacherage where Vangie taught grades 1-4. Martin taught high school in Beausejour. In 1962 they moved to Beausejour where they built their first home. Vangie taught greades 1-3 in Garson from 1964-66. In 1966 they sold their home and built another in Lac du Bonnet where Martin was principal in the Lac du Bonnet Senior School. Vangie taught grade 2 in Lac du Bonnet Elementary School from 1968-69. Martin was principal from 1966-1978 when he was transferred to Beausejour Senior School. In 1977 Vangie and Martin took over the farm from Vangie's parents. They started building a home and in 1978 they moved to live on the farm. Martin has continued teaching in Beausejour and has rented the land to their neighbours Pat and Larry Johnson. They are members of St. Paul's Lutheran Church in Green Bay and are members of the choir.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:51Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF407.htm",
+    "extractionDate": "2025-10-02T00:04:24.675853Z"
+  }
+}

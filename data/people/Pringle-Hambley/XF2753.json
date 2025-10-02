@@ -1,0 +1,49 @@
+{
+  "id": "XF2753",
+  "name": "Horace Stanley Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, December 23, 1893",
+  "birthLocation": "Conemaugh     USA",
+  "deathDate": "Sunday, May 15, 1932",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2751",
+    "name": "Edgar Everett Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2751.htm"
+  },
+  "mother": {
+    "id": "XF2752",
+    "name": "Alice (Ellie) Ellen Byers-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2752.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2754",
+      "name": "Margaret Louise Gore-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2754.htm",
+      "marriageDate": "Saturday, December 23, 1916"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Conemaugh PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:38Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2753.htm",
+    "extractionDate": "2025-10-02T00:05:15.339239Z"
+  }
+}

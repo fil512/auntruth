@@ -1,0 +1,39 @@
+{
+  "id": "XF1294",
+  "name": "Flora Mae Arey",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1293",
+      "name": "John Wilson Lambert [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1293.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "West Hampden ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:11Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1294.htm",
+    "extractionDate": "2025-10-02T00:05:33.131015Z"
+  }
+}

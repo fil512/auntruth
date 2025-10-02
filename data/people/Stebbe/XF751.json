@@ -1,0 +1,54 @@
+{
+  "id": "XF751",
+  "name": "Henry (Hank) Lewko",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF744",
+    "name": "Peter Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF744.htm"
+  },
+  "mother": {
+    "id": "XF745",
+    "name": "Angeline Sikierski-Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF745.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF752",
+      "name": "Gail Wardley-Lewko [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF752.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2961",
+      "name": "Chrissie   Lewko",
+      "url": "/auntruth/new/htm/L7/XF2961.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Calgary AB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Anne Lewko-Stebbe",
+  "notes": "Worked for Proctor & Gamble, then as manufacturer's agent.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:50Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF751.htm",
+    "extractionDate": "2025-10-02T00:03:57.768381Z"
+  }
+}

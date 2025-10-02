@@ -1,0 +1,40 @@
+{
+  "id": "XF2289",
+  "name": "John  Barkley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Fort Wayne IN   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2287",
+    "name": "Jim Barkley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2287.htm"
+  },
+  "mother": {
+    "id": "XF843",
+    "name": "Norma Breedlove [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF843.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Fort Wayne IN  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:12Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2289.htm",
+    "extractionDate": "2025-10-02T00:05:58.731676Z"
+  }
+}

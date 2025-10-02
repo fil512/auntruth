@@ -1,0 +1,65 @@
+{
+  "id": "XF155",
+  "name": "Anna Victoria Sundin",
+  "lineage": "Nelson",
+  "birthDate": "Sunday, January 17, 1892",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Thursday, October 14, 1954",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF10",
+      "name": "Vilhelm Bill Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF10.htm",
+      "marriageDate": "Saturday, May 05, 1906"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF20",
+      "name": "George Leslie Nelson",
+      "url": "/auntruth/new/htm/L2/XF20.htm",
+      "birthDate": "04/18/1916"
+    },
+    {
+      "id": "XF21",
+      "name": "Doris Alexandra Nelson",
+      "url": "/auntruth/new/htm/L2/XF21.htm",
+      "birthDate": "12/29/1908"
+    },
+    {
+      "id": "XF23",
+      "name": "Hilding Vilhelm Nelson",
+      "url": "/auntruth/new/htm/L2/XF23.htm",
+      "birthDate": "12/17/1906"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "Married Vilhelm Nelson 05/05/1906",
+  "photos": [
+    {
+      "name": "Uncle Bill Nelson family",
+      "date": "Saturday, June 01, 1907",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1363.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:53:25Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF155.htm",
+    "extractionDate": "2025-10-02T00:03:58.582823Z"
+  }
+}

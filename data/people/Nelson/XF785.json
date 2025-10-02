@@ -1,0 +1,47 @@
+{
+  "id": "XF785",
+  "name": "Judith Lynn Gustafson",
+  "lineage": "Nelson",
+  "birthDate": "Thursday, September 21, 1944",
+  "birthLocation": "MN   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF22",
+    "name": "Byron Gustafson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF22.htm"
+  },
+  "mother": {
+    "id": "XF21",
+    "name": "Doris Alexandra Nelson-Gustafson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF21.htm"
+  },
+  "spouses": [
+    {
+      "id": null,
+      "name": null,
+      "url": null,
+      "marriageDate": "Saturday, December 16, 1967"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "IN  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:05Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF785.htm",
+    "extractionDate": "2025-10-02T00:04:13.791656Z"
+  }
+}

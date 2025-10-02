@@ -1,0 +1,54 @@
+{
+  "id": "XF985",
+  "name": "Kerley  Ward",
+  "lineage": "Ward",
+  "birthDate": "Thursday, February 17, 1752",
+  "birthLocation": "Grafton MA   USA",
+  "deathDate": "Tuesday, May 19, 1835",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1005",
+    "name": "Hezekiah Jr. Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1005.htm"
+  },
+  "mother": {
+    "id": "XF1006",
+    "name": "Hannah Bellows-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF1006.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF986",
+      "name": "Catherine Graham-Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF986.htm",
+      "marriageDate": "Tuesday, September 28, 1773"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF981",
+      "name": "Hannah   Ward",
+      "url": "/auntruth/new/htm/L5/XF981.htm",
+      "birthDate": "09/30/1774"
+    }
+  ],
+  "occupation": null,
+  "address": "Buckland MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 28 Sep 1773 in Spencer MA Died in Buckland MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:46Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF985.htm",
+    "extractionDate": "2025-10-02T00:03:40.722570Z"
+  }
+}

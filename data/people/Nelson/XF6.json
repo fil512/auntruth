@@ -1,0 +1,79 @@
+{
+  "id": "XF6",
+  "name": "Ellida Augusta Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Saturday, October 13, 1883",
+  "birthLocation": "Tralleborg S0   SWE",
+  "deathDate": "Thursday, May 22, 1969",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1",
+    "name": "Nils Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF1.htm"
+  },
+  "mother": {
+    "id": "XF2",
+    "name": "Kristina Hansdotter-Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF7",
+      "name": "Gustav Pearson(Pehrson) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF7.htm",
+      "marriageDate": "Saturday, September 27, 1913"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF19",
+      "name": "Esther Adele Pearson",
+      "url": "/auntruth/new/htm/L2/XF19.htm",
+      "birthDate": "10/27/1916"
+    },
+    {
+      "id": "XF16",
+      "name": "Gustavus Donald Pearson",
+      "url": "/auntruth/new/htm/L2/XF16.htm",
+      "birthDate": "10/27/1916"
+    },
+    {
+      "id": "XF18",
+      "name": "Frances Maria Pearson",
+      "url": "/auntruth/new/htm/L2/XF18.htm",
+      "birthDate": "07/29/1914"
+    }
+  ],
+  "occupation": null,
+  "address": "Cordova St. Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "David Hagborg",
+  "notes": "Married Gustave Pohrson(Pearson) 09/27/1913",
+  "photos": [
+    {
+      "name": "At Auntie Esther & Uncle Carl's cottage",
+      "date": "Sunday, September 22, 1963",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1480.htm"
+    },
+    {
+      "name": "In the Liebensraum",
+      "date": "Sunday, September 30, 1962",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1405.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:51:52Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF6.htm",
+    "extractionDate": "2025-10-02T00:04:10.916649Z"
+  }
+}

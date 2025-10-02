@@ -1,0 +1,121 @@
+{
+  "id": "XF410",
+  "name": "Linda  Sss",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Saturday, November 22, 1924",
+  "birthLocation": "P0   POL",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF802",
+    "name": "Johann Friedrich Sss [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF802.htm"
+  },
+  "mother": {
+    "id": "XF801",
+    "name": "Bertha Gust-Sus [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF801.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF409",
+      "name": "Albert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF409.htm",
+      "marriageDate": "Thursday, June 01, 1944"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1101",
+      "name": "Kenneth Grant Selch",
+      "url": "/auntruth/new/htm/L6/XF1101.htm",
+      "birthDate": "02/06/1959"
+    },
+    {
+      "id": "XF1097",
+      "name": "Sharon Elaine Selch",
+      "url": "/auntruth/new/htm/L6/XF1097.htm",
+      "birthDate": "05/06/1951"
+    },
+    {
+      "id": "XF411",
+      "name": "Gilbert Albert Selch",
+      "url": "/auntruth/new/htm/L6/XF411.htm",
+      "birthDate": "07/29/1946"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "40th Table",
+      "date": "Monday, August 01, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1560.htm"
+    },
+    {
+      "name": "40th Picnic Table",
+      "date": "Monday, August 01, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1559.htm"
+    },
+    {
+      "name": "40th with Uncle Albert & Auntie Linda",
+      "date": "Monday, August 01, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1558.htm"
+    },
+    {
+      "name": "Albert & Linda",
+      "date": "Thursday, May 01, 1975",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1783.htm"
+    },
+    {
+      "name": "Oma and Grandchildren",
+      "date": "Sunday, July 30, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1789.htm"
+    },
+    {
+      "name": "Oma & Auntie Linda",
+      "date": "Sunday, July 30, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1788.htm"
+    },
+    {
+      "name": "With Freddy & Ida",
+      "date": "Monday, December 01, 1947",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1766.htm"
+    },
+    {
+      "name": "Albert & Linda Wedding",
+      "date": "Thursday, June 01, 1944",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1765.htm"
+    },
+    {
+      "name": "Sss Family Stooking",
+      "date": "Thursday, September 01, 1938",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1762.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:53Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF410.htm",
+    "extractionDate": "2025-10-02T00:04:24.898320Z"
+  }
+}

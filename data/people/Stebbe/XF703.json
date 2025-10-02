@@ -1,0 +1,47 @@
+{
+  "id": "XF703",
+  "name": "Joe  Fedorco",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "HUN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF697",
+    "name": "John Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF697.htm"
+  },
+  "mother": {
+    "id": "XF699",
+    "name": "Ann Jacob-Fedorco [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF699.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF706",
+      "name": "Suzanne Kudrach-Fedorco [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF706.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Used gun to avoid conscription in WWI. Married Suzanne Kudrach from USA who came to visit. He thus became a US citizen and moved to USA in 1938.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:29Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF703.htm",
+    "extractionDate": "2025-10-02T00:03:55.859388Z"
+  }
+}

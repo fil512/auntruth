@@ -1,0 +1,40 @@
+{
+  "id": "XF1068",
+  "name": "Trent  Kreiger",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1061",
+    "name": "Lawrence Kreiger [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF1061.htm"
+  },
+  "mother": {
+    "id": "XF1062",
+    "name": "Rose Laboda-Kreiger [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF1062.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:34Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF1068.htm",
+    "extractionDate": "2025-10-02T00:03:00.296634Z"
+  }
+}

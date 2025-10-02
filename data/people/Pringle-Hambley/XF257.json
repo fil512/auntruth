@@ -1,0 +1,91 @@
+{
+  "id": "XF257",
+  "name": "Mary Alice Dunmire",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, February 14, 1848",
+  "birthLocation": "USA",
+  "deathDate": "Friday, September 06, 1889",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF369",
+    "name": "Daniel Dunmire [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF369.htm"
+  },
+  "mother": {
+    "id": "XF370",
+    "name": "Maria -Dunmire [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF370.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF255",
+      "name": "Isaac Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF255.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF300",
+      "name": "Lucy Idella Pringle",
+      "url": "/auntruth/new/htm/L3/XF300.htm",
+      "birthDate": "01/01/1884"
+    },
+    {
+      "id": "XF298",
+      "name": "Howard Lemon Pringle",
+      "url": "/auntruth/new/htm/L3/XF298.htm",
+      "birthDate": "01/01/1881"
+    },
+    {
+      "id": "XF297",
+      "name": "William Walter Pringle",
+      "url": "/auntruth/new/htm/L3/XF297.htm",
+      "birthDate": "01/01/1879"
+    },
+    {
+      "id": "XF289",
+      "name": "Ira Daniel Pringle",
+      "url": "/auntruth/new/htm/L3/XF289.htm",
+      "birthDate": "01/01/1877"
+    },
+    {
+      "id": "XF284",
+      "name": "Maurice Franklin Pringle",
+      "url": "/auntruth/new/htm/L3/XF284.htm",
+      "birthDate": "06/05/1874"
+    }
+  ],
+  "occupation": null,
+  "address": "Pringle Hill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Dunmire Street(next to Pringle Street) in Johnstown PA USA named after the Dunmires Pringle Hill Cemetery Lot#50",
+  "photos": [
+    {
+      "name": "Dunmire Lane",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Johnstown Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI407.htm"
+    },
+    {
+      "name": "Site of Isaac Pringle house",
+      "date": "Friday, June 04, 1915",
+      "location": "Johnstown Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L3/XI404.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:33Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF257.htm",
+    "extractionDate": "2025-10-02T00:05:13.701723Z"
+  }
+}

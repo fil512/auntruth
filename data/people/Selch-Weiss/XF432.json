@@ -1,0 +1,47 @@
+{
+  "id": "XF432",
+  "name": "Cheryl Lynn Langner",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Wednesday, January 01, 1958",
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": "Sunday, January 04, 1998",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF421",
+    "name": "Reinhold(Roy) Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF421.htm"
+  },
+  "mother": {
+    "id": "XF420",
+    "name": "Thelma Selch-Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF420.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "cancer",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Obituary Cheryl Langner",
+      "date": "Tuesday, January 06, 1998",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1531.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:04Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF432.htm",
+    "extractionDate": "2025-10-02T00:04:26.280519Z"
+  }
+}

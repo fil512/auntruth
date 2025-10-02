@@ -1,0 +1,116 @@
+{
+  "id": "XF2789",
+  "name": "Jacob  Stewart",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Wednesday, January 01, 1755",
+  "birthLocation": "USA",
+  "deathDate": "Saturday, February 28, 1835",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2791",
+    "name": "Charles Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2791.htm"
+  },
+  "mother": {
+    "id": "XF2792",
+    "name": "Mary  -Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2792.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2790",
+      "name": "Eunice Edith Dunn-Stewart [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2790.htm",
+      "marriageDate": "Friday, December 31, 1779"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2875",
+      "name": "John   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2875.htm",
+      "birthDate": "11/06/1801"
+    },
+    {
+      "id": "XF2787",
+      "name": "Berekiah   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2787.htm",
+      "birthDate": "01/11/1799"
+    },
+    {
+      "id": "XF2872",
+      "name": "Silas   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2872.htm",
+      "birthDate": "10/25/1796"
+    },
+    {
+      "id": "XF2870",
+      "name": "Jacob   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2870.htm",
+      "birthDate": "10/14/1794"
+    },
+    {
+      "id": "XF2868",
+      "name": "Hannah   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2868.htm",
+      "birthDate": "05/31/1792"
+    },
+    {
+      "id": "XF2867",
+      "name": "David   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2867.htm",
+      "birthDate": "04/15/1790"
+    },
+    {
+      "id": "XF2864",
+      "name": "Elizabeth   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2864.htm",
+      "birthDate": "02/28/1788"
+    },
+    {
+      "id": "XF2865",
+      "name": "Mary   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2865.htm",
+      "birthDate": "09/16/1785"
+    },
+    {
+      "id": "XF2863",
+      "name": "Edith   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2863.htm",
+      "birthDate": "06/23/1783"
+    },
+    {
+      "id": "XF2861",
+      "name": "Charles   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2861.htm",
+      "birthDate": "12/02/1781"
+    },
+    {
+      "id": "XF2860",
+      "name": "Benjamin   Stewart",
+      "url": "/auntruth/new/htm/L3/XF2860.htm",
+      "birthDate": "01/17/1780"
+    }
+  ],
+  "occupation": null,
+  "address": "Westmoreland Co   PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:55Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2789.htm",
+    "extractionDate": "2025-10-02T00:05:17.395193Z"
+  }
+}

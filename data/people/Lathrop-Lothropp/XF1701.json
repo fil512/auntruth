@@ -1,0 +1,40 @@
+{
+  "id": "XF1701",
+  "name": "Daniel Andress Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1163",
+    "name": "Daniel Jr. Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1163.htm"
+  },
+  "mother": {
+    "id": "XF1164",
+    "name": "Elizabeth Hinckley-Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1164.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Dover ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died in infancy",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:03Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1701.htm",
+    "extractionDate": "2025-10-02T00:05:53.793393Z"
+  }
+}

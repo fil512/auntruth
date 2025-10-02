@@ -1,0 +1,64 @@
+{
+  "id": "XF2100",
+  "name": "Archibald  Crozier",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2099",
+      "name": "Margaret Agnes Lotimer-Crozier [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2099.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2109",
+      "name": "Marion   Crozier",
+      "url": "/auntruth/new/htm/L9/XF2109.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2108",
+      "name": "John   Crozier",
+      "url": "/auntruth/new/htm/L9/XF2108.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2107",
+      "name": "Archibald   Crozier",
+      "url": "/auntruth/new/htm/L9/XF2107.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2105",
+      "name": "Elizabeth   Crozier",
+      "url": "/auntruth/new/htm/L9/XF2105.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:51Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2100.htm",
+    "extractionDate": "2025-10-02T00:04:58.334428Z"
+  }
+}

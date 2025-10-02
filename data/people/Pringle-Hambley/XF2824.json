@@ -1,0 +1,55 @@
+{
+  "id": "XF2824",
+  "name": "Eunice  Stewart",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, January 18, 1825",
+  "birthLocation": "Ligonier Westmoreland Co     USA",
+  "deathDate": "Tuesday, October 06, 1903",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2787",
+    "name": "Berekiah Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2787.htm"
+  },
+  "mother": {
+    "id": "XF2788",
+    "name": "Mary (Polly) Fisher-Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2788.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2825",
+      "name": "John P. Barnett [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2825.htm",
+      "marriageDate": "Sunday, December 31, 1843"
+    },
+    {
+      "id": "XF2826",
+      "name": "James Twinam Bracken [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2826.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Buffington Twp Indiana Co   PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:10Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2824.htm",
+    "extractionDate": "2025-10-02T00:05:19.410776Z"
+  }
+}

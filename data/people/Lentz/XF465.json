@@ -1,0 +1,66 @@
+{
+  "id": "XF465",
+  "name": "Marge  Kreiger",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF464",
+    "name": "Karl (Charlie) Kreiger [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF464.htm"
+  },
+  "mother": {
+    "id": "XF463",
+    "name": "Daisy Lentz-Kreiger [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF463.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF466",
+      "name": "Mac Agar [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF466.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF469",
+      "name": "Shirley   Agar",
+      "url": "/auntruth/new/htm/L8/XF469.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF468",
+      "name": "Donald   Agar",
+      "url": "/auntruth/new/htm/L8/XF468.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF467",
+      "name": "Lyn   Agar",
+      "url": "/auntruth/new/htm/L8/XF467.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:21Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF465.htm",
+    "extractionDate": "2025-10-02T00:03:02.905255Z"
+  }
+}

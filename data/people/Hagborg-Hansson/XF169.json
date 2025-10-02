@@ -44,6 +44,10 @@
   "email": "shagborg@ilos.net",
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
   "source": "Auntie Annie Nelson's Black Book",
   "notes": "Winnipeg Hydro employee",
   "photos": [
@@ -69,7 +73,7 @@
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:53:37Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF169.htm",
-    "extractionDate": "2025-10-01T04:27:19.305606Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF169.htm",
+    "extractionDate": "2025-10-01T22:03:03.264405Z"
   }
 }

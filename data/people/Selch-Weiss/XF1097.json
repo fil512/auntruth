@@ -1,0 +1,103 @@
+{
+  "id": "XF1097",
+  "name": "Sharon Elaine Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, May 06, 1951",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF409",
+    "name": "Albert Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF409.htm"
+  },
+  "mother": {
+    "id": "XF410",
+    "name": "Linda Sss-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF410.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1098",
+      "name": "Gordon Nicholson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1098.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1100",
+      "name": "Lindsay Dawn Nicholson",
+      "url": "/auntruth/new/htm/L6/XF1100.htm",
+      "birthDate": "08/20/1982"
+    },
+    {
+      "id": "XF1099",
+      "name": "Brent   Nicholson",
+      "url": "/auntruth/new/htm/L6/XF1099.htm",
+      "birthDate": "03/31/1980"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Grade 5 Beausejour Elementary School",
+      "date": "Monday, October 01, 1962",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1769.htm"
+    },
+    {
+      "name": "Sharon",
+      "date": "Thursday, December 01, 1960",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1782.htm"
+    },
+    {
+      "name": "Sharon",
+      "date": "Thursday, December 01, 1960",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1781.htm"
+    },
+    {
+      "name": "On Back Porch",
+      "date": "Sunday, July 01, 1956",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1764.htm"
+    },
+    {
+      "name": "At Uncle Freddy's",
+      "date": "Wednesday, July 13, 1955",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1768.htm"
+    },
+    {
+      "name": "Langner & Selch kids",
+      "date": "Friday, May 06, 1955",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1763.htm"
+    },
+    {
+      "name": "Oma and Grandchildren",
+      "date": "Sunday, July 30, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1789.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:47Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1097.htm",
+    "extractionDate": "2025-10-02T00:04:16.349102Z"
+  }
+}

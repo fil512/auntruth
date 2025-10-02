@@ -1,0 +1,40 @@
+{
+  "id": "XF1738",
+  "name": "Abbie Maria Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Philadelphia PA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1736",
+    "name": "Albert Henry Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1736.htm"
+  },
+  "mother": {
+    "id": "XF1735",
+    "name": "Josephine Clark-Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1735.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Philadelphia PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:19Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1738.htm",
+    "extractionDate": "2025-10-02T00:05:55.735585Z"
+  }
+}

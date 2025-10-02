@@ -1,0 +1,40 @@
+{
+  "id": "XF1734",
+  "name": "Lillian May Squares",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Holyoke MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1732",
+    "name": "George Squares [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1732.htm"
+  },
+  "mother": {
+    "id": "XF1733",
+    "name": "Lucy Emily Lathrop-Squares [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1733.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Holyoke MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:17Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1734.htm",
+    "extractionDate": "2025-10-02T00:05:55.560824Z"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "XF424",
+  "name": "Diane  Langner",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Monday, January 01, 1945",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF421",
+    "name": "Reinhold(Roy) Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF421.htm"
+  },
+  "mother": {
+    "id": "XF420",
+    "name": "Thelma Selch-Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF420.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF425",
+      "name": "Don Tyndall [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF425.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF1030",
+      "name": "Ed Stevenson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1030.htm",
+      "marriageDate": "Saturday, August 01, 1992"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Divorced",
+  "photos": [
+    {
+      "name": "Diane",
+      "date": "Thursday, December 01, 1960",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1772.htm"
+    },
+    {
+      "name": "Diane",
+      "date": "Thursday, December 01, 1960",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1770.htm"
+    },
+    {
+      "name": "On Back Porch",
+      "date": "Sunday, July 01, 1956",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1764.htm"
+    },
+    {
+      "name": "Langner & Selch kids",
+      "date": "Friday, May 06, 1955",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1763.htm"
+    },
+    {
+      "name": "Diane & Cliff",
+      "date": "Tuesday, January 01, 1952",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1805.htm"
+    },
+    {
+      "name": "Oma with Gilbert, Brenda, Diane",
+      "date": "Monday, August 01, 1949",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1792.htm"
+    },
+    {
+      "name": "Diane",
+      "date": "Wednesday, January 01, 1947",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1804.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:00Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF424.htm",
+    "extractionDate": "2025-10-02T00:04:25.851576Z"
+  }
+}

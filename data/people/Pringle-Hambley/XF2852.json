@@ -1,0 +1,49 @@
+{
+  "id": "XF2852",
+  "name": "Jacob S. Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Wednesday, January 18, 1792",
+  "birthLocation": "Vincent Twp Chester Co     USA",
+  "deathDate": "Sunday, January 18, 1852",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2832",
+    "name": "Abraham Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2832.htm"
+  },
+  "mother": {
+    "id": "XF2833",
+    "name": "Elizabeth Fluck-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2833.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2853",
+      "name": "Catherine Stull-Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2853.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:22Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2852.htm",
+    "extractionDate": "2025-10-02T00:05:21.019532Z"
+  }
+}

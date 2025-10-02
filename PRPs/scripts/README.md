@@ -1,5 +1,18 @@
 # PRPs Scripts Documentation
 
+## 🎉 Phase 2C Complete! (October 2025)
+
+**Achievement: 99.3% validation with 100% data preservation**
+- ✅ 401/404 files passing validation (up from 326/404 baseline)
+- ✅ 116/119 issues resolved (97.5% resolution rate)
+- ✅ Zero data loss confirmed through manual verification
+- ✅ Critical marriage date extraction bug discovered and fixed
+- ✅ Ready for Phase 3 scaling to all lineages
+
+See `data/phase2c-99-percent-report.md` for complete details.
+
+---
+
 ## Overview
 This directory contains scripts for handling mass file operations during the genealogy site modernization project. All scripts are designed with safety protocols for handling thousands of files.
 
@@ -409,6 +422,66 @@ These scripts can work with either directory or provide options for both:
 - Pre/post analysis with broken link counting
 - Coordinated execution with progress tracking and error reporting
 - Safety protocols with dry-run testing of all component scripts
+
+### both/extract_person_data.py
+**Purpose:** Phase 1 - Extract structured data from HTML person pages to JSON format
+**Usage:** `python3 both/extract_person_data.py --lineage Hagborg-Hansson --input-dir docs/new/htm/L1 --output-dir data/people/Hagborg-Hansson [--dry-run]`
+**Features:**
+- Extracts all genealogy data from HTML table#List structures
+- Parses family relationships (parents, spouses, children)
+- Handles multiple spouses, missing data, UTF-8 encoding
+- Generates structured JSON per data-schema.md specification
+- Processed 404 files for Hagborg-Hansson lineage
+- Validation integration with validate_extraction.py
+
+### both/validate_json_data.py
+**Purpose:** Phase 1 - Validate extracted JSON against schema specification
+**Usage:** `python3 both/validate_json_data.py --input-dir data/people/Hagborg-Hansson --report data/schema-validation-report.md`
+**Features:**
+- Schema compliance validation (required fields, ID format, URL consistency)
+- Data integrity checks (no circular references, valid relationships)
+- Completeness analysis (field population rates)
+- 99.5% schema compliance achieved (402/404 files)
+
+### both/validate_extraction.py
+**Purpose:** Phase 1 - Comprehensive validation of HTML → JSON extraction (zero data loss verification)
+**Usage:** `python3 both/validate_extraction.py --html-dir docs/new/htm/L1 --json-dir data/people/Hagborg-Hansson --report data/extraction-validation-report.json [--fail-on-error]`
+**Features:**
+- Compares 100% of original HTML files with extracted JSON
+- Detects any missing data, links, or field values
+- 76.5% perfect matches (309/404 files)
+- Identified website/email extraction issues for fixing
+- CI/CD integration ready with --fail-on-error flag
+
+### both/generate_pages.py
+**Purpose:** Phase 2 - Generate modern HTML pages from JSON data using Jinja2 templates
+**Usage:** `python3 both/generate_pages.py --lineage Hagborg-Hansson --input-dir data/people/Hagborg-Hansson --output-dir docs/new/htm/L1-generated-test [--dry-run] [--verbose]`
+**Features:**
+- Renders Jinja2 templates with Phase 4 design system
+- Generates modern semantic HTML5 structure
+- Includes Phase 3 component integration
+- Processed 404 pages successfully
+- Single file mode and batch lineage mode
+- Comprehensive error handling and logging
+
+### both/validate_generation.py
+**Purpose:** Phase 2 - Comprehensive validation of generated pages vs original HTML (zero data loss verification)
+**Usage:** `python3 both/validate_generation.py --original-dir docs/new/htm/L1 --generated-dir docs/new/htm/L1-generated-test --json-dir data/people/Hagborg-Hansson --report generation-validation-report.json [--fail-on-error]`
+**Features:**
+- Validates ALL data from original HTML exists in generated HTML
+- Detects missing content, broken links, data regressions
+- Documents design improvements (Phase 4 design system, disclosure sections, cards)
+- 100% file coverage validation (404/404 files)
+- CI/CD integration ready for deployment gates
+
+### both/debug_link_extraction.py
+**Purpose:** Debug tool to compare link extraction between original and generated HTML files
+**Usage:** `python3 both/debug_link_extraction.py --original docs/new/htm/L1/XF100.htm --generated docs/new/htm/L1-generated-test/XF100.htm`
+**Features:**
+- Displays all links found in both original and generated HTML
+- Shows link text, href, and normalized versions
+- Helps diagnose validation failures and link comparison issues
+- Useful for troubleshooting template generation problems
 
 ## Script Standards
 

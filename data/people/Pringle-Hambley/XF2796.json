@@ -1,0 +1,56 @@
+{
+  "id": "XF2796",
+  "name": "Bess Eliza Foster",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, January 08, 1892",
+  "birthLocation": "Hopewell Bedford Co     USA",
+  "deathDate": "Monday, October 21, 1963",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2797",
+    "name": "John O. Foster [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2797.htm"
+  },
+  "mother": {
+    "id": "XF2798",
+    "name": "Esther M. DeArment-Foster [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2798.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2795",
+      "name": "Walter Forest Hill [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2795.htm",
+      "marriageDate": "Thursday, July 09, 1914"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2830",
+      "name": "John Foster Hill",
+      "url": "/auntruth/new/htm/L3/XF2830.htm",
+      "birthDate": "03/03/1918"
+    }
+  ],
+  "occupation": null,
+  "address": "Cambria Co Johnstown PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:58Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2796.htm",
+    "extractionDate": "2025-10-02T00:05:17.769116Z"
+  }
+}

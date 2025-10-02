@@ -1,0 +1,51 @@
+{
+  "id": "XF1039",
+  "name": "Tophilia  YY",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "POL",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2948",
+      "name": "Ray   Muth",
+      "url": "/auntruth/new/htm/L6/XF2948.htm",
+      "birthDate": "01/01/1948"
+    },
+    {
+      "id": "XF2945",
+      "name": "Gordon   Muth",
+      "url": "/auntruth/new/htm/L6/XF2945.htm",
+      "birthDate": "01/01/1943"
+    },
+    {
+      "id": "XF439",
+      "name": "Eric   Muth",
+      "url": "/auntruth/new/htm/L6/XF439.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:20Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1039.htm",
+    "extractionDate": "2025-10-02T00:04:15.482718Z"
+  }
+}

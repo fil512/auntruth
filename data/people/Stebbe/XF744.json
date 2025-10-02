@@ -1,0 +1,90 @@
+{
+  "id": "XF744",
+  "name": "Peter  Lewko",
+  "lineage": "Stebbe",
+  "birthDate": "Friday, January 01, 1892",
+  "birthLocation": "Lemberg     OST",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF742",
+    "name": "Clem Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF742.htm"
+  },
+  "mother": {
+    "id": "XF743",
+    "name": "Melanie Bourbon-Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF743.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF745",
+      "name": "Angeline Sikierski-Lewko [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF745.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF748",
+      "name": "Rose   Lewko",
+      "url": "/auntruth/new/htm/L7/XF748.htm",
+      "birthDate": "01/01/1937"
+    },
+    {
+      "id": "XF747",
+      "name": "Edward   Lewko",
+      "url": "/auntruth/new/htm/L7/XF747.htm",
+      "birthDate": "01/01/1926"
+    },
+    {
+      "id": "XF746",
+      "name": "Kashmere   Lewko",
+      "url": "/auntruth/new/htm/L7/XF746.htm",
+      "birthDate": "01/01/1922"
+    },
+    {
+      "id": "XF753",
+      "name": "Archie   Lewko",
+      "url": "/auntruth/new/htm/L7/XF753.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF751",
+      "name": "Henry (Hank) Lewko",
+      "url": "/auntruth/new/htm/L7/XF751.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF749",
+      "name": "George   Lewko",
+      "url": "/auntruth/new/htm/L7/XF749.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF497",
+      "name": "Anne   Lewko",
+      "url": "/auntruth/new/htm/L7/XF497.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Beausejour MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Anne Lewko-Stebbe",
+  "notes": "Came to Canada in 1912 at age 20",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:47Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF744.htm",
+    "extractionDate": "2025-10-02T00:03:57.369759Z"
+  }
+}

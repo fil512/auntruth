@@ -1,0 +1,836 @@
+{
+  "id": "XF533",
+  "name": "Michael David Phoenix",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": "Sunday, December 12, 1937",
+  "birthLocation": "Toronto ON   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF732",
+    "name": "Elmer Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF732.htm"
+  },
+  "mother": {
+    "id": "XF623",
+    "name": "Jean Craig Rogerson-Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF623.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF532",
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF536",
+      "name": "Shannon Dorothy Phoenix",
+      "url": "/auntruth/new/htm/L9/XF536.htm",
+      "birthDate": "01/22/1973"
+    },
+    {
+      "id": "XF535",
+      "name": "Sean Michael Phoenix",
+      "url": "/auntruth/new/htm/L9/XF535.htm",
+      "birthDate": "04/29/1968"
+    },
+    {
+      "id": "XF534",
+      "name": "Allan David Phoenix",
+      "url": "/auntruth/new/htm/L9/XF534.htm",
+      "birthDate": "11/12/1965"
+    }
+  ],
+  "occupation": null,
+  "address": "Nova Vista Winnipeg MB  CAN",
+  "email": "arguswg@yahoo.com",
+  "phone": "204-254-5254, 204-254-5254",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "With Aunt on Swing",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2314.htm"
+    },
+    {
+      "name": "CampFire SingAlong",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2313.htm"
+    },
+    {
+      "name": "CampFire Songs - Good Old Hockey Game",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2312.htm"
+    },
+    {
+      "name": "Dinner",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2309.htm"
+    },
+    {
+      "name": "Man And Dog",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2291.htm"
+    },
+    {
+      "name": "On the Mattress",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2285.htm"
+    },
+    {
+      "name": "At Pool",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2283.htm"
+    },
+    {
+      "name": "Dinner",
+      "date": "Saturday, July 12, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2266.htm"
+    },
+    {
+      "name": "Saturday on Patio",
+      "date": "Saturday, July 12, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2265.htm"
+    },
+    {
+      "name": "Around Swing",
+      "date": "Saturday, July 12, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2264.htm"
+    },
+    {
+      "name": "Siblings",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2253.htm"
+    },
+    {
+      "name": "Mom's Birthday",
+      "date": "Sunday, June 22, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2176.htm"
+    },
+    {
+      "name": "Birthday Table",
+      "date": "Sunday, June 22, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2174.htm"
+    },
+    {
+      "name": "Preparing Cake",
+      "date": "Sunday, June 22, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2170.htm"
+    },
+    {
+      "name": "Baby Gizmo",
+      "date": "Saturday, June 14, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2154.htm"
+    },
+    {
+      "name": "Dave Phoenix",
+      "date": "Saturday, February 01, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2038.htm"
+    },
+    {
+      "name": "Kitchen Connie Birthday",
+      "date": "Saturday, February 01, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2031.htm"
+    },
+    {
+      "name": "Happy Birthday Connie",
+      "date": "Saturday, February 01, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2027.htm"
+    },
+    {
+      "name": "Family Outing",
+      "date": "Saturday, February 01, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2026.htm"
+    },
+    {
+      "name": "At Restaurant",
+      "date": "Saturday, February 01, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2024.htm"
+    },
+    {
+      "name": "Phoenix Family",
+      "date": "Monday, December 30, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1958.htm"
+    },
+    {
+      "name": "Jean, Alison & Dave P.",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1945.htm"
+    },
+    {
+      "name": "Fascinated",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1917.htm"
+    },
+    {
+      "name": "Watching the Wall Toy",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1916.htm"
+    },
+    {
+      "name": "Living Room",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1909.htm"
+    },
+    {
+      "name": "LivingRoom",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1902.htm"
+    },
+    {
+      "name": "Living Room",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1901.htm"
+    },
+    {
+      "name": "Taking Picture of Bob Selch Family",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1896.htm"
+    },
+    {
+      "name": "Sandy & Dave Under Tree",
+      "date": "Friday, December 20, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1956.htm"
+    },
+    {
+      "name": "Kitchen",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1865.htm"
+    },
+    {
+      "name": "More Guys in Livingroom",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1864.htm"
+    },
+    {
+      "name": "Kitchen Door",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1851.htm"
+    },
+    {
+      "name": "At Allison's",
+      "date": "Tuesday, October 15, 2002",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L6/XI1962.htm"
+    },
+    {
+      "name": "Allan and Dad",
+      "date": "Tuesday, October 15, 2002",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L6/XI1960.htm"
+    },
+    {
+      "name": "Thanksgiving DiningRoom at Phoenix's",
+      "date": "Sunday, October 13, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1828.htm"
+    },
+    {
+      "name": "Chloe Christening - Great-Grandparents(1)",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1706.htm"
+    },
+    {
+      "name": "Chloe Christening - Toward the Fence",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1705.htm"
+    },
+    {
+      "name": "Chloe Christening - View of SunRoom",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1703.htm"
+    },
+    {
+      "name": "Chloe Christening - Backyard",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1701.htm"
+    },
+    {
+      "name": "BBQ on the Deck",
+      "date": "Sunday, August 11, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1698.htm"
+    },
+    {
+      "name": "On Deck with Shady & Gizmo",
+      "date": "Sunday, August 11, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1695.htm"
+    },
+    {
+      "name": "In Kitchen Doorway",
+      "date": "Sunday, August 11, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1694.htm"
+    },
+    {
+      "name": "At Allisons",
+      "date": "Wednesday, November 01, 2000",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1987.htm"
+    },
+    {
+      "name": "With Oreo in Kitchen",
+      "date": "Sunday, August 01, 1999",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1990.htm"
+    },
+    {
+      "name": "Phoenix's",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1608.htm"
+    },
+    {
+      "name": "'Bones' Production at Trinity United Church",
+      "date": "Monday, March 01, 1993",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2425.htm"
+    },
+    {
+      "name": "Diningroom",
+      "date": "Tuesday, March 01, 1977",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI912.htm"
+    },
+    {
+      "name": "At Old House (KFMIS Trip to Nanaimo)",
+      "date": "Monday, August 30, 1976",
+      "location": "British Columbia Canada",
+      "url": "/auntruth/new/htm/L0/XI1279.htm"
+    },
+    {
+      "name": "Ready for Baptism",
+      "date": "Thursday, August 01, 1968",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1552.htm"
+    },
+    {
+      "name": "Phoenixes",
+      "date": "Monday, July 01, 1968",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1514.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "The Out-Pool Boy",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2308.htm"
+    },
+    {
+      "name": "In the Sun",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2307.htm"
+    },
+    {
+      "name": "Aunt Sandy",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2306.htm"
+    },
+    {
+      "name": "The In-Pool Boy",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2305.htm"
+    },
+    {
+      "name": "Sisters-In-Law Gabbing",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2304.htm"
+    },
+    {
+      "name": "Mom and Son in the Sun",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2303.htm"
+    },
+    {
+      "name": "Good Stuff",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2302.htm"
+    },
+    {
+      "name": "Exercise, Don't Eat!!",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2301.htm"
+    },
+    {
+      "name": "Dad & Daughter",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2300.htm"
+    },
+    {
+      "name": "Call PoolBoy for a ReFill!",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2299.htm"
+    },
+    {
+      "name": "With Wally",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2298.htm"
+    },
+    {
+      "name": "The Skipper",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2297.htm"
+    },
+    {
+      "name": "Hors d'Oeuvres",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2296.htm"
+    },
+    {
+      "name": "Pigging Out",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2295.htm"
+    },
+    {
+      "name": "La-Di-Da",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2294.htm"
+    },
+    {
+      "name": "Dining In Pool",
+      "date": "Saturday, August 02, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI2293.htm"
+    },
+    {
+      "name": "Phoenix Family",
+      "date": "Monday, December 30, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1958.htm"
+    },
+    {
+      "name": "with Oreo",
+      "date": "Friday, December 20, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1965.htm"
+    },
+    {
+      "name": "Shannon, Allan & Gramma",
+      "date": "Saturday, November 30, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1963.htm"
+    },
+    {
+      "name": "Livingroom",
+      "date": "Saturday, November 30, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1961.htm"
+    },
+    {
+      "name": "Martha Stewart under Fireplace",
+      "date": "Wednesday, November 20, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1957.htm"
+    },
+    {
+      "name": "Allan",
+      "date": "Tuesday, October 15, 2002",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1959.htm"
+    },
+    {
+      "name": "Gramma",
+      "date": "Tuesday, December 25, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2015.htm"
+    },
+    {
+      "name": "In Kitchen",
+      "date": "Tuesday, December 25, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2014.htm"
+    },
+    {
+      "name": "Christmas Dinner",
+      "date": "Tuesday, December 25, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2013.htm"
+    },
+    {
+      "name": "Gramma & Grampa",
+      "date": "Tuesday, December 25, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1972.htm"
+    },
+    {
+      "name": "Bob Selch Family",
+      "date": "Tuesday, December 25, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1971.htm"
+    },
+    {
+      "name": "Erik & Pam",
+      "date": "Tuesday, December 25, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1969.htm"
+    },
+    {
+      "name": "Carolling",
+      "date": "Tuesday, December 25, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1968.htm"
+    },
+    {
+      "name": "Shannon & Grampa",
+      "date": "Tuesday, December 25, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1967.htm"
+    },
+    {
+      "name": "Carolling",
+      "date": "Monday, December 24, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2012.htm"
+    },
+    {
+      "name": "And A Partridge In A Pear Tree",
+      "date": "Monday, December 24, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2011.htm"
+    },
+    {
+      "name": "Corey & debbie",
+      "date": "Monday, December 24, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1970.htm"
+    },
+    {
+      "name": "Tina & Aunt Lorraine",
+      "date": "Monday, December 24, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1966.htm"
+    },
+    {
+      "name": "Phoenix Kitchen Christmas Eve",
+      "date": "Monday, December 24, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1964.htm"
+    },
+    {
+      "name": "Brendan & Tina",
+      "date": "Saturday, September 01, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1976.htm"
+    },
+    {
+      "name": "Connie",
+      "date": "Wednesday, August 01, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1981.htm"
+    },
+    {
+      "name": "Les & Aunt Lorraine",
+      "date": "Wednesday, August 01, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1980.htm"
+    },
+    {
+      "name": "Dana",
+      "date": "Wednesday, August 01, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1979.htm"
+    },
+    {
+      "name": "Connie & Bob",
+      "date": "Wednesday, August 01, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1978.htm"
+    },
+    {
+      "name": "Brothers",
+      "date": "Wednesday, August 01, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1977.htm"
+    },
+    {
+      "name": "Uncle Albert & Dad",
+      "date": "Wednesday, August 01, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1975.htm"
+    },
+    {
+      "name": "Ron & Connie",
+      "date": "Wednesday, August 01, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1974.htm"
+    },
+    {
+      "name": "Katie & Gramma",
+      "date": "Wednesday, August 01, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1973.htm"
+    },
+    {
+      "name": "Allison & Al",
+      "date": "Thursday, February 01, 2001",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1982.htm"
+    },
+    {
+      "name": "Pam & Gramma",
+      "date": "Monday, December 25, 2000",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1983.htm"
+    },
+    {
+      "name": "Bob Selch Family",
+      "date": "Sunday, December 24, 2000",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1984.htm"
+    },
+    {
+      "name": "At Allisons",
+      "date": "Wednesday, November 01, 2000",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1987.htm"
+    },
+    {
+      "name": "Connie, Allison & Gramma",
+      "date": "Wednesday, November 01, 2000",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1986.htm"
+    },
+    {
+      "name": "Allison & Gramma/Grampa",
+      "date": "Wednesday, November 01, 2000",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1985.htm"
+    },
+    {
+      "name": "Allison & Mom",
+      "date": "Friday, October 15, 1999",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1989.htm"
+    },
+    {
+      "name": "Allan",
+      "date": "Friday, October 15, 1999",
+      "location": "Guelph Ontario Canada",
+      "url": "/auntruth/new/htm/L1/XI1988.htm"
+    },
+    {
+      "name": "Grampa",
+      "date": "Sunday, August 01, 1999",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1991.htm"
+    },
+    {
+      "name": "Mom",
+      "date": "Tuesday, June 01, 1999",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1993.htm"
+    },
+    {
+      "name": "Shannon & Mom",
+      "date": "Tuesday, June 01, 1999",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1992.htm"
+    },
+    {
+      "name": "Auntie Anne & Uncle Lawrence",
+      "date": "Monday, March 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1994.htm"
+    },
+    {
+      "name": "Philip Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI2010.htm"
+    },
+    {
+      "name": "Sean & Dog",
+      "date": "Friday, January 01, 1999",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L1/XI2009.htm"
+    },
+    {
+      "name": "Sandy & Marie",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI2008.htm"
+    },
+    {
+      "name": "Susan Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI2007.htm"
+    },
+    {
+      "name": "Mandi, Rebecca & Marie",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI2006.htm"
+    },
+    {
+      "name": "Mandi Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI2005.htm"
+    },
+    {
+      "name": "Rebecca Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI2004.htm"
+    },
+    {
+      "name": "Ian Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI2003.htm"
+    },
+    {
+      "name": "Ian Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI2002.htm"
+    },
+    {
+      "name": "Tom Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI2001.htm"
+    },
+    {
+      "name": "Susan & Tom Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI2000.htm"
+    },
+    {
+      "name": "Kelly & Tom Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1999.htm"
+    },
+    {
+      "name": "Kelly & Ian Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1998.htm"
+    },
+    {
+      "name": "Kelly Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1997.htm"
+    },
+    {
+      "name": "Marie",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1996.htm"
+    },
+    {
+      "name": "Philip Lott",
+      "date": "Friday, January 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1995.htm"
+    },
+    {
+      "name": "Pam's Wedding Family Picture",
+      "date": "Monday, July 02, 1990",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1573.htm"
+    },
+    {
+      "name": "At the Old House",
+      "date": "Friday, October 15, 1976",
+      "location": "British Columbia Canada",
+      "url": "/auntruth/new/htm/L9/XI1040.htm"
+    },
+    {
+      "name": "In Jolly Jumper",
+      "date": "Thursday, August 01, 1968",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1553.htm"
+    },
+    {
+      "name": "In Swaddling Clothes",
+      "date": "Thursday, August 01, 1968",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1551.htm"
+    },
+    {
+      "name": "Relaxing",
+      "date": "Thursday, August 01, 1968",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1536.htm"
+    },
+    {
+      "name": "Sandy & Sean",
+      "date": "Monday, July 01, 1968",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1515.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:00Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF533.htm",
+    "extractionDate": "2025-10-02T00:05:05.216490Z"
+  }
+}

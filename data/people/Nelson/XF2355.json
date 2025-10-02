@@ -1,0 +1,40 @@
+{
+  "id": "XF2355",
+  "name": "Lilly  Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Friday, July 05, 1907",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Thursday, July 11, 1907",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF14",
+    "name": "Karl (Charlie) Emil Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF14.htm"
+  },
+  "mother": {
+    "id": "XF195",
+    "name": "Edith Vilhelmina Malmberg-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF195.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:41Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2355.htm",
+    "extractionDate": "2025-10-02T00:04:02.936759Z"
+  }
+}

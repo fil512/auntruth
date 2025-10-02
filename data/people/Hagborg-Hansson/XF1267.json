@@ -23,13 +23,17 @@
   "email": null,
   "phone": "312-902-2061, 312-902-2061",
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": null,
   "notes": null,
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T19:05:00Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF1267.htm",
-    "extractionDate": "2025-10-01T04:27:16.399188Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF1267.htm",
+    "extractionDate": "2025-10-01T22:02:59.838626Z"
   }
 }

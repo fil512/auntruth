@@ -1,0 +1,47 @@
+{
+  "id": "XF823",
+  "name": "Constance(Conni  Okolita",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF408",
+    "name": "Martin Okolita [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF408.htm"
+  },
+  "mother": {
+    "id": "XF407",
+    "name": "Evangeline (Van Selch-Okolita [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF407.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF824",
+      "name": "Robert Holigroski [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF824.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'They Stopped at a Good Place' History of Beausejour",
+  "notes": "Married Robert Holigroski in 1982",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:23Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF823.htm",
+    "extractionDate": "2025-10-02T00:04:32.428266Z"
+  }
+}

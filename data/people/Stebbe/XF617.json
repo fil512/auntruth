@@ -1,0 +1,64 @@
+{
+  "id": "XF617",
+  "name": "Serachnanava",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF616",
+      "name": "Czerena Fedorco-Serachnanava [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF616.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF621",
+      "name": "Jana   Serachnanava",
+      "url": "/auntruth/new/htm/L7/XF621.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF620",
+      "name": "Serachnanava",
+      "url": "/auntruth/new/htm/L7/XF620.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF619",
+      "name": "Serachnanava",
+      "url": "/auntruth/new/htm/L7/XF619.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF618",
+      "name": "Serachnanava",
+      "url": "/auntruth/new/htm/L7/XF618.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:52Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF617.htm",
+    "extractionDate": "2025-10-02T00:03:54.764923Z"
+  }
+}

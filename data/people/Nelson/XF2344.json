@@ -1,0 +1,84 @@
+{
+  "id": "XF2344",
+  "name": "Ingar  Nilsdotter",
+  "lineage": "Nelson",
+  "birthDate": "Thursday, July 17, 1800",
+  "birthLocation": "Brandstad S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2345",
+    "name": "Nils Nilsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2345.htm"
+  },
+  "mother": {
+    "id": "XF2346",
+    "name": "Hanna Bengtsdotter-Nilsson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2346.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2343",
+      "name": "Pehr Bengtsson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2343.htm",
+      "marriageDate": "Friday, December 28, 1821"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1",
+      "name": "Nils   Persson",
+      "url": "/auntruth/new/htm/L2/XF1.htm",
+      "birthDate": "01/20/1842"
+    },
+    {
+      "id": "XF2330",
+      "name": "Bengt Persson Lustru",
+      "url": "/auntruth/new/htm/L2/XF2330.htm",
+      "birthDate": "04/19/1838"
+    },
+    {
+      "id": "XF2333",
+      "name": "Kjerstin   Pehrson",
+      "url": "/auntruth/new/htm/L2/XF2333.htm",
+      "birthDate": "12/19/1833"
+    },
+    {
+      "id": "XF2349",
+      "name": "Karna   Pehrson",
+      "url": "/auntruth/new/htm/L2/XF2349.htm",
+      "birthDate": "08/07/1831"
+    },
+    {
+      "id": "XF2348",
+      "name": "Karna   Pehrson",
+      "url": "/auntruth/new/htm/L2/XF2348.htm",
+      "birthDate": "01/16/1826"
+    },
+    {
+      "id": "XF2331",
+      "name": "Anna   Pehrson",
+      "url": "/auntruth/new/htm/L2/XF2331.htm",
+      "birthDate": "01/28/1823"
+    }
+  ],
+  "occupation": null,
+  "address": "Brandstad S1  SWE",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:36Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2344.htm",
+    "extractionDate": "2025-10-02T00:04:02.370824Z"
+  }
+}

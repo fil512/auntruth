@@ -1,0 +1,46 @@
+{
+  "id": "XF771",
+  "name": "Dolores  Peterson",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF770",
+      "name": "Gerald Edward Esterberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF770.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF772",
+      "name": "Mark Scott Esterberg",
+      "url": "/auntruth/new/htm/L2/XF772.htm",
+      "birthDate": "01/01/1955"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:59Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF771.htm",
+    "extractionDate": "2025-10-02T00:04:13.039248Z"
+  }
+}

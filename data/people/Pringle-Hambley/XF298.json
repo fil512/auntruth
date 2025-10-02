@@ -1,0 +1,61 @@
+{
+  "id": "XF298",
+  "name": "Howard Lemon Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, January 01, 1881",
+  "birthLocation": "PA   USA",
+  "deathDate": "Sunday, January 01, 1978",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF255",
+    "name": "Isaac Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF255.htm"
+  },
+  "mother": {
+    "id": "XF257",
+    "name": "Mary Alice Dunmire-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF257.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2461",
+      "name": "M. Josephine Storey-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2461.htm",
+      "marriageDate": "Tuesday, January 01, 1935"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Johnstown PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Edna Stebbe-Fedorco",
+  "notes": "Lemon was 9 years when father Isaac died. He was brought up by one of the uncles on the Dunmire side. Went to Canada in 1911 with William to visit Ira and Franklin. Did the housework on Ira's farm, as Ella just gave birth to Walter. Worked in a saw mill and in the coal mines, in Johnstown PA. Inherited farm next to Myers Dairy Farm from 2 ladies for which he was farmhand Pastor asked him to marry his housekeeper",
+  "photos": [
+    {
+      "name": "Howard Lemon Pringle 1881-1878",
+      "date": "Wednesday, August 30, 2000",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L1/XI397.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "William Pringle house built 1865",
+      "date": "Friday, June 04, 1915",
+      "location": "Pringle Hill Pennsylvania United States of America",
+      "url": "/auntruth/new/htm/L3/XI403.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:53Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF298.htm",
+    "extractionDate": "2025-10-02T00:05:23.502870Z"
+  }
+}

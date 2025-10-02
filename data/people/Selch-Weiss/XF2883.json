@@ -1,0 +1,49 @@
+{
+  "id": "XF2883",
+  "name": "Adelina  Sss",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, January 01, 1922",
+  "birthLocation": null,
+  "deathDate": "Friday, October 17, 1997",
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF802",
+    "name": "Johann Friedrich Sss [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF802.htm"
+  },
+  "mother": {
+    "id": "XF801",
+    "name": "Bertha Gust-Sus [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF801.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Sss Family Stooking",
+      "date": "Thursday, September 01, 1938",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1762.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:35Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2883.htm",
+    "extractionDate": "2025-10-02T00:04:20.891436Z"
+  }
+}

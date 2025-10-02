@@ -1,0 +1,47 @@
+{
+  "id": "XF1277",
+  "name": "Robert  Moffatt",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Roland MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1276",
+    "name": "William John Moffatt [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1276.htm"
+  },
+  "mother": {
+    "id": "XF1275",
+    "name": "Mary Hambley-Moffatt [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1275.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Roland MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Horsing Around with Moffats",
+      "date": "Friday, June 01, 1928",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI949.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:04Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1277.htm",
+    "extractionDate": "2025-10-02T00:05:06.643440Z"
+  }
+}

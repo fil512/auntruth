@@ -1,0 +1,49 @@
+{
+  "id": "XF2781",
+  "name": "Daniel Melroy Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, May 29, 1875",
+  "birthLocation": "Summerhill Twp Cambria Co     USA",
+  "deathDate": "Saturday, May 01, 1937",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2760",
+    "name": "Elias Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2760.htm"
+  },
+  "mother": {
+    "id": "XF2759",
+    "name": "Maria Pringle-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2759.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2782",
+      "name": "Grace Culp-Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2782.htm",
+      "marriageDate": "Wednesday, June 10, 1903"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:51Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2781.htm",
+    "extractionDate": "2025-10-02T00:05:16.949895Z"
+  }
+}

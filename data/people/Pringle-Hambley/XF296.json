@@ -1,0 +1,61 @@
+{
+  "id": "XF296",
+  "name": "Ruth-Ann  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF293",
+    "name": "Walter Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF293.htm"
+  },
+  "mother": {
+    "id": "XF294",
+    "name": "Ruth Johnson-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF294.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF356",
+      "name": "Albert McVicar [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF356.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF357",
+      "name": "Heather   McVicar",
+      "url": "/auntruth/new/htm/L3/XF357.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Dinner at Palmquist Farm",
+      "date": "Tuesday, November 01, 1955",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI985.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:52Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF296.htm",
+    "extractionDate": "2025-10-02T00:05:23.289748Z"
+  }
+}

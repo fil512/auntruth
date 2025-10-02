@@ -1,0 +1,47 @@
+{
+  "id": "XF832",
+  "name": "Carol Ann  Rogerson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF830",
+    "name": "Philip(Barney) Craig Rogerson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF830.htm"
+  },
+  "mother": {
+    "id": "XF831",
+    "name": "Carol Newman-Rogerson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF831.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF833",
+      "name": "Samantha",
+      "url": "/auntruth/new/htm/L6/XF833.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:27Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF832.htm",
+    "extractionDate": "2025-10-02T00:05:05.976201Z"
+  }
+}

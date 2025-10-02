@@ -1,0 +1,60 @@
+{
+  "id": "XF1442",
+  "name": "Flavilla Adaline Dennen",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, June 21, 1862",
+  "birthLocation": "Winsted CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1440",
+    "name": "William Clark Dennen [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1440.htm"
+  },
+  "mother": {
+    "id": "XF1441",
+    "name": "Julia Adaline Porter-Dennen [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1441.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1443",
+      "name": "Francis Lathrop Hosmer [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1443.htm",
+      "marriageDate": "Friday, June 01, 1883"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1445",
+      "name": "Ella Myrtie Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1445.htm",
+      "birthDate": "09/07/1885"
+    },
+    {
+      "id": "XF1444",
+      "name": "George William Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1444.htm",
+      "birthDate": "03/27/1884"
+    }
+  ],
+  "occupation": null,
+  "address": "Springfield MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:13Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1442.htm",
+    "extractionDate": "2025-10-02T00:05:40.871162Z"
+  }
+}

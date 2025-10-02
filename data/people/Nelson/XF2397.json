@@ -1,0 +1,54 @@
+{
+  "id": "XF2397",
+  "name": "Joan Irene Foskett",
+  "lineage": "Nelson",
+  "birthDate": "Sunday, May 21, 1950",
+  "birthLocation": "BC   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF651",
+    "name": "Victor Foskett [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF651.htm"
+  },
+  "mother": {
+    "id": "XF38",
+    "name": "Mary Irene Nelson-Foskett [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF38.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2398",
+      "name": "Harold D. Yelland [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2398.htm",
+      "marriageDate": "Saturday, November 21, 1970"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2399",
+      "name": "Bonnie Rhea Yelland",
+      "url": "/auntruth/new/htm/L2/XF2399.htm",
+      "birthDate": "04/16/1973"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:59Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2397.htm",
+    "extractionDate": "2025-10-02T00:04:05.158054Z"
+  }
+}

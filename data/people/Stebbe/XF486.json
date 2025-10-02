@@ -1,0 +1,72 @@
+{
+  "id": "XF486",
+  "name": "Edna  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": "Sunday, March 26, 1916",
+  "birthLocation": "CAN",
+  "deathDate": "Sunday, January 01, 1989",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF473",
+    "name": "Gustav (Gramps) Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF473.htm"
+  },
+  "mother": {
+    "id": "XF471",
+    "name": "Olga Lentz-Stebbe [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF471.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF487",
+      "name": "Jan (Uncle John John Fedorco [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF487.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Seamstress",
+  "address": "352 Alexander Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "Emphysema",
+  "genetics": "S/",
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Left home at 14 due to stepmother Matthilda Beger. Led colourful life. Favourite of her nieces.",
+  "photos": [
+    {
+      "name": "Diningroom",
+      "date": "Tuesday, March 01, 1977",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI912.htm"
+    },
+    {
+      "name": "Aunt & Niece",
+      "date": "Thursday, September 30, 1976",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1039.htm"
+    },
+    {
+      "name": "Just Married",
+      "date": "Friday, September 17, 1948",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1494.htm"
+    },
+    {
+      "name": "Under Hedge",
+      "date": "Friday, August 31, 1945",
+      "location": null,
+      "url": "/auntruth/new/htm/L7/XI1528.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:30Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF486.htm",
+    "extractionDate": "2025-10-02T00:03:53.170501Z"
+  }
+}

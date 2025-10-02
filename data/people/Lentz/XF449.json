@@ -1,0 +1,54 @@
+{
+  "id": "XF449",
+  "name": "Carol H. Lentz",
+  "lineage": "Lentz",
+  "birthDate": "Saturday, July 24, 1937",
+  "birthLocation": "Transcona Winnipeg MB   CAN",
+  "deathDate": "Sunday, May 04, 2003",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF447",
+    "name": "Leo Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF447.htm"
+  },
+  "mother": {
+    "id": "XF448",
+    "name": "Elsie Hayes-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF448.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2921",
+      "name": "X. Ward [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF2921.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2922",
+      "name": "Glenn   Ward",
+      "url": "/auntruth/new/htm/L8/XF2922.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "MS",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:13Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF449.htm",
+    "extractionDate": "2025-10-02T00:03:02.036410Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "XF2617",
+  "name": "Davis",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2616",
+      "name": "Karen Elizabeth Jones-Davis [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2616.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2623",
+      "name": "Hannah   Davis",
+      "url": "/auntruth/new/htm/L4/XF2623.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2622",
+      "name": "Madeline   Davis",
+      "url": "/auntruth/new/htm/L4/XF2622.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": "Children Garrett Bradley, Madeline, Hannah (?)",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:37Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2617.htm",
+    "extractionDate": "2025-10-02T00:06:02.914852Z"
+  }
+}

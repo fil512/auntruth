@@ -1,0 +1,72 @@
+{
+  "id": "XF1414",
+  "name": "Ella Amelia Couch",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Thursday, January 02, 1851",
+  "birthLocation": "Holyoke MA   USA",
+  "deathDate": "Wednesday, January 27, 1892",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1412",
+    "name": "Stevens Charles Couch [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1412.htm"
+  },
+  "mother": {
+    "id": "XF1413",
+    "name": "Martha Ann Hubbard-Couch [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1413.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1415",
+      "name": "Charles Henry Hosmer [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1415.htm",
+      "marriageDate": "Thursday, October 16, 1873"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1419",
+      "name": "Sarah Martha Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1419.htm",
+      "birthDate": "03/29/1889"
+    },
+    {
+      "id": "XF1418",
+      "name": "Edna Ethel Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1418.htm",
+      "birthDate": "11/18/1887"
+    },
+    {
+      "id": "XF1417",
+      "name": "Bertha Atwood Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1417.htm",
+      "birthDate": "05/26/1879"
+    },
+    {
+      "id": "XF1416",
+      "name": "Charles Albert Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1416.htm",
+      "birthDate": "03/31/1875"
+    }
+  ],
+  "occupation": null,
+  "address": "Springfield MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:02Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1414.htm",
+    "extractionDate": "2025-10-02T00:05:39.426879Z"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "id": "XF528",
+  "name": "Leslie  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "Dauphin MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF507",
+    "name": "Ronald (Ron) Arthur Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF507.htm"
+  },
+  "mother": {
+    "id": "XF508",
+    "name": "Janice (Jan) DeMarco-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF508.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2712",
+      "name": "Paul Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2712.htm",
+      "marriageDate": "Thursday, November 01, 2001"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2715",
+      "name": "Chloe Abrie Falco",
+      "url": "/auntruth/new/htm/L6/XF2715.htm",
+      "birthDate": "12/01/2001"
+    },
+    {
+      "id": "XF529",
+      "name": "Brendan   Selch",
+      "url": "/auntruth/new/htm/L6/XF529.htm",
+      "birthDate": "01/01/1990"
+    }
+  ],
+  "occupation": null,
+  "address": "Bryn Mar Winnipeg MB R3T 2X2 CAN",
+  "email": null,
+  "phone": "(204) 275-1380, (204) 275-1380",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Mom's Birthday",
+      "date": "Sunday, June 22, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2176.htm"
+    },
+    {
+      "name": "Birthday Table",
+      "date": "Sunday, June 22, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2174.htm"
+    },
+    {
+      "name": "With Mom & Great-Gramma",
+      "date": "Sunday, June 22, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2169.htm"
+    },
+    {
+      "name": "Stove",
+      "date": "Sunday, June 22, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2163.htm"
+    },
+    {
+      "name": "With Great-Gramma",
+      "date": "Sunday, June 22, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2162.htm"
+    },
+    {
+      "name": "Kitchen",
+      "date": "Sunday, June 22, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2161.htm"
+    },
+    {
+      "name": "In Sewing Room",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1949.htm"
+    },
+    {
+      "name": "Krystyna Back from KiwiLand",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1925.htm"
+    },
+    {
+      "name": "Living Room",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1909.htm"
+    },
+    {
+      "name": "LivingRoom",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1902.htm"
+    },
+    {
+      "name": "Living Room",
+      "date": "Tuesday, December 24, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1901.htm"
+    },
+    {
+      "name": "Kitchen",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1858.htm"
+    },
+    {
+      "name": "Kitchen",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1855.htm"
+    },
+    {
+      "name": "Chloe Christening - Great-GrandParents(3)",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1708.htm"
+    },
+    {
+      "name": "Chloe Christening - Grat-GrandParents(2)",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1707.htm"
+    },
+    {
+      "name": "Chloe Christening - Great-Grandparents(1)",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1706.htm"
+    },
+    {
+      "name": "Chloe Christening - Back Steps",
+      "date": "Sunday, August 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1702.htm"
+    },
+    {
+      "name": "New Mother",
+      "date": "Saturday, March 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI611.htm"
+    },
+    {
+      "name": "Mom & Aunt",
+      "date": "Saturday, March 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI610.htm"
+    },
+    {
+      "name": "And A Partridge In A Pear Tree",
+      "date": "Monday, December 24, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2011.htm"
+    },
+    {
+      "name": "Les & Aunt Lorraine",
+      "date": "Wednesday, August 01, 2001",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1980.htm"
+    },
+    {
+      "name": "New Year's Party",
+      "date": "Saturday, December 31, 1994",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI757.htm"
+    },
+    {
+      "name": "North of House",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1585.htm"
+    },
+    {
+      "name": "Children's Choir",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1584.htm"
+    },
+    {
+      "name": "Pam's Wedding Family Picture",
+      "date": "Monday, July 02, 1990",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1573.htm"
+    },
+    {
+      "name": "In the Field",
+      "date": "Monday, August 15, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI897.htm"
+    },
+    {
+      "name": "In Driveway (40th)",
+      "date": "Monday, August 01, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1526.htm"
+    },
+    {
+      "name": "Cousins and an aunt",
+      "date": "Thursday, July 07, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI459.htm"
+    },
+    {
+      "name": "Most of The Family",
+      "date": "Thursday, July 07, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI458.htm"
+    },
+    {
+      "name": "Family in front of garden",
+      "date": "Tuesday, July 05, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI638.htm"
+    },
+    {
+      "name": "Family Picture",
+      "date": "Saturday, July 02, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1576.htm"
+    },
+    {
+      "name": "Family Picture 40th",
+      "date": "Saturday, July 02, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1574.htm"
+    },
+    {
+      "name": "Grandchildren",
+      "date": "Monday, July 05, 1976",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1537.htm"
+    },
+    {
+      "name": "In Front of Cottage",
+      "date": "Friday, August 01, 1975",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI442.htm"
+    },
+    {
+      "name": "Easter Morning",
+      "date": "Tuesday, April 30, 1974",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1122.htm"
+    },
+    {
+      "name": "Sisters",
+      "date": "Friday, December 01, 1972",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1126.htm"
+    },
+    {
+      "name": "The Ron Selch's",
+      "date": "Tuesday, August 31, 1971",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1140.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:53Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF528.htm",
+    "extractionDate": "2025-10-02T00:04:28.082642Z"
+  }
+}

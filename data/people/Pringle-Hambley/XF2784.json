@@ -1,0 +1,80 @@
+{
+  "id": "XF2784",
+  "name": "Martha  Stewart",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, July 26, 1828",
+  "birthLocation": "Ligonier Westmoreland Co     USA",
+  "deathDate": "Tuesday, April 24, 1894",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2787",
+    "name": "Berekiah Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2787.htm"
+  },
+  "mother": {
+    "id": "XF2788",
+    "name": "Mary (Polly) Fisher-Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2788.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2783",
+      "name": "John Wesley Hill [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2783.htm",
+      "marriageDate": "Tuesday, January 01, 1850"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2808",
+      "name": "Harriet (Hallie A. Hill",
+      "url": "/auntruth/new/htm/L3/XF2808.htm",
+      "birthDate": "01/01/1856"
+    },
+    {
+      "id": "XF2807",
+      "name": "Sarah W. Hill",
+      "url": "/auntruth/new/htm/L3/XF2807.htm",
+      "birthDate": "01/01/1855"
+    },
+    {
+      "id": "XF2772",
+      "name": "Stewart Aaron Hill",
+      "url": "/auntruth/new/htm/L3/XF2772.htm",
+      "birthDate": "06/18/1853"
+    },
+    {
+      "id": "XF2805",
+      "name": "Mary A. Hill",
+      "url": "/auntruth/new/htm/L3/XF2805.htm",
+      "birthDate": "01/01/1852"
+    },
+    {
+      "id": "XF2810",
+      "name": "Laura M. Hill",
+      "url": "/auntruth/new/htm/L3/XF2810.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Indiana Co Armagh PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:52Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2784.htm",
+    "extractionDate": "2025-10-02T00:05:17.131737Z"
+  }
+}

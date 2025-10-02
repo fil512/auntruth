@@ -1,0 +1,82 @@
+{
+  "id": "XF1871",
+  "name": "David  Gillespie",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Mousewald     UKG",
+  "deathDate": "Tuesday, January 01, 1822",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1870",
+      "name": "Margaret Mounsey-Gillespie [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1870.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2160",
+      "name": "Alex   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2160.htm",
+      "birthDate": "01/01/1860"
+    },
+    {
+      "id": "XF2158",
+      "name": "Janet   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2158.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2156",
+      "name": "Sarah   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2156.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2155",
+      "name": "John   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2155.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2153",
+      "name": "James   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2153.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2152",
+      "name": "James   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2152.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2151",
+      "name": "William   Gillespie",
+      "url": "/auntruth/new/htm/L9/XF2151.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:15Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1871.htm",
+    "extractionDate": "2025-10-02T00:04:48.173874Z"
+  }
+}

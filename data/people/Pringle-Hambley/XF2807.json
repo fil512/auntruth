@@ -1,0 +1,42 @@
+{
+  "id": "XF2807",
+  "name": "Sarah W. Hill",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, January 01, 1855",
+  "birthLocation": "Leechburg Armstrong Co     USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2783",
+    "name": "John Wesley Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2783.htm"
+  },
+  "mother": {
+    "id": "XF2784",
+    "name": "Martha Stewart-Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2784.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:03Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2807.htm",
+    "extractionDate": "2025-10-02T00:05:18.434777Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XF1954",
+  "name": null,
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1953",
+      "name": "John Nicol [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1953.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:50Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1954.htm",
+    "extractionDate": "2025-10-02T00:04:50.930040Z"
+  }
+}

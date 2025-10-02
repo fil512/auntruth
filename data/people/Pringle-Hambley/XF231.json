@@ -1,0 +1,47 @@
+{
+  "id": "XF231",
+  "name": "Jacob  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, April 13, 1806",
+  "birthLocation": "USA",
+  "deathDate": "Saturday, January 15, 1881",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF208",
+    "name": "Philip Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF208.htm"
+  },
+  "mother": {
+    "id": "XF209",
+    "name": "Mary Cable-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF209.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF232",
+      "name": "Susannah Mosey-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF232.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Pringle Hill Cemetery Lot#24",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:22Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF231.htm",
+    "extractionDate": "2025-10-02T00:05:10.576732Z"
+  }
+}

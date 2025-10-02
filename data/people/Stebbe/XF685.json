@@ -1,0 +1,64 @@
+{
+  "id": "XF685",
+  "name": "Gus  Trithart",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1112",
+      "name": "Lena Boyles-Trithart [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1112.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF490",
+      "name": "Gordon   Trithart",
+      "url": "/auntruth/new/htm/L7/XF490.htm",
+      "birthDate": "01/01/1939"
+    },
+    {
+      "id": "XF489",
+      "name": "Connie   Trithart",
+      "url": "/auntruth/new/htm/L7/XF489.htm",
+      "birthDate": "01/01/1926"
+    },
+    {
+      "id": "XF1116",
+      "name": "Donald   Trithart",
+      "url": "/auntruth/new/htm/L7/XF1116.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1114",
+      "name": "Evelyn   Trithart",
+      "url": "/auntruth/new/htm/L7/XF1114.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:21Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF685.htm",
+    "extractionDate": "2025-10-02T00:03:55.382491Z"
+  }
+}

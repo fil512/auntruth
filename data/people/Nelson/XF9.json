@@ -1,0 +1,64 @@
+{
+  "id": "XF9",
+  "name": "Rhea Frances Rimmington",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, October 30, 1894",
+  "birthLocation": "Toronto ON   CAN",
+  "deathDate": "Sunday, March 22, 1970",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF8",
+      "name": "Franz Erhard Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF8.htm",
+      "marriageDate": "Friday, July 07, 1916"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF38",
+      "name": "Mary Irene Nelson",
+      "url": "/auntruth/new/htm/L2/XF38.htm",
+      "birthDate": "04/19/1921"
+    },
+    {
+      "id": "XF652",
+      "name": "Richard Gordon Nelson",
+      "url": "/auntruth/new/htm/L2/XF652.htm",
+      "birthDate": "06/29/1919"
+    },
+    {
+      "id": "XF37",
+      "name": "Franklin Irwin Nelson",
+      "url": "/auntruth/new/htm/L2/XF37.htm",
+      "birthDate": "02/11/1917"
+    },
+    {
+      "id": "XF39",
+      "name": "Gordon   Nelson",
+      "url": "/auntruth/new/htm/L2/XF39.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Vancouver BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:51:54Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF9.htm",
+    "extractionDate": "2025-10-02T00:04:14.510764Z"
+  }
+}

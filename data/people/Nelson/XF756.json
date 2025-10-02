@@ -1,0 +1,40 @@
+{
+  "id": "XF756",
+  "name": "Eskil Gotthar Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Thursday, December 16, 1897",
+  "birthLocation": null,
+  "deathDate": "Thursday, December 01, 1898",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF13",
+    "name": "Olaf Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF13.htm"
+  },
+  "mother": {
+    "id": "XF755",
+    "name": "Josefina Getz-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF755.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:52Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF756.htm",
+    "extractionDate": "2025-10-02T00:04:12.228946Z"
+  }
+}

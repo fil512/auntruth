@@ -1,0 +1,97 @@
+{
+  "id": "XF498",
+  "name": "Colleen  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": "Saturday, January 01, 1949",
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF496",
+    "name": "Lawrence (Larry Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF496.htm"
+  },
+  "mother": {
+    "id": "XF497",
+    "name": "Anne Lewko-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF497.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF499",
+      "name": "Joseph (Joe) Dziad [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF499.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF500",
+      "name": "Brian Fenske [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF500.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF502",
+      "name": "Ashley   Fenske",
+      "url": "/auntruth/new/htm/L7/XF502.htm",
+      "birthDate": "01/01/1984"
+    },
+    {
+      "id": "XF501",
+      "name": "Darrin   Fenske",
+      "url": "/auntruth/new/htm/L7/XF501.htm",
+      "birthDate": "01/01/1983"
+    }
+  ],
+  "occupation": null,
+  "address": "359 Niagara St. Winnipeg MB  CAN",
+  "email": null,
+  "phone": "204-489-9342, 204-489-9342",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Dinner",
+      "date": "Saturday, July 12, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2266.htm"
+    },
+    {
+      "name": "Whole Stebbe Family",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2258.htm"
+    },
+    {
+      "name": "In Colleen's Back Yard",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2249.htm"
+    },
+    {
+      "name": "Colleen Stebbe",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1955.htm"
+    },
+    {
+      "name": "Famiglia Fenske",
+      "date": "Saturday, December 01, 1984",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1026.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:36Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF498.htm",
+    "extractionDate": "2025-10-02T00:03:53.866980Z"
+  }
+}

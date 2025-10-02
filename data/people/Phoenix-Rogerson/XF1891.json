@@ -1,0 +1,60 @@
+{
+  "id": "XF1891",
+  "name": "Thomas  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1886",
+    "name": "Thomas Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1886.htm"
+  },
+  "mother": {
+    "id": "XF1887",
+    "name": "Nancy Cummings-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1887.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1892",
+      "name": "Susan Burkholder-Mounsey [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1892.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1924",
+      "name": "Jean   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1924.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1893",
+      "name": "James   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1893.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:23Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1891.htm",
+    "extractionDate": "2025-10-02T00:04:49.146103Z"
+  }
+}

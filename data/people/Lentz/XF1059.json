@@ -1,0 +1,60 @@
+{
+  "id": "XF1059",
+  "name": "Carl  Kreiger",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF464",
+    "name": "Karl (Charlie) Kreiger [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF464.htm"
+  },
+  "mother": {
+    "id": "XF463",
+    "name": "Daisy Lentz-Kreiger [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF463.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1060",
+      "name": "Betty Clifford-Kreiger [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF1060.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1065",
+      "name": "Carlyle   Kreiger",
+      "url": "/auntruth/new/htm/L8/XF1065.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1063",
+      "name": "Gary   Kreiger",
+      "url": "/auntruth/new/htm/L8/XF1063.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:30Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF1059.htm",
+    "extractionDate": "2025-10-02T00:02:59.818923Z"
+  }
+}

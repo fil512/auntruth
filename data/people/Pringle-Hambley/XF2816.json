@@ -1,0 +1,49 @@
+{
+  "id": "XF2816",
+  "name": "Joseph Ford Hill",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Wednesday, November 15, 1826",
+  "birthLocation": "Unity Twp Westmoreland Co     USA",
+  "deathDate": "Sunday, July 03, 1904",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2785",
+    "name": "Aaron M. Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2785.htm"
+  },
+  "mother": {
+    "id": "XF2786",
+    "name": "Mary Anne  -Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2786.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2817",
+      "name": "Nancy Patterson Caruthers-Hill [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2817.htm",
+      "marriageDate": "Wednesday, March 19, 1856"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "McPherson Co McPherson KS   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:06Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2816.htm",
+    "extractionDate": "2025-10-02T00:05:18.938580Z"
+  }
+}

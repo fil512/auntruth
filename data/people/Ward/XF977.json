@@ -1,0 +1,40 @@
+{
+  "id": "XF977",
+  "name": "Cora May Ward",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF975",
+    "name": "Walter Remus Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF975.htm"
+  },
+  "mother": {
+    "id": "XF976",
+    "name": "Ella May Hill-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF976.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Falk CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:38Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF977.htm",
+    "extractionDate": "2025-10-02T00:03:40.330141Z"
+  }
+}

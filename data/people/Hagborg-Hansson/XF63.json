@@ -74,13 +74,17 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Ken Stevens",
   "notes": "Swedish Archives, Lund Vissa uppgifter fran slaktforskning utford av Birgit Anker-Kofoed, Mossahuset, Hagestad 127:2,276 45 LODERUP (Barn Proband, s 1, Far II:3, s 2,Mor II:4, s 2",
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:52:29Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF63.htm",
-    "extractionDate": "2025-10-01T04:27:33.371382Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF63.htm",
+    "extractionDate": "2025-10-01T22:03:18.748307Z"
   }
 }

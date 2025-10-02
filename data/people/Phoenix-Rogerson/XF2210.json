@@ -1,0 +1,108 @@
+{
+  "id": "XF2210",
+  "name": "Margaret  Richardson",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "Goodhope Johnson     UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2157",
+    "name": "James Richardson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2157.htm"
+  },
+  "mother": {
+    "id": "XF2156",
+    "name": "Sarah Gillespie-Richardson [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2156.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2211",
+      "name": "John Stone Smith [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2211.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2227",
+      "name": "William   Smith",
+      "url": "/auntruth/new/htm/L9/XF2227.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2226",
+      "name": "Lucy   Smith",
+      "url": "/auntruth/new/htm/L9/XF2226.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2225",
+      "name": "Flora   Smith",
+      "url": "/auntruth/new/htm/L9/XF2225.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2224",
+      "name": "Jane   Smith",
+      "url": "/auntruth/new/htm/L9/XF2224.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2223",
+      "name": "Addie   Smith",
+      "url": "/auntruth/new/htm/L9/XF2223.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2222",
+      "name": "Ester   Smith",
+      "url": "/auntruth/new/htm/L9/XF2222.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2221",
+      "name": "Margaret   Smith",
+      "url": "/auntruth/new/htm/L9/XF2221.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2220",
+      "name": "Sarah   Smith",
+      "url": "/auntruth/new/htm/L9/XF2220.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2219",
+      "name": "George   Smith",
+      "url": "/auntruth/new/htm/L9/XF2219.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2218",
+      "name": "John   Smith",
+      "url": "/auntruth/new/htm/L9/XF2218.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:37Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2210.htm",
+    "extractionDate": "2025-10-02T00:05:03.901222Z"
+  }
+}

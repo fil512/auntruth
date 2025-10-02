@@ -1,0 +1,108 @@
+{
+  "id": "XF445",
+  "name": "Ludwig  Lentz",
+  "lineage": "Lentz",
+  "birthDate": "Saturday, January 01, 1870",
+  "birthLocation": "POL",
+  "deathDate": "Sunday, January 01, 1933",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF443",
+    "name": "Johannes Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF443.htm"
+  },
+  "mother": {
+    "id": "XF444",
+    "name": "Amelia Von Belaff-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF444.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF686",
+      "name": "Juliana Klingbeil-Klingbeil-Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF686.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF688",
+      "name": "Amelia Hoffman-Kaatz-Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF688.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF457",
+      "name": "Henry   Lentz",
+      "url": "/auntruth/new/htm/L8/XF457.htm",
+      "birthDate": "01/01/1909"
+    },
+    {
+      "id": "XF455",
+      "name": "Theodore (Ted)   Lentz",
+      "url": "/auntruth/new/htm/L8/XF455.htm",
+      "birthDate": "01/01/1908"
+    },
+    {
+      "id": "XF463",
+      "name": "Daisy   Lentz",
+      "url": "/auntruth/new/htm/L8/XF463.htm",
+      "birthDate": "01/01/1906"
+    },
+    {
+      "id": "XF447",
+      "name": "Leo   Lentz",
+      "url": "/auntruth/new/htm/L8/XF447.htm",
+      "birthDate": "01/01/1904"
+    },
+    {
+      "id": "XF451",
+      "name": "Otto   Lentz",
+      "url": "/auntruth/new/htm/L8/XF451.htm",
+      "birthDate": "01/01/1902"
+    },
+    {
+      "id": "XF471",
+      "name": "Olga   Lentz",
+      "url": "/auntruth/new/htm/L8/XF471.htm",
+      "birthDate": "01/01/1893"
+    },
+    {
+      "id": "XF2539",
+      "name": "Gottlieb   Lentz",
+      "url": "/auntruth/new/htm/L7/XF2539.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2538",
+      "name": "Herman   Lentz",
+      "url": "/auntruth/new/htm/L7/XF2538.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1056",
+      "name": "Irvin   Lentz",
+      "url": "/auntruth/new/htm/L8/XF1056.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:12Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF445.htm",
+    "extractionDate": "2025-10-02T00:03:01.860359Z"
+  }
+}

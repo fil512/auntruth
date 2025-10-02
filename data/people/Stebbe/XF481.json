@@ -1,0 +1,40 @@
+{
+  "id": "XF481",
+  "name": "Baby  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": "Tuesday, January 01, 1946",
+  "birthLocation": "CAN",
+  "deathDate": "Tuesday, January 01, 1946",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF478",
+    "name": "Richard Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF478.htm"
+  },
+  "mother": {
+    "id": "XF479",
+    "name": "Martha Wensel-Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF479.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:28Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF481.htm",
+    "extractionDate": "2025-10-02T00:03:52.896826Z"
+  }
+}

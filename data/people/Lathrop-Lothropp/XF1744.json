@@ -1,0 +1,52 @@
+{
+  "id": "XF1744",
+  "name": "Alton  Holcomb",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1743",
+      "name": "Pauline Bowers Lathrop-Holcomb [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1743.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1746",
+      "name": "Maud Ethlyn Holcomb",
+      "url": "/auntruth/new/htm/L4/XF1746.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1745",
+      "name": "Alena Clara Holcomb",
+      "url": "/auntruth/new/htm/L4/XF1745.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:21Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1744.htm",
+    "extractionDate": "2025-10-02T00:05:56.080710Z"
+  }
+}

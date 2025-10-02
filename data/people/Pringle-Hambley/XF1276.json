@@ -1,0 +1,65 @@
+{
+  "id": "XF1276",
+  "name": "William John Moffatt",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, January 01, 1878",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Sunday, January 01, 1961",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1275",
+      "name": "Mary Hambley-Moffatt [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1275.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2681",
+      "name": "William Cedric Moffatt",
+      "url": "/auntruth/new/htm/L3/XF2681.htm",
+      "birthDate": "01/01/1915"
+    },
+    {
+      "id": "XF2320",
+      "name": "Annie Mary Moffatt",
+      "url": "/auntruth/new/htm/L3/XF2320.htm",
+      "birthDate": "01/01/1901"
+    },
+    {
+      "id": "XF1277",
+      "name": "Robert   Moffatt",
+      "url": "/auntruth/new/htm/L3/XF1277.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Farm",
+  "address": "Fairview Cemetery Roland MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Moffatt-Hambley Family",
+      "date": "Tuesday, June 21, 2005",
+      "location": "Roland Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2668.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:03Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1276.htm",
+    "extractionDate": "2025-10-02T00:05:06.561689Z"
+  }
+}

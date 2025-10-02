@@ -1,0 +1,46 @@
+{
+  "id": "XF1830",
+  "name": null,
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "YO   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1829",
+      "name": "Walter Lawthrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1829.htm",
+      "marriageDate": "Wednesday, January 01, 1400"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1824",
+      "name": "Robert   Lowthrope",
+      "url": "/auntruth/new/htm/L4/XF1824.htm",
+      "birthDate": "01/01/1400"
+    }
+  ],
+  "occupation": null,
+  "address": "Cherry Burton YO  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Church of Jesus Christ of Latter-Day Saints (Mormons)",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:57Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1830.htm",
+    "extractionDate": "2025-10-02T00:05:58.173442Z"
+  }
+}

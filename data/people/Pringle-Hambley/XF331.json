@@ -1,0 +1,61 @@
+{
+  "id": "XF331",
+  "name": "Judy  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Thursday, May 20, 1954",
+  "birthLocation": "Edmonton AB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF329",
+    "name": "Bruce Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF329.htm"
+  },
+  "mother": {
+    "id": "XF330",
+    "name": "Lidia(Lil) Dragani-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF330.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF333",
+      "name": "Ronald Henbest [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF333.htm",
+      "marriageDate": "Sunday, January 01, 1978"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1820",
+      "name": "Ronald Benjami Henbest",
+      "url": "/auntruth/new/htm/L3/XF1820.htm",
+      "birthDate": "03/10/1987"
+    }
+  ],
+  "occupation": "Music",
+  "address": "ZAF",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "Divorced 1995",
+  "photos": [
+    {
+      "name": "Christmas Visiting",
+      "date": "Saturday, December 25, 1954",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI992.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:11Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF331.htm",
+    "extractionDate": "2025-10-02T00:05:25.363294Z"
+  }
+}

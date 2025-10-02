@@ -1,0 +1,60 @@
+{
+  "id": "XF1957",
+  "name": "Mary  Nicol",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1942",
+    "name": "Robert Nicol [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1942.htm"
+  },
+  "mother": {
+    "id": "XF1941",
+    "name": "Janet Lotimer-Nicol [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1941.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1958",
+      "name": "Chris Gordon [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1958.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1965",
+      "name": "Fern   Gordon",
+      "url": "/auntruth/new/htm/L9/XF1965.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1963",
+      "name": "Jean   Gordon",
+      "url": "/auntruth/new/htm/L9/XF1963.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:51Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1957.htm",
+    "extractionDate": "2025-10-02T00:04:51.110753Z"
+  }
+}

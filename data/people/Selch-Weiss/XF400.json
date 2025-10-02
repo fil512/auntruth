@@ -1,0 +1,73 @@
+{
+  "id": "XF400",
+  "name": "Leo  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Wednesday, March 18, 1908",
+  "birthLocation": "Green Bay MB   CAN",
+  "deathDate": "Wednesday, July 05, 1978",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF383",
+    "name": "August Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF383.htm"
+  },
+  "mother": {
+    "id": "XF384",
+    "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF384.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF401",
+      "name": "Elsie Richter-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF401.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF417",
+      "name": "Elizabeth -Young-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF417.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF438",
+      "name": "Adele (Della)   Selch",
+      "url": "/auntruth/new/htm/L6/XF438.htm",
+      "birthDate": "04/16/1931"
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Worked many years at Boston Clothing, Winnipeg. Buried in Beausejour Cemetery.",
+  "photos": [
+    {
+      "name": "Leo",
+      "date": "Tuesday, August 01, 1972",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1796.htm"
+    },
+    {
+      "name": "Eric & Della Wedding",
+      "date": "Friday, September 01, 1950",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1529.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:47Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF400.htm",
+    "extractionDate": "2025-10-02T00:04:24.357892Z"
+  }
+}

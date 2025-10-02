@@ -1,0 +1,49 @@
+{
+  "id": "XF2848",
+  "name": "John  Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, January 01, 1786",
+  "birthLocation": "Vincent Twp Chester Co     USA",
+  "deathDate": "Tuesday, December 29, 1857",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2832",
+    "name": "Abraham Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2832.htm"
+  },
+  "mother": {
+    "id": "XF2833",
+    "name": "Elizabeth Fluck-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2833.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2849",
+      "name": "Mary Dick-Paul [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2849.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:20Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2848.htm",
+    "extractionDate": "2025-10-02T00:05:20.809065Z"
+  }
+}

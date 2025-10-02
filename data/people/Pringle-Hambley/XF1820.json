@@ -1,0 +1,40 @@
+{
+  "id": "XF1820",
+  "name": "Ronald Benjami Henbest",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, March 10, 1987",
+  "birthLocation": "ZAF",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF333",
+    "name": "Ronald Henbest [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF333.htm"
+  },
+  "mother": {
+    "id": "XF331",
+    "name": "Judy Hambley-Henbest [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF331.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "ZAF",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:53Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1820.htm",
+    "extractionDate": "2025-10-02T00:05:07.671030Z"
+  }
+}

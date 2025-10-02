@@ -1,0 +1,108 @@
+{
+  "id": "XF18",
+  "name": "Frances Maria Pearson",
+  "lineage": "Nelson",
+  "birthDate": "Wednesday, July 29, 1914",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Monday, March 17, 1986",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF7",
+    "name": "Gustav Pearson(Pehrson) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF7.htm"
+  },
+  "mother": {
+    "id": "XF6",
+    "name": "Ellida Augusta Nelson-Pearson(Pehrson) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF6.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Schoolteacher",
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "David Hagborg",
+  "notes": "had cottage at Eleanor Lake",
+  "photos": [
+    {
+      "name": "Obituary Frances Pearson",
+      "date": "Wednesday, March 19, 1986",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1348.htm"
+    },
+    {
+      "name": "Auntie Annie's 90th",
+      "date": "Saturday, January 27, 1979",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1876.htm"
+    },
+    {
+      "name": "At Auntie Annie's 90th birthday",
+      "date": "Saturday, January 27, 1979",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1264.htm"
+    },
+    {
+      "name": "Swimming in the Adriatic",
+      "date": "Wednesday, June 01, 1977",
+      "location": "Croatia General Croatia",
+      "url": "/auntruth/new/htm/L3/XI1358.htm"
+    },
+    {
+      "name": "Dinner in Canton",
+      "date": "Tuesday, June 01, 1976",
+      "location": "China General People's Republic of China",
+      "url": "/auntruth/new/htm/L3/XI1357.htm"
+    },
+    {
+      "name": "New Year's Eve 1975",
+      "date": "Wednesday, December 31, 1975",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI10.htm"
+    },
+    {
+      "name": "Picnic",
+      "date": "Friday, August 01, 1975",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI916.htm"
+    },
+    {
+      "name": "At Auntie Esther & Uncle Carl's cottage",
+      "date": "Sunday, September 22, 1963",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1480.htm"
+    },
+    {
+      "name": "On the Beach Stairs",
+      "date": "Thursday, August 31, 1961",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1406.htm"
+    },
+    {
+      "name": "Pearson Siblings",
+      "date": "Thursday, March 29, 1917",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1370.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Yong Tse Bridge",
+      "date": "Tuesday, June 01, 1976",
+      "location": "China General People's Republic of China",
+      "url": "/auntruth/new/htm/L2/XI1354.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:01Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF18.htm",
+    "extractionDate": "2025-10-02T00:03:58.769065Z"
+  }
+}

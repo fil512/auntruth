@@ -1,0 +1,60 @@
+{
+  "id": "XF440",
+  "name": "Dennis  Muth",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF439",
+    "name": "Eric Muth [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF439.htm"
+  },
+  "mother": {
+    "id": "XF438",
+    "name": "Adele (Della) Selch-Muth [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF438.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1031",
+      "name": "Lorissa Lubimov [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1031.htm",
+      "marriageDate": "Monday, January 01, 1951"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1033",
+      "name": "Gregory   Muth",
+      "url": "/auntruth/new/htm/L6/XF1033.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1032",
+      "name": "Tiffany   Muth",
+      "url": "/auntruth/new/htm/L6/XF1032.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "dw Auto Sales",
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": "(204) 479-6966, (204) 479-6966",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Policeman. Good musician.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:08Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF440.htm",
+    "extractionDate": "2025-10-02T00:04:26.732480Z"
+  }
+}

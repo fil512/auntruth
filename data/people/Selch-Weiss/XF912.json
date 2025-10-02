@@ -1,0 +1,78 @@
+{
+  "id": "XF912",
+  "name": "Alfred  Zieske",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF908",
+    "name": "Zieske [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF908.htm"
+  },
+  "mother": {
+    "id": "XF404",
+    "name": "Hermina(Minnie) Zieske-Zieske-Litke [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF404.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF913",
+      "name": "Lillian -Zieske [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF913.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1025",
+      "name": "Connie   Zieskie",
+      "url": "/auntruth/new/htm/L6/XF1025.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1024",
+      "name": "Sherry   Zieske",
+      "url": "/auntruth/new/htm/L6/XF1024.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF916",
+      "name": "Billy   Zieske",
+      "url": "/auntruth/new/htm/L6/XF916.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF915",
+      "name": "Dennis   Zieske",
+      "url": "/auntruth/new/htm/L6/XF915.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF914",
+      "name": "Larry   Zieske",
+      "url": "/auntruth/new/htm/L6/XF914.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:05Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF912.htm",
+    "extractionDate": "2025-10-02T00:04:35.802413Z"
+  }
+}

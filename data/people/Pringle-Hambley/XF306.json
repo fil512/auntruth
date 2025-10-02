@@ -1,0 +1,54 @@
+{
+  "id": "XF306",
+  "name": "Bruce  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF303",
+    "name": "Keith Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF303.htm"
+  },
+  "mother": {
+    "id": "XF304",
+    "name": "Helen Bosal-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF304.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF308",
+      "name": "Susan Patz-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF308.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "FL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Married 3 May 1986",
+  "photos": [
+    {
+      "name": "Pringle Men",
+      "date": "Saturday, March 01, 1997",
+      "location": "Orlando Florida United States of America",
+      "url": "/auntruth/new/htm/L3/XI1624.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:57Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF306.htm",
+    "extractionDate": "2025-10-02T00:05:23.987553Z"
+  }
+}

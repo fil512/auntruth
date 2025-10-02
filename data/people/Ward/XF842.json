@@ -1,0 +1,39 @@
+{
+  "id": "XF842",
+  "name": "Louis  Breedlove",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF840",
+      "name": "Ada Lathrop-Breedlove [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF840.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Tipton OH  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:32Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF842.htm",
+    "extractionDate": "2025-10-02T00:03:37.207074Z"
+  }
+}

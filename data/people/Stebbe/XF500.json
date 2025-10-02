@@ -1,0 +1,59 @@
+{
+  "id": "XF500",
+  "name": "Brian  Fenske",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF498",
+      "name": "Colleen Stebbe-Dziad-Fenske [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF498.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF502",
+      "name": "Ashley   Fenske",
+      "url": "/auntruth/new/htm/L7/XF502.htm",
+      "birthDate": "01/01/1984"
+    },
+    {
+      "id": "XF501",
+      "name": "Darrin   Fenske",
+      "url": "/auntruth/new/htm/L7/XF501.htm",
+      "birthDate": "01/01/1983"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Winnipeg home-builder.",
+  "photos": [
+    {
+      "name": "Famiglia Fenske",
+      "date": "Saturday, December 01, 1984",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1026.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:37Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF500.htm",
+    "extractionDate": "2025-10-02T00:03:53.967853Z"
+  }
+}

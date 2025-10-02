@@ -1,0 +1,43 @@
+{
+  "id": "XF2466",
+  "name": "Catherine  Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": "Tuesday, January 01, 1861",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2465",
+    "name": "Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2465.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2464",
+      "name": "George Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2464.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Pringle Hill Cemetery Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:29Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2466.htm",
+    "extractionDate": "2025-10-02T00:05:11.790581Z"
+  }
+}

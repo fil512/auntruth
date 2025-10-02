@@ -1,0 +1,84 @@
+{
+  "id": "XF948",
+  "name": "Rozinia Sabra Ward",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF918",
+    "name": "Sumner Perkins Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF918.htm"
+  },
+  "mother": {
+    "id": "XF919",
+    "name": "Flora Helen Schoonover-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF919.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF949",
+      "name": "Charles Herman Burgher [Ward]",
+      "url": "/auntruth/new/htm/L5/XF949.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF950",
+      "name": "Alexander McDonald [Ward]",
+      "url": "/auntruth/new/htm/L5/XF950.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF961",
+      "name": "Rozinia   McDonald",
+      "url": "/auntruth/new/htm/L5/XF961.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF960",
+      "name": "Ernest   McDonald",
+      "url": "/auntruth/new/htm/L5/XF960.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF959",
+      "name": "Donald Sumner Johnson",
+      "url": "/auntruth/new/htm/L5/XF959.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF955",
+      "name": "Catherine Helen M McDonald",
+      "url": "/auntruth/new/htm/L5/XF955.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF951",
+      "name": "Eulalia Emerald Burgher",
+      "url": "/auntruth/new/htm/L5/XF951.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:21Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF948.htm",
+    "extractionDate": "2025-10-02T00:03:38.810018Z"
+  }
+}

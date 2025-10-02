@@ -1,0 +1,84 @@
+{
+  "id": "XF2052",
+  "name": "Mary  Hamilton",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1875",
+    "name": "Joseph Hamilton [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1875.htm"
+  },
+  "mother": {
+    "id": "XF1874",
+    "name": "Joan Mounsey-Hamilton [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1874.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2053",
+      "name": "John Pagan [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2053.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2080",
+      "name": "John   Pagan",
+      "url": "/auntruth/new/htm/L9/XF2080.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2078",
+      "name": "Jean   Pagan",
+      "url": "/auntruth/new/htm/L9/XF2078.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2072",
+      "name": "Janet   Pagan",
+      "url": "/auntruth/new/htm/L9/XF2072.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2071",
+      "name": "Mary   Pagan",
+      "url": "/auntruth/new/htm/L9/XF2071.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2067",
+      "name": "Joan   Pagan",
+      "url": "/auntruth/new/htm/L9/XF2067.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2066",
+      "name": "Joseph   Pagan",
+      "url": "/auntruth/new/htm/L9/XF2066.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:30Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2052.htm",
+    "extractionDate": "2025-10-02T00:04:55.865193Z"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "XF314",
+  "name": "Eileen",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF312",
+      "name": "Donald(Donnie) Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF312.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF319",
+      "name": "Timothy   Pringle",
+      "url": "/auntruth/new/htm/L3/XF319.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF318",
+      "name": "Heather   Pringle",
+      "url": "/auntruth/new/htm/L3/XF318.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF317",
+      "name": "Colleen   Pringle",
+      "url": "/auntruth/new/htm/L3/XF317.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF316",
+      "name": "Gerry   Pringle",
+      "url": "/auntruth/new/htm/L3/XF316.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF315",
+      "name": "Kelly Frankli Pringle",
+      "url": "/auntruth/new/htm/L3/XF315.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Married 1955",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:01Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF314.htm",
+    "extractionDate": "2025-10-02T00:05:24.408094Z"
+  }
+}

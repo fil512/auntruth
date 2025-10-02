@@ -1,0 +1,49 @@
+{
+  "id": "XF2805",
+  "name": "Mary A. Hill",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Thursday, January 01, 1852",
+  "birthLocation": "Leechburg Armstrong Co     USA",
+  "deathDate": "Sunday, August 01, 1915",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2783",
+    "name": "John Wesley Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2783.htm"
+  },
+  "mother": {
+    "id": "XF2784",
+    "name": "Martha Stewart-Hill [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2784.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2806",
+      "name": "Robert J. Tomb [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2806.htm",
+      "marriageDate": "Thursday, June 14, 1883"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:02Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2805.htm",
+    "extractionDate": "2025-10-02T00:05:18.334759Z"
+  }
+}

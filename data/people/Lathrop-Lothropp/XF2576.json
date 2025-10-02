@@ -1,0 +1,50 @@
+{
+  "id": "XF2576",
+  "name": "Azariah  Lothrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Wells, Rutland County VE   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2575",
+    "name": "Samuel Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2575.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2577",
+      "name": "Esther Lewis-Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2577.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2578",
+      "name": "Levi Lewis Lathrop",
+      "url": "/auntruth/new/htm/L4/XF2578.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Wells, Rutland Co. VE  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Anonymous",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:19Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2576.htm",
+    "extractionDate": "2025-10-02T00:06:00.791795Z"
+  }
+}

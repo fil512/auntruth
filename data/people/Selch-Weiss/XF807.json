@@ -1,0 +1,73 @@
+{
+  "id": "XF807",
+  "name": "Daniel  Rosentreter",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF805",
+    "name": "Herman Rosentreter [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF805.htm"
+  },
+  "mother": {
+    "id": "XF806",
+    "name": "Pauline Doring-Rosentreter [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF806.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF808",
+      "name": "Lily Selch-Rosentreter [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF808.htm",
+      "marriageDate": "Tuesday, June 01, 1943"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2895",
+      "name": "Gordon   Rosentreter",
+      "url": "/auntruth/new/htm/L6/XF2895.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'They Stopped at a Good Place' History of Beausejour",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Hell's Angel Balladeer on Front Steps",
+      "date": "Sunday, August 01, 1948",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1505.htm"
+    },
+    {
+      "name": "Albert & Linda Wedding",
+      "date": "Thursday, June 01, 1944",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1765.htm"
+    },
+    {
+      "name": "Quadruple Wedding",
+      "date": "Tuesday, June 01, 1943",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1802.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:15Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF807.htm",
+    "extractionDate": "2025-10-02T00:04:31.550660Z"
+  }
+}

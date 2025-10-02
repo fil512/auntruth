@@ -1,0 +1,41 @@
+{
+  "id": "XF2841",
+  "name": "Samuel Peter Dillon",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2840",
+      "name": "Elizabeth Paul-Dillon [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2840.htm",
+      "marriageDate": "Saturday, June 01, 1861"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Cunningham Twp Chariton Co   MO   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:17Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2841.htm",
+    "extractionDate": "2025-10-02T00:05:20.430194Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF1998",
+  "name": "Earl Norman Lotimer",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1995",
+    "name": "Stanley Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1995.htm"
+  },
+  "mother": {
+    "id": "XF1996",
+    "name": "-Lotimer [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1996.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:08Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1998.htm",
+    "extractionDate": "2025-10-02T00:04:53.237745Z"
+  }
+}

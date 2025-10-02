@@ -1,0 +1,41 @@
+{
+  "id": "XF2804",
+  "name": "Ralph W. Waring",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2803",
+      "name": "Martha Marie Hill-Waring [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2803.htm",
+      "marriageDate": "Wednesday, November 10, 1920"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Fairfax Co Alexandria VA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:01Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2804.htm",
+    "extractionDate": "2025-10-02T00:05:18.251572Z"
+  }
+}

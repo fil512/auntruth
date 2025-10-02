@@ -1,0 +1,46 @@
+{
+  "id": "XF1585",
+  "name": "Aaron  Peterson",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "NJ   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1584",
+      "name": "Ada Anna Merrill-Peterson [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1584.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1586",
+      "name": "Edith Hinckle Peterson",
+      "url": "/auntruth/new/htm/L4/XF1586.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Newport NJ  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:14Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1585.htm",
+    "extractionDate": "2025-10-02T00:05:48.325883Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF1383",
+  "name": "Gladys Helen Smith",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Fort Dodge IO   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1380",
+    "name": "Charles Winfiel Smith [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1380.htm"
+  },
+  "mother": {
+    "id": "XF1381",
+    "name": "Carrie Curceli Blain-Smith [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1381.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Fort Dodge IO  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:49Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1383.htm",
+    "extractionDate": "2025-10-02T00:05:37.788273Z"
+  }
+}

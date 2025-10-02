@@ -1,0 +1,79 @@
+{
+  "id": "XF511",
+  "name": "Julius George DeMarco",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Monday, January 01, 1917",
+  "birthLocation": "CAN",
+  "deathDate": "Sunday, May 30, 1999",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF509",
+    "name": "DeMarco [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF509.htm"
+  },
+  "mother": {
+    "id": "XF510",
+    "name": "Piscatelli-DeMarco [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF510.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF512",
+      "name": "Edith Bush-DeMarco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF512.htm",
+      "marriageDate": "Wednesday, January 01, 1941"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF508",
+      "name": "Janice (Jan)   DeMarco",
+      "url": "/auntruth/new/htm/L6/XF508.htm",
+      "birthDate": "06/21/1948"
+    },
+    {
+      "id": "XF2537",
+      "name": "Linden   DeMarco",
+      "url": "/auntruth/new/htm/L6/XF2537.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF525",
+      "name": "Dale   DeMarco",
+      "url": "/auntruth/new/htm/L6/XF525.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF524",
+      "name": "Shelley   DeMarco",
+      "url": "/auntruth/new/htm/L6/XF524.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Beausejour MB R0E OC0 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "aneurysm",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Worked at Pinawa for many years. Sheet-Metal specialist. Fan and supporter of hockey. Served in WWII in Welland & Lincoln unit. Opened Beausejour Sheet Metalin late 1940s. Retired from Atomic Energy Canada(Pinawa) in 1980.Was a Town Councillor and on Agassiz School Board. Also in Lions, Foresters and Canadian Legion. Hockey/baseball player and active in community sports development. Was instrumental in establishing Beausejour J. B Comets hockey team.",
+  "photos": [
+    {
+      "name": "Obituary Julius DeMarco",
+      "date": "Tuesday, June 01, 1999",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1563.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:44Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF511.htm",
+    "extractionDate": "2025-10-02T00:04:27.183751Z"
+  }
+}

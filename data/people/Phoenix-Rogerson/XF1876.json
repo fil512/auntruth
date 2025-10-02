@@ -1,0 +1,96 @@
+{
+  "id": "XF1876",
+  "name": "Elizabeth  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1866",
+    "name": "James Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1866.htm"
+  },
+  "mother": {
+    "id": "XF1867",
+    "name": "Jean White-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1867.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1877",
+      "name": "John Johnson Rogerson of Third [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1877.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2038",
+      "name": "Alexander   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2038.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2124",
+      "name": "Agnes Mary Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2124.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2123",
+      "name": "Seaton W. Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2123.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2122",
+      "name": "Joseph   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2122.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2120",
+      "name": "William   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2120.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2118",
+      "name": "Margaret Jane Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2118.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2116",
+      "name": "James M. Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2116.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2115",
+      "name": "John   Rogerson",
+      "url": "/auntruth/new/htm/L9/XF2115.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:17Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1876.htm",
+    "extractionDate": "2025-10-02T00:04:48.431765Z"
+  }
+}

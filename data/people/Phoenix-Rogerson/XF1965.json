@@ -1,0 +1,66 @@
+{
+  "id": "XF1965",
+  "name": "Fern  Gordon",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1958",
+    "name": "Chris Gordon [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1958.htm"
+  },
+  "mother": {
+    "id": "XF1957",
+    "name": "Mary Nicol-Gordon [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1957.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1966",
+      "name": "Warner [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1966.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1969",
+      "name": "Girl 1   Warner",
+      "url": "/auntruth/new/htm/L9/XF1969.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1968",
+      "name": "Boy 2   Warner",
+      "url": "/auntruth/new/htm/L9/XF1968.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1967",
+      "name": "Boy 1   Warner",
+      "url": "/auntruth/new/htm/L9/XF1967.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:54Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1965.htm",
+    "extractionDate": "2025-10-02T00:04:51.505003Z"
+  }
+}

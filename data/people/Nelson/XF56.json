@@ -1,0 +1,58 @@
+{
+  "id": "XF56",
+  "name": "Andrew  Cameron",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "UKGG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF52",
+      "name": "Hilma Agneta Esterberg-Cameron [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF52.htm",
+      "marriageDate": "Wednesday, January 25, 1922"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF57",
+      "name": "Hilton   Cameron",
+      "url": "/auntruth/new/htm/L2/XF57.htm",
+      "birthDate": "11/01/1929"
+    },
+    {
+      "id": "XF55",
+      "name": "Duncan Rodney Cameron",
+      "url": "/auntruth/new/htm/L2/XF55.htm",
+      "birthDate": "10/28/1924"
+    },
+    {
+      "id": "XF58",
+      "name": "Ronald Andrew Cameron",
+      "url": "/auntruth/new/htm/L2/XF58.htm",
+      "birthDate": "02/05/1923"
+    }
+  ],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": "Married Hilma Esterberg 01/25/1922",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:24Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF56.htm",
+    "extractionDate": "2025-10-02T00:04:10.710519Z"
+  }
+}

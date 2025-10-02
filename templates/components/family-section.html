@@ -1,0 +1,32 @@
+{% from "macros/person-link.html" import person_link %}
+{% from "macros/date-display.html" import date_display %}
+
+<div class="family-relationships">
+    {% if person.father or person.mother %}
+    <div class="parents-section">
+        <h4>Parents</h4>
+        <ul class="family-list">
+            {% if person.father %}
+            <li><strong>Father:</strong> {{ person_link(person.father) }}</li>
+            {% endif %}
+            {% if person.mother %}
+            <li><strong>Mother:</strong> {{ person_link(person.mother) }}</li>
+            {% endif %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if person.spouses %}
+    <div class="spouses-section">
+        <h4>Spouse{{ 's' if person.spouses|length > 1 }}</h4>
+        <ul class="family-list">
+            {% for spouse in person.spouses %}
+            <li>
+                {{ person_link(spouse) }}
+                {% if spouse.marriageDate %} (m. {{ date_display(spouse.marriageDate) }}){% endif %}
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+</div>

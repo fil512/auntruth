@@ -1,0 +1,40 @@
+{
+  "id": "XF748",
+  "name": "Rose  Lewko",
+  "lineage": "Stebbe",
+  "birthDate": "Friday, January 01, 1937",
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": "Thursday, January 01, 1987",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF744",
+    "name": "Peter Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF744.htm"
+  },
+  "mother": {
+    "id": "XF745",
+    "name": "Angeline Sikierski-Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF745.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Beausejour MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Anne Lewko-Stebbe",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:48Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF748.htm",
+    "extractionDate": "2025-10-02T00:03:57.584493Z"
+  }
+}

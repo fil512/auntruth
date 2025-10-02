@@ -1,0 +1,70 @@
+{
+  "id": "XF688",
+  "name": "Amelia  Hoffman",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1055",
+      "name": "Kaatz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF1055.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF445",
+      "name": "Ludwig Lentz [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF445.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2539",
+      "name": "Gottlieb   Lentz",
+      "url": "/auntruth/new/htm/L7/XF2539.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2538",
+      "name": "Herman   Lentz",
+      "url": "/auntruth/new/htm/L7/XF2538.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF690",
+      "name": "Gottlieb   Kaatz",
+      "url": "/auntruth/new/htm/L8/XF690.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF689",
+      "name": "Herman   Kaatz",
+      "url": "/auntruth/new/htm/L8/XF689.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:22Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF688.htm",
+    "extractionDate": "2025-10-02T00:03:03.321489Z"
+  }
+}

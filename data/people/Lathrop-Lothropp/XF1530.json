@@ -1,0 +1,66 @@
+{
+  "id": "XF1530",
+  "name": "William Herbert Bartlett",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1507",
+    "name": "Erastus Bartlett [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1507.htm"
+  },
+  "mother": {
+    "id": "XF1506",
+    "name": "Sarah Brown-Bartlett [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1506.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1529",
+      "name": "Jennie Frances Lee-Bartlett [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1529.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1546",
+      "name": "Omar Lee Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1546.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1545",
+      "name": "Carl Erastus Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1545.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1544",
+      "name": "Mabel Laura Bartlett",
+      "url": "/auntruth/new/htm/L4/XF1544.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Dover ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:51Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1530.htm",
+    "extractionDate": "2025-10-02T00:05:45.464430Z"
+  }
+}

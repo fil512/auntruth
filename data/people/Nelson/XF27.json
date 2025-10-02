@@ -1,0 +1,47 @@
+{
+  "id": "XF27",
+  "name": "Arthur Olaf Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, January 14, 1913",
+  "birthLocation": "Narcisse MB   CAN",
+  "deathDate": "Sunday, January 01, 1978",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF13",
+    "name": "Olaf Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF13.htm"
+  },
+  "mother": {
+    "id": "XF755",
+    "name": "Josefina Getz-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF755.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Picking Wild Strawberries",
+      "date": "Tuesday, June 15, 1915",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1436.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:07Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF27.htm",
+    "extractionDate": "2025-10-02T00:04:08.353238Z"
+  }
+}

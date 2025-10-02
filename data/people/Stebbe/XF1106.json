@@ -1,0 +1,52 @@
+{
+  "id": "XF1106",
+  "name": "Wally  Catserlis",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF506",
+      "name": "Patricia (Patty Stebbe-Catserlis [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF506.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1108",
+      "name": "Scott   Catserlis",
+      "url": "/auntruth/new/htm/L7/XF1108.htm",
+      "birthDate": "12/01/1995"
+    },
+    {
+      "id": "XF1107",
+      "name": "Emily Ann   Catserlis",
+      "url": "/auntruth/new/htm/L7/XF1107.htm",
+      "birthDate": "11/01/1993"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:51Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1106.htm",
+    "extractionDate": "2025-10-02T00:03:50.003429Z"
+  }
+}

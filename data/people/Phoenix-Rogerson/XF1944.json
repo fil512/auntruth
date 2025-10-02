@@ -1,0 +1,39 @@
+{
+  "id": "XF1944",
+  "name": "Jane Ann Sulivan",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1943",
+      "name": "John Lotimer [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1943.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:45Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1944.htm",
+    "extractionDate": "2025-10-02T00:04:50.438861Z"
+  }
+}

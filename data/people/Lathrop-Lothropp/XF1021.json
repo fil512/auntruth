@@ -1,0 +1,60 @@
+{
+  "id": "XF1021",
+  "name": "Elizabeth  Scudder",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Salem MA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1022",
+    "name": "Thomas Scudder [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1022.htm"
+  },
+  "mother": {
+    "id": "XF1023",
+    "name": "Elizabeth -Scudder [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1023.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1020",
+      "name": "Samuel Lothrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1020.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1142",
+      "name": "John 3rd   Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1142.htm",
+      "birthDate": "12/07/1645"
+    },
+    {
+      "id": "XF2573",
+      "name": "Samuel   Lothrop",
+      "url": "/auntruth/new/htm/L4/XF2573.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:11Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1021.htm",
+    "extractionDate": "2025-10-02T00:05:29.179483Z"
+  }
+}

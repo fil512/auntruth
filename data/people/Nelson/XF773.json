@@ -1,0 +1,72 @@
+{
+  "id": "XF773",
+  "name": "Glenn Dale Esterberg",
+  "lineage": "Nelson",
+  "birthDate": "Wednesday, January 01, 1930",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF50",
+    "name": "Franz-Johan Albin Esterberg [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF50.htm"
+  },
+  "mother": {
+    "id": "XF762",
+    "name": "Lilly McSkimmings-Esterberg [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF762.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF774",
+      "name": "Carolyn Lockhart-Esterberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF774.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF778",
+      "name": "Michael   Esterberg",
+      "url": "/auntruth/new/htm/L2/XF778.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF777",
+      "name": "Katherine (Voll) Esterberg",
+      "url": "/auntruth/new/htm/L2/XF777.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF776",
+      "name": "Dennis   Esterberg",
+      "url": "/auntruth/new/htm/L2/XF776.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF775",
+      "name": "Richard   Esterberg",
+      "url": "/auntruth/new/htm/L2/XF775.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:00Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF773.htm",
+    "extractionDate": "2025-10-02T00:04:13.114444Z"
+  }
+}

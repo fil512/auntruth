@@ -1,0 +1,40 @@
+{
+  "id": "XF1075",
+  "name": "Troy  Michaloski",
+  "lineage": "Lentz",
+  "birthDate": "Friday, January 01, 1971",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF470",
+    "name": "John Michaloski [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF470.htm"
+  },
+  "mother": {
+    "id": "XF469",
+    "name": "Shirley Agar-Michaloski [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF469.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:37Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF1075.htm",
+    "extractionDate": "2025-10-02T00:03:00.742738Z"
+  }
+}

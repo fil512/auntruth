@@ -1,0 +1,58 @@
+{
+  "id": "XF1071",
+  "name": "Cindy  Dyer",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF467",
+      "name": "Lyn Agar [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF467.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1074",
+      "name": "Ryan   Agar",
+      "url": "/auntruth/new/htm/L8/XF1074.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1073",
+      "name": "Chandelle   Agar",
+      "url": "/auntruth/new/htm/L8/XF1073.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1072",
+      "name": "Dinnai   Agar",
+      "url": "/auntruth/new/htm/L8/XF1072.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:35Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF1071.htm",
+    "extractionDate": "2025-10-02T00:03:00.491067Z"
+  }
+}

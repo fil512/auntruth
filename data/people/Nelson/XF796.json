@@ -1,0 +1,58 @@
+{
+  "id": "XF796",
+  "name": "Kenneth Douglas Gray",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": "Saturday, August 01, 1992",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF35",
+      "name": "Ruth Adele Nelson-Gray [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF35.htm",
+      "marriageDate": "Monday, August 25, 1947"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2381",
+      "name": "Woodrow   Gray",
+      "url": "/auntruth/new/htm/L2/XF2381.htm",
+      "birthDate": "01/01/1959"
+    },
+    {
+      "id": "XF2380",
+      "name": "Kathleen Anna Gray",
+      "url": "/auntruth/new/htm/L2/XF2380.htm",
+      "birthDate": "10/27/1949"
+    },
+    {
+      "id": "XF2379",
+      "name": "Jon Nelson Gray",
+      "url": "/auntruth/new/htm/L2/XF2379.htm",
+      "birthDate": "06/15/1948"
+    }
+  ],
+  "occupation": null,
+  "address": "CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:10Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF796.htm",
+    "extractionDate": "2025-10-02T00:04:14.330434Z"
+  }
+}

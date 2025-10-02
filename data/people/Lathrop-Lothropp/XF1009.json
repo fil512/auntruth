@@ -1,0 +1,72 @@
+{
+  "id": "XF1009",
+  "name": "John C. Lowthroppe",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Thursday, January 01, 1480",
+  "birthLocation": "Cherry Burton YO   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1913",
+    "name": "Roberti D. Lowthorp [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1913.htm"
+  },
+  "mother": {
+    "id": "XF1914",
+    "name": "Catherine -Lowthorp [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1914.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1908",
+      "name": "Margaret Wade-Lowthroppe [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1908.htm",
+      "marriageDate": "Sunday, January 01, 1505"
+    },
+    {
+      "id": "XF1909",
+      "name": "Alice Wade-Lowthroppe [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1909.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF1910",
+      "name": "Mary Wade-Lowthroppe [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1910.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1826",
+      "name": "Micael   Lowthroppe",
+      "url": "/auntruth/new/htm/L4/XF1826.htm",
+      "birthDate": "01/01/1515"
+    },
+    {
+      "id": "XF1010",
+      "name": "Robert B. Lowthroppe",
+      "url": "/auntruth/new/htm/L4/XF1010.htm",
+      "birthDate": "01/01/1510"
+    }
+  ],
+  "occupation": null,
+  "address": "Cherry Burton YO  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "see GDRH and LDS",
+  "notes": "Of Lowthorpe. Early in the sixteenth century he lived in Cherry Burton, four miles from Lowthorpe. In the thirty-seventh year of the reign of Henry VIII (1545) he appeared on the Yorkshire Subsidy Roll, assessed twice as much as any other inhabitant in the parish. No records of the birth, marriage or death of himself or wife can be found. Contact: Lowthroppe Family Foundation Box 462 Barnstable Massechusetts 02630  USA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:06Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1009.htm",
+    "extractionDate": "2025-10-02T00:05:28.512308Z"
+  }
+}

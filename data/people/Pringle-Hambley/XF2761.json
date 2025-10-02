@@ -1,0 +1,49 @@
+{
+  "id": "XF2761",
+  "name": "Margaret (Maggie) Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Wednesday, February 12, 1840",
+  "birthLocation": "Croyle Twp Cambria Co     USA",
+  "deathDate": "Wednesday, June 20, 1928",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF229",
+    "name": "Samuel Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF229.htm"
+  },
+  "mother": {
+    "id": "XF230",
+    "name": "Mary Boyles-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF230.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2762",
+      "name": "James Martin Palmer [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2762.htm",
+      "marriageDate": "Saturday, January 01, 1859"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Conemaugh Cambria Co PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:42Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2761.htm",
+    "extractionDate": "2025-10-02T00:05:15.820814Z"
+  }
+}

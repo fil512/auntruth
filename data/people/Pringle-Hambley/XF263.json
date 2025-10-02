@@ -1,0 +1,40 @@
+{
+  "id": "XF263",
+  "name": "David  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, February 26, 1842",
+  "birthLocation": "Cambria County PA   USA",
+  "deathDate": "Thursday, April 06, 1865",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF222",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF222.htm"
+  },
+  "mother": {
+    "id": "XF223",
+    "name": "Elizabeth Bolewine-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF223.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "soldier",
+  "address": "Gettysburg PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "gunshot",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "Fell at Battle of Gettysburgh",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:36Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF263.htm",
+    "extractionDate": "2025-10-02T00:05:14.100798Z"
+  }
+}

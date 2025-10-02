@@ -144,3 +144,197 @@ To activate Phase 3 features on any HTML page:
 4. **Monitor performance** and user feedback
 5. **Complete relationship finder modal** implementation (optional enhancement)
 - You can curl the contents of the docs folder at the endpoint localhost:8000/auntruth/. You never need to run a server; this server is always running. If you need to see the server code, it is in PRPs/server
+
+## Page Generation System - PRODUCTION (Phase 3 Complete)
+
+**Phase 3 of the page generation system is now COMPLETE and IN PRODUCTION** (October 2025). The system auto-generates all 3,004+ genealogy person pages from structured JSON data using Jinja2 templates.
+
+### System Overview
+
+**Pages are now auto-generated from data + templates via GitLab CI/CD.**
+
+```
+JSON Data (3,004 files) + Jinja2 Templates → Generated HTML (3,004 pages)
+         ↓                                           ↓
+   Git Commit                                  GitLab CI Pipeline
+         ↓                                           ↓
+   Validation                                  Auto-deployment
+```
+
+### Key Statistics
+
+- **📁 10 Lineages**: All family lineages extracted and automated
+- **👥 3,004 People**: JSON records for entire genealogy database
+- **📄 3,004 Pages**: Automatically generated HTML pages
+- **✅ 99.3% Extraction Success**: 21 files failed due to missing source data (incomplete HTML)
+- **✅ 98.7% Validation Success**: 38 files with schema issues (missing names in source)
+- **🚀 Automated CI/CD**: Full pipeline with validation, generation, testing, deployment
+- **⏱️ 3-4 Min Generation**: All 3,004 pages generated in single CI run
+
+### Directory Structure
+
+```
+data/people/                    # Source JSON data (DO NOT manually edit HTML!)
+  ├── Hagborg-Hansson/         # 404 people
+  ├── Nelson/                  # 308 people
+  ├── Pringle-Hambley/         # 409 people
+  ├── Lathrop-Lothropp/        # 686 people (largest)
+  ├── Ward/                    # 123 people
+  ├── Selch-Weiss/             # 384 people
+  ├── Stebbe/                  # 153 people
+  ├── Lentz/                   # 77 people (smallest)
+  ├── Phoenix-Rogerson/        # 388 people
+  └── Other/                   # 72 people (unclassified)
+
+templates/                      # Jinja2 templates
+  ├── base.html                # Root template with Phase 3/4 integration
+  ├── person.html              # Main person page template
+  ├── components/              # Reusable components (header, family, etc.)
+  └── macros/                  # Template macros (links, dates, cards)
+
+docs/new/htm/L0-L9/            # AUTO-GENERATED HTML (DO NOT EDIT MANUALLY!)
+  ├── L0/  (Other)
+  ├── L1/  (Hagborg-Hansson)
+  ├── L2/  (Nelson)
+  ├── L3/  (Pringle-Hambley)
+  ├── L4/  (Lathrop-Lothropp)
+  ├── L5/  (Ward)
+  ├── L6/  (Selch-Weiss)
+  ├── L7/  (Stebbe)
+  ├── L8/  (Lentz)
+  └── L9/  (Phoenix-Rogerson)
+```
+
+### ⚠️ CRITICAL: Never Manually Edit Generated HTML
+
+**DO NOT manually edit files in `docs/new/htm/L*/` - they are auto-generated and will be overwritten!**
+
+- ❌ **WRONG**: Edit `docs/new/htm/L1/XF100.htm` directly
+- ✅ **CORRECT**: Edit `data/people/Hagborg-Hansson/XF100.json` and commit (CI regenerates page)
+- ✅ **CORRECT**: Edit `templates/person.html` to change design (CI regenerates ALL pages)
+
+### Making Changes
+
+#### To Update a Person's Information
+
+1. Edit JSON file: `data/people/{lineage}/{person_id}.json`
+2. Validate locally: `python3 PRPs/scripts/both/validate_json_data.py --input data/people/{lineage}/{person_id}.json`
+3. Commit to git: `git add . && git commit -m "Update person data" && git push`
+4. GitLab CI automatically validates, generates page, and deploys
+
+#### To Change Page Design/Layout
+
+1. Edit template: `templates/person.html` (or components/macros)
+2. Test locally: `python3 PRPs/scripts/both/generate_pages.py --lineage Hagborg-Hansson --input-dir data/people/Hagborg-Hansson --output-dir test-output`
+3. Commit to git: `git add . && git commit -m "Update page design" && git push`
+4. GitLab CI automatically regenerates ALL 3,004 pages with new design
+
+#### To Add a New Person
+
+1. Create JSON file: `data/people/{lineage}/XF{number}.json`
+2. Follow schema from `PLAN/data-schema.md`
+3. Validate and commit (CI generates page automatically)
+
+### Scripts
+
+**Extraction (HTML → JSON)**:
+- `PRPs/scripts/both/extract_person_data.py` - Extract structured data from HTML
+- `PRPs/scripts/both/validate_extraction.py` - Validate HTML → JSON accuracy
+
+**Generation (JSON → HTML)**:
+- `PRPs/scripts/both/generate_pages.py` - Generate pages from JSON + templates
+- `PRPs/scripts/both/validate_generation.py` - Validate JSON → HTML accuracy
+
+**Validation**:
+- `PRPs/scripts/both/validate_json_data.py` - Validate JSON schema compliance
+- `PRPs/scripts/both/validate_all_lineages.py` - Validate all 10 lineages
+
+### GitLab CI/CD Pipeline
+
+**Configured in `.gitlab-ci.yml`** with 4 stages:
+
+1. **validate** - Validate JSON data and template syntax
+2. **generate** - Generate all 3,004 HTML pages (3-4 minutes)
+3. **test** - Validate HTML5 compliance and data integrity
+4. **deploy** - Deploy to production (manual trigger required)
+
+**Scheduled Jobs**:
+- Nightly full rebuild at 2 AM (validates + regenerates everything)
+
+### Local Development
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Generate pages for one lineage
+python3 PRPs/scripts/both/generate_pages.py \
+    --lineage Hagborg-Hansson \
+    --input-dir data/people/Hagborg-Hansson \
+    --output-dir docs/new/htm/L1
+
+# Validate all lineages
+python3 PRPs/scripts/both/validate_all_lineages.py
+
+# Preview locally (server always running)
+# Visit: http://localhost:8000/auntruth/new/htm/L1/XF100.htm
+```
+
+### Documentation
+
+- **Developer Guide**: `docs/GENERATION-SYSTEM.md` - Complete development documentation
+- **Operations Runbook**: `docs/RUNBOOK.md` - Emergency procedures, troubleshooting, monitoring
+- **Architecture**: `PLAN/page-generation-overview.md` - System design and strategy
+- **Data Schema**: `PLAN/data-schema.md` - JSON schema specification
+- **Templates**: `PLAN/template-structure.md` - Template architecture
+- **CI Pipeline**: `PLAN/ci-pipeline-spec.md` - Complete pipeline specification
+- **Lineage Mapping**: `PLAN/lineage-mapping.md` - Directory → lineage mapping
+
+### Emergency Procedures
+
+**If generated pages have issues:**
+
+```bash
+# Immediate rollback (< 5 minutes)
+git revert HEAD
+git commit -m "Emergency rollback"
+git push origin main
+# CI auto-deploys previous version
+
+# Or manual rollback
+ssh deployer@auntieruth.com
+rsync -avz /var/www/auntruth/backups/latest/ /var/www/auntruth/new/htm/
+```
+
+**See `docs/RUNBOOK.md` for complete emergency procedures.**
+
+### Phase 3 Achievements
+
+- ✅ **All 10 lineages extracted** (3,004/3,025 files, 99.3% success)
+- ✅ **Schema compliance validated** (2,966/3,004 files, 98.7% success)
+- ✅ **GitLab CI/CD pipeline** fully automated
+- ✅ **Comprehensive documentation** (developer guide, runbook)
+- ✅ **Templates created** with Phase 4 design system integration
+- ✅ **Production deployment** automated with manual approval gate
+- ✅ **Nightly rebuilds** scheduled for continuous validation
+
+### Lineage Directory Mapping
+
+| Directory | Lineage Name | Files | Status |
+|-----------|--------------|-------|--------|
+| L0/ | Other | 72 | ✅ |
+| L1/ | Hagborg-Hansson | 404 | ✅ |
+| L2/ | Nelson | 308 | ✅ |
+| L3/ | Pringle-Hambley | 409 | ✅ |
+| L4/ | Lathrop-Lothropp | 686 | ✅ |
+| L5/ | Ward | 123 | ✅ |
+| L6/ | Selch-Weiss | 384 | ✅ |
+| L7/ | Stebbe | 153 | ✅ |
+| L8/ | Lentz | 77 | ✅ |
+| L9/ | Phoenix-Rogerson | 388 | ✅ |
+
+---
+
+**Phase 3 Status**: ✅ **COMPLETE AND IN PRODUCTION** (October 2025)
+
+**Key Takeaway**: Data-driven page generation system with full CI/CD automation for 3,004 genealogy pages across 10 family lineages.

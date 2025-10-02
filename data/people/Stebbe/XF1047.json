@@ -1,0 +1,39 @@
+{
+  "id": "XF1047",
+  "name": "Bryan  Smith",
+  "lineage": "Stebbe",
+  "birthDate": "Monday, January 01, 1945",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF495",
+      "name": "Margaret Stebbe-Van Dornick-Smith [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF495.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:24Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1047.htm",
+    "extractionDate": "2025-10-02T00:03:49.719380Z"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "XF223",
+  "name": "Elizabeth  Bolewine",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, January 01, 1798",
+  "birthLocation": "Somerset County PA   USA",
+  "deathDate": "Tuesday, June 24, 1862",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF244",
+    "name": "Henry Bolewine [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF244.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF222",
+      "name": "William Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF222.htm",
+      "marriageDate": "Thursday, January 01, 1818"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF263",
+      "name": "David   Pringle",
+      "url": "/auntruth/new/htm/L3/XF263.htm",
+      "birthDate": "02/26/1842"
+    },
+    {
+      "id": "XF262",
+      "name": "Susannah   Pringle",
+      "url": "/auntruth/new/htm/L3/XF262.htm",
+      "birthDate": "12/13/1838"
+    },
+    {
+      "id": "XF260",
+      "name": "Christina   Pringle",
+      "url": "/auntruth/new/htm/L3/XF260.htm",
+      "birthDate": "06/10/1836"
+    },
+    {
+      "id": "XF258",
+      "name": "Jacob   Pringle",
+      "url": "/auntruth/new/htm/L3/XF258.htm",
+      "birthDate": "04/06/1834"
+    },
+    {
+      "id": "XF255",
+      "name": "Isaac   Pringle",
+      "url": "/auntruth/new/htm/L3/XF255.htm",
+      "birthDate": "04/06/1834"
+    },
+    {
+      "id": "XF252",
+      "name": "William   Pringle",
+      "url": "/auntruth/new/htm/L3/XF252.htm",
+      "birthDate": "02/27/1832"
+    },
+    {
+      "id": "XF250",
+      "name": "Alexander B. Pringle",
+      "url": "/auntruth/new/htm/L3/XF250.htm",
+      "birthDate": "09/17/1829"
+    },
+    {
+      "id": "XF249",
+      "name": "Elizabeth   Pringle",
+      "url": "/auntruth/new/htm/L3/XF249.htm",
+      "birthDate": "09/14/1827"
+    },
+    {
+      "id": "XF247",
+      "name": "Margaret   Pringle",
+      "url": "/auntruth/new/htm/L3/XF247.htm",
+      "birthDate": "08/23/1825"
+    },
+    {
+      "id": "XF246",
+      "name": "John   Pringle",
+      "url": "/auntruth/new/htm/L3/XF246.htm",
+      "birthDate": "09/08/1823"
+    },
+    {
+      "id": "XF245",
+      "name": "Henry   Pringle",
+      "url": "/auntruth/new/htm/L3/XF245.htm",
+      "birthDate": "10/04/1821"
+    }
+  ],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "See CS and LDS",
+  "notes": "Married 1818. Buried in Pringle Hill Cemetery. Lot # 22",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:18Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF223.htm",
+    "extractionDate": "2025-10-02T00:05:09.396459Z"
+  }
+}

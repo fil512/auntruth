@@ -1,0 +1,40 @@
+{
+  "id": "XF1622",
+  "name": "Howard Alfred Lothrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1171",
+    "name": "Rev. Alfred Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1171.htm"
+  },
+  "mother": {
+    "id": "XF1172",
+    "name": "Deborah Ann Robinson-Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1172.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Dover ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:30Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1622.htm",
+    "extractionDate": "2025-10-02T00:05:50.182802Z"
+  }
+}

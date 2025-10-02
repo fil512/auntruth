@@ -1,0 +1,40 @@
+{
+  "id": "XF485",
+  "name": "Eleanor  Stebbe",
+  "lineage": "Stebbe",
+  "birthDate": "Saturday, September 12, 1925",
+  "birthLocation": "CAN",
+  "deathDate": "Saturday, August 01, 1936",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF473",
+    "name": "Gustav (Gramps) Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF473.htm"
+  },
+  "mother": {
+    "id": "XF471",
+    "name": "Olga Lentz-Stebbe [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF471.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Died while walking on hwy 44 with Dorothy. Hit by car.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:30Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF485.htm",
+    "extractionDate": "2025-10-02T00:03:53.092374Z"
+  }
+}

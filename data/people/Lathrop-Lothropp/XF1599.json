@@ -1,0 +1,40 @@
+{
+  "id": "XF1599",
+  "name": "George 2nd Colfax Merrill",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Blue Anchor NJ   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1337",
+    "name": "James Huzzy Merrill [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1337.htm"
+  },
+  "mother": {
+    "id": "XF1575",
+    "name": "Susan Jane Lathrop-Merrill-Coburn [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1575.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Blue Anchor NJ  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "died in infancy",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:20Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1599.htm",
+    "extractionDate": "2025-10-02T00:05:48.996462Z"
+  }
+}

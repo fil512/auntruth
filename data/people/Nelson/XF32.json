@@ -1,0 +1,47 @@
+{
+  "id": "XF32",
+  "name": "Elsie Althea Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Friday, November 08, 1912",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF15",
+    "name": "Otto Ernest Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF15.htm"
+  },
+  "mother": {
+    "id": "XF792",
+    "name": "Anna Olivia Nykvist-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF792.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF643",
+      "name": "Melvin O. Gustafson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF643.htm",
+      "marriageDate": "Saturday, September 07, 1946"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Ste 101 1510-11th Avenue South Minneapolis MI 55404 USA",
+  "email": null,
+  "phone": "(612) 339-4622, (612) 339-4622",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": "Corresponds with Lois Cameron Swedish Covenant Church",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:10Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF32.htm",
+    "extractionDate": "2025-10-02T00:04:09.396553Z"
+  }
+}

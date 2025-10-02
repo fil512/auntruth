@@ -1,0 +1,59 @@
+{
+  "id": "XF294",
+  "name": "Ruth  Johnson",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF293",
+      "name": "Walter Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF293.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF295",
+      "name": "James(Jimmy)   Pringle",
+      "url": "/auntruth/new/htm/L3/XF295.htm",
+      "birthDate": "01/01/1942"
+    },
+    {
+      "id": "XF296",
+      "name": "Ruth-Ann   Pringle",
+      "url": "/auntruth/new/htm/L3/XF296.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Dinner at Palmquist Farm",
+      "date": "Tuesday, November 01, 1955",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI985.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:51Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF294.htm",
+    "extractionDate": "2025-10-02T00:05:22.605930Z"
+  }
+}

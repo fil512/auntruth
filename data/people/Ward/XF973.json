@@ -1,0 +1,40 @@
+{
+  "id": "XF973",
+  "name": "Flora Martina Ward",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF971",
+    "name": "Wilfred Percy Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF971.htm"
+  },
+  "mother": {
+    "id": "XF972",
+    "name": "Wilhelmina Long-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF972.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Eureka CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:34Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF973.htm",
+    "extractionDate": "2025-10-02T00:03:40.072553Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "XF2401",
+  "name": "Karen Isabell Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Monday, January 22, 1951",
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF652",
+    "name": "Richard Gordon Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF652.htm"
+  },
+  "mother": {
+    "id": "XF2400",
+    "name": "Mildred Isabell Staple-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2400.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [
+    {
+      "name": "With Gramma Hagborg",
+      "date": "Thursday, June 27, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1464.htm"
+    },
+    {
+      "name": "Motorcar Jaunt",
+      "date": "Wednesday, June 01, 1927",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1469.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Sword Cactus",
+      "date": "Friday, May 31, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1439.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:00Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2401.htm",
+    "extractionDate": "2025-10-02T00:04:05.380836Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "XF2767",
+  "name": "Emily Jane Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, October 30, 1849",
+  "birthLocation": "Summerhill Twp Cambria Co     USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF229",
+    "name": "Samuel Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF229.htm"
+  },
+  "mother": {
+    "id": "XF230",
+    "name": "Mary Boyles-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF230.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2768",
+      "name": "Samuel Hess [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2768.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill Twp Cambria Co   PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:44Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2767.htm",
+    "extractionDate": "2025-10-02T00:05:16.107132Z"
+  }
+}

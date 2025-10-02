@@ -1,0 +1,40 @@
+{
+  "id": "XF763",
+  "name": "Hans Edwin Esterberg",
+  "lineage": "Nelson",
+  "birthDate": "Saturday, September 01, 1900",
+  "birthLocation": null,
+  "deathDate": "Sunday, June 19, 1904",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF12",
+    "name": "Johannes John Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF12.htm"
+  },
+  "mother": {
+    "id": "XF11",
+    "name": "Maria Nelson-Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF11.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": "Buried in Brookside Cemetery",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:55Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF763.htm",
+    "extractionDate": "2025-10-02T00:04:12.595223Z"
+  }
+}

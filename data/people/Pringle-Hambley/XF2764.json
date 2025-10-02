@@ -1,0 +1,41 @@
+{
+  "id": "XF2764",
+  "name": "George W. Bickford",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2763",
+      "name": "Sarah Ann Pringle-Bickford [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2763.htm",
+      "marriageDate": "Tuesday, December 11, 1860"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:43Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2764.htm",
+    "extractionDate": "2025-10-02T00:05:15.938606Z"
+  }
+}

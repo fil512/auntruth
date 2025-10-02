@@ -1,0 +1,40 @@
+{
+  "id": "XF2155",
+  "name": "John  Gillespie",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": "Wednesday, January 01, 1834",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1871",
+    "name": "David Gillespie [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1871.htm"
+  },
+  "mother": {
+    "id": "XF1870",
+    "name": "Margaret Mounsey-Gillespie [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1870.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Surgeon Govt.",
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": "Unmarried",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:14Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2155.htm",
+    "extractionDate": "2025-10-02T00:05:01.074108Z"
+  }
+}

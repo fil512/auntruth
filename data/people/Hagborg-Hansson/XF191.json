@@ -37,7 +37,15 @@
   "address": "235-150 Baylor Ave Winnipeg MB R3T 3P4 CAN",
   "email": "david@hagborg.com",
   "phone": "(204) 269-8223, (204) 269-8223",
-  "website": "www.hagborg.com",
+  "website": "http://www.hagborg.com",
+  "languages": [
+    "English",
+    "Italian",
+    "French"
+  ],
+  "causeOfDeath": null,
+  "genetics": "S/D",
+  "waitingStatus": "Yes",
   "source": "David Hagborg",
   "notes": "BSc(Maths-Physics) University of Manitoba 1966, BA(Economics-Computer Science) UofM 1976. 1966-67 Meteorological Officer Govt Canada Dept of Transportation 1967-73 Developed Environmental Analysis Service at Freshwater Institute 1973-76 Chief Fishery Data Centre Food & Agriculture Organisation United Nations Rome Italy 1976-78 Owner/Operator Dor-Ed Drive-In Beausejour MB Canada and developer of Korean Fisheries Management Information System(Canadian International Development Agency) 1978-80 Developed Polar Bear Software Corporation software for Computerland while President, Hagborg Community Systems Ltd(Man 1979). 1980-81 Head Computer Systems Brandon Research Station Ag Canada Brandon MB 1981-84 Manager MicroComputer Centre Ag Canada Headquarters Ottawa, Canada] 1984-90 VAX System Manager, All-In-1 Manager, Ag Canada National Network 1990-95 Regional Informatics Manager Manitoba, Agriculture Canada (all the while developing software for Hagborg Community Systems Ltd(Man 1979)) Retired from Agriculture Canada 15 June 1995 and resumed fulltime presidency of Hagborg Community Systems Ltd., developing software for Winnipeg clients and providing LAN management, telecom services. Has plot 1831 Brookside Cemetery 3001 Notre Dame Winnipeg MB Canada. Currently (2001-) taking Bcomm(Hons) from UofM and is at CGA 4th level Dec 2005. Involved with Secret Place Ministries, Trinity Lutheran Church Winnipeg.",
   "photos": [
@@ -12388,7 +12396,7 @@
   ],
   "metadata": {
     "lastUpdated": "2005-12-19T18:55:35Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF191.htm",
-    "extractionDate": "2025-10-01T04:27:22.290302Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF191.htm",
+    "extractionDate": "2025-10-01T22:03:05.482836Z"
   }
 }

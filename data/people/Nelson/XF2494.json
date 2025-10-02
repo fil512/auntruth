@@ -1,0 +1,47 @@
+{
+  "id": "XF2494",
+  "name": "Alfreda  Eks",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2492",
+    "name": "Nils Eks [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2492.htm"
+  },
+  "mother": {
+    "id": "XF2493",
+    "name": "Thure-Eks [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2493.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2495",
+      "name": "Ole Jacobson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2495.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:42Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2494.htm",
+    "extractionDate": "2025-10-02T00:04:06.769821Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "XF1194",
+  "name": "Mary  Bates",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1193",
+      "name": "Lemuel Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF1193.htm",
+      "marriageDate": "Thursday, August 29, 1754"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1195",
+      "name": "Nehemiah   Ward",
+      "url": "/auntruth/new/htm/L5/XF1195.htm",
+      "birthDate": "06/20/1761"
+    }
+  ],
+  "occupation": null,
+  "address": "Weymouth MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 29 Aug 1754 in Weymouth ME",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:29Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF1194.htm",
+    "extractionDate": "2025-10-02T00:03:36.541692Z"
+  }
+}

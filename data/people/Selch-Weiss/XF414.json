@@ -1,0 +1,104 @@
+{
+  "id": "XF414",
+  "name": "Ida  Young",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": "Friday, January 01, 1988",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF665",
+    "name": "Oswald Young [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF665.htm"
+  },
+  "mother": {
+    "id": "XF800",
+    "name": "Clara Langer-Young [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF800.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF413",
+      "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF413.htm",
+      "marriageDate": "Sunday, December 01, 1946"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF428",
+      "name": "Beverly   Selch",
+      "url": "/auntruth/new/htm/L6/XF428.htm",
+      "birthDate": "04/21/1963"
+    },
+    {
+      "id": "XF419",
+      "name": "Bruce   Selch",
+      "url": "/auntruth/new/htm/L6/XF419.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF418",
+      "name": "Richard   Selch",
+      "url": "/auntruth/new/htm/L6/XF418.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Freddy Selch Family",
+      "date": "Monday, December 01, 1969",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1814.htm"
+    },
+    {
+      "name": "Beverley, Fred & Ida",
+      "date": "Monday, July 01, 1968",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1813.htm"
+    },
+    {
+      "name": "With Freddy & Ida",
+      "date": "Monday, December 01, 1947",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1766.htm"
+    },
+    {
+      "name": "Wedding Ida & Fred",
+      "date": "Sunday, December 01, 1946",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1809.htm"
+    },
+    {
+      "name": "Fred & Ida",
+      "date": "Sunday, December 01, 1946",
+      "location": "Wadena Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1808.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Rick Confirmation",
+      "date": "Sunday, May 01, 1960",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1810.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:55Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF414.htm",
+    "extractionDate": "2025-10-02T00:04:25.224158Z"
+  }
+}

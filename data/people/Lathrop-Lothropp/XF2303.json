@@ -1,0 +1,54 @@
+{
+  "id": "XF2303",
+  "name": "Dorothy  Nagel",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, January 01, 1916",
+  "birthLocation": "IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2291",
+    "name": "George Nagel [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2291.htm"
+  },
+  "mother": {
+    "id": "XF1207",
+    "name": "Lilly May Porter-Nagel [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1207.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2304",
+      "name": "Frank Ristick [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF2304.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2305",
+      "name": "Sandra   Ristick",
+      "url": "/auntruth/new/htm/L4/XF2305.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:18Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2303.htm",
+    "extractionDate": "2025-10-02T00:05:59.470113Z"
+  }
+}

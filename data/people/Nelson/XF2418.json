@@ -1,0 +1,60 @@
+{
+  "id": "XF2418",
+  "name": "Oscar  Morrison",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2415",
+    "name": "Pete Morrison [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2415.htm"
+  },
+  "mother": {
+    "id": "XF2414",
+    "name": "Karolina Eks-Morrison [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2414.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2419",
+      "name": "Marjorie -Morrison [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2419.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2488",
+      "name": "Doreen   Morrison",
+      "url": "/auntruth/new/htm/L2/XF2488.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2420",
+      "name": "Shirley   Morrison",
+      "url": "/auntruth/new/htm/L2/XF2420.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:08Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2418.htm",
+    "extractionDate": "2025-10-02T00:04:06.265743Z"
+  }
+}

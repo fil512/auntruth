@@ -1,0 +1,60 @@
+{
+  "id": "XF416",
+  "name": "Louis  Young",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": "Tuesday, January 01, 1974",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF665",
+    "name": "Oswald Young [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF665.htm"
+  },
+  "mother": {
+    "id": "XF800",
+    "name": "Clara Langer-Young [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF800.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF663",
+      "name": "-Young [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF663.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF417",
+      "name": "Elizabeth -Young-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF417.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF664",
+      "name": "Ron   Young",
+      "url": "/auntruth/new/htm/L6/XF664.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Great Heel-and-Toe dancer",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:56Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF416.htm",
+    "extractionDate": "2025-10-02T00:04:25.327040Z"
+  }
+}

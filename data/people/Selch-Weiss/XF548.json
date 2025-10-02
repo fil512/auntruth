@@ -1,0 +1,302 @@
+{
+  "id": "XF548",
+  "name": "Donna  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Friday, March 25, 1955",
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF442",
+    "name": "August (Art) Arthur Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF442.htm"
+  },
+  "mother": {
+    "id": "XF399",
+    "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF399.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF550",
+      "name": "Gordon (Gordie) Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF550.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF554",
+      "name": "Timothy   Peluk",
+      "url": "/auntruth/new/htm/L6/XF554.htm",
+      "birthDate": "01/01/1986"
+    },
+    {
+      "id": "XF553",
+      "name": "Christopher   Peluk",
+      "url": "/auntruth/new/htm/L6/XF553.htm",
+      "birthDate": "01/01/1984"
+    }
+  ],
+  "occupation": null,
+  "address": "RR #3 Ladywood Beausejour MB R0E 0C0 CAN",
+  "email": "ctdpeluk@granite.mb.ca",
+  "phone": "(204) 268-3411, (204) 268-3411",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Mom's Best Friend",
+      "date": "Thursday, December 25, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2436.htm"
+    },
+    {
+      "name": "On The Phone",
+      "date": "Thursday, December 25, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2433.htm"
+    },
+    {
+      "name": "Siblings & Mother",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1953.htm"
+    },
+    {
+      "name": "Aunts with Tim & Chris",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1952.htm"
+    },
+    {
+      "name": "Sisters & their Mom",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1951.htm"
+    },
+    {
+      "name": "Lorraine, Toots, Sandy, Donna & Mom",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1950.htm"
+    },
+    {
+      "name": "Donna &  Lorraine",
+      "date": "Wednesday, December 25, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1937.htm"
+    },
+    {
+      "name": "Sisters",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1859.htm"
+    },
+    {
+      "name": "Livingroom",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1856.htm"
+    },
+    {
+      "name": "Kitchen",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1843.htm"
+    },
+    {
+      "name": "Thanksgiving LivingRoom at Phoenix's",
+      "date": "Sunday, October 13, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1829.htm"
+    },
+    {
+      "name": "Thanksgiving Livingroom at Phoenix's",
+      "date": "Sunday, October 13, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1825.htm"
+    },
+    {
+      "name": "Thanksgiving Bay Window Kitchen at Phoenix's",
+      "date": "Sunday, October 13, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1824.htm"
+    },
+    {
+      "name": "In front of grain auger",
+      "date": "Sunday, September 15, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1821.htm"
+    },
+    {
+      "name": "Donna with flowers",
+      "date": "Sunday, September 15, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1820.htm"
+    },
+    {
+      "name": "Donna in front of house",
+      "date": "Sunday, September 15, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1819.htm"
+    },
+    {
+      "name": "Dishes",
+      "date": "Saturday, March 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI608.htm"
+    },
+    {
+      "name": "Kitchen",
+      "date": "Saturday, March 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI606.htm"
+    },
+    {
+      "name": "In Kitchen",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1588.htm"
+    },
+    {
+      "name": "Pam's Wedding Family Picture",
+      "date": "Monday, July 02, 1990",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L9/XI1573.htm"
+    },
+    {
+      "name": "In Gramma Selch's Kitchen with Phuoc Luong",
+      "date": "Tuesday, August 01, 1989",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI657.htm"
+    },
+    {
+      "name": "Beside the Summer Kitchen",
+      "date": "Friday, June 06, 1986",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI586.htm"
+    },
+    {
+      "name": "Walking at Mennonite Heritage Village",
+      "date": "Thursday, June 05, 1986",
+      "location": "Steinbach Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI588.htm"
+    },
+    {
+      "name": "At Mennonite Heritage Museum Steam Tractor",
+      "date": "Thursday, June 05, 1986",
+      "location": "Steinbach Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI585.htm"
+    },
+    {
+      "name": "Full Family Picture",
+      "date": "Saturday, July 02, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1577.htm"
+    },
+    {
+      "name": "Sisters",
+      "date": "Monday, December 25, 1978",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1541.htm"
+    },
+    {
+      "name": "In Livingroom",
+      "date": "Sunday, October 01, 1978",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1041.htm"
+    },
+    {
+      "name": "DiningRoom",
+      "date": "Saturday, July 01, 1978",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI823.htm"
+    },
+    {
+      "name": "Dining Room",
+      "date": "Saturday, July 01, 1978",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI822.htm"
+    },
+    {
+      "name": "In Livingroom",
+      "date": "Thursday, February 10, 1977",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1019.htm"
+    },
+    {
+      "name": "Aunt & Niece",
+      "date": "Thursday, September 30, 1976",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1039.htm"
+    },
+    {
+      "name": "Back for Donna's Wedding",
+      "date": "Thursday, December 25, 1975",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1031.htm"
+    },
+    {
+      "name": "Donna's Wedding",
+      "date": "Saturday, November 01, 1975",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1042.htm"
+    },
+    {
+      "name": "In Front",
+      "date": "Wednesday, July 01, 1959",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1530.htm"
+    },
+    {
+      "name": "In the Horse Trough",
+      "date": "Wednesday, July 01, 1959",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1504.htm"
+    },
+    {
+      "name": "Dinner",
+      "date": "Saturday, December 20, 1958",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1496.htm"
+    },
+    {
+      "name": "On the Car",
+      "date": "Tuesday, July 01, 1958",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1503.htm"
+    },
+    {
+      "name": "On Baler",
+      "date": "Saturday, June 01, 1957",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1533.htm"
+    },
+    {
+      "name": "In Livingroom",
+      "date": "Monday, October 01, 1956",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L7/XI1502.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Chris & Timmy",
+      "date": "Thursday, November 27, 1986",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI849.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:59:18Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF548.htm",
+    "extractionDate": "2025-10-02T00:04:29.325204Z"
+  }
+}

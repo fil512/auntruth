@@ -1,0 +1,47 @@
+{
+  "id": "XF2136",
+  "name": "William Alexand Smith",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2135",
+    "name": "John Smith [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2135.htm"
+  },
+  "mother": {
+    "id": "XF2134",
+    "name": "Agnes Mary Kirkland-Smith [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2134.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2137",
+      "name": "Marjory Carruthers-Smith [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2137.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:06Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2136.htm",
+    "extractionDate": "2025-10-02T00:05:00.145903Z"
+  }
+}

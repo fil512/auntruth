@@ -1,0 +1,46 @@
+{
+  "id": "XF822",
+  "name": "Katherine  Chmil",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF821",
+      "name": "Joseph Okolita [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF821.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF408",
+      "name": "Martin   Okolita",
+      "url": "/auntruth/new/htm/L6/XF408.htm",
+      "birthDate": "10/23/1933"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'They Stopped at a Good Place' History of Beausejour",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:22Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF822.htm",
+    "extractionDate": "2025-10-02T00:04:32.347101Z"
+  }
+}

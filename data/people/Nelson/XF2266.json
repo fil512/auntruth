@@ -1,0 +1,52 @@
+{
+  "id": "XF2266",
+  "name": null,
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2265",
+      "name": "Althea Anne Nelson- [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2265.htm",
+      "marriageDate": "Monday, January 01, 1968"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2267",
+      "name": "Shane",
+      "url": "/auntruth/new/htm/L2/XF2267.htm",
+      "birthDate": "01/01/1969"
+    },
+    {
+      "id": "XF2268",
+      "name": "Haron",
+      "url": "/auntruth/new/htm/L2/XF2268.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:02Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2266.htm",
+    "extractionDate": "2025-10-02T00:04:00.325978Z"
+  }
+}

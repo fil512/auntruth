@@ -30,7 +30,15 @@
   "address": "1-321 Stradbrook Ave Winnipeg MB R3L 0J5 CAN",
   "email": "brandy@hagborg.com",
   "phone": "(204) 452-1273, (204) 452-1273, (204) 294-2140",
-  "website": "www.hagborg.com/brandy",
+  "website": "http://www.hagborg.com/brandy",
+  "languages": [
+    "English",
+    "French",
+    "Italian"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": null,
   "notes": null,
   "photos": [
@@ -2643,7 +2651,7 @@
   ],
   "metadata": {
     "lastUpdated": "2005-12-19T19:43:28Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF193.htm",
-    "extractionDate": "2025-10-01T04:27:22.868194Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF193.htm",
+    "extractionDate": "2025-10-01T22:03:05.791136Z"
   }
 }

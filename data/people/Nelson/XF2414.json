@@ -1,0 +1,62 @@
+{
+  "id": "XF2414",
+  "name": "Karolina  Eks",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "S0   SWE",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2413",
+    "name": "Anders Eks [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2413.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2415",
+      "name": "Pete Morrison [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2415.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2489",
+      "name": "Rita   Morrison",
+      "url": "/auntruth/new/htm/L2/XF2489.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2418",
+      "name": "Oscar   Morrison",
+      "url": "/auntruth/new/htm/L2/XF2418.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2416",
+      "name": "Josef   Morrison",
+      "url": "/auntruth/new/htm/L2/XF2416.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:06Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2414.htm",
+    "extractionDate": "2025-10-02T00:04:06.083841Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF2661",
+  "name": "Elaine  Bauchman",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2660",
+    "name": "Adolf Bauchman [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2660.htm"
+  },
+  "mother": {
+    "id": "XF2659",
+    "name": "Dorothy Violet Milbrandt-Bauchman [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2659.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Robin Lish",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:56Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2661.htm",
+    "extractionDate": "2025-10-02T00:04:19.314487Z"
+  }
+}

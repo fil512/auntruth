@@ -1,0 +1,58 @@
+{
+  "id": "XF2366",
+  "name": "Carol",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2365",
+      "name": "Donald Raymond Ridgeway [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2365.htm",
+      "marriageDate": "Tuesday, January 01, 1957"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2369",
+      "name": "Mark Nelson Ridgeway",
+      "url": "/auntruth/new/htm/L2/XF2369.htm",
+      "birthDate": "04/21/1966"
+    },
+    {
+      "id": "XF2368",
+      "name": "Glen Alan Ridgeway",
+      "url": "/auntruth/new/htm/L2/XF2368.htm",
+      "birthDate": "04/21/1966"
+    },
+    {
+      "id": "XF2367",
+      "name": "Scott Eric Ridgeway",
+      "url": "/auntruth/new/htm/L2/XF2367.htm",
+      "birthDate": "12/14/1961"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:45Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2366.htm",
+    "extractionDate": "2025-10-02T00:04:03.524035Z"
+  }
+}

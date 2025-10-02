@@ -1,0 +1,60 @@
+{
+  "id": "XF1365",
+  "name": "Martha Sophia Morrison",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Tuesday, February 17, 1829",
+  "birthLocation": "Vernon VT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1363",
+    "name": "Jonathan Morrison [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1363.htm"
+  },
+  "mother": {
+    "id": "XF1364",
+    "name": "Melinda Edwards-Morrison [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1364.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1366",
+      "name": "Daniel Lathrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1366.htm",
+      "marriageDate": "Saturday, May 10, 1856"
+    },
+    {
+      "id": "XF1367",
+      "name": "Albert Luman Tuttle [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1367.htm",
+      "marriageDate": "Monday, October 16, 1882"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1372",
+      "name": "Oscar Jacob Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1372.htm",
+      "birthDate": "12/27/1856"
+    }
+  ],
+  "occupation": null,
+  "address": "Torrington CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:41Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1365.htm",
+    "extractionDate": "2025-10-02T00:05:36.866423Z"
+  }
+}

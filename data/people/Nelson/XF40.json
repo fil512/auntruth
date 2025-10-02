@@ -1,0 +1,47 @@
+{
+  "id": "XF40",
+  "name": "Murray Glen Pearson",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, November 28, 1950",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF16",
+    "name": "Gustavus Donald Pearson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF16.htm"
+  },
+  "mother": {
+    "id": "XF17",
+    "name": "Margaret(Madge) Isabel Murray-Pearson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF17.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2325",
+      "name": "Laurie Patrici Farquar-Pearson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2325.htm",
+      "marriageDate": "Saturday, October 11, 1975"
+    }
+  ],
+  "children": [],
+  "occupation": "Chartered Accountant",
+  "address": "Thatcher Drive Winnipeg   CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "divorced",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:15Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF40.htm",
+    "extractionDate": "2025-10-02T00:04:09.816479Z"
+  }
+}

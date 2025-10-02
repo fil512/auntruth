@@ -1,0 +1,47 @@
+{
+  "id": "XF1212",
+  "name": "Mildred  Hornung",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Thursday, August 29, 1901",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1211",
+    "name": "George Adolph Hornung [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1211.htm"
+  },
+  "mother": {
+    "id": "XF1203",
+    "name": "Nellie Eliza Lathrop-Porter-Hornung [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1203.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1216",
+      "name": "Roscoe Breedlove [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1216.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:36Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1212.htm",
+    "extractionDate": "2025-10-02T00:05:31.962940Z"
+  }
+}

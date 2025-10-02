@@ -1,0 +1,39 @@
+{
+  "id": "XF1911",
+  "name": "Walter  de Lowthorpe",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Tuesday, January 01, 1191",
+  "birthLocation": "Albigense F0   fra",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF1912",
+      "name": "Walter   de Lowthorpe",
+      "url": "/auntruth/new/htm/L4/XF1912.htm",
+      "birthDate": "01/01/1250"
+    }
+  ],
+  "occupation": null,
+  "address": "0 Lowthorpe YO  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:31Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1911.htm",
+    "extractionDate": "2025-10-02T00:05:58.370311Z"
+  }
+}

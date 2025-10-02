@@ -1,0 +1,40 @@
+{
+  "id": "XF1898",
+  "name": "David  Rothwell",
+  "lineage": "",
+  "birthDate": "Sunday, March 05, 1961",
+  "birthLocation": "Stonewall MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF737",
+    "name": "Jim Rothwell []",
+    "url": "/auntruth/new/htm/L0/XF737.htm"
+  },
+  "mother": {
+    "id": "XF736",
+    "name": "Irene Carlson-Rothwell [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF736.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": "Electronics Technician",
+  "address": "RR1 Woodlands MB R0C 3H0 CAN",
+  "email": null,
+  "phone": "204-383-5244, 204-383-5244",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:26Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF1898.htm",
+    "extractionDate": "2025-10-02T00:06:12.242051Z"
+  }
+}

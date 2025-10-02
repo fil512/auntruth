@@ -1,0 +1,72 @@
+{
+  "id": "XF1203",
+  "name": "Nellie Eliza Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Thursday, October 15, 1863",
+  "birthLocation": "Vermillion IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF287",
+    "name": "William Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF287.htm"
+  },
+  "mother": {
+    "id": "XF288",
+    "name": "Rozella Ward-Lathrop [Ward]",
+    "url": "/auntruth/new/htm/L5/XF288.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1204",
+      "name": "John Richmon Porter [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1204.htm",
+      "marriageDate": "Wednesday, February 25, 1885"
+    },
+    {
+      "id": "XF1211",
+      "name": "George Adolph Hornung [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1211.htm",
+      "marriageDate": "Thursday, December 05, 1895"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1212",
+      "name": "Mildred   Hornung",
+      "url": "/auntruth/new/htm/L4/XF1212.htm",
+      "birthDate": "08/29/1901"
+    },
+    {
+      "id": "XF1208",
+      "name": "Bertha Lorena Porter",
+      "url": "/auntruth/new/htm/L4/XF1208.htm",
+      "birthDate": "11/27/1889"
+    },
+    {
+      "id": "XF1207",
+      "name": "Lilly May Porter",
+      "url": "/auntruth/new/htm/L4/XF1207.htm",
+      "birthDate": "02/12/1887"
+    }
+  ],
+  "occupation": null,
+  "address": "Farm Ridge IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 25 Feb 1885 in Vermillion IL",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:04:33Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1203.htm",
+    "extractionDate": "2025-10-02T00:05:31.486079Z"
+  }
+}

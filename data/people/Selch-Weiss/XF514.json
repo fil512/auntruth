@@ -1,0 +1,36 @@
+{
+  "id": "XF514",
+  "name": "Hattie  Bush",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF513",
+    "name": "Bush [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF513.htm"
+  },
+  "mother": null,
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:46Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF514.htm",
+    "extractionDate": "2025-10-02T00:04:27.306889Z"
+  }
+}

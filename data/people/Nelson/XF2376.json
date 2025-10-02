@@ -1,0 +1,39 @@
+{
+  "id": "XF2376",
+  "name": "Bill  Molitor",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2375",
+      "name": "Laura Jean Nelson-Molitor [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2375.htm",
+      "marriageDate": "Sunday, January 01, 1967"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:50Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2376.htm",
+    "extractionDate": "2025-10-02T00:04:04.071461Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XF2479",
+  "name": "Barbara E.",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, April 16, 1847",
+  "birthLocation": "USA",
+  "deathDate": "Wednesday, September 02, 1925",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2478",
+      "name": "Abraham W. Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2478.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Pringle Hill Cemetery Book",
+  "notes": "Buried in Pringle Hill",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:13:35Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2479.htm",
+    "extractionDate": "2025-10-02T00:05:12.562671Z"
+  }
+}

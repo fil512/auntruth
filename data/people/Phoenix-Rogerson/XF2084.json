@@ -1,0 +1,40 @@
+{
+  "id": "XF2084",
+  "name": "Gavin  Pagan",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2080",
+    "name": "John Pagan [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2080.htm"
+  },
+  "mother": {
+    "id": "XF2081",
+    "name": "Margaret Lang-Pagan [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF2081.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:44Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2084.htm",
+    "extractionDate": "2025-10-02T00:04:57.529389Z"
+  }
+}

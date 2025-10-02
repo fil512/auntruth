@@ -1,0 +1,7 @@
+{% macro date_display(date_str) %}
+    {% if date_str and date_str != '0' and date_str != 'Unknown' %}
+        {{ date_str }}
+    {% else %}
+        <em class="text-tertiary">Unknown</em>
+    {% endif %}
+{% endmacro %}

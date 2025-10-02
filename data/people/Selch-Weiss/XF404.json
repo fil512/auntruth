@@ -1,0 +1,75 @@
+{
+  "id": "XF404",
+  "name": "Hermina(Minnie)  Zieske",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Wednesday, December 30, 1903",
+  "birthLocation": "Brokenhead MB   CAN",
+  "deathDate": "Saturday, February 06, 1993",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF907",
+    "name": "Zieske [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF907.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF908",
+      "name": "Zieske [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF908.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF403",
+      "name": "Bill (Tommy) Litke [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF403.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF912",
+      "name": "Alfred   Zieske",
+      "url": "/auntruth/new/htm/L6/XF912.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Beausejour MB R0E 0C0 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Auntie Minnie - Lorraine Selch used to go for cream. Farm next to Art Selch",
+  "photos": [
+    {
+      "name": "Obituary Auntie Minnie",
+      "date": "Monday, February 08, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1562.htm"
+    },
+    {
+      "name": "40th Table",
+      "date": "Monday, August 01, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1560.htm"
+    },
+    {
+      "name": "40th Picnic Table",
+      "date": "Monday, August 01, 1983",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1559.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:49Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF404.htm",
+    "extractionDate": "2025-10-02T00:04:24.559943Z"
+  }
+}

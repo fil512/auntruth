@@ -1,0 +1,64 @@
+{
+  "id": "XF651",
+  "name": "Victor  Foskett",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF38",
+      "name": "Mary Irene Nelson-Foskett [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF38.htm",
+      "marriageDate": "Saturday, June 21, 1941"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2397",
+      "name": "Joan Irene Foskett",
+      "url": "/auntruth/new/htm/L2/XF2397.htm",
+      "birthDate": "05/21/1950"
+    },
+    {
+      "id": "XF2395",
+      "name": "James Victor Foskett",
+      "url": "/auntruth/new/htm/L2/XF2395.htm",
+      "birthDate": "04/22/1948"
+    },
+    {
+      "id": "XF795",
+      "name": "",
+      "url": "/auntruth/new/htm/L2/XF795.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF794",
+      "name": "Jim   Hoskett",
+      "url": "/auntruth/new/htm/L2/XF794.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "13114-107th Ave Surrey BC V3T 2G3 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lois Brand-Cameron",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:06Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF651.htm",
+    "extractionDate": "2025-10-02T00:04:11.493389Z"
+  }
+}

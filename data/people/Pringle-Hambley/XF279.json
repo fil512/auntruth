@@ -1,0 +1,66 @@
+{
+  "id": "XF279",
+  "name": "Malinda  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, January 01, 1871",
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF255",
+    "name": "Isaac Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF255.htm"
+  },
+  "mother": {
+    "id": "XF256",
+    "name": "Malinda Kring-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF256.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF280",
+      "name": "Al Miller [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF280.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF283",
+      "name": "Elsie   Miller",
+      "url": "/auntruth/new/htm/L3/XF283.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF282",
+      "name": "Walter   Miller",
+      "url": "/auntruth/new/htm/L3/XF282.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF281",
+      "name": "Ruth   Miller",
+      "url": "/auntruth/new/htm/L3/XF281.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Edna Stebbe-Fedorco",
+  "notes": "Mother died giving birth",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:43Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF279.htm",
+    "extractionDate": "2025-10-02T00:05:17.421905Z"
+  }
+}

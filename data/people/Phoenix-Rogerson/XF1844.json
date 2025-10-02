@@ -1,0 +1,70 @@
+{
+  "id": "XF1844",
+  "name": "Jackie  Grieve",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": "Friday, January 01, 1773",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1841",
+      "name": "Thomas Mounsey [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1841.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2007",
+      "name": "Margret   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF2007.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2004",
+      "name": "Elizabeth   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF2004.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2003",
+      "name": "Thomas   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF2003.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2002",
+      "name": "Paul   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF2002.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2001",
+      "name": "James   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF2001.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:03Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1844.htm",
+    "extractionDate": "2025-10-02T00:04:46.840041Z"
+  }
+}

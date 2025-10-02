@@ -1,0 +1,54 @@
+{
+  "id": "XF997",
+  "name": "Hannah Johnson Eames",
+  "lineage": "Ward",
+  "birthDate": "Thursday, April 27, 1656",
+  "birthLocation": "Sudbury MA   USA",
+  "deathDate": "Sunday, December 08, 1720",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF998",
+    "name": "Solomon Johnson [Ward]",
+    "url": "/auntruth/new/htm/L5/XF998.htm"
+  },
+  "mother": {
+    "id": "XF999",
+    "name": "Hannah -Johnson [Ward]",
+    "url": "/auntruth/new/htm/L5/XF999.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF996",
+      "name": "William Jr. Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF996.htm",
+      "marriageDate": "Monday, September 04, 1679"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1000",
+      "name": "Col. William   Ward",
+      "url": "/auntruth/new/htm/L5/XF1000.htm",
+      "birthDate": "03/27/1680"
+    }
+  ],
+  "occupation": null,
+  "address": "Marlboro MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 4 Sep 1679 in MArlboro MA Died in Marlboro MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:00Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF997.htm",
+    "extractionDate": "2025-10-02T00:03:41.371572Z"
+  }
+}

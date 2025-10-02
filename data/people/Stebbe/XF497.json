@@ -1,0 +1,139 @@
+{
+  "id": "XF497",
+  "name": "Anne  Lewko",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF744",
+    "name": "Peter Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF744.htm"
+  },
+  "mother": {
+    "id": "XF745",
+    "name": "Angeline Sikierski-Lewko [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF745.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF496",
+      "name": "Lawrence (Larry Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF496.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF503",
+      "name": "Wayne   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF503.htm",
+      "birthDate": "01/01/1950"
+    },
+    {
+      "id": "XF498",
+      "name": "Colleen   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF498.htm",
+      "birthDate": "01/01/1949"
+    },
+    {
+      "id": "XF506",
+      "name": "Patricia (Patty   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF506.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF505",
+      "name": "Jan   Stebbe",
+      "url": "/auntruth/new/htm/L7/XF505.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Victoria BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Dinner",
+      "date": "Saturday, July 12, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2266.htm"
+    },
+    {
+      "name": "Saturday on Patio",
+      "date": "Saturday, July 12, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2265.htm"
+    },
+    {
+      "name": "Around Swing",
+      "date": "Saturday, July 12, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2264.htm"
+    },
+    {
+      "name": "Whole Stebbe Family",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2258.htm"
+    },
+    {
+      "name": "Grandchildren",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2257.htm"
+    },
+    {
+      "name": "Basking in Sun",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2254.htm"
+    },
+    {
+      "name": "Siblings",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2253.htm"
+    },
+    {
+      "name": "Poolside",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2252.htm"
+    },
+    {
+      "name": "On Deck",
+      "date": "Sunday, July 06, 2003",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI2248.htm"
+    },
+    {
+      "name": "Auntie Anne & Uncle Lawrence",
+      "date": "Monday, March 01, 1999",
+      "location": "Victoria British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1994.htm"
+    },
+    {
+      "name": "In the Tent",
+      "date": "Sunday, August 01, 1993",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1580.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:36Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF497.htm",
+    "extractionDate": "2025-10-02T00:03:53.791761Z"
+  }
+}

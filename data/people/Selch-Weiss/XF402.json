@@ -1,0 +1,54 @@
+{
+  "id": "XF402",
+  "name": "Hilda(Hulda?)  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Friday, August 25, 1905",
+  "birthLocation": "Green Bay MB   CAN",
+  "deathDate": "Monday, January 01, 1945",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF383",
+    "name": "August Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF383.htm"
+  },
+  "mother": {
+    "id": "XF384",
+    "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF384.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF403",
+      "name": "Bill (Tommy) Litke [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF403.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [
+    {
+      "name": "In front of Red Barn",
+      "date": "Wednesday, March 20, 1940",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1790.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:48Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF402.htm",
+    "extractionDate": "2025-10-02T00:04:24.460313Z"
+  }
+}

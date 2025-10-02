@@ -1,0 +1,96 @@
+{
+  "id": "XF353",
+  "name": "Sumner  Ward",
+  "lineage": "Ward",
+  "birthDate": "Saturday, January 25, 1800",
+  "birthLocation": "Buckland MA   USA",
+  "deathDate": "Tuesday, August 08, 1876",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF980",
+    "name": "Jeremiah Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF980.htm"
+  },
+  "mother": {
+    "id": "XF981",
+    "name": "Hannah Ward-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF981.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF352",
+      "name": "Sabra Lothrop-Ward [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF352.htm",
+      "marriageDate": "Tuesday, March 06, 1827"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF286",
+      "name": "Edward Smith Ward",
+      "url": "/auntruth/new/htm/L5/XF286.htm",
+      "birthDate": "11/25/1843"
+    },
+    {
+      "id": "XF920",
+      "name": "Alfred L. Ward",
+      "url": "/auntruth/new/htm/L5/XF920.htm",
+      "birthDate": "03/18/1840"
+    },
+    {
+      "id": "XF918",
+      "name": "Sumner Perkins Ward",
+      "url": "/auntruth/new/htm/L5/XF918.htm",
+      "birthDate": "12/25/1836"
+    },
+    {
+      "id": "XF288",
+      "name": "Rozella   Ward",
+      "url": "/auntruth/new/htm/L5/XF288.htm",
+      "birthDate": "05/09/1835"
+    },
+    {
+      "id": "XF1141",
+      "name": "Lucy Jane Ward",
+      "url": "/auntruth/new/htm/L5/XF1141.htm",
+      "birthDate": "05/12/1833"
+    },
+    {
+      "id": "XF1139",
+      "name": "Martin Luther Ward",
+      "url": "/auntruth/new/htm/L5/XF1139.htm",
+      "birthDate": "02/09/1831"
+    },
+    {
+      "id": "XF1138",
+      "name": "Josiah   Ward",
+      "url": "/auntruth/new/htm/L5/XF1138.htm",
+      "birthDate": "03/15/1829"
+    },
+    {
+      "id": "XF1137",
+      "name": "Sarah Maria Ward",
+      "url": "/auntruth/new/htm/L5/XF1137.htm",
+      "birthDate": "09/15/1827"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 6 March 1827 in Dover ME Died in Farm Ridge IL",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:24Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF353.htm",
+    "extractionDate": "2025-10-02T00:03:36.843814Z"
+  }
+}

@@ -30,13 +30,17 @@
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Hemfrid Johnsson",
   "notes": "Married in 1924. Was section foreman in Meadows til 1944, then General Chairman of the Brotherhood of Maintenance of Way for CPR.",
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T18:52:34Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF71.htm",
-    "extractionDate": "2025-10-01T04:27:34.427971Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF71.htm",
+    "extractionDate": "2025-10-01T22:03:20.182132Z"
   }
 }

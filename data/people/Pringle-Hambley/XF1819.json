@@ -1,0 +1,47 @@
+{
+  "id": "XF1819",
+  "name": "Curtis  Harris",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Wednesday, December 26, 1979",
+  "birthLocation": "BC   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF349",
+    "name": "Patrick Harris [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF349.htm"
+  },
+  "mother": {
+    "id": "XF350",
+    "name": "Donna Jayne Hambley-Harris-Greuter-Warman [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF350.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "BC  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Auntie Ruth 100th",
+      "date": "Saturday, May 18, 2002",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1635.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:53Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1819.htm",
+    "extractionDate": "2025-10-02T00:05:07.588884Z"
+  }
+}

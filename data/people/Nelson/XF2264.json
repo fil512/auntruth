@@ -1,0 +1,46 @@
+{
+  "id": "XF2264",
+  "name": "Annie  Nowicki",
+  "lineage": "Nelson",
+  "birthDate": "Friday, May 08, 1908",
+  "birthLocation": "Elman MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF28",
+      "name": "Edwin Gordon Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF28.htm",
+      "marriageDate": "Sunday, June 05, 1938"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2265",
+      "name": "Althea Anne Nelson",
+      "url": "/auntruth/new/htm/L2/XF2265.htm",
+      "birthDate": "10/30/1944"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "married in Sioux Lookout, ON Canada",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:01Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2264.htm",
+    "extractionDate": "2025-10-02T00:04:00.222671Z"
+  }
+}

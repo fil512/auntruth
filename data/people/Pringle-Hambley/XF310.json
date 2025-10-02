@@ -1,0 +1,50 @@
+{
+  "id": "XF310",
+  "name": "Norma  Proverbs",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2958",
+    "name": "XX Proverbs [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2958.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF309",
+      "name": "Maurice(Jerry) Ervin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF309.htm",
+      "marriageDate": "Thursday, January 01, 1931"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF312",
+      "name": "Donald(Donnie)   Pringle",
+      "url": "/auntruth/new/htm/L3/XF312.htm",
+      "birthDate": "02/28/1934"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:59Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF310.htm",
+    "extractionDate": "2025-10-02T00:05:24.226254Z"
+  }
+}

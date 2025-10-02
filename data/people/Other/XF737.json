@@ -1,0 +1,82 @@
+{
+  "id": "XF737",
+  "name": "Jim  Rothwell",
+  "lineage": "",
+  "birthDate": "Tuesday, May 05, 1925",
+  "birthLocation": "Woodlands MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF736",
+      "name": "Irene Carlson-Rothwell [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF736.htm",
+      "marriageDate": "Wednesday, January 01, 1947"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1898",
+      "name": "David   Rothwell",
+      "url": "/auntruth/new/htm/L0/XF1898.htm",
+      "birthDate": "03/05/1961"
+    },
+    {
+      "id": "XF1895",
+      "name": "Bruce   Rothwell",
+      "url": "/auntruth/new/htm/L0/XF1895.htm",
+      "birthDate": "12/27/1957"
+    },
+    {
+      "id": "XF1807",
+      "name": "Neil   Rothwell",
+      "url": "/auntruth/new/htm/L0/XF1807.htm",
+      "birthDate": "06/02/1956"
+    },
+    {
+      "id": "XF1804",
+      "name": "Brian   Rothwell",
+      "url": "/auntruth/new/htm/L0/XF1804.htm",
+      "birthDate": "12/26/1950"
+    },
+    {
+      "id": "XF740",
+      "name": "David   Rothwell",
+      "url": "/auntruth/new/htm/L1/XF740.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF739",
+      "name": "Bruce   Rothwell",
+      "url": "/auntruth/new/htm/L1/XF739.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF738",
+      "name": "Brian   Rothwell",
+      "url": "/auntruth/new/htm/L1/XF738.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Retired Custodian",
+  "address": "Box 1726 Stonewall MB R0C 2Z0 CAN",
+  "email": null,
+  "phone": "204-467-9431, 204-467-9431",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Meadows MB Centennial Project History Book 1967",
+  "notes": "Was in active service during WWII with Princess Patricia Light Infantry. After discharge was employed by Ogilvie Flour Mill as track foreman. Was postmaster at Meadows. Became caretaker for Winnipeg School Division.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:44Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF737.htm",
+    "extractionDate": "2025-10-02T00:06:13.606198Z"
+  }
+}

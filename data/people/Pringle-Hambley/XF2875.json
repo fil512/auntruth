@@ -1,0 +1,49 @@
+{
+  "id": "XF2875",
+  "name": "John  Stewart",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, November 06, 1801",
+  "birthLocation": "Fairfield Twp Westmorelan     USA",
+  "deathDate": "Tuesday, December 31, 1833",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2789",
+    "name": "Jacob Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2789.htm"
+  },
+  "mother": {
+    "id": "XF2790",
+    "name": "Eunice Edith Dunn-Stewart [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2790.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2876",
+      "name": "Mary Covode-Stewart [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2876.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:32Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2875.htm",
+    "extractionDate": "2025-10-02T00:05:22.203142Z"
+  }
+}

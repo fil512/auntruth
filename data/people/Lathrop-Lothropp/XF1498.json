@@ -1,0 +1,40 @@
+{
+  "id": "XF1498",
+  "name": "Ernest Delmont Hatch",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "East Bradford ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1494",
+    "name": "Benjamin Frank Hatch [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1494.htm"
+  },
+  "mother": {
+    "id": "XF1493",
+    "name": "Charlotte Viola Bartlett-Hatch [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1493.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "East Bradford ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:38Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1498.htm",
+    "extractionDate": "2025-10-02T00:05:43.753551Z"
+  }
+}

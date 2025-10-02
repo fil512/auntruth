@@ -1,0 +1,90 @@
+{
+  "id": "XF918",
+  "name": "Sumner Perkins Ward",
+  "lineage": "Ward",
+  "birthDate": "Sunday, December 25, 1836",
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF353",
+    "name": "Sumner Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF353.htm"
+  },
+  "mother": {
+    "id": "XF352",
+    "name": "Sabra Lothrop-Ward [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF352.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF919",
+      "name": "Flora Helen Schoonover-Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF919.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF975",
+      "name": "Walter Remus Ward",
+      "url": "/auntruth/new/htm/L5/XF975.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF974",
+      "name": "Merrit Alonzo Ward",
+      "url": "/auntruth/new/htm/L5/XF974.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF971",
+      "name": "Wilfred Percy Ward",
+      "url": "/auntruth/new/htm/L5/XF971.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF970",
+      "name": "Helen Alvira Ward",
+      "url": "/auntruth/new/htm/L5/XF970.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF967",
+      "name": "Rozetta Angelet Ward",
+      "url": "/auntruth/new/htm/L5/XF967.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF962",
+      "name": "Rosalie Rachel Ward",
+      "url": "/auntruth/new/htm/L5/XF962.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF948",
+      "name": "Rozinia Sabra Ward",
+      "url": "/auntruth/new/htm/L5/XF948.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Eureka CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:08Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF918.htm",
+    "extractionDate": "2025-10-02T00:03:37.277115Z"
+  }
+}

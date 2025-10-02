@@ -1,0 +1,46 @@
+{
+  "id": "XF708",
+  "name": null,
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF709",
+      "name": "Mary Fedorco- [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF709.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF707",
+      "name": "Maryann   Fedorco",
+      "url": "/auntruth/new/htm/L7/XF707.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": "Died in war",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:31Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF708.htm",
+    "extractionDate": "2025-10-02T00:03:56.099812Z"
+  }
+}

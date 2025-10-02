@@ -1,0 +1,40 @@
+{
+  "id": "XF2641",
+  "name": "Martha  Milbrandt",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "RUS",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2637",
+    "name": "Milbrandt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2637.htm"
+  },
+  "mother": {
+    "id": "XF2640",
+    "name": "Anna -Milbrandt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2640.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Robin Lish",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:47Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2641.htm",
+    "extractionDate": "2025-10-02T00:04:18.260368Z"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "XF829",
+  "name": "Annie Theresa Craig",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF624",
+      "name": "Donald Rogerson [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF624.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF625",
+      "name": "Allan Craig Rogerson",
+      "url": "/auntruth/new/htm/L9/XF625.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF623",
+      "name": "Jean Craig Rogerson",
+      "url": "/auntruth/new/htm/L9/XF623.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF830",
+      "name": "Philip(Barney) Craig Rogerson",
+      "url": "/auntruth/new/htm/L9/XF830.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:26Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF829.htm",
+    "extractionDate": "2025-10-02T00:05:05.859197Z"
+  }
+}

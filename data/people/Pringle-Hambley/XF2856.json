@@ -1,0 +1,42 @@
+{
+  "id": "XF2856",
+  "name": "Mary (Polly) Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, January 01, 1796",
+  "birthLocation": "Vincent Twp Chester Co     USA",
+  "deathDate": "Wednesday, June 07, 1865",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2832",
+    "name": "Abraham Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2832.htm"
+  },
+  "mother": {
+    "id": "XF2833",
+    "name": "Elizabeth Fluck-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2833.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Croyle Twp Cambria Co   PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:16:23Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2856.htm",
+    "extractionDate": "2025-10-02T00:05:21.229116Z"
+  }
+}

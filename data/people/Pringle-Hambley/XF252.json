@@ -1,0 +1,53 @@
+{
+  "id": "XF252",
+  "name": "William  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Monday, February 27, 1832",
+  "birthLocation": "Cambria County PA   USA",
+  "deathDate": "Wednesday, September 26, 1883",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF222",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF222.htm"
+  },
+  "mother": {
+    "id": "XF223",
+    "name": "Elizabeth Bolewine-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF223.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF253",
+      "name": "Sarah -Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF253.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF254",
+      "name": "Margaret A. Morrow-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF254.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Portage PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:31Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF252.htm",
+    "extractionDate": "2025-10-02T00:05:12.889281Z"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "id": "XF309",
+  "name": "Maurice(Jerry) Ervin Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, January 01, 1911",
+  "birthLocation": "CAN",
+  "deathDate": "Friday, February 15, 1991",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF284",
+    "name": "Maurice Franklin Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF284.htm"
+  },
+  "mother": {
+    "id": "XF285",
+    "name": "Rose(Rosella) Ward-Pringle [Ward]",
+    "url": "/auntruth/new/htm/L5/XF285.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF310",
+      "name": "Norma Proverbs-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF310.htm",
+      "marriageDate": "Thursday, January 01, 1931"
+    },
+    {
+      "id": "XF311",
+      "name": "Jane MacGreer-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF311.htm",
+      "marriageDate": "Thursday, January 01, 1942"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF324",
+      "name": "Peter John   Pringle",
+      "url": "/auntruth/new/htm/L3/XF324.htm",
+      "birthDate": "01/01/1956"
+    },
+    {
+      "id": "XF312",
+      "name": "Donald(Donnie)   Pringle",
+      "url": "/auntruth/new/htm/L3/XF312.htm",
+      "birthDate": "02/28/1934"
+    },
+    {
+      "id": "XF320",
+      "name": "Woodson(Woody)( Richard Pringle",
+      "url": "/auntruth/new/htm/L3/XF320.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Blakely Island OR  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Married Norma in 1931. Divorced. Married Jane in 1942",
+  "photos": [
+    {
+      "name": "Home in Vancouver",
+      "date": "Sunday, June 15, 1986",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L3/XI865.htm"
+    },
+    {
+      "name": "With Grandchildren",
+      "date": "Saturday, December 15, 1984",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L3/XI990.htm"
+    },
+    {
+      "name": "At a restaurant",
+      "date": "Friday, September 03, 1982",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI1006.htm"
+    },
+    {
+      "name": "At Restaurant",
+      "date": "Friday, September 03, 1982",
+      "location": "Vancouver British Columbia Canada",
+      "url": "/auntruth/new/htm/L1/XI989.htm"
+    },
+    {
+      "name": "Splitting Logs",
+      "date": "Tuesday, July 01, 1980",
+      "location": "Blakely Island Washington United States of America",
+      "url": "/auntruth/new/htm/L1/XI905.htm"
+    },
+    {
+      "name": "At Uncle Jerry's Cottage",
+      "date": "Tuesday, July 01, 1980",
+      "location": "Blakely Island Washington United States of America",
+      "url": "/auntruth/new/htm/L1/XI904.htm"
+    },
+    {
+      "name": "Siblings",
+      "date": "Tuesday, August 01, 1978",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1359.htm"
+    },
+    {
+      "name": "Christmas Visit from Uncle Jerry",
+      "date": "Monday, December 20, 1954",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI939.htm"
+    },
+    {
+      "name": "Marion & Phil's Wedding",
+      "date": "Saturday, July 01, 1950",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI1613.htm"
+    },
+    {
+      "name": "50th Wedding Anniversary",
+      "date": "Saturday, July 01, 1950",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L0/XI979.htm"
+    },
+    {
+      "name": "Telegram from Uncle Jerry",
+      "date": "Sunday, November 12, 1944",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1280.htm"
+    },
+    {
+      "name": "Wedding Picture",
+      "date": "Thursday, January 01, 1942",
+      "location": "Calgary Alberta Canada",
+      "url": "/auntruth/new/htm/L0/XI972.htm"
+    },
+    {
+      "name": "Tractor Driving",
+      "date": "Thursday, September 01, 1932",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI961.htm"
+    },
+    {
+      "name": "Gassing Up",
+      "date": "Sunday, August 11, 1929",
+      "location": "British Columbia Canada",
+      "url": "/auntruth/new/htm/L3/XI958.htm"
+    },
+    {
+      "name": "At Sylvan Lake",
+      "date": "Monday, July 01, 1929",
+      "location": "Alberta Canada",
+      "url": "/auntruth/new/htm/L3/XI947.htm"
+    },
+    {
+      "name": "Steps of Boys Training School",
+      "date": "Wednesday, June 01, 1921",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI929.htm"
+    },
+    {
+      "name": "On the Sidewalk",
+      "date": "Thursday, June 01, 1916",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI980.htm"
+    },
+    {
+      "name": "Pringle Family in Mather (Part 2))",
+      "date": "Saturday, March 02, 1912",
+      "location": "Mather Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI2653.htm"
+    },
+    {
+      "name": "Pringle Family in Mather (Part 1)",
+      "date": "Friday, March 01, 1912",
+      "location": "Mather Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI2652.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Fireman Movie",
+      "date": "Tuesday, June 15, 1948",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI2420.htm"
+    },
+    {
+      "name": "Movie at Hagborg Duplex",
+      "date": "Monday, May 02, 1938",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L3/XI2418.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:59Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF309.htm",
+    "extractionDate": "2025-10-02T00:05:24.148627Z"
+  }
+}

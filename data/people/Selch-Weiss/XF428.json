@@ -1,0 +1,67 @@
+{
+  "id": "XF428",
+  "name": "Beverly  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Sunday, April 21, 1963",
+  "birthLocation": "Wadena SK   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF413",
+    "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF413.htm"
+  },
+  "mother": {
+    "id": "XF414",
+    "name": "Ida Young-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF414.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2937",
+      "name": "Michael Hemish [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2937.htm",
+      "marriageDate": "Sunday, December 01, 2002"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2938",
+      "name": "Rachel Amanda Hemish",
+      "url": "/auntruth/new/htm/L6/XF2938.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "240 Mountshannon Drive Ottawa ON K2J 4N5 CAN",
+  "email": "bhemish@rogers.com",
+  "phone": "(613) 823-7571, (613) 823-7571",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [
+    {
+      "name": "Freddy Selch Family",
+      "date": "Monday, December 01, 1969",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1814.htm"
+    },
+    {
+      "name": "Beverley, Fred & Ida",
+      "date": "Monday, July 01, 1968",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1813.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:02Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF428.htm",
+    "extractionDate": "2025-10-02T00:04:26.051305Z"
+  }
+}

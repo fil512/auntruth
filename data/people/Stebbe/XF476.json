@@ -1,0 +1,43 @@
+{
+  "id": "XF476",
+  "name": "Tillie  Kaatz(Hochtaler?)",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF680",
+    "name": "Kaatz(Hochtaler?) [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF680.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF557",
+      "name": "Herman(Harry) Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF557.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:25Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF476.htm",
+    "extractionDate": "2025-10-02T00:03:52.623981Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF1351",
+  "name": "Waldo Clair Lillibridge",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Sunday, August 02, 1896",
+  "birthLocation": "Corona CA   USA",
+  "deathDate": "Monday, March 15, 1897",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1350",
+    "name": "Charles Eben Lilibridge [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1350.htm"
+  },
+  "mother": {
+    "id": "XF1349",
+    "name": "Ida Alberti Wilkins-Lilibridge [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1349.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Corona CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:35Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1351.htm",
+    "extractionDate": "2025-10-02T00:05:36.134255Z"
+  }
+}

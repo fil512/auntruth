@@ -1,0 +1,48 @@
+{
+  "id": "XF2793",
+  "name": "Benjamin  Dunn",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2794",
+      "name": "Edith Davis-Dunn [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2794.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2790",
+      "name": "Eunice Edith Dunn",
+      "url": "/auntruth/new/htm/L3/XF2790.htm",
+      "birthDate": "01/01/1759"
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:56Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2793.htm",
+    "extractionDate": "2025-10-02T00:05:17.653729Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XF2284",
+  "name": "Eddie  Sherman",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2283",
+      "name": "Janice Marie Oligney-Sherman [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2283.htm",
+      "marriageDate": "Tuesday, July 01, 1958"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:09Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2284.htm",
+    "extractionDate": "2025-10-02T00:04:01.262230Z"
+  }
+}

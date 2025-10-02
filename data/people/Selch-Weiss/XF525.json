@@ -1,0 +1,54 @@
+{
+  "id": "XF525",
+  "name": "Dale  DeMarco",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF511",
+    "name": "Julius George DeMarco [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF511.htm"
+  },
+  "mother": {
+    "id": "XF512",
+    "name": "Edith Bush-DeMarco [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF512.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF526",
+      "name": "Robbie   DeMarco",
+      "url": "/auntruth/new/htm/L6/XF526.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Hockey Player",
+  "photos": [
+    {
+      "name": "School Picture Grade 8A",
+      "date": "Thursday, May 31, 1962",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1512.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:50Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF525.htm",
+    "extractionDate": "2025-10-02T00:04:27.912410Z"
+  }
+}

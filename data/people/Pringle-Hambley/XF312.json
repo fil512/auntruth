@@ -1,0 +1,84 @@
+{
+  "id": "XF312",
+  "name": "Donald(Donnie)  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Wednesday, February 28, 1934",
+  "birthLocation": "CAN",
+  "deathDate": "Sunday, October 17, 1999",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF309",
+    "name": "Maurice(Jerry) Ervin Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF309.htm"
+  },
+  "mother": {
+    "id": "XF310",
+    "name": "Norma Proverbs-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF310.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF313",
+      "name": "Carol -Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF313.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF314",
+      "name": "Eileen -Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF314.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF319",
+      "name": "Timothy   Pringle",
+      "url": "/auntruth/new/htm/L3/XF319.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF318",
+      "name": "Heather   Pringle",
+      "url": "/auntruth/new/htm/L3/XF318.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF317",
+      "name": "Colleen   Pringle",
+      "url": "/auntruth/new/htm/L3/XF317.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF316",
+      "name": "Gerry   Pringle",
+      "url": "/auntruth/new/htm/L3/XF316.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF315",
+      "name": "Kelly Frankli Pringle",
+      "url": "/auntruth/new/htm/L3/XF315.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "119-2960 Irwin Victoria BC V9B 5T9 CAN",
+  "email": null,
+  "phone": "604-391-0564, 604-391-0564",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Internet Search",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:00Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF312.htm",
+    "extractionDate": "2025-10-02T00:05:24.303571Z"
+  }
+}

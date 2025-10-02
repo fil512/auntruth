@@ -1,0 +1,40 @@
+{
+  "id": "XF2056",
+  "name": "Rachel  Hamilton",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1875",
+    "name": "Joseph Hamilton [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1875.htm"
+  },
+  "mother": {
+    "id": "XF1874",
+    "name": "Joan Mounsey-Hamilton [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1874.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:32Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF2056.htm",
+    "extractionDate": "2025-10-02T00:04:56.062854Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF1554",
+  "name": "Hazel Mabel Lambert",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "South Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1552",
+    "name": "Wallace Herbert Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1552.htm"
+  },
+  "mother": {
+    "id": "XF1550",
+    "name": "Blanche Louise Cleaves-Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1550.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "South Dover ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:01Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1554.htm",
+    "extractionDate": "2025-10-02T00:05:46.686827Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF468",
+  "name": "Donald  Agar",
+  "lineage": "Lentz",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF466",
+    "name": "Mac Agar [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF466.htm"
+  },
+  "mother": {
+    "id": "XF465",
+    "name": "Marge Kreiger-Agar [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF465.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:22Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF468.htm",
+    "extractionDate": "2025-10-02T00:03:03.021734Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "XF757",
+  "name": "Helgie Alphild Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Friday, February 21, 1902",
+  "birthLocation": "Narcisse MB   CAN",
+  "deathDate": "Wednesday, October 02, 1946",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF13",
+    "name": "Olaf Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF13.htm"
+  },
+  "mother": {
+    "id": "XF755",
+    "name": "Josefina Getz-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF755.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2258",
+      "name": "Jeanette Oligney-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2258.htm",
+      "marriageDate": "Saturday, May 02, 1925"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2260",
+      "name": "Valerie   Nelson",
+      "url": "/auntruth/new/htm/L2/XF2260.htm",
+      "birthDate": "06/01/1930"
+    },
+    {
+      "id": "XF2259",
+      "name": "Gerald Helgie Nelson",
+      "url": "/auntruth/new/htm/L2/XF2259.htm",
+      "birthDate": "08/21/1928"
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:52Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF757.htm",
+    "extractionDate": "2025-10-02T00:04:12.247262Z"
+  }
+}

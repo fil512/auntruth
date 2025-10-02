@@ -1,0 +1,40 @@
+{
+  "id": "XF664",
+  "name": "Ron  Young",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "Swift Current SK   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF416",
+    "name": "Louis Young [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF416.htm"
+  },
+  "mother": {
+    "id": "XF663",
+    "name": "-Young [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF663.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Swift Current SK  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Medical doctor",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:12Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF664.htm",
+    "extractionDate": "2025-10-02T00:04:30.070083Z"
+  }
+}

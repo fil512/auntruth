@@ -1,0 +1,47 @@
+{
+  "id": "XF826",
+  "name": "Dennis  Okolita",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF408",
+    "name": "Martin Okolita [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF408.htm"
+  },
+  "mother": {
+    "id": "XF407",
+    "name": "Evangeline (Van Selch-Okolita [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF407.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2897",
+      "name": "Kathy Woloskoski-Okolita [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2897.htm",
+      "marriageDate": "Monday, May 01, 2000"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'They Stopped at a Good Place' History of Beausejour",
+  "notes": "Member of Junior Choir which is led by Bonnie Rosentreter and Tammy Okolita.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:24Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF826.htm",
+    "extractionDate": "2025-10-02T00:04:32.551495Z"
+  }
+}

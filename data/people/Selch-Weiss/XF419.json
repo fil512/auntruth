@@ -1,0 +1,110 @@
+{
+  "id": "XF419",
+  "name": "Bruce  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF413",
+    "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF413.htm"
+  },
+  "mother": {
+    "id": "XF414",
+    "name": "Ida Young-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF414.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1091",
+      "name": "Gail Close-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1091.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1093",
+      "name": "Taralyn   Selch",
+      "url": "/auntruth/new/htm/L6/XF1093.htm",
+      "birthDate": "12/01/1985"
+    },
+    {
+      "id": "XF1092",
+      "name": "Gregory   Selch",
+      "url": "/auntruth/new/htm/L6/XF1092.htm",
+      "birthDate": "12/01/1982"
+    },
+    {
+      "id": "XF1094",
+      "name": "AmberLea   Selch",
+      "url": "/auntruth/new/htm/L6/XF1094.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Pans for gold in Yukon",
+  "photos": [
+    {
+      "name": "Kitchen",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1850.htm"
+    },
+    {
+      "name": "Living Room",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1846.htm"
+    },
+    {
+      "name": "Kitchen",
+      "date": "Saturday, November 30, 2002",
+      "location": "Beausejour Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1844.htm"
+    },
+    {
+      "name": "Freddy Selch Family",
+      "date": "Monday, December 01, 1969",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1814.htm"
+    },
+    {
+      "name": "At Uncle Freddy's",
+      "date": "Wednesday, July 13, 1955",
+      "location": "Kelvington Saskatchewan Canada",
+      "url": "/auntruth/new/htm/L6/XI1768.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Rick Selch Family",
+      "date": "Wednesday, December 01, 1982",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1816.htm"
+    },
+    {
+      "name": "Derek 1 Year",
+      "date": "Thursday, December 01, 1977",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1815.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:58Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF419.htm",
+    "extractionDate": "2025-10-02T00:04:25.544344Z"
+  }
+}

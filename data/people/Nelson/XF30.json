@@ -1,0 +1,73 @@
+{
+  "id": "XF30",
+  "name": "Florence Muriel Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Friday, September 25, 1914",
+  "birthLocation": "IL   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF14",
+    "name": "Karl (Charlie) Emil Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF14.htm"
+  },
+  "mother": {
+    "id": "XF195",
+    "name": "Edith Vilhelmina Malmberg-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF195.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2358",
+      "name": "Alva Ridgeway [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2358.htm",
+      "marriageDate": "Monday, July 06, 1936"
+    },
+    {
+      "id": "XF789",
+      "name": "Harry Westberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF789.htm",
+      "marriageDate": "Tuesday, October 08, 1946"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2365",
+      "name": "Donald Raymond Ridgeway",
+      "url": "/auntruth/new/htm/L2/XF2365.htm",
+      "birthDate": "03/27/1937"
+    }
+  ],
+  "occupation": null,
+  "address": "7154 W 51st Place Chicago IL 60638 USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "Florence divorced Alva in 1937",
+  "photos": [
+    {
+      "name": "Charlie Nelson Family",
+      "date": "Wednesday, July 10, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1387.htm"
+    },
+    {
+      "name": "Karl Nelson Family (3 kids of)",
+      "date": "Thursday, March 29, 1917",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1371.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:09Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF30.htm",
+    "extractionDate": "2025-10-02T00:04:09.297648Z"
+  }
+}

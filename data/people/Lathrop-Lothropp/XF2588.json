@@ -1,0 +1,40 @@
+{
+  "id": "XF2588",
+  "name": "Martha  Bradley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Tuesday, July 21, 1795",
+  "birthLocation": "Tolland CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2572",
+    "name": "John Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2572.htm"
+  },
+  "mother": {
+    "id": "XF2565",
+    "name": "Martha Johnson-Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF2565.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Barbara Jones Pulley",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:24Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2588.htm",
+    "extractionDate": "2025-10-02T00:06:01.413119Z"
+  }
+}

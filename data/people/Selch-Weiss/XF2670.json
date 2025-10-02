@@ -1,0 +1,58 @@
+{
+  "id": "XF2670",
+  "name": "Eleanor  Anderson",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2669",
+      "name": "Lawrence Milbrandt [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2669.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2673",
+      "name": "Brenda   Milbrandt",
+      "url": "/auntruth/new/htm/L6/XF2673.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2672",
+      "name": "Diana   Milbrandt",
+      "url": "/auntruth/new/htm/L6/XF2672.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2671",
+      "name": "Ronald   Milbrandt",
+      "url": "/auntruth/new/htm/L6/XF2671.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Robin Lish",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:00Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2670.htm",
+    "extractionDate": "2025-10-02T00:04:19.834098Z"
+  }
+}

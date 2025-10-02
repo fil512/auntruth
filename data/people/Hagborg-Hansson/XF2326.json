@@ -24,13 +24,17 @@
   "email": null,
   "phone": "(416) 537-3126, (416) 537-3126",
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Ken Stevens",
   "notes": "Born 0700GMT Sinai Hospital, Toronto, ON CA",
   "photos": [],
   "photographedBy": [],
   "metadata": {
     "lastUpdated": "2005-12-19T19:12:28Z",
-    "originalHtmlPath": "/Volumes/bork/pers/auntruth/docs/new/htm/L1/XF2326.htm",
-    "extractionDate": "2025-10-01T04:27:23.963540Z"
+    "originalHtmlPath": "docs/new/htm/L1/XF2326.htm",
+    "extractionDate": "2025-10-01T22:03:07.045130Z"
   }
 }

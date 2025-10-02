@@ -1,0 +1,47 @@
+{
+  "id": "XF1099",
+  "name": "Brent  Nicholson",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Monday, March 31, 1980",
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1098",
+    "name": "Gordon Nicholson [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1098.htm"
+  },
+  "mother": {
+    "id": "XF1097",
+    "name": "Sharon Elaine Selch-Nicholson [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF1097.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Brent",
+      "date": "Saturday, June 20, 1998",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L6/XI1786.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:47Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1099.htm",
+    "extractionDate": "2025-10-02T00:04:16.453832Z"
+  }
+}

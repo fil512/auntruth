@@ -1,0 +1,74 @@
+{
+  "id": "XF2771",
+  "name": "Laura Jane Paul",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, December 13, 1859",
+  "birthLocation": "Jackson Twp Cambria Co     USA",
+  "deathDate": "Sunday, April 18, 1937",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2760",
+    "name": "Elias Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2760.htm"
+  },
+  "mother": {
+    "id": "XF2759",
+    "name": "Maria Pringle-Paul [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF2759.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2772",
+      "name": "Stewart Aaron Hill [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2772.htm",
+      "marriageDate": "Tuesday, June 15, 1880"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2803",
+      "name": "Martha Marie Hill",
+      "url": "/auntruth/new/htm/L3/XF2803.htm",
+      "birthDate": "01/15/1895"
+    },
+    {
+      "id": "XF2795",
+      "name": "Walter Forest Hill",
+      "url": "/auntruth/new/htm/L3/XF2795.htm",
+      "birthDate": "06/25/1889"
+    },
+    {
+      "id": "XF2801",
+      "name": "Edith V. Hill",
+      "url": "/auntruth/new/htm/L3/XF2801.htm",
+      "birthDate": "07/03/1884"
+    },
+    {
+      "id": "XF2799",
+      "name": "Bessie O. Hill",
+      "url": "/auntruth/new/htm/L3/XF2799.htm",
+      "birthDate": "05/16/1882"
+    }
+  ],
+  "occupation": null,
+  "address": "Cambria Co Johnstown PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:46Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2771.htm",
+    "extractionDate": "2025-10-02T00:05:16.391373Z"
+  }
+}

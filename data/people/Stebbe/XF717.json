@@ -1,0 +1,47 @@
+{
+  "id": "XF717",
+  "name": "Mary  Simcoe",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF715",
+    "name": "George Simcoe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF715.htm"
+  },
+  "mother": {
+    "id": "XF714",
+    "name": "Ann Fedorco-Simcoe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF714.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF716",
+      "name": "[Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF716.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "John Fedorco",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:35Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF717.htm",
+    "extractionDate": "2025-10-02T00:03:56.600327Z"
+  }
+}

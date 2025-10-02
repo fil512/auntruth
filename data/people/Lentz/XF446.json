@@ -1,0 +1,47 @@
+{
+  "id": "XF446",
+  "name": "Juliana  Lentz",
+  "lineage": "Lentz",
+  "birthDate": "Thursday, January 01, 1874",
+  "birthLocation": "POL",
+  "deathDate": "Sunday, January 01, 1911",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF443",
+    "name": "Johannes Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF443.htm"
+  },
+  "mother": {
+    "id": "XF444",
+    "name": "Amelia Von Belaff-Lentz [Lentz]",
+    "url": "/auntruth/new/htm/L8/XF444.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF687",
+      "name": "Vilhelm Klingbeil [Lentz]",
+      "url": "/auntruth/new/htm/L8/XF687.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:58:12Z",
+    "originalHtmlPath": "docs/new/htm/L8/XF446.htm",
+    "extractionDate": "2025-10-02T00:03:01.937990Z"
+  }
+}

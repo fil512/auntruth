@@ -1,0 +1,47 @@
+{
+  "id": "XF656",
+  "name": "Emma Ellida Esterberg",
+  "lineage": "Nelson",
+  "birthDate": "Monday, March 23, 1891",
+  "birthLocation": "MB   CAN",
+  "deathDate": "Saturday, January 20, 1917",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF12",
+    "name": "Johannes John Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF12.htm"
+  },
+  "mother": {
+    "id": "XF11",
+    "name": "Maria Nelson-Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF11.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF657",
+      "name": "Elgie Wallstrom [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF657.htm",
+      "marriageDate": "Saturday, January 01, 1916"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "Died of Spanish Flu",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:00:09Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF656.htm",
+    "extractionDate": "2025-10-02T00:04:11.765304Z"
+  }
+}

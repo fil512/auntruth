@@ -1,0 +1,40 @@
+{
+  "id": "XF1710",
+  "name": "Hazel May Bradley",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Coventry CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1707",
+    "name": "William Emery Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1707.htm"
+  },
+  "mother": {
+    "id": "XF1706",
+    "name": "Alice Elizabe Wheelock-Bradley [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1706.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Coventry CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:07Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1710.htm",
+    "extractionDate": "2025-10-02T00:05:54.279426Z"
+  }
+}

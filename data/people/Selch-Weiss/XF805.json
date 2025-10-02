@@ -1,0 +1,46 @@
+{
+  "id": "XF805",
+  "name": "Herman  Rosentreter",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF806",
+      "name": "Pauline Doring-Rosentreter [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF806.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF807",
+      "name": "Daniel   Rosentreter",
+      "url": "/auntruth/new/htm/L6/XF807.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Cloverleaf MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'They Stopped at a Good Place' History of Beausejour",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:14Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF805.htm",
+    "extractionDate": "2025-10-02T00:04:31.450500Z"
+  }
+}

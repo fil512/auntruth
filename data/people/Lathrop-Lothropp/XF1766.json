@@ -1,0 +1,47 @@
+{
+  "id": "XF1766",
+  "name": "Pamelia Minnie Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1167",
+    "name": "Albert Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1167.htm"
+  },
+  "mother": {
+    "id": "XF1168",
+    "name": "Sarah Joselyn Sampson-Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1168.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1765",
+      "name": "Odell Bouton Sterling [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1765.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Stratford CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:31Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1766.htm",
+    "extractionDate": "2025-10-02T00:05:57.228306Z"
+  }
+}

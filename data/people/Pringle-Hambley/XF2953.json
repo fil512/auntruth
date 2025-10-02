@@ -1,0 +1,48 @@
+{
+  "id": "XF2953",
+  "name": "Art  McAvoy",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2952",
+      "name": "Eva Hambley-McAvoy [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2952.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2954",
+      "name": "Laura   McAvoy",
+      "url": "/auntruth/new/htm/L3/XF2954.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:05Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2953.htm",
+    "extractionDate": "2025-10-02T00:05:22.926163Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "XF45",
+  "name": "Stanley  Knowles",
+  "lineage": "Nelson",
+  "birthDate": "Wednesday, January 01, 1908",
+  "birthLocation": "Los Angeles CA   USA",
+  "deathDate": "Monday, June 09, 1997",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2327",
+      "name": "Vida -Knowles [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2327.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2328",
+      "name": "Margaret   Knowles",
+      "url": "/auntruth/new/htm/L2/XF2328.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF46",
+      "name": "David Stanley Knowles",
+      "url": "/auntruth/new/htm/L2/XF46.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Member of Parliament(Socialist)",
+  "address": "Ottawa ON  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "stroke,etc",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "Member of Parliament, one founder of Co-operative Commonwealth Federation (Later New Democrat) Party. Well-respected politician and parliamentarian.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:17Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF45.htm",
+    "extractionDate": "2025-10-02T00:04:10.104759Z"
+  }
+}

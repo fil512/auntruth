@@ -1,0 +1,60 @@
+{
+  "id": "XF268",
+  "name": "John Martin Cable",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Somerset County PA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF266",
+    "name": "Jacob Cable [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF266.htm"
+  },
+  "mother": {
+    "id": "XF267",
+    "name": "Mary Walker-Cable [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF267.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF269",
+      "name": "Mary Christi Warner(Ripley?)-Cable [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF269.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF209",
+      "name": "Mary   Cable",
+      "url": "/auntruth/new/htm/L3/XF209.htm",
+      "birthDate": "02/26/1776"
+    },
+    {
+      "id": "XF205",
+      "name": "Catherine   Cable",
+      "url": "/auntruth/new/htm/L3/XF205.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Bedford PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Church of Jesus Christ of Latter-Day Saints (Mormons)",
+  "notes": "Cable Family Records, Montgomery County, Ohio. The Cable Family Notes by Eber Cockley. 1800 Census Cambria Township, Somerset County, PA. Will.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:38Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF268.htm",
+    "extractionDate": "2025-10-02T00:05:14.536594Z"
+  }
+}

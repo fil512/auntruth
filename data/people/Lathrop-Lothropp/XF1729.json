@@ -1,0 +1,47 @@
+{
+  "id": "XF1729",
+  "name": "Walter Eugene Lanphear",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Chaplin CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1717",
+    "name": "Jedediah Lanphear [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1717.htm"
+  },
+  "mother": {
+    "id": "XF1718",
+    "name": "Nancy Elizabe Lathrop-Kendall-Lanphear [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1718.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1728",
+      "name": "Hannah Alida Martin-Lanphear [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1728.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": "Reverend",
+  "address": "Oberlin OH  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:15Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1729.htm",
+    "extractionDate": "2025-10-02T00:05:55.233374Z"
+  }
+}

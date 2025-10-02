@@ -1,0 +1,54 @@
+{
+  "id": "XF1750",
+  "name": "George Sherman Lathrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Bridgeport CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1742",
+    "name": "George Richmon Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1742.htm"
+  },
+  "mother": {
+    "id": "XF1747",
+    "name": "Annie Rebecca Sterling-Lathrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1747.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1751",
+      "name": "Lulu May Andrews-Lathrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1751.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1752",
+      "name": "Earle Sterlin Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1752.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "New Haven CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:24Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1750.htm",
+    "extractionDate": "2025-10-02T00:05:56.403092Z"
+  }
+}

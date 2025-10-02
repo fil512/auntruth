@@ -1,0 +1,64 @@
+{
+  "id": "XF1735",
+  "name": "Josephine  Clark",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1736",
+      "name": "Albert Henry Lathrop [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1736.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1740",
+      "name": "Franklin Clark Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1740.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1739",
+      "name": "Wallace Daniel Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1739.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1738",
+      "name": "Abbie Maria Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1738.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1737",
+      "name": "Leonard Hinckle Lathrop",
+      "url": "/auntruth/new/htm/L4/XF1737.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Philadelphia PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:17Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1735.htm",
+    "extractionDate": "2025-10-02T00:05:55.619733Z"
+  }
+}

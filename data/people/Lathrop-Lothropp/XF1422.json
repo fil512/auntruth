@@ -1,0 +1,66 @@
+{
+  "id": "XF1422",
+  "name": "Laura Almira Mansur",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": "Saturday, April 26, 1856",
+  "birthLocation": "South Royalton VT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1420",
+    "name": "Charles Dexter Mansur [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1420.htm"
+  },
+  "mother": {
+    "id": "XF1421",
+    "name": "Almira Matilda Beckwith-Mansur [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1421.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1415",
+      "name": "Charles Henry Hosmer [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1415.htm",
+      "marriageDate": "Wednesday, January 24, 1894"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1424",
+      "name": "Gladys Ella Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1424.htm",
+      "birthDate": "03/30/1900"
+    },
+    {
+      "id": "XF1423",
+      "name": "Laura Milfred Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1423.htm",
+      "birthDate": "02/11/1897"
+    },
+    {
+      "id": "XF1431",
+      "name": "Sara Maria Hosmer",
+      "url": "/auntruth/new/htm/L4/XF1431.htm",
+      "birthDate": "06/30/1855"
+    }
+  ],
+  "occupation": null,
+  "address": "Springfield MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:06:05Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1422.htm",
+    "extractionDate": "2025-10-02T00:05:39.825441Z"
+  }
+}

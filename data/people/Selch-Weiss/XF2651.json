@@ -1,0 +1,40 @@
+{
+  "id": "XF2651",
+  "name": "Darlene Ann Schmidt",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "WI   USA",
+  "deathDate": "Thursday, April 01, 1999",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF2647",
+    "name": "Wallace Edward Schmidt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2647.htm"
+  },
+  "mother": {
+    "id": "XF2638",
+    "name": "Eleanor Alice Milbrandt-Schmidt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2638.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Robin Lish",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:52Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2651.htm",
+    "extractionDate": "2025-10-02T00:04:18.805393Z"
+  }
+}

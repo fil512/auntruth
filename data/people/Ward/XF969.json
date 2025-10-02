@@ -1,0 +1,40 @@
+{
+  "id": "XF969",
+  "name": "Flora Anna Wilson",
+  "lineage": "Ward",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF968",
+    "name": "John Elie Wilson [Ward]",
+    "url": "/auntruth/new/htm/L5/XF968.htm"
+  },
+  "mother": {
+    "id": "XF967",
+    "name": "Rozetta Angelet Ward-Wilson [Ward]",
+    "url": "/auntruth/new/htm/L5/XF967.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Eureka CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Died in infancy",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:31Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF969.htm",
+    "extractionDate": "2025-10-02T00:03:39.870006Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "XF1869",
+  "name": "Samuel  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": "Sunday, January 01, 1797",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1853",
+    "name": "Alex Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1853.htm"
+  },
+  "mother": {
+    "id": "XF1854",
+    "name": "Jean Rogerson-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1854.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": "Unmarried",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:14Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1869.htm",
+    "extractionDate": "2025-10-02T00:04:48.074045Z"
+  }
+}

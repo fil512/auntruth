@@ -1,0 +1,47 @@
+{
+  "id": "XF2573",
+  "name": "Samuel  Lothrop",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1020",
+    "name": "Samuel Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1020.htm"
+  },
+  "mother": {
+    "id": "XF1021",
+    "name": "Elizabeth Scudder-Lothrop [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1021.htm"
+  },
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF2574",
+      "name": "Samuel   Lothrop",
+      "url": "/auntruth/new/htm/L4/XF2574.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Anonymous",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:14:17Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF2573.htm",
+    "extractionDate": "2025-10-02T00:06:00.633503Z"
+  }
+}

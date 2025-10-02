@@ -1,0 +1,48 @@
+{
+  "id": "XF2798",
+  "name": "Esther M. DeArment",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2797",
+      "name": "John O. Foster [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2797.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2796",
+      "name": "Bess Eliza Foster",
+      "url": "/auntruth/new/htm/L3/XF2796.htm",
+      "birthDate": "01/08/1892"
+    }
+  ],
+  "occupation": null,
+  "address": "USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:59Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2798.htm",
+    "extractionDate": "2025-10-02T00:05:17.876664Z"
+  }
+}

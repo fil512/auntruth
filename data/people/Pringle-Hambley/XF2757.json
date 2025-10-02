@@ -1,0 +1,49 @@
+{
+  "id": "XF2757",
+  "name": "Robert  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Saturday, December 19, 1835",
+  "birthLocation": "Summerhill Twp Cambria Co     USA",
+  "deathDate": "Tuesday, February 18, 1896",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF229",
+    "name": "Samuel Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF229.htm"
+  },
+  "mother": {
+    "id": "XF230",
+    "name": "Mary Boyles-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF230.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2758",
+      "name": "Eveline (Eva) Altemus-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2758.htm",
+      "marriageDate": "Sunday, December 01, 1861"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "New Florence Westmoreland Co   PA   USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Lynne Canterbury",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:40Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2757.htm",
+    "extractionDate": "2025-10-02T00:05:15.537722Z"
+  }
+}

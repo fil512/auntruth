@@ -1,0 +1,39 @@
+{
+  "id": "XF2682",
+  "name": "Philips",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2683",
+      "name": "Myrna Moffat-Philips [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2683.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:06Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2682.htm",
+    "extractionDate": "2025-10-02T00:05:14.636045Z"
+  }
+}

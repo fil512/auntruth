@@ -1,0 +1,60 @@
+{
+  "id": "XF1596",
+  "name": "Fannie Jennie Merrill",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Blue Anchor NJ   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1337",
+    "name": "James Huzzy Merrill [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1337.htm"
+  },
+  "mother": {
+    "id": "XF1575",
+    "name": "Susan Jane Lathrop-Merrill-Coburn [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1575.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1595",
+      "name": "Augustus Harring Daggett [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1595.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1598",
+      "name": "Ethel May Daggett",
+      "url": "/auntruth/new/htm/L4/XF1598.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1597",
+      "name": "Leola Jennie Daggett",
+      "url": "/auntruth/new/htm/L4/XF1597.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Camden NJ  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:19Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1596.htm",
+    "extractionDate": "2025-10-02T00:05:48.880661Z"
+  }
+}

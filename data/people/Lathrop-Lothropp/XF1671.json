@@ -1,0 +1,40 @@
+{
+  "id": "XF1671",
+  "name": "Ivah May Stephens",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Fullerton CA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1659",
+    "name": "Eugene Samuel Stephens [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1659.htm"
+  },
+  "mother": {
+    "id": "XF1665",
+    "name": "Ada Myrtle Willard-Stephens [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1665.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Fullerton CA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:50Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1671.htm",
+    "extractionDate": "2025-10-02T00:05:52.757434Z"
+  }
+}

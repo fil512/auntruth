@@ -1,0 +1,40 @@
+{
+  "id": "XF1730",
+  "name": "Mabel Alethea Lanphear",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Chaplin CT   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1717",
+    "name": "Jedediah Lanphear [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1717.htm"
+  },
+  "mother": {
+    "id": "XF1718",
+    "name": "Nancy Elizabe Lathrop-Kendall-Lanphear [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1718.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Willimantic CT  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:08:15Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1730.htm",
+    "extractionDate": "2025-10-02T00:05:55.318358Z"
+  }
+}

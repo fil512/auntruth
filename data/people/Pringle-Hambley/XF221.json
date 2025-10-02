@@ -1,0 +1,39 @@
+{
+  "id": "XF221",
+  "name": "George  Garn",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Sunday, April 23, 1797",
+  "birthLocation": "USA",
+  "deathDate": "Tuesday, January 29, 1878",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF220",
+      "name": "Christina Pringle-Garn [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF220.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:17Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF221.htm",
+    "extractionDate": "2025-10-02T00:05:09.294464Z"
+  }
+}

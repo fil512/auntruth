@@ -1,0 +1,54 @@
+{
+  "id": "XF1553",
+  "name": "Albert Ellswor Lambert",
+  "lineage": "Lathrop-Lothropp",
+  "birthDate": null,
+  "birthLocation": "Dover ME   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1548",
+    "name": "Samuel Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1548.htm"
+  },
+  "mother": {
+    "id": "XF1547",
+    "name": "Franssena Wagner-Lambert [Lathrop-Lothropp]",
+    "url": "/auntruth/new/htm/L4/XF1547.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1551",
+      "name": "Flossie May Gilman-Lambert [Lathrop-Lothropp]",
+      "url": "/auntruth/new/htm/L4/XF1551.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1555",
+      "name": "Merl McKinle Lambert",
+      "url": "/auntruth/new/htm/L4/XF1555.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Gilman ME  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:07:01Z",
+    "originalHtmlPath": "docs/new/htm/L4/XF1553.htm",
+    "extractionDate": "2025-10-02T00:05:46.602034Z"
+  }
+}

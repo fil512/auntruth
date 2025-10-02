@@ -1,0 +1,40 @@
+{
+  "id": "XF249",
+  "name": "Elizabeth  Pringle",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Friday, September 14, 1827",
+  "birthLocation": "Cambria County PA   USA",
+  "deathDate": "Friday, January 01, 1875",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF222",
+    "name": "William Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF222.htm"
+  },
+  "mother": {
+    "id": "XF223",
+    "name": "Elizabeth Bolewine-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF223.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Summerhill PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Mrs. Benjamin R. Williams, 72 Gilmore St. Uniontown PA 15401 USA",
+  "notes": "lived at home",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:56:30Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF249.htm",
+    "extractionDate": "2025-10-02T00:05:12.716006Z"
+  }
+}

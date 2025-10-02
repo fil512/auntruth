@@ -1,0 +1,40 @@
+{
+  "id": "XF1025",
+  "name": "Connie  Zieskie",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF912",
+    "name": "Alfred Zieske [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF912.htm"
+  },
+  "mother": {
+    "id": "XF913",
+    "name": "Lillian -Zieske [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF913.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:13Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF1025.htm",
+    "extractionDate": "2025-10-02T00:04:14.872231Z"
+  }
+}

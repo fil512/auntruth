@@ -109,6 +109,23 @@ This document defines the canonical structure for person records extracted from 
       "type": ["string", "null"],
       "description": "Personal website URL"
     },
+    "languages": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Languages spoken (Language(1), Language(2), etc.)"
+    },
+    "causeOfDeath": {
+      "type": ["string", "null"],
+      "description": "Medical cause of death"
+    },
+    "genetics": {
+      "type": ["string", "null"],
+      "description": "DNA/Genetic testing information"
+    },
+    "waitingStatus": {
+      "type": ["boolean", "string", "null"],
+      "description": "Genealogy software waiting status"
+    },
     "source": {
       "type": ["string", "null"],
       "description": "Research source attribution"
@@ -204,6 +221,10 @@ This document defines the canonical structure for person records extracted from 
   "email": null,
   "phone": null,
   "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
   "source": "Hemfrid Johnsson",
   "notes": null,
   "photos": [],
@@ -231,15 +252,19 @@ Based on analysis of existing `table#List` structure:
 | Spouse(1), Spouse(2)... | `spouses[]` | array | Combine all spouse entries |
 | Marriage Date(1)... | `spouses[].marriageDate` | string\|null | Associate with corresponding spouse |
 | Address | `address` | string\|null | |
-| WebSite | `website` | string\|null | |
-| EMail | `email` | string\|null | |
+| WebSite | `website` | string\|null | Extract href from `<a>` tag |
+| EMail | `email` | string\|null | Extract href from `<a>` tag, strip mailto: |
 | Telephone, Home Phone, Cell | `phone` | string\|null | Combine all phone fields |
 | Occupation | `occupation` | string\|null | |
+| Language(1), Language(2), Language(3) | `languages[]` | array | Collect all language entries |
+| Cause of Death | `causeOfDeath` | string\|null | Medical cause of death |
+| Genetics | `genetics` | string\|null | DNA/Genetic test information |
+| Waiting? | `waitingStatus` | boolean\|string\|null | Genealogy software status |
 | Lineage | `lineage` | string | Extract from link, remove from name |
 | Deceased? | `deceased` | boolean\|string | "Yes", "No", "Don't Know" |
 | Death Date | `deathDate` | string\|null | |
 | Source | `source` | string\|null | |
-| Notes | `notes` | string\|null | |
+| Notes | `notes` | string\|null | Preserve full text, including long content |
 
 ### Children Table Mapping
 

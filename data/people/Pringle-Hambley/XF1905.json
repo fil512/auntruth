@@ -1,0 +1,46 @@
+{
+  "id": "XF1905",
+  "name": "John Conrad Wertz",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "Franklin PA   USA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF1906",
+      "name": "Catherine -Wertz [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1906.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF202",
+      "name": "Mary   Wertz",
+      "url": "/auntruth/new/htm/L3/XF202.htm",
+      "birthDate": "10/06/1746"
+    }
+  ],
+  "occupation": null,
+  "address": "Franklin PA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Church of Jesus Christ of Latter-Day Saints (Mormons)",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:29Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1905.htm",
+    "extractionDate": "2025-10-02T00:05:07.690515Z"
+  }
+}

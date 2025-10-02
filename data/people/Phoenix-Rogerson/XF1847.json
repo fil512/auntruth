@@ -1,0 +1,102 @@
+{
+  "id": "XF1847",
+  "name": "William  Mounsey",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1841",
+    "name": "Thomas Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1841.htm"
+  },
+  "mother": {
+    "id": "XF1840",
+    "name": "Janet Paterson-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1840.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1848",
+      "name": "Margaret Rogerson-Mounsey [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF1848.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1864",
+      "name": "Beatrice   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1864.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1862",
+      "name": "Janet   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1862.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1860",
+      "name": "Elizabeth   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1860.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1859",
+      "name": "Son 3   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1859.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1858",
+      "name": "Son 2   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1858.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1857",
+      "name": "Son 1   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1857.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1856",
+      "name": "John Mounsey Shieldhill",
+      "url": "/auntruth/new/htm/L9/XF1856.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1855",
+      "name": "William   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1855.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF1853",
+      "name": "Alex   Mounsey",
+      "url": "/auntruth/new/htm/L9/XF1853.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:05Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1847.htm",
+    "extractionDate": "2025-10-02T00:04:46.962294Z"
+  }
+}

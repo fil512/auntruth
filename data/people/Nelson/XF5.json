@@ -1,0 +1,162 @@
+{
+  "id": "XF5",
+  "name": "Anna (Annie) Naomi Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Sunday, January 27, 1889",
+  "birthLocation": "SWE",
+  "deathDate": "Monday, March 29, 1982",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1",
+    "name": "Nils Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF1.htm"
+  },
+  "mother": {
+    "id": "XF2",
+    "name": "Kristina Hansdotter-Persson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF2.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "David Hagborg",
+  "notes": "Was dressmaker in Winnipeg (Richardson family). Was in 1919 Winnipeg General Strike(first in world)",
+  "photos": [
+    {
+      "name": "At Home after the 90th do",
+      "date": "Saturday, January 27, 1979",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1877.htm"
+    },
+    {
+      "name": "Auntie Annie's 90th",
+      "date": "Saturday, January 27, 1979",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1876.htm"
+    },
+    {
+      "name": "At Auntie Annie's 90th birthday",
+      "date": "Saturday, January 27, 1979",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1264.htm"
+    },
+    {
+      "name": "New Year's Eve 1975",
+      "date": "Wednesday, December 31, 1975",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI10.htm"
+    },
+    {
+      "name": "At Auntie Esther & Uncle Carl's cottage",
+      "date": "Sunday, September 22, 1963",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1480.htm"
+    },
+    {
+      "name": "At the Dock",
+      "date": "Sunday, September 22, 1963",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1404.htm"
+    },
+    {
+      "name": "More relatives",
+      "date": "Thursday, August 01, 1963",
+      "location": "Sweden General Sweden",
+      "url": "/auntruth/new/htm/L0/XI1483.htm"
+    },
+    {
+      "name": "Visiting Relatives",
+      "date": "Thursday, August 01, 1963",
+      "location": "Sweden General Sweden",
+      "url": "/auntruth/new/htm/L0/XI1482.htm"
+    },
+    {
+      "name": "Seeing Auntie Annie off to Sweden",
+      "date": "Saturday, June 01, 1963",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1413.htm"
+    },
+    {
+      "name": "In the Liebensraum",
+      "date": "Sunday, September 30, 1962",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1405.htm"
+    },
+    {
+      "name": "In LivingRoom",
+      "date": "Saturday, September 01, 1962",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1474.htm"
+    },
+    {
+      "name": "On the Beach Stairs",
+      "date": "Thursday, August 31, 1961",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1406.htm"
+    },
+    {
+      "name": "At the Dock",
+      "date": "Thursday, August 31, 1961",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1403.htm"
+    },
+    {
+      "name": "Work Crew, the whole fam damily",
+      "date": "Saturday, August 01, 1953",
+      "location": "Caddy Lake Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1323.htm"
+    },
+    {
+      "name": "Nils Persson Front Porch",
+      "date": "Tuesday, March 01, 1921",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1369.htm"
+    },
+    {
+      "name": "Back Garden",
+      "date": "Wednesday, June 12, 1918",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L1/XI1434.htm"
+    },
+    {
+      "name": "Camping",
+      "date": "Thursday, July 01, 1915",
+      "location": "Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1470.htm"
+    },
+    {
+      "name": "Nils Persson Family Portrait in Sweden",
+      "date": "Friday, December 05, 1890",
+      "location": "Sweden General Sweden",
+      "url": "/auntruth/new/htm/L0/XI1361.htm"
+    }
+  ],
+  "photographedBy": [
+    {
+      "name": "Nils Persson & Kristina",
+      "date": "Tuesday, March 01, 1921",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1367.htm"
+    },
+    {
+      "name": "Midsummer Swedish Picnic",
+      "date": "Thursday, June 23, 1910",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L2/XI1467.htm"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:51:52Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF5.htm",
+    "extractionDate": "2025-10-02T00:04:10.367102Z"
+  }
+}

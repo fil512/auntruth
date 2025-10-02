@@ -1,0 +1,40 @@
+{
+  "id": "XF1981",
+  "name": "Muriel  Eastman",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1978",
+    "name": "D. Eastman [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1978.htm"
+  },
+  "mother": {
+    "id": "XF1977",
+    "name": "Lillian Agnes Lotimer-Eastman [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1977.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:10:01Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1981.htm",
+    "extractionDate": "2025-10-02T00:04:52.317905Z"
+  }
+}

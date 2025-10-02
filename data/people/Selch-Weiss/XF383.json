@@ -1,0 +1,102 @@
+{
+  "id": "XF383",
+  "name": "August  Selch",
+  "lineage": "Selch-Weiss",
+  "birthDate": "Thursday, January 01, 1874",
+  "birthLocation": "RUS",
+  "deathDate": "Friday, June 27, 1941",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF371",
+    "name": "Christian Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF371.htm"
+  },
+  "mother": {
+    "id": "XF372",
+    "name": "Wilhelmine Lentz-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF372.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF384",
+      "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF384.htm",
+      "marriageDate": "Friday, April 20, 1900"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF409",
+      "name": "Albert   Selch",
+      "url": "/auntruth/new/htm/L6/XF409.htm",
+      "birthDate": "04/04/1922"
+    },
+    {
+      "id": "XF413",
+      "name": "Frederick (Freddy) Henry Selch",
+      "url": "/auntruth/new/htm/L6/XF413.htm",
+      "birthDate": "04/05/1919"
+    },
+    {
+      "id": "XF420",
+      "name": "Thelma   Selch",
+      "url": "/auntruth/new/htm/L6/XF420.htm",
+      "birthDate": "08/30/1916"
+    },
+    {
+      "id": "XF442",
+      "name": "August (Art) Arthur Selch",
+      "url": "/auntruth/new/htm/L6/XF442.htm",
+      "birthDate": "08/08/1913"
+    },
+    {
+      "id": "XF398",
+      "name": "Edward   Selch",
+      "url": "/auntruth/new/htm/L6/XF398.htm",
+      "birthDate": "10/30/1910"
+    },
+    {
+      "id": "XF400",
+      "name": "Leo   Selch",
+      "url": "/auntruth/new/htm/L6/XF400.htm",
+      "birthDate": "03/18/1908"
+    },
+    {
+      "id": "XF402",
+      "name": "Hilda(Hulda?)   Selch",
+      "url": "/auntruth/new/htm/L6/XF402.htm",
+      "birthDate": "08/25/1905"
+    },
+    {
+      "id": "XF679",
+      "name": "Alvine   Selch",
+      "url": "/auntruth/new/htm/L6/XF679.htm",
+      "birthDate": "02/25/1903"
+    },
+    {
+      "id": "XF405",
+      "name": "Vilhelm (Bill)   Selch",
+      "url": "/auntruth/new/htm/L6/XF405.htm",
+      "birthDate": "09/09/1901"
+    }
+  ],
+  "occupation": "Town Scribe",
+  "address": "Beausejour MB R0E 0C0 CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Dorothy Stebbe-Selch",
+  "notes": "Was one of the founders of St. Paul's Lutheran Church in Green Bay, MB 1898. Married Amalia Weise 04/20/1900 who arrived from Europe. They met and were married in Winnipeg by Pastor F. Beer. In 1917 they moved to a farm on the east side of Beausejour, but the Green Bay property was kept for grain. They started a dairy business in 1928. Initially all the cows were milked by hand, and the milk, in 8 gallon cans had to be hauled by horse-drawn wagon to the railway station in Beausejour, to be shipped to Winnipeg. By 1935 the milk was picked up by a transfer truck and hauled to the city. August Selch was the first to own a cream separator.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:37Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF383.htm",
+    "extractionDate": "2025-10-02T00:04:23.616153Z"
+  }
+}

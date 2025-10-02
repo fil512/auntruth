@@ -1,0 +1,56 @@
+{
+  "id": "XF393",
+  "name": "Jacob J. Schreyer",
+  "lineage": "",
+  "birthDate": null,
+  "birthLocation": "POL",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1029",
+    "name": "Schreyer []",
+    "url": "/auntruth/new/htm/L0/XF1029.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF392",
+      "name": "Florence Weiss [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF392.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1832",
+      "name": "Vicky   Schreyer",
+      "url": "/auntruth/new/htm/L0/XF1832.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF396",
+      "name": "Betty   Schreyer",
+      "url": "/auntruth/new/htm/L0/XF396.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "Ladywood MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "see DS and ER",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2004-09-08T23:33:21Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF393.htm",
+    "extractionDate": "2025-10-02T00:06:12.950627Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "XF2248",
+  "name": "Tony  MacKay",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, September 14, 1915",
+  "birthLocation": "SK   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2247",
+      "name": "Nelda Heffren-MacKay [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2247.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2989",
+      "name": "Douglas   MacKay",
+      "url": "/auntruth/new/htm/L3/XF2989.htm",
+      "birthDate": "01/01/1950"
+    }
+  ],
+  "occupation": "Hospital Equipment Salesman",
+  "address": "Regina SK  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "University Science graduate",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:11:54Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2248.htm",
+    "extractionDate": "2025-10-02T00:05:10.055347Z"
+  }
+}

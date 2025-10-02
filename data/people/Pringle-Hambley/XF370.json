@@ -1,0 +1,82 @@
+{
+  "id": "XF370",
+  "name": "Maria",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": "POL",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF369",
+      "name": "Daniel Dunmire [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF369.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF257",
+      "name": "Mary Alice Dunmire",
+      "url": "/auntruth/new/htm/L3/XF257.htm",
+      "birthDate": "02/14/1848"
+    },
+    {
+      "id": "XF1907",
+      "name": "Daniel   Dunmire",
+      "url": "/auntruth/new/htm/L3/XF1907.htm",
+      "birthDate": "01/01/1822"
+    },
+    {
+      "id": "XF368",
+      "name": "Frank   Dunmire",
+      "url": "/auntruth/new/htm/L3/XF368.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF367",
+      "name": "Wesley   Dunmire",
+      "url": "/auntruth/new/htm/L3/XF367.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF366",
+      "name": "Isadora   Dunmire",
+      "url": "/auntruth/new/htm/L3/XF366.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF365",
+      "name": "Hattie   Dunmire",
+      "url": "/auntruth/new/htm/L3/XF365.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF364",
+      "name": "Joseph   Dunmire",
+      "url": "/auntruth/new/htm/L3/XF364.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:31Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF370.htm",
+    "extractionDate": "2025-10-02T00:05:27.276764Z"
+  }
+}

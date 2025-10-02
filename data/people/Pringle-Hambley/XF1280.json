@@ -1,0 +1,50 @@
+{
+  "id": "XF1280",
+  "name": "Joseph  Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Thursday, January 01, 1784",
+  "birthLocation": "CW   UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF1282",
+    "name": "Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF1282.htm"
+  },
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2976",
+      "name": "Jinifer X-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2976.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1278",
+      "name": "Charles   Hambley",
+      "url": "/auntruth/new/htm/L3/XF1278.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "CW  UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Marion Hambley-Campbell",
+  "notes": "Taken by a press gang",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:05:05Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1280.htm",
+    "extractionDate": "2025-10-02T00:05:06.801049Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XF2363",
+  "name": "Richard  Kralik",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF2362",
+      "name": "Marellen Nelson-Kralik [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2362.htm",
+      "marriageDate": "Saturday, July 11, 1959"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:44Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2363.htm",
+    "extractionDate": "2025-10-02T00:04:03.348270Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "XF2327",
+  "name": "Vida",
+  "lineage": "Nelson",
+  "birthDate": null,
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Wednesday, January 01, 1975",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF45",
+      "name": "Stanley Knowles [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF45.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2328",
+      "name": "Margaret   Knowles",
+      "url": "/auntruth/new/htm/L2/XF2328.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF46",
+      "name": "David Stanley Knowles",
+      "url": "/auntruth/new/htm/L2/XF46.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": "Social Worker",
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": "stroke",
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:12:29Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF2327.htm",
+    "extractionDate": "2025-10-02T00:04:01.465021Z"
+  }
+}

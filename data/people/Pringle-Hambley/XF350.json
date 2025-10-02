@@ -1,0 +1,72 @@
+{
+  "id": "XF350",
+  "name": "Donna Jayne Hambley",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Tuesday, July 09, 1957",
+  "birthLocation": "Edmonton AB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF329",
+    "name": "Bruce Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF329.htm"
+  },
+  "mother": {
+    "id": "XF330",
+    "name": "Lidia(Lil) Dragani-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF330.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF349",
+      "name": "Patrick Harris [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF349.htm",
+      "marriageDate": "Friday, November 04, 1977"
+    },
+    {
+      "id": "XF1817",
+      "name": "Paul Greuter [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1817.htm",
+      "marriageDate": "Saturday, December 01, 1984"
+    },
+    {
+      "id": "XF2458",
+      "name": "Arthur Royce Warman [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2458.htm",
+      "marriageDate": "Saturday, September 25, 1999"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1819",
+      "name": "Curtis   Harris",
+      "url": "/auntruth/new/htm/L3/XF1819.htm",
+      "birthDate": "12/26/1979"
+    },
+    {
+      "id": "XF351",
+      "name": "Jonathan Lee Harris",
+      "url": "/auntruth/new/htm/L3/XF351.htm",
+      "birthDate": "08/26/1978"
+    }
+  ],
+  "occupation": "Safeways",
+  "address": "10235 150 St Edmonton AB T5P 1P4 CAN",
+  "email": null,
+  "phone": "(780) 484-9869, (780) 484-9869",
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": "divorced from Patrick Harris in 1982 Split from Paul Greuter in 1988",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:22Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF350.htm",
+    "extractionDate": "2025-10-02T00:05:26.453446Z"
+  }
+}

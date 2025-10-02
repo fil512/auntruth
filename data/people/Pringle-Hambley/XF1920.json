@@ -1,0 +1,59 @@
+{
+  "id": "XF1920",
+  "name": "Patricia  Reitmeyer",
+  "lineage": "Pringle-Hambley",
+  "birthDate": "Thursday, December 01, 1960",
+  "birthLocation": "AB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF342",
+      "name": "Ian Philip Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF342.htm",
+      "marriageDate": "Thursday, October 25, 1984"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1922",
+      "name": "Melanie Grace Campbell",
+      "url": "/auntruth/new/htm/L3/XF1922.htm",
+      "birthDate": "04/03/1994"
+    },
+    {
+      "id": "XF1921",
+      "name": "Scott Ian Campbell",
+      "url": "/auntruth/new/htm/L3/XF1921.htm",
+      "birthDate": "08/26/1991"
+    }
+  ],
+  "occupation": null,
+  "address": "Deerpath Drive Deerfield IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": "Yes",
+  "source": "Auntie Ruth Pringle-Hambley",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Campbell Family",
+      "date": "Thursday, December 20, 1984",
+      "location": "Ottawa Ontario Canada",
+      "url": "/auntruth/new/htm/L0/XI1626.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:35Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF1920.htm",
+    "extractionDate": "2025-10-02T00:05:08.041874Z"
+  }
+}

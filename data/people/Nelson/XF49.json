@@ -1,0 +1,78 @@
+{
+  "id": "XF49",
+  "name": "Victor Emil Esterberg",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, November 09, 1897",
+  "birthLocation": "MB   CAN",
+  "deathDate": "Thursday, January 01, 1981",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF12",
+    "name": "Johannes John Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF12.htm"
+  },
+  "mother": {
+    "id": "XF11",
+    "name": "Maria Nelson-Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF11.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF758",
+      "name": "Inga -Esterberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF758.htm",
+      "marriageDate": null
+    },
+    {
+      "id": "XF653",
+      "name": "Dorothy Evelyn Wagner-Esterberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF653.htm",
+      "marriageDate": "Friday, October 24, 1941"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF654",
+      "name": "Ruth Louise Esterberg",
+      "url": "/auntruth/new/htm/L2/XF654.htm",
+      "birthDate": "04/22/1944"
+    },
+    {
+      "id": "XF655",
+      "name": "Charles Richard Esterberg",
+      "url": "/auntruth/new/htm/L2/XF655.htm",
+      "birthDate": "08/05/1930"
+    },
+    {
+      "id": "XF2351",
+      "name": "Richard   Esterberg",
+      "url": "/auntruth/new/htm/L2/XF2351.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF2350",
+      "name": "Kenneth   Esterberg",
+      "url": "/auntruth/new/htm/L2/XF2350.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "412 Lorette Drive Lake Villa IL 60046 USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": "We have photo of Victor in WWI uniform.",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:20Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF49.htm",
+    "extractionDate": "2025-10-02T00:04:10.305271Z"
+  }
+}

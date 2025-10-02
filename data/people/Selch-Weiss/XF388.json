@@ -1,0 +1,40 @@
+{
+  "id": "XF388",
+  "name": "Michael  Budner",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "Cherlich Be   BI",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF386",
+    "name": "August Weiss [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF386.htm"
+  },
+  "mother": {
+    "id": "XF385",
+    "name": "Anna Lang-Weiss-Budner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF385.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "POL",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": "died young",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:57:39Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF388.htm",
+    "extractionDate": "2025-10-02T00:04:23.895642Z"
+  }
+}

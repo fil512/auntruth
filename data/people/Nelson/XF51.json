@@ -1,0 +1,60 @@
+{
+  "id": "XF51",
+  "name": "Frank Arvid Esterberg",
+  "lineage": "Nelson",
+  "birthDate": "Friday, March 10, 1893",
+  "birthLocation": "Clanwilliam MB   CAN",
+  "deathDate": "Monday, January 01, 1894",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF12",
+    "name": "Johannes John Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF12.htm"
+  },
+  "mother": {
+    "id": "XF11",
+    "name": "Maria Nelson-Esterberg(Osterberg) [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF11.htm"
+  },
+  "spouses": [
+    {
+      "id": null,
+      "name": null,
+      "url": null,
+      "marriageDate": "Wednesday, November 10, 1920"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF54",
+      "name": "Glen   Esterberg",
+      "url": "/auntruth/new/htm/L2/XF54.htm",
+      "birthDate": null
+    },
+    {
+      "id": "XF53",
+      "name": "Larry   Esterberg",
+      "url": "/auntruth/new/htm/L2/XF53.htm",
+      "birthDate": null
+    }
+  ],
+  "occupation": null,
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:21Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF51.htm",
+    "extractionDate": "2025-10-02T00:04:10.487791Z"
+  }
+}

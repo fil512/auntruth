@@ -1,0 +1,54 @@
+{
+  "id": "XF981",
+  "name": "Hannah  Ward",
+  "lineage": "Ward",
+  "birthDate": "Friday, September 30, 1774",
+  "birthLocation": "Buckland MA   USA",
+  "deathDate": "Sunday, February 24, 1833",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF985",
+    "name": "Kerley Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF985.htm"
+  },
+  "mother": {
+    "id": "XF986",
+    "name": "Catherine Graham-Ward [Ward]",
+    "url": "/auntruth/new/htm/L5/XF986.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF980",
+      "name": "Jeremiah Ward [Ward]",
+      "url": "/auntruth/new/htm/L5/XF980.htm",
+      "marriageDate": "Thursday, December 12, 1793"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF353",
+      "name": "Sumner   Ward",
+      "url": "/auntruth/new/htm/L5/XF353.htm",
+      "birthDate": "01/25/1800"
+    }
+  ],
+  "occupation": null,
+  "address": "Buckland MA  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "'Ancestors of Daniel Lathrop' 1901 George David Read Hubbard",
+  "notes": "Married 12 Dec 1793 in Buckland MA Died in Buckland MA",
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:02:41Z",
+    "originalHtmlPath": "docs/new/htm/L5/XF981.htm",
+    "extractionDate": "2025-10-02T00:03:40.521967Z"
+  }
+}

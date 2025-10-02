@@ -1,0 +1,85 @@
+{
+  "id": "XF29",
+  "name": "Paul Vincent Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Friday, July 10, 1908",
+  "birthLocation": "IL   USA",
+  "deathDate": "Monday, February 09, 1948",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF14",
+    "name": "Karl (Charlie) Emil Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF14.htm"
+  },
+  "mother": {
+    "id": "XF195",
+    "name": "Edith Vilhelmina Malmberg-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF195.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2356",
+      "name": "Theresa Bottim-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2356.htm",
+      "marriageDate": "Saturday, September 23, 1933"
+    }
+  ],
+  "children": [
+    {
+      "id": "XF2364",
+      "name": "David Roland Nelson",
+      "url": "/auntruth/new/htm/L2/XF2364.htm",
+      "birthDate": "09/18/1947"
+    },
+    {
+      "id": "XF2362",
+      "name": "Marellen   Nelson",
+      "url": "/auntruth/new/htm/L2/XF2362.htm",
+      "birthDate": "10/27/1941"
+    },
+    {
+      "id": "XF2360",
+      "name": "Paul Vincent Nelson",
+      "url": "/auntruth/new/htm/L2/XF2360.htm",
+      "birthDate": "06/19/1938"
+    }
+  ],
+  "occupation": null,
+  "address": "Chicago IL  USA",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Charlie Nelson Family",
+      "date": "Wednesday, July 10, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1387.htm"
+    },
+    {
+      "name": "Karl Nelson Family (3 kids of)",
+      "date": "Thursday, March 29, 1917",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1371.htm"
+    },
+    {
+      "name": "Buggy Party at Assiniboine Park Pavilion",
+      "date": "Monday, August 01, 1910",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1390.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T18:52:09Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF29.htm",
+    "extractionDate": "2025-10-02T00:04:08.941779Z"
+  }
+}

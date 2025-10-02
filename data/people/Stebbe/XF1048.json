@@ -1,0 +1,39 @@
+{
+  "id": "XF1048",
+  "name": "Molis  Ucci",
+  "lineage": "Stebbe",
+  "birthDate": null,
+  "birthLocation": "AB   ITA",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [],
+  "children": [
+    {
+      "id": "XF1049",
+      "name": "Andy(Antonio?)   Ucci",
+      "url": "/auntruth/new/htm/L7/XF1049.htm",
+      "birthDate": "01/01/1939"
+    }
+  ],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Selch 50th Anniversary 1993",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:03:25Z",
+    "originalHtmlPath": "docs/new/htm/L7/XF1048.htm",
+    "extractionDate": "2025-10-02T00:03:49.799925Z"
+  }
+}

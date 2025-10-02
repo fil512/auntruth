@@ -1,0 +1,47 @@
+{
+  "id": "XF2671",
+  "name": "Ronald  Milbrandt",
+  "lineage": "Selch-Weiss",
+  "birthDate": null,
+  "birthLocation": "Beausejour MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF2669",
+    "name": "Lawrence Milbrandt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2669.htm"
+  },
+  "mother": {
+    "id": "XF2670",
+    "name": "Eleanor Anderson-Milbrandt [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF2670.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF2677",
+      "name": "Bush-Milbrandt [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2677.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "Beausejour MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Robin Lish",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:15:01Z",
+    "originalHtmlPath": "docs/new/htm/L6/XF2671.htm",
+    "extractionDate": "2025-10-02T00:04:19.851567Z"
+  }
+}

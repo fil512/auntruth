@@ -1,0 +1,47 @@
+{
+  "id": "XF788",
+  "name": "Edith Vivian Nelson",
+  "lineage": "Nelson",
+  "birthDate": "Tuesday, March 25, 1913",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": "Monday, April 14, 1913",
+  "deathLocation": null,
+  "deceased": "Yes",
+  "father": {
+    "id": "XF14",
+    "name": "Karl (Charlie) Emil Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF14.htm"
+  },
+  "mother": {
+    "id": "XF195",
+    "name": "Edith Vilhelmina Malmberg-Nelson [Nelson]",
+    "url": "/auntruth/new/htm/L2/XF195.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "Winnipeg MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Auntie Annie Nelson's Black Book",
+  "notes": null,
+  "photos": [
+    {
+      "name": "Charlie Nelson Family",
+      "date": "Wednesday, July 10, 1929",
+      "location": "Winnipeg Manitoba Canada",
+      "url": "/auntruth/new/htm/L0/XI1387.htm"
+    }
+  ],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:01:07Z",
+    "originalHtmlPath": "docs/new/htm/L2/XF788.htm",
+    "extractionDate": "2025-10-02T00:04:13.915680Z"
+  }
+}

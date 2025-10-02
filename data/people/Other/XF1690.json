@@ -1,0 +1,60 @@
+{
+  "id": "XF1690",
+  "name": "Douglas  Carlson",
+  "lineage": "",
+  "birthDate": "Friday, July 31, 1953",
+  "birthLocation": "Winnipeg MB   CAN",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF74",
+    "name": "Arthur Carlson []",
+    "url": "/auntruth/new/htm/L0/XF74.htm"
+  },
+  "mother": {
+    "id": "XF75",
+    "name": "Hilda -Carlson []",
+    "url": "/auntruth/new/htm/L0/XF75.htm"
+  },
+  "spouses": [
+    {
+      "id": "XF1691",
+      "name": "Blanche -Carlson []",
+      "url": "/auntruth/new/htm/L0/XF1691.htm",
+      "marriageDate": null
+    }
+  ],
+  "children": [
+    {
+      "id": "XF1693",
+      "name": "Corey   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1693.htm",
+      "birthDate": "07/27/1977"
+    },
+    {
+      "id": "XF1692",
+      "name": "Jason   Carlson",
+      "url": "/auntruth/new/htm/L0/XF1692.htm",
+      "birthDate": "03/09/1975"
+    }
+  ],
+  "occupation": "Mechanic",
+  "address": "MB  CAN",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Bonnie M. Hagborg",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2004-05-26T23:15:33Z",
+    "originalHtmlPath": "docs/new/htm/L0/XF1690.htm",
+    "extractionDate": "2025-10-02T00:06:09.754478Z"
+  }
+}

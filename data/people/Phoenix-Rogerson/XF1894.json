@@ -1,0 +1,40 @@
+{
+  "id": "XF1894",
+  "name": "Mounsey]",
+  "lineage": "Phoenix-Rogerson",
+  "birthDate": null,
+  "birthLocation": "UKG",
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": {
+    "id": "XF1893",
+    "name": "James Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1893.htm"
+  },
+  "mother": {
+    "id": "XF1923",
+    "name": "-Mounsey [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF1923.htm"
+  },
+  "spouses": [],
+  "children": [],
+  "occupation": null,
+  "address": "UKG",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": "Michael David Phoenix",
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:09:24Z",
+    "originalHtmlPath": "docs/new/htm/L9/XF1894.htm",
+    "extractionDate": "2025-10-02T00:04:49.322561Z"
+  }
+}

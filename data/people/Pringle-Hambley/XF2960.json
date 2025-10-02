@@ -1,0 +1,41 @@
+{
+  "id": "XF2960",
+  "name": "Don  Pearsey",
+  "lineage": "Pringle-Hambley",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": "No",
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF346",
+      "name": "Nancy Elaine Hambley-Gullickson-ZZZ [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF346.htm",
+      "marriageDate": "Sunday, August 31, 2003"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": null,
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [
+    "English"
+  ],
+  "causeOfDeath": null,
+  "genetics": null,
+  "waitingStatus": null,
+  "source": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2005-12-19T19:17:08Z",
+    "originalHtmlPath": "docs/new/htm/L3/XF2960.htm",
+    "extractionDate": "2025-10-02T00:05:23.307301Z"
+  }
+}
