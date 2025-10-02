@@ -100,7 +100,7 @@ EOF
 **Fix**:
 1. Check template for Jinja2 syntax errors
 2. Common issues:
-   - Unclosed blocks (`{% if %}` without `{% endif %}`)
+   - Unclosed blocks ({% raw %}`{% if %}`{% endraw %} without {% raw %}`{% endif %}`{% endraw %})
    - Missing macro arguments
    - Invalid template inheritance
 3. Verify template compiles locally
