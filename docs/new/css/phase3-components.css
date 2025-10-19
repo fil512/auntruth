@@ -380,7 +380,7 @@
 
 .search-results {
   margin-top: 8px;
-  max-height: 150px;
+  max-height: 600px;
   overflow-y: auto;
   border: 1px solid #e9ecef;
   border-radius: 4px;

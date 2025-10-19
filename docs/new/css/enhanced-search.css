@@ -268,7 +268,7 @@
 
 /* Search Results */
 .search-results.enhanced-results {
-  max-height: 400px;
+  max-height: 600px;
   overflow-y: auto;
   border-top: 1px solid var(--color-border);
   background: var(--color-surface);
@@ -432,7 +432,7 @@
   }
 
   .search-results.enhanced-results {
-    max-height: 500px;
+    max-height: 700px;
   }
 
   .result-details, .result-secondary {

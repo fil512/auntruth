@@ -1,5 +1,90 @@
 - never chmod python scripts. just execute them as an argument to python3
 
+## Chrome DevTools MCP Setup (WSL)
+
+**For browser automation in Claude Code via chrome-devtools MCP on WSL**
+
+### Prerequisites
+- Node.js 20+ (chrome-devtools-mcp requires Node 20.19.0 LTS or newer)
+- Claude Code running in WSL
+
+### Setup Instructions
+
+1. **Install Chrome for Linux in WSL:**
+   ```bash
+   npx -y @puppeteer/browsers install chrome@stable --path ~/chrome
+   ```
+   This installs Chrome for Testing (Linux-compatible) in `~/chrome`. Note the installation path.
+
+2. **Configure MCP in `~/.claude.json`:**
+
+   Update the `mcpServers` section in your `~/.claude.json` file:
+   ```json
+   "mcpServers": {
+     "chrome-devtools": {
+       "type": "stdio",
+       "command": "npx",
+       "args": [
+         "chrome-devtools-mcp@latest",
+         "--executablePath",
+         "/home/YOUR_USERNAME/chrome/chrome/linux-VERSION/chrome-linux64/chrome",
+         "--no-sandbox",
+         "--disable-setuid-sandbox"
+       ],
+       "env": {}
+     }
+   }
+   ```
+
+   **Replace:**
+   - `YOUR_USERNAME` with your WSL username
+   - `VERSION` with the installed Chrome version (e.g., `141.0.7390.78`)
+
+   **Flags explained:**
+   - `--executablePath`: Points to the Linux Chrome binary (required for WSL)
+   - `--no-sandbox` and `--disable-setuid-sandbox`: Required for Chrome to run in WSL
+
+3. **Restart Claude Code:**
+
+   Exit Claude Code completely and restart it to reload the MCP configuration.
+
+4. **Verify Setup:**
+
+   In Claude Code, type `/mcp` to see the chrome-devtools status. You should see:
+   ```
+   Reconnected to chrome-devtools.
+   ```
+
+5. **Test:**
+
+   Ask Claude to use chrome-devtools tools, e.g.:
+   - "Navigate to localhost:8000 and take a screenshot"
+   - "List the open Chrome pages"
+
+### Important Notes
+
+- **Do NOT manually launch Chrome** - The MCP server launches its own Chrome instance
+- **WSL-specific**: This setup uses Chrome for Linux, not Windows Chrome
+- The Chrome instance runs in **headless mode** by default (no visible window)
+- Chrome for Linux is installed via Puppeteer's `@puppeteer/browsers` package
+
+### Troubleshooting
+
+**"Target closed" error:**
+- Make sure you're using Node 20+ (`node --version`)
+- Verify the `--executablePath` points to the correct Chrome binary
+- Ensure Claude Code was completely restarted after config changes
+- Kill any manually-launched Chrome instances: `pkill -9 chrome`
+
+**Network errors (e.g., ERR_NAME_NOT_RESOLVED):**
+- Headless Chrome in WSL may have DNS resolution issues
+- Use `localhost` URLs instead of external URLs when possible
+- For external sites, you may need to configure DNS in WSL
+
+### Reference
+- GitHub Issue: https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/405
+- Chrome DevTools MCP: https://github.com/ChromeDevTools/chrome-devtools-mcp
+
 ## CRITICAL: NO BACKUP FILES EVER
 **NEVER CREATE BACKUP FILES (.backup, .bak, .orig, etc.) WHEN USING GIT**
 - We are in a git repository - git IS our backup system

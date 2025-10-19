@@ -479,6 +479,7 @@ class SearchComponent {
     showResults() {
         if (this.searchResults) {
             this.searchResults.hidden = false;
+            this.searchResults.style.display = 'block';
             this.searchResults.setAttribute('aria-expanded', 'true');
         }
     }
@@ -486,6 +487,7 @@ class SearchComponent {
     hideResults() {
         if (this.searchResults) {
             this.searchResults.hidden = true;
+            this.searchResults.style.display = 'none';
             this.searchResults.setAttribute('aria-expanded', 'false');
         }
         this.selectedIndex = -1;

@@ -663,12 +663,14 @@ class EnhancedSearchComponent extends BaseComponent {
   showResults() {
     if (this.searchResults) {
       this.searchResults.hidden = false;
+      this.searchResults.style.display = 'block';
     }
   }
 
   hideResults() {
     if (this.searchResults) {
       this.searchResults.hidden = true;
+      this.searchResults.style.display = 'none';
     }
     this.selectedIndex = -1;
   }
