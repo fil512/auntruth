@@ -795,3 +795,54 @@ hr[noshade] {
     border: 1px solid #000;
   }
 }
+/* Portrait and Gallery Link Styles */
+.person-portrait {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.portrait-image {
+    max-width: 400px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.gallery-link-section {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.gallery-link-button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-decoration: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+    transition: all 0.3s ease;
+}
+
+.gallery-link-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+}
+
+.gallery-link-button h2 {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+@media (max-width: 768px) {
+    .portrait-image {
+        max-width: 300px;
+    }
+    
+    .gallery-link-button h2 {
+        font-size: 1rem;
+    }
+}
+
