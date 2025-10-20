@@ -35,13 +35,15 @@
       "name": "Cousins",
       "date": "Monday, June 02, 1986",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI859.htm"
+      "url": "/auntruth/new/htm/L1/XI859.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn346.jpg"
     },
     {
       "name": "Backyard",
       "date": "Monday, July 01, 1985",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L3/XI974.htm"
+      "url": "/auntruth/new/htm/L3/XI974.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn467.jpg"
     }
   ],
   "photographedBy": [],

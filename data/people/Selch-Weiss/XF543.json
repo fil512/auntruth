@@ -47,19 +47,22 @@
       "name": "Lindhardsens & Rick Mueller",
       "date": "Thursday, July 07, 1983",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI454.htm"
+      "url": "/auntruth/new/htm/L1/XI454.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj10.jpg"
     },
     {
       "name": "Front Porch Joyce & Rick",
       "date": "Thursday, July 07, 1983",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI448.htm"
+      "url": "/auntruth/new/htm/L1/XI448.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj4.jpg"
     },
     {
       "name": "Deep Discussion",
       "date": "Monday, October 01, 1979",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1016.htm"
+      "url": "/auntruth/new/htm/L1/XI1016.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn509.jpg"
     }
   ],
   "photographedBy": [],

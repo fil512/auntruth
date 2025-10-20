@@ -49,13 +49,15 @@
       "name": "Mandi, Rebecca & Marie",
       "date": "Friday, January 01, 1999",
       "location": "Victoria British Columbia Canada",
-      "url": "/auntruth/new/htm/L1/XI2006.htm"
+      "url": "/auntruth/new/htm/L1/XI2006.htm",
+      "thumbnailSrc": "/auntruth/jpg/dp051.jpg"
     },
     {
       "name": "Mandi Lott",
       "date": "Friday, January 01, 1999",
       "location": "Victoria British Columbia Canada",
-      "url": "/auntruth/new/htm/L1/XI2005.htm"
+      "url": "/auntruth/new/htm/L1/XI2005.htm",
+      "thumbnailSrc": "/auntruth/jpg/dp050.jpg"
     }
   ],
   "photographedBy": [],

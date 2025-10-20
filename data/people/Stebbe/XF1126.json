@@ -49,13 +49,15 @@
       "name": "At Uncle George's",
       "date": "Saturday, July 01, 1978",
       "location": "Calgary Alberta Canada",
-      "url": "/auntruth/new/htm/L1/XI909.htm"
+      "url": "/auntruth/new/htm/L1/XI909.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn395.jpg"
     },
     {
       "name": "At Dinosaur Park with the Stebbes",
       "date": "Saturday, August 01, 1970",
       "location": "Calgary Alberta Canada",
-      "url": "/auntruth/new/htm/L1/XI1160.htm"
+      "url": "/auntruth/new/htm/L1/XI1160.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn653.jpg"
     }
   ],
   "photographedBy": [],

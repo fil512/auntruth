@@ -51,19 +51,22 @@
       "name": "Obituary Auntie Minnie",
       "date": "Monday, February 08, 1993",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1562.htm"
+      "url": "/auntruth/new/htm/L0/XI1562.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj106.jpg"
     },
     {
       "name": "40th Table",
       "date": "Monday, August 01, 1983",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1560.htm"
+      "url": "/auntruth/new/htm/L1/XI1560.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj104.jpg"
     },
     {
       "name": "40th Picnic Table",
       "date": "Monday, August 01, 1983",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1559.htm"
+      "url": "/auntruth/new/htm/L1/XI1559.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj103.jpg"
     }
   ],
   "photographedBy": [],

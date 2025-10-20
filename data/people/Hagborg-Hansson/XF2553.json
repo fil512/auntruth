@@ -35,13 +35,15 @@
       "name": "Canada Day",
       "date": "Tuesday, July 01, 2003",
       "location": "Ottawa Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI2218.htm"
+      "url": "/auntruth/new/htm/L1/XI2218.htm",
+      "thumbnailSrc": "/auntruth/jpg/wend01.jpg"
     },
     {
       "name": "Wendy 1970 Sean 2003",
       "date": "Sunday, March 02, 2003",
       "location": "Toronto Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI2041.htm"
+      "url": "/auntruth/new/htm/L1/XI2041.htm",
+      "thumbnailSrc": "/auntruth/jpg/emh002.jpg"
     }
   ],
   "photographedBy": [],

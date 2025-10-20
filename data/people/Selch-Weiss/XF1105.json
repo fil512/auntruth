@@ -42,13 +42,15 @@
       "name": "Engagement Photo/Wedding Invitation",
       "date": "Saturday, May 01, 2004",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI2466.htm"
+      "url": "/auntruth/new/htm/L6/XI2466.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd797.jpg"
     },
     {
       "name": "Rick Selch Family",
       "date": "Wednesday, December 01, 1982",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1816.htm"
+      "url": "/auntruth/new/htm/L6/XI1816.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg054.jpg"
     }
   ],
   "photographedBy": [],

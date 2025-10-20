@@ -27,13 +27,15 @@
       "name": "Hilding Nelson's Catamaran",
       "date": "Wednesday, July 01, 1964",
       "location": "Caddy Lake Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI424.htm"
+      "url": "/auntruth/new/htm/L1/XI424.htm",
+      "thumbnailSrc": "/auntruth/jpg/mx55.jpg"
     },
     {
       "name": "Hilding Nelson's",
       "date": "Wednesday, April 03, 1963",
       "location": "Victoria British Columbia Canada",
-      "url": "/auntruth/new/htm/L1/XI417.htm"
+      "url": "/auntruth/new/htm/L1/XI417.htm",
+      "thumbnailSrc": "/auntruth/jpg/mx48.jpg"
     }
   ],
   "photographedBy": [],

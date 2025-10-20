@@ -42,13 +42,15 @@
       "name": "With Uncle Johnny",
       "date": "Friday, August 19, 1983",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1087.htm"
+      "url": "/auntruth/new/htm/L1/XI1087.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn581.jpg"
     },
     {
       "name": "Just Married",
       "date": "Friday, September 17, 1948",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L7/XI1494.htm"
+      "url": "/auntruth/new/htm/L7/XI1494.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj38.jpg"
     }
   ],
   "photographedBy": [],

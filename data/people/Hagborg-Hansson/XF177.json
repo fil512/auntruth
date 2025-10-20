@@ -35,13 +35,15 @@
       "name": "Cousin Ron",
       "date": "Tuesday, May 04, 1971",
       "location": "Toronto Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI1481.htm"
+      "url": "/auntruth/new/htm/L1/XI1481.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn974.jpg"
     },
     {
       "name": "Flower Child",
       "date": "Monday, June 01, 1970",
       "location": "Toronto Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI923.htm"
+      "url": "/auntruth/new/htm/L1/XI923.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn409.jpg"
     }
   ],
   "photographedBy": [],

@@ -42,13 +42,15 @@
       "name": "Curly Funeral",
       "date": "Tuesday, August 10, 1999",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1807.htm"
+      "url": "/auntruth/new/htm/L6/XI1807.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg045.jpg"
     },
     {
       "name": "Obituary Curly Langner",
       "date": "Monday, August 09, 1999",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1564.htm"
+      "url": "/auntruth/new/htm/L0/XI1564.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj108.jpg"
     }
   ],
   "photographedBy": [],

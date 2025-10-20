@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery - {{ person.name }} | AuntieRuth.com</title>
+    <link href="/auntruth/new/css/main.css" rel="stylesheet" type="text/css">
+    <link href="/auntruth/new/css/navigation.css" rel="stylesheet">
+    <link href="/auntruth/new/css/thumbnails.css" rel="stylesheet">
+    <link rel="preload" href="/auntruth/new/js/navigation.js" as="script">
+    <link rel="preload" href="/auntruth/new/js/search.js" as="script">
+    <meta name="description" content="Photo gallery for {{ person.name }} - {{ person.photos|length }} photos">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="gallery-nav">
+        <div id="headlinks">
+            <a href="../">Home</a>
+            {% if person.id %}
+            <a href="XF{{ person.id[2:] }}.htm">Back to {{ person.name.split()[0] }}'s Page</a>
+            {% endif %}
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="gallery-header">
+        <h1>
+            Photo Gallery
+            <br>
+            <span class="person-name">{{ person.name }}</span>
+            {% if person.lineage %}
+            <span class="lineage">[{{ person.lineage }}]</span>
+            {% endif %}
+        </h1>
+        <p class="photo-count">{{ person.photos|length }} {{ 'photo' if person.photos|length == 1 else 'photos' }}</p>
+    </header>
+
+    <!-- Photo Gallery Grid -->
+    {% if person.photos %}
+    <main class="gallery-container">
+        <div class="gallery-grid">
+            {% for photo in person.photos %}
+            <div class="gallery-item">
+                <a href="{{ photo.url }}" class="photo-link" title="{{ photo.name }}{% if photo.date %} - {{ photo.date }}{% endif %}">
+                    {% if photo.thumbnailSrc %}
+                    <img src="{{ photo.thumbnailSrc }}"
+                         alt="{{ photo.name }}"
+                         loading="lazy"
+                         class="gallery-image">
+                    {% else %}
+                    <div class="no-image">
+                        <span>📷</span>
+                        <p>No thumbnail</p>
+                    </div>
+                    {% endif %}
+                    <div class="photo-info">
+                        <h3 class="photo-title">{{ photo.name }}</h3>
+                        {% if photo.date %}
+                        <p class="photo-date">{{ photo.date }}</p>
+                        {% endif %}
+                        {% if photo.location %}
+                        <p class="photo-location">📍 {{ photo.location }}</p>
+                        {% endif %}
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </main>
+    {% else %}
+    <main class="gallery-container">
+        <div class="empty-gallery">
+            <p>No photos available for this person.</p>
+        </div>
+    </main>
+    {% endif %}
+
+    <!-- Footer -->
+    <footer class="gallery-footer">
+        <nav id="headlinks">
+            <a href="../">Home</a>
+            {% if person.id %}
+            <a href="XF{{ person.id[2:] }}.htm">Back to {{ person.name.split()[0] }}'s Page</a>
+            {% endif %}
+        </nav>
+        <hr>
+        <div class="copyright">
+            <p>
+                <strong>WebPage Last Updated {{ person.metadata.lastUpdated if person.metadata and person.metadata.lastUpdated else 'Recently' }}</strong>
+            </p>
+            <p>
+                Copyright 2003-{{ "now"|default("2025") }}
+                <br>
+                <strong>
+                    <a href="http://www.hagborg.com">Hagborg Community Systems Ltd.</a>
+                </strong>
+                All Rights Reserved.
+            </p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="/auntruth/new/js/navigation.js" defer></script>
+    <script src="/auntruth/new/js/search.js" defer></script>
+</body>
+</html>

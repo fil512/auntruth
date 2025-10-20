@@ -49,43 +49,50 @@
       "name": "Sister & Brother",
       "date": "Saturday, March 01, 1997",
       "location": "Orlando Florida United States of America",
-      "url": "/auntruth/new/htm/L3/XI1623.htm"
+      "url": "/auntruth/new/htm/L3/XI1623.htm",
+      "thumbnailSrc": "/auntruth/jpg/mh12.jpg"
     },
     {
       "name": "50th Wedding Anniversary",
       "date": "Saturday, July 01, 1950",
       "location": "Calgary Alberta Canada",
-      "url": "/auntruth/new/htm/L0/XI979.htm"
+      "url": "/auntruth/new/htm/L0/XI979.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn472.jpg"
     },
     {
       "name": "In the Park Smooching",
       "date": "Sunday, July 01, 1928",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L3/XI960.htm"
+      "url": "/auntruth/new/htm/L3/XI960.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn452.jpg"
     },
     {
       "name": "Chorus Line",
       "date": "Saturday, August 01, 1925",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L3/XI950.htm"
+      "url": "/auntruth/new/htm/L3/XI950.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn442.jpg"
     },
     {
       "name": "Steps of Boys Training School",
       "date": "Wednesday, June 01, 1921",
       "location": "Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI929.htm"
+      "url": "/auntruth/new/htm/L0/XI929.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn420.jpg"
     },
     {
       "name": "Pringle Family in Mather (Part 2))",
       "date": "Saturday, March 02, 1912",
       "location": "Mather Manitoba Canada",
-      "url": "/auntruth/new/htm/L3/XI2653.htm"
+      "url": "/auntruth/new/htm/L3/XI2653.htm",
+      "thumbnailSrc": "/auntruth/jpg/math2.jpg"
     },
     {
       "name": "Pringle Family in Mather (Part 1)",
       "date": "Friday, March 01, 1912",
       "location": "Mather Manitoba Canada",
-      "url": "/auntruth/new/htm/L3/XI2652.htm"
+      "url": "/auntruth/new/htm/L3/XI2652.htm",
+      "thumbnailSrc": "/auntruth/jpg/math1.jpg"
     }
   ],
   "photographedBy": [

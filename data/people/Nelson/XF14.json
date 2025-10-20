@@ -79,13 +79,15 @@
       "name": "Buggy Party at Assiniboine Park Pavilion",
       "date": "Monday, August 01, 1910",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1390.htm"
+      "url": "/auntruth/new/htm/L0/XI1390.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn883.jpg"
     },
     {
       "name": "Wedding Uncle Charlie & Aunt Edith Malmberg",
       "date": "Saturday, November 10, 1906",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1386.htm"
+      "url": "/auntruth/new/htm/L0/XI1386.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn879.jpg"
     }
   ],
   "photographedBy": [],

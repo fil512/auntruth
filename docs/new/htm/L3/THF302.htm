@@ -1,81 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>
-        AuntieRuth.com
-        </title>
-        <link href="/auntruth/new/css/main.css" rel="stylesheet" type="text/css">
-        <link href="/auntruth/new/css/navigation.css" rel="stylesheet">
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="preload" href="/auntruth/new/js/navigation.js" as="script">
-        <link rel="preload" href="/auntruth/new/js/search.js" as="script">
-    </head>
-    <br>
-    <center>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery - Rita  Comm | AuntieRuth.com</title>
+    <link href="/auntruth/new/css/main.css" rel="stylesheet" type="text/css">
+    <link href="/auntruth/new/css/navigation.css" rel="stylesheet">
+    <link href="/auntruth/new/css/thumbnails.css" rel="stylesheet">
+    <link rel="preload" href="/auntruth/new/js/navigation.js" as="script">
+    <link rel="preload" href="/auntruth/new/js/search.js" as="script">
+    <meta name="description" content="Photo gallery for Rita  Comm - 3 photos">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="gallery-nav">
         <div id="headlinks">
-            <a href="../">
-            Home |
-            </a>
+            <a href="../">Home</a>
+            <a href="XF302.htm">Back to Rita's Page</a>
         </div>
-    </center>
-    <center>
+    </nav>
+
+    <!-- Header -->
+    <header class="gallery-header">
         <h1>
-            AuntieRuth.com
+            Photo Gallery
             <br>
-            Thumbnails for Rita Comm-Pringle [Pringle-Hambley]
+            <span class="person-name">Rita  Comm</span>
+            <span class="lineage">[Pringle-Hambley]</span>
         </h1>
-    </center>
-    <table id="List" rules="all">
-        <tbody>
-            <img src="/auntruth/jpg/sn479.jpg" width="50" height="50" align="NONE" usemap="#Map986" border="" alt="">
-            <map name="Map986">
-                <area shape="RECT" coords="00,00,50,50" href="/auntruth/new/htm/L3/XI986.htm" alt="Wedding 09/10/1955 Calgary(986)">
-            </map>
-            ___
-            <img src="/auntruth/jpg/sn452.jpg" width="50" height="50" align="NONE" usemap="#Map960" border="" alt="">
-            <map name="Map960">
-                <area shape="RECT" coords="00,00,50,50" href="/auntruth/new/htm/L3/XI960.htm" alt="In the Park Smooching 07/01/1928 Winnipeg(960)">
-            </map>
-            ___
-            <img src="/auntruth/jpg/sn442.jpg" width="50" height="50" align="NONE" usemap="#Map950" border="" alt="">
-            <map name="Map950">
-                <area shape="RECT" coords="00,00,50,50" href="/auntruth/new/htm/L3/XI950.htm" alt="Chorus Line 08/01/1925 Winnipeg(950)">
-            </map>
-            ___
-        </tbody>
-    </table>
-    <br>
-    <br>
-    <center>
-        <div id="headlinks">
-            <a href="../">
-            Home |
-            </a>
+        <p class="photo-count">3 photos</p>
+    </header>
+
+    <!-- Photo Gallery Grid -->
+    <main class="gallery-container">
+        <div class="gallery-grid">
+            <div class="gallery-item">
+                <a href="/auntruth/new/htm/L3/XI986.htm" class="photo-link" title="Wedding - Saturday, September 10, 1955">
+                    <img src="/auntruth/jpg/sn479.jpg"
+                         alt="Wedding"
+                         loading="lazy"
+                         class="gallery-image">
+                    <div class="photo-info">
+                        <h3 class="photo-title">Wedding</h3>
+                        <p class="photo-date">Saturday, September 10, 1955</p>
+                        <p class="photo-location">📍 Calgary Alberta Canada</p>
+                    </div>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="/auntruth/new/htm/L3/XI960.htm" class="photo-link" title="In the Park Smooching - Sunday, July 01, 1928">
+                    <img src="/auntruth/jpg/sn452.jpg"
+                         alt="In the Park Smooching"
+                         loading="lazy"
+                         class="gallery-image">
+                    <div class="photo-info">
+                        <h3 class="photo-title">In the Park Smooching</h3>
+                        <p class="photo-date">Sunday, July 01, 1928</p>
+                        <p class="photo-location">📍 Winnipeg Manitoba Canada</p>
+                    </div>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="/auntruth/new/htm/L3/XI950.htm" class="photo-link" title="Chorus Line - Saturday, August 01, 1925">
+                    <img src="/auntruth/jpg/sn442.jpg"
+                         alt="Chorus Line"
+                         loading="lazy"
+                         class="gallery-image">
+                    <div class="photo-info">
+                        <h3 class="photo-title">Chorus Line</h3>
+                        <p class="photo-date">Saturday, August 01, 1925</p>
+                        <p class="photo-location">📍 Winnipeg Manitoba Canada</p>
+                    </div>
+                </a>
+            </div>
         </div>
-    </center>
-    <hr>
-    <center>
-        <b>
-        WebPage Last Updated Monday, December 19, 2005 18:56:55 GMT/CUT
-        </b>
-        <br>
-        Copyright 2003, 2004, 2005
-        <br>
-        <strong>
-        <b>
-        <a href="http://www.hagborg.com">
-        Hagborg Community Systems Ltd.
-        </a>
-        </b>
-        </strong>
-        All Rights Reserved.
-        <br>
-    </center>
-    <!-- Enhanced navigation and search scripts -->
-    <script src="/auntruth/new/js/navigation.js" defer>
-    </script>
-    <script src="/auntruth/new/js/search.js" defer>
-    </script>
-    </body>
+    </main>
+
+    <!-- Footer -->
+    <footer class="gallery-footer">
+        <nav id="headlinks">
+            <a href="../">Home</a>
+            <a href="XF302.htm">Back to Rita's Page</a>
+        </nav>
+        <hr>
+        <div class="copyright">
+            <p>
+                <strong>WebPage Last Updated 2005-12-19T18:56:55Z</strong>
+            </p>
+            <p>
+                Copyright 2003-now
+                <br>
+                <strong>
+                    <a href="http://www.hagborg.com">Hagborg Community Systems Ltd.</a>
+                </strong>
+                All Rights Reserved.
+            </p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="/auntruth/new/js/navigation.js" defer></script>
+    <script src="/auntruth/new/js/search.js" defer></script>
+</body>
 </html>

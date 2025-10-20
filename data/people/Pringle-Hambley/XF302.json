@@ -41,19 +41,22 @@
       "name": "Wedding",
       "date": "Saturday, September 10, 1955",
       "location": "Calgary Alberta Canada",
-      "url": "/auntruth/new/htm/L3/XI986.htm"
+      "url": "/auntruth/new/htm/L3/XI986.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn479.jpg"
     },
     {
       "name": "In the Park Smooching",
       "date": "Sunday, July 01, 1928",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L3/XI960.htm"
+      "url": "/auntruth/new/htm/L3/XI960.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn452.jpg"
     },
     {
       "name": "Chorus Line",
       "date": "Saturday, August 01, 1925",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L3/XI950.htm"
+      "url": "/auntruth/new/htm/L3/XI950.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn442.jpg"
     }
   ],
   "photographedBy": [],

@@ -61,55 +61,64 @@
       "name": "Kitchen Door",
       "date": "Saturday, November 30, 2002",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1851.htm"
+      "url": "/auntruth/new/htm/L1/XI1851.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd191.jpg"
     },
     {
       "name": "Living Room",
       "date": "Saturday, November 30, 2002",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1846.htm"
+      "url": "/auntruth/new/htm/L1/XI1846.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd186.jpg"
     },
     {
       "name": "Living Room",
       "date": "Saturday, November 30, 2002",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1842.htm"
+      "url": "/auntruth/new/htm/L1/XI1842.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd182.jpg"
     },
     {
       "name": "Uncle Albert & Dad",
       "date": "Wednesday, August 01, 2001",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1975.htm"
+      "url": "/auntruth/new/htm/L1/XI1975.htm",
+      "thumbnailSrc": "/auntruth/jpg/dp020.jpg"
     },
     {
       "name": "Brothers",
       "date": "Sunday, August 01, 1993",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1600.htm"
+      "url": "/auntruth/new/htm/L1/XI1600.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj129.jpg"
     },
     {
       "name": "At Table",
       "date": "Sunday, August 01, 1993",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1583.htm"
+      "url": "/auntruth/new/htm/L1/XI1583.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj147.jpg"
     },
     {
       "name": "40th with Uncle Albert & Auntie Linda",
       "date": "Monday, August 01, 1983",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1558.htm"
+      "url": "/auntruth/new/htm/L1/XI1558.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj102.jpg"
     },
     {
       "name": "Albert & Linda",
       "date": "Thursday, May 01, 1975",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1783.htm"
+      "url": "/auntruth/new/htm/L6/XI1783.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg022.jpg"
     },
     {
       "name": "Albert & Linda Wedding",
       "date": "Thursday, June 01, 1944",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1765.htm"
+      "url": "/auntruth/new/htm/L6/XI1765.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg004.jpg"
     }
   ],
   "photographedBy": [

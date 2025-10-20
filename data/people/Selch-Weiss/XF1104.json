@@ -42,19 +42,22 @@
       "name": "Engagement Announcement",
       "date": "Monday, July 01, 2002",
       "location": "Minot North Dakota United States of America",
-      "url": "/auntruth/new/htm/L6/XI1812.htm"
+      "url": "/auntruth/new/htm/L6/XI1812.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg050.jpg"
     },
     {
       "name": "Rick Selch Family",
       "date": "Wednesday, December 01, 1982",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1816.htm"
+      "url": "/auntruth/new/htm/L6/XI1816.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg054.jpg"
     },
     {
       "name": "Derek 1 Year",
       "date": "Thursday, December 01, 1977",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1815.htm"
+      "url": "/auntruth/new/htm/L6/XI1815.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg053.jpg"
     }
   ],
   "photographedBy": [],

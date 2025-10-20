@@ -49,13 +49,15 @@
       "name": "Soldiers Visit",
       "date": "Saturday, May 02, 1942",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1492.htm"
+      "url": "/auntruth/new/htm/L6/XI1492.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj36.jpg"
     },
     {
       "name": "Horsing Around",
       "date": "Thursday, August 31, 1939",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1493.htm"
+      "url": "/auntruth/new/htm/L0/XI1493.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj37.jpg"
     }
   ],
   "photographedBy": [

@@ -42,25 +42,29 @@
       "name": "Diningroom",
       "date": "Tuesday, March 01, 1977",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI912.htm"
+      "url": "/auntruth/new/htm/L1/XI912.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn398.jpg"
     },
     {
       "name": "Aunt & Niece",
       "date": "Thursday, September 30, 1976",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1039.htm"
+      "url": "/auntruth/new/htm/L1/XI1039.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn533.jpg"
     },
     {
       "name": "Just Married",
       "date": "Friday, September 17, 1948",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L7/XI1494.htm"
+      "url": "/auntruth/new/htm/L7/XI1494.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj38.jpg"
     },
     {
       "name": "Under Hedge",
       "date": "Friday, August 31, 1945",
       "location": null,
-      "url": "/auntruth/new/htm/L7/XI1528.htm"
+      "url": "/auntruth/new/htm/L7/XI1528.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj72.jpg"
     }
   ],
   "photographedBy": [],

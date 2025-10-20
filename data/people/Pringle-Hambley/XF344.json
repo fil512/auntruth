@@ -53,13 +53,15 @@
       "name": "Auntie Ruth 100th",
       "date": "Saturday, May 18, 2002",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1638.htm"
+      "url": "/auntruth/new/htm/L0/XI1638.htm",
+      "thumbnailSrc": "/auntruth/jpg/ar12.jpg"
     },
     {
       "name": "At Restaurant",
       "date": "Friday, September 03, 1982",
       "location": "Vancouver British Columbia Canada",
-      "url": "/auntruth/new/htm/L1/XI989.htm"
+      "url": "/auntruth/new/htm/L1/XI989.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn482.jpg"
     }
   ],
   "photographedBy": [],

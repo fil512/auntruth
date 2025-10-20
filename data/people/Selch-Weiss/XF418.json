@@ -61,25 +61,29 @@
       "name": "Rick Selch Family",
       "date": "Wednesday, December 01, 1982",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1816.htm"
+      "url": "/auntruth/new/htm/L6/XI1816.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg054.jpg"
     },
     {
       "name": "Derek 1 Year",
       "date": "Thursday, December 01, 1977",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1815.htm"
+      "url": "/auntruth/new/htm/L6/XI1815.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg053.jpg"
     },
     {
       "name": "Freddy Selch Family",
       "date": "Monday, December 01, 1969",
       "location": "Kelvington Saskatchewan Canada",
-      "url": "/auntruth/new/htm/L6/XI1814.htm"
+      "url": "/auntruth/new/htm/L6/XI1814.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg052.jpg"
     },
     {
       "name": "Rick Confirmation",
       "date": "Sunday, May 01, 1960",
       "location": "Kelvington Saskatchewan Canada",
-      "url": "/auntruth/new/htm/L6/XI1810.htm"
+      "url": "/auntruth/new/htm/L6/XI1810.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg048.jpg"
     }
   ],
   "photographedBy": [

@@ -49,13 +49,15 @@
       "name": "Roast Beef Dinner",
       "date": "Friday, January 21, 2005",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI2623.htm"
+      "url": "/auntruth/new/htm/L1/XI2623.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd988.jpg"
     },
     {
       "name": "Nelda Making Gravy",
       "date": "Friday, January 21, 2005",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI2620.htm"
+      "url": "/auntruth/new/htm/L1/XI2620.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd985.jpg"
     }
   ],
   "photographedBy": [],

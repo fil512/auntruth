@@ -37,13 +37,15 @@
       "name": "Philip Lott",
       "date": "Friday, January 01, 1999",
       "location": "Victoria British Columbia Canada",
-      "url": "/auntruth/new/htm/L1/XI2010.htm"
+      "url": "/auntruth/new/htm/L1/XI2010.htm",
+      "thumbnailSrc": "/auntruth/jpg/dp055.jpg"
     },
     {
       "name": "Philip Lott",
       "date": "Friday, January 01, 1999",
       "location": "Victoria British Columbia Canada",
-      "url": "/auntruth/new/htm/L1/XI1995.htm"
+      "url": "/auntruth/new/htm/L1/XI1995.htm",
+      "thumbnailSrc": "/auntruth/jpg/dp040.jpg"
     }
   ],
   "photographedBy": [],

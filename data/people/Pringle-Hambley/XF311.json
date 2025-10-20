@@ -47,25 +47,29 @@
       "name": "At Uncle Jerry's Cottage",
       "date": "Tuesday, July 01, 1980",
       "location": "Blakely Island Washington United States of America",
-      "url": "/auntruth/new/htm/L1/XI904.htm"
+      "url": "/auntruth/new/htm/L1/XI904.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn390.jpg"
     },
     {
       "name": "Wedding",
       "date": "Saturday, September 10, 1955",
       "location": "Calgary Alberta Canada",
-      "url": "/auntruth/new/htm/L3/XI986.htm"
+      "url": "/auntruth/new/htm/L3/XI986.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn479.jpg"
     },
     {
       "name": "Telegram from Uncle Jerry",
       "date": "Sunday, November 12, 1944",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1280.htm"
+      "url": "/auntruth/new/htm/L1/XI1280.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn773.jpg"
     },
     {
       "name": "Wedding Picture",
       "date": "Thursday, January 01, 1942",
       "location": "Calgary Alberta Canada",
-      "url": "/auntruth/new/htm/L0/XI971.htm"
+      "url": "/auntruth/new/htm/L0/XI971.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn464.jpg"
     }
   ],
   "photographedBy": [

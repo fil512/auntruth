@@ -35,31 +35,36 @@
       "name": "Exercising",
       "date": "Saturday, July 12, 2003",
       "location": "Toronto Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI2340.htm"
+      "url": "/auntruth/new/htm/L1/XI2340.htm",
+      "thumbnailSrc": "/auntruth/jpg/jmh902.jpg"
     },
     {
       "name": "Mother & Daughter",
       "date": "Monday, June 23, 2003",
       "location": "Brampton Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI2231.htm"
+      "url": "/auntruth/new/htm/L1/XI2231.htm",
+      "thumbnailSrc": "/auntruth/jpg/alh03.jpg"
     },
     {
       "name": "Frog Ballerina",
       "date": "Monday, June 23, 2003",
       "location": "Brampton Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI2230.htm"
+      "url": "/auntruth/new/htm/L1/XI2230.htm",
+      "thumbnailSrc": "/auntruth/jpg/alh02.jpg"
     },
     {
       "name": "Ian's Priya, Prathiba, Priyanka",
       "date": "Friday, December 20, 2002",
       "location": "Brampton Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI2020.htm"
+      "url": "/auntruth/new/htm/L1/XI2020.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd282.jpg"
     },
     {
       "name": "Doug Hay Family",
       "date": "Sunday, December 15, 2002",
       "location": "Brampton Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI2016.htm"
+      "url": "/auntruth/new/htm/L1/XI2016.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd278.jpg"
     }
   ],
   "photographedBy": [],

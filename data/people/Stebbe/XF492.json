@@ -47,13 +47,15 @@
       "name": "You see, it's like this",
       "date": "Sunday, August 01, 1993",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1607.htm"
+      "url": "/auntruth/new/htm/L1/XI1607.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj122.jpg"
     },
     {
       "name": "Front Yard",
       "date": "Saturday, July 01, 1950",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L7/XI1507.htm"
+      "url": "/auntruth/new/htm/L7/XI1507.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj51.jpg"
     }
   ],
   "photographedBy": [],

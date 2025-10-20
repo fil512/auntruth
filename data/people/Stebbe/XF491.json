@@ -55,13 +55,15 @@
       "name": "Front Yard",
       "date": "Saturday, July 01, 1950",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L7/XI1507.htm"
+      "url": "/auntruth/new/htm/L7/XI1507.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj51.jpg"
     },
     {
       "name": "Soldiers Visit",
       "date": "Saturday, May 02, 1942",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1492.htm"
+      "url": "/auntruth/new/htm/L6/XI1492.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj36.jpg"
     }
   ],
   "photographedBy": [],

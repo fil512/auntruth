@@ -67,61 +67,71 @@
       "name": "Uncle Freddy Funeral",
       "date": "Tuesday, May 30, 1995",
       "location": "Wadena Saskatchewan Canada",
-      "url": "/auntruth/new/htm/L6/XI1811.htm"
+      "url": "/auntruth/new/htm/L6/XI1811.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg049.jpg"
     },
     {
       "name": "Obituary Freddie Selch",
       "date": "Sunday, May 28, 1995",
       "location": "Saskatchewan Canada",
-      "url": "/auntruth/new/htm/L0/XI1565.htm"
+      "url": "/auntruth/new/htm/L0/XI1565.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj109.jpg"
     },
     {
       "name": "Freddy Selch Family",
       "date": "Monday, December 01, 1969",
       "location": "Kelvington Saskatchewan Canada",
-      "url": "/auntruth/new/htm/L6/XI1814.htm"
+      "url": "/auntruth/new/htm/L6/XI1814.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg052.jpg"
     },
     {
       "name": "Beverley, Fred & Ida",
       "date": "Monday, July 01, 1968",
       "location": "Kelvington Saskatchewan Canada",
-      "url": "/auntruth/new/htm/L6/XI1813.htm"
+      "url": "/auntruth/new/htm/L6/XI1813.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg051.jpg"
     },
     {
       "name": "Rick Confirmation",
       "date": "Sunday, May 01, 1960",
       "location": "Kelvington Saskatchewan Canada",
-      "url": "/auntruth/new/htm/L6/XI1810.htm"
+      "url": "/auntruth/new/htm/L6/XI1810.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg048.jpg"
     },
     {
       "name": "With Freddy & Ida",
       "date": "Monday, December 01, 1947",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1766.htm"
+      "url": "/auntruth/new/htm/L6/XI1766.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg005.jpg"
     },
     {
       "name": "Wedding Ida & Fred",
       "date": "Sunday, December 01, 1946",
       "location": "Kelvington Saskatchewan Canada",
-      "url": "/auntruth/new/htm/L6/XI1809.htm"
+      "url": "/auntruth/new/htm/L6/XI1809.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg047.jpg"
     },
     {
       "name": "Fred & Ida",
       "date": "Sunday, December 01, 1946",
       "location": "Wadena Saskatchewan Canada",
-      "url": "/auntruth/new/htm/L6/XI1808.htm"
+      "url": "/auntruth/new/htm/L6/XI1808.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg046.jpg"
     },
     {
       "name": "Front of House",
       "date": "Sunday, October 11, 1942",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1498.htm"
+      "url": "/auntruth/new/htm/L6/XI1498.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj42.jpg"
     },
     {
       "name": "Soldiers Visit",
       "date": "Saturday, May 02, 1942",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1492.htm"
+      "url": "/auntruth/new/htm/L6/XI1492.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj36.jpg"
     }
   ],
   "photographedBy": [],

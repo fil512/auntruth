@@ -55,19 +55,22 @@
       "name": "906 North Drive from Front",
       "date": "Thursday, August 29, 2002",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1730.htm"
+      "url": "/auntruth/new/htm/L1/XI1730.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd117.jpg"
     },
     {
       "name": "In front of the cottage",
       "date": "Wednesday, April 02, 1958",
       "location": "Caddy Lake Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1479.htm"
+      "url": "/auntruth/new/htm/L1/XI1479.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn972.jpg"
     },
     {
       "name": "Mom",
       "date": "Wednesday, November 01, 1944",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1409.htm"
+      "url": "/auntruth/new/htm/L1/XI1409.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn902.jpg"
     }
   ],
   "photographedBy": [],

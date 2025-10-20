@@ -48,13 +48,15 @@
       "name": "Auntie Ruth 100th",
       "date": "Saturday, May 18, 2002",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1630.htm"
+      "url": "/auntruth/new/htm/L0/XI1630.htm",
+      "thumbnailSrc": "/auntruth/jpg/ar4.jpg"
     },
     {
       "name": "At Bryan Hambley's",
       "date": "Wednesday, August 05, 1964",
       "location": "Abbotsford British Columbia Canada",
-      "url": "/auntruth/new/htm/L1/XI429.htm"
+      "url": "/auntruth/new/htm/L1/XI429.htm",
+      "thumbnailSrc": "/auntruth/jpg/mx60.jpg"
     }
   ],
   "photographedBy": [],

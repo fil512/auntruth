@@ -79,19 +79,22 @@
       "name": "Obituary Margaret Pringle",
       "date": "Saturday, July 12, 1997",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI983.htm"
+      "url": "/auntruth/new/htm/L0/XI983.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn477.jpg"
     },
     {
       "name": "At Front Planter",
       "date": "Saturday, November 01, 1958",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI991.htm"
+      "url": "/auntruth/new/htm/L1/XI991.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn484.jpg"
     },
     {
       "name": "60th Anniversary",
       "date": "Thursday, December 20, 1956",
       "location": "Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI968.htm"
+      "url": "/auntruth/new/htm/L1/XI968.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn460.jpg"
     }
   ],
   "photographedBy": [

@@ -49,13 +49,15 @@
       "name": "Cousin Don Tombstone",
       "date": "Friday, September 05, 2003",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI2405.htm"
+      "url": "/auntruth/new/htm/L1/XI2405.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd728.jpg"
     },
     {
       "name": "Pearson Siblings",
       "date": "Thursday, March 29, 1917",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1370.htm"
+      "url": "/auntruth/new/htm/L0/XI1370.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn863.jpg"
     }
   ],
   "photographedBy": [],

@@ -67,19 +67,22 @@
       "name": "Auntie Annie's 90th",
       "date": "Saturday, January 27, 1979",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1876.htm"
+      "url": "/auntruth/new/htm/L1/XI1876.htm",
+      "thumbnailSrc": "/auntruth/jpg/hg04.jpg"
     },
     {
       "name": "At Auntie Annie's 90th birthday",
       "date": "Saturday, January 27, 1979",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1264.htm"
+      "url": "/auntruth/new/htm/L1/XI1264.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn757.jpg"
     },
     {
       "name": "Pearson Siblings",
       "date": "Thursday, March 29, 1917",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1370.htm"
+      "url": "/auntruth/new/htm/L0/XI1370.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn863.jpg"
     }
   ],
   "photographedBy": [],

@@ -73,13 +73,15 @@
       "name": "Dunmire Lane",
       "date": "Wednesday, August 30, 2000",
       "location": "Johnstown Pennsylvania United States of America",
-      "url": "/auntruth/new/htm/L1/XI407.htm"
+      "url": "/auntruth/new/htm/L1/XI407.htm",
+      "thumbnailSrc": "/auntruth/jpg/ec58.jpg"
     },
     {
       "name": "Site of Isaac Pringle house",
       "date": "Friday, June 04, 1915",
       "location": "Johnstown Pennsylvania United States of America",
-      "url": "/auntruth/new/htm/L3/XI404.htm"
+      "url": "/auntruth/new/htm/L3/XI404.htm",
+      "thumbnailSrc": "/auntruth/jpg/ph58.jpg"
     }
   ],
   "photographedBy": [],

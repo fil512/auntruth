@@ -34,49 +34,57 @@
       "name": "Ride for Sight",
       "date": "Saturday, June 21, 2003",
       "location": "Goderich? Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI2261.htm"
+      "url": "/auntruth/new/htm/L1/XI2261.htm",
+      "thumbnailSrc": "/auntruth/jpg/ron10.jpg"
     },
     {
       "name": "Ron & Connie",
       "date": "Wednesday, August 01, 2001",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1974.htm"
+      "url": "/auntruth/new/htm/L1/XI1974.htm",
+      "thumbnailSrc": "/auntruth/jpg/dp019.jpg"
     },
     {
       "name": "Barbequing",
       "date": "Sunday, August 01, 1993",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1593.htm"
+      "url": "/auntruth/new/htm/L1/XI1593.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj136.jpg"
     },
     {
       "name": "Dave Phoenix Deck",
       "date": "Thursday, May 12, 1988",
       "location": "Ottawa Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI826.htm"
+      "url": "/auntruth/new/htm/L1/XI826.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn314.jpg"
     },
     {
       "name": "Visit from Connie & Ron",
       "date": "Sunday, May 01, 1988",
       "location": "Ottawa Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI490.htm"
+      "url": "/auntruth/new/htm/L1/XI490.htm",
+      "thumbnailSrc": "/auntruth/jpg/ow25.jpg"
     },
     {
       "name": "In Front of the Fireplace",
       "date": "Sunday, May 01, 1988",
       "location": "Ottawa Ontario Canada",
-      "url": "/auntruth/new/htm/L0/XI489.htm"
+      "url": "/auntruth/new/htm/L0/XI489.htm",
+      "thumbnailSrc": "/auntruth/jpg/ow24.jpg"
     },
     {
       "name": "With the Muellers & Gagnons",
       "date": "Sunday, May 01, 1988",
       "location": "Ottawa Ontario Canada",
-      "url": "/auntruth/new/htm/L0/XI488.htm"
+      "url": "/auntruth/new/htm/L0/XI488.htm",
+      "thumbnailSrc": "/auntruth/jpg/ow23.jpg"
     },
     {
       "name": "Abed",
       "date": "Sunday, March 20, 1988",
       "location": "Ottawa Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI838.htm"
+      "url": "/auntruth/new/htm/L1/XI838.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn326.jpg"
     }
   ],
   "photographedBy": [

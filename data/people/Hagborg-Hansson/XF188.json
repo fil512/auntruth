@@ -47,55 +47,64 @@
       "name": "At a restaurant",
       "date": "Friday, September 03, 1982",
       "location": "Vancouver British Columbia Canada",
-      "url": "/auntruth/new/htm/L1/XI1006.htm"
+      "url": "/auntruth/new/htm/L1/XI1006.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn499.jpg"
     },
     {
       "name": "In Garden",
       "date": "Sunday, July 01, 1979",
       "location": "Vancouver British Columbia Canada",
-      "url": "/auntruth/new/htm/L1/XI1345.htm"
+      "url": "/auntruth/new/htm/L1/XI1345.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn838.jpg"
     },
     {
       "name": "New Year's Eve 1975",
       "date": "Wednesday, December 31, 1975",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI10.htm"
+      "url": "/auntruth/new/htm/L1/XI10.htm",
+      "thumbnailSrc": "/auntruth/jpg/ms3.jpg"
     },
     {
       "name": "Picnic",
       "date": "Friday, August 01, 1975",
       "location": "British Columbia Canada",
-      "url": "/auntruth/new/htm/L3/XI919.htm"
+      "url": "/auntruth/new/htm/L3/XI919.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn405.jpg"
     },
     {
       "name": "On the Deck",
       "date": "Monday, July 01, 1968",
       "location": "Caddy Lake",
-      "url": "/auntruth/new/htm/L1/XI443.htm"
+      "url": "/auntruth/new/htm/L1/XI443.htm",
+      "thumbnailSrc": "/auntruth/jpg/mx74.jpg"
     },
     {
       "name": "At the Pump-House",
       "date": "Saturday, April 01, 1967",
       "location": "Caddy Lake Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI425.htm"
+      "url": "/auntruth/new/htm/L1/XI425.htm",
+      "thumbnailSrc": "/auntruth/jpg/mx56.jpg"
     },
     {
       "name": "Opening of Glenlea Reseacrh Station (UofM)",
       "date": "Tuesday, June 01, 1965",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1878.htm"
+      "url": "/auntruth/new/htm/L1/XI1878.htm",
+      "thumbnailSrc": "/auntruth/jpg/hg06.jpg"
     },
     {
       "name": "Joyce's Wedding",
       "date": "Saturday, May 06, 1961",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI2421.htm"
+      "url": "/auntruth/new/htm/L1/XI2421.htm",
+      "thumbnailSrc": "/auntruth/jpg/movie.jpg"
     },
     {
       "name": "At the Hays",
       "date": "Tuesday, July 01, 1958",
       "location": "Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1336.htm"
+      "url": "/auntruth/new/htm/L1/XI1336.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn829.jpg"
     }
   ],
   "photographedBy": [],

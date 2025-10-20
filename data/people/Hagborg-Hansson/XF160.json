@@ -73,73 +73,85 @@
       "name": "At Uncle Helmer's",
       "date": "Monday, October 01, 1973",
       "location": "Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI1347.htm"
+      "url": "/auntruth/new/htm/L1/XI1347.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn840.jpg"
     },
     {
       "name": "On the Beach Stairs",
       "date": "Thursday, August 31, 1961",
       "location": "Caddy Lake Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1406.htm"
+      "url": "/auntruth/new/htm/L1/XI1406.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn899.jpg"
     },
     {
       "name": "Helmer Hagborg Family",
       "date": "Saturday, September 27, 1930",
       "location": "Michigan United States of America",
-      "url": "/auntruth/new/htm/L1/XI1461.htm"
+      "url": "/auntruth/new/htm/L1/XI1461.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn954.jpg"
     },
     {
       "name": "On the Porch",
       "date": "Sunday, September 29, 1929",
       "location": "Michigan United States of America",
-      "url": "/auntruth/new/htm/L1/XI1418.htm"
+      "url": "/auntruth/new/htm/L1/XI1418.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn911.jpg"
     },
     {
       "name": "Uncle Helmer",
       "date": "Thursday, December 01, 1921",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1393.htm"
+      "url": "/auntruth/new/htm/L0/XI1393.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn886.jpg"
     },
     {
       "name": "Sitting on the Running Board",
       "date": "Sunday, June 01, 1919",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1431.htm"
+      "url": "/auntruth/new/htm/L1/XI1431.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn924.jpg"
     },
     {
       "name": "Back Garden",
       "date": "Wednesday, June 12, 1918",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1434.htm"
+      "url": "/auntruth/new/htm/L1/XI1434.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn927.jpg"
     },
     {
       "name": "At Front Gate",
       "date": "Wednesday, February 12, 1913",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1430.htm"
+      "url": "/auntruth/new/htm/L1/XI1430.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn923.jpg"
     },
     {
       "name": "Buggy Party at Assiniboine Park Pavilion",
       "date": "Monday, August 01, 1910",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1390.htm"
+      "url": "/auntruth/new/htm/L0/XI1390.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn883.jpg"
     },
     {
       "name": "All the Hagborg siblings 1908",
       "date": "Tuesday, December 01, 1908",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1389.htm"
+      "url": "/auntruth/new/htm/L0/XI1389.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn882.jpg"
     },
     {
       "name": "Hagborg Family 1907",
       "date": "Sunday, December 01, 1907",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1385.htm"
+      "url": "/auntruth/new/htm/L0/XI1385.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn878.jpg"
     },
     {
       "name": "Esther, Helmer & Albin",
       "date": "Saturday, October 01, 1904",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1384.htm"
+      "url": "/auntruth/new/htm/L0/XI1384.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn877.jpg"
     }
   ],
   "photographedBy": [

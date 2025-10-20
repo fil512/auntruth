@@ -91,13 +91,15 @@
       "name": "Uncle Olaf Nelson's Farm",
       "date": "Sunday, August 01, 1915",
       "location": "Manitoba Canada",
-      "url": "/auntruth/new/htm/L2/XI1414.htm"
+      "url": "/auntruth/new/htm/L2/XI1414.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn907.jpg"
     },
     {
       "name": "The Original Borje Hansson Home and Water Delivery Cart",
       "date": "Tuesday, June 01, 1897",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1381.htm"
+      "url": "/auntruth/new/htm/L1/XI1381.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn874.jpg"
     }
   ],
   "photographedBy": [

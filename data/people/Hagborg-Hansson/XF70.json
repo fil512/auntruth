@@ -49,13 +49,15 @@
       "name": "Obituary Violet Hagborg-Mykle",
       "date": "Wednesday, November 27, 1991",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1379.htm"
+      "url": "/auntruth/new/htm/L0/XI1379.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn872.jpg"
     },
     {
       "name": "In Front Yard",
       "date": "Friday, July 01, 1921",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1419.htm"
+      "url": "/auntruth/new/htm/L1/XI1419.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn912.jpg"
     }
   ],
   "photographedBy": [],

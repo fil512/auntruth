@@ -55,19 +55,22 @@
       "name": "Dessert",
       "date": "Sunday, July 06, 2003",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI2259.htm"
+      "url": "/auntruth/new/htm/L1/XI2259.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd532.jpg"
     },
     {
       "name": "Whole Stebbe Family",
       "date": "Sunday, July 06, 2003",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI2258.htm"
+      "url": "/auntruth/new/htm/L1/XI2258.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd531.jpg"
     },
     {
       "name": "Basking in Sun",
       "date": "Sunday, July 06, 2003",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI2254.htm"
+      "url": "/auntruth/new/htm/L1/XI2254.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd524.jpg"
     }
   ],
   "photographedBy": [],

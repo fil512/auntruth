@@ -55,13 +55,15 @@
       "name": "60th Anniversary",
       "date": "Thursday, December 20, 1956",
       "location": "Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI968.htm"
+      "url": "/auntruth/new/htm/L1/XI968.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn460.jpg"
     },
     {
       "name": "Dinner at Palmquist Farm",
       "date": "Tuesday, November 01, 1955",
       "location": "Manitoba Canada",
-      "url": "/auntruth/new/htm/L3/XI985.htm"
+      "url": "/auntruth/new/htm/L3/XI985.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn475.jpg"
     }
   ],
   "photographedBy": [],

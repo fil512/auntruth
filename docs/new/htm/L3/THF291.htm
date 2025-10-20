@@ -1,81 +1,105 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>
-        AuntieRuth.com
-        </title>
-        <link href="/auntruth/new/css/main.css" rel="stylesheet" type="text/css">
-        <link href="/auntruth/new/css/navigation.css" rel="stylesheet">
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="preload" href="/auntruth/new/js/navigation.js" as="script">
-        <link rel="preload" href="/auntruth/new/js/search.js" as="script">
-    </head>
-    <br>
-    <center>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photo Gallery - Margaret  Pringle | AuntieRuth.com</title>
+    <link href="/auntruth/new/css/main.css" rel="stylesheet" type="text/css">
+    <link href="/auntruth/new/css/navigation.css" rel="stylesheet">
+    <link href="/auntruth/new/css/thumbnails.css" rel="stylesheet">
+    <link rel="preload" href="/auntruth/new/js/navigation.js" as="script">
+    <link rel="preload" href="/auntruth/new/js/search.js" as="script">
+    <meta name="description" content="Photo gallery for Margaret  Pringle - 3 photos">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="gallery-nav">
         <div id="headlinks">
-            <a href="../">
-            Home |
-            </a>
+            <a href="../">Home</a>
+            <a href="XF291.htm">Back to Margaret's Page</a>
         </div>
-    </center>
-    <center>
+    </nav>
+
+    <!-- Header -->
+    <header class="gallery-header">
         <h1>
-            AuntieRuth.com
+            Photo Gallery
             <br>
-            Thumbnails for Margaret Pringle-Palmquist [Pringle-Hambley]
+            <span class="person-name">Margaret  Pringle</span>
+            <span class="lineage">[Pringle-Hambley]</span>
         </h1>
-    </center>
-    <table id="List" rules="all">
-        <tbody>
-            <img src="/auntruth/jpg/sn477.jpg" width="50" height="50" align="NONE" usemap="#Map983" border="" alt="">
-            <map name="Map983">
-                <area shape="RECT" coords="00,00,50,50" href="/auntruth/new/htm/L0/XI983.htm" alt="Obituary Margaret Pringle 07/12/1997 Winnipeg(983)">
-            </map>
-            ___
-            <img src="/auntruth/jpg/sn484.jpg" width="50" height="50" align="NONE" usemap="#Map991" border="" alt="">
-            <map name="Map991">
-                <area shape="RECT" coords="00,00,50,50" href="/auntruth/new/htm/L1/XI991.htm" alt="At Front Planter 11/01/1958 Winnipeg(991)">
-            </map>
-            ___
-            <img src="/auntruth/jpg/sn460.jpg" width="50" height="50" align="NONE" usemap="#Map968" border="" alt="">
-            <map name="Map968">
-                <area shape="RECT" coords="00,00,50,50" href="/auntruth/new/htm/L1/XI968.htm" alt="60th Anniversary 12/20/1956  (968)">
-            </map>
-            ___
-        </tbody>
-    </table>
-    <br>
-    <br>
-    <center>
-        <div id="headlinks">
-            <a href="../">
-            Home |
-            </a>
+        <p class="photo-count">3 photos</p>
+    </header>
+
+    <!-- Photo Gallery Grid -->
+    <main class="gallery-container">
+        <div class="gallery-grid">
+            <div class="gallery-item">
+                <a href="/auntruth/new/htm/L0/XI983.htm" class="photo-link" title="Obituary Margaret Pringle - Saturday, July 12, 1997">
+                    <img src="/auntruth/jpg/sn477.jpg"
+                         alt="Obituary Margaret Pringle"
+                         loading="lazy"
+                         class="gallery-image">
+                    <div class="photo-info">
+                        <h3 class="photo-title">Obituary Margaret Pringle</h3>
+                        <p class="photo-date">Saturday, July 12, 1997</p>
+                        <p class="photo-location">📍 Winnipeg Manitoba Canada</p>
+                    </div>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="/auntruth/new/htm/L1/XI991.htm" class="photo-link" title="At Front Planter - Saturday, November 01, 1958">
+                    <img src="/auntruth/jpg/sn484.jpg"
+                         alt="At Front Planter"
+                         loading="lazy"
+                         class="gallery-image">
+                    <div class="photo-info">
+                        <h3 class="photo-title">At Front Planter</h3>
+                        <p class="photo-date">Saturday, November 01, 1958</p>
+                        <p class="photo-location">📍 Winnipeg Manitoba Canada</p>
+                    </div>
+                </a>
+            </div>
+            <div class="gallery-item">
+                <a href="/auntruth/new/htm/L1/XI968.htm" class="photo-link" title="60th Anniversary - Thursday, December 20, 1956">
+                    <img src="/auntruth/jpg/sn460.jpg"
+                         alt="60th Anniversary"
+                         loading="lazy"
+                         class="gallery-image">
+                    <div class="photo-info">
+                        <h3 class="photo-title">60th Anniversary</h3>
+                        <p class="photo-date">Thursday, December 20, 1956</p>
+                        <p class="photo-location">📍 Manitoba Canada</p>
+                    </div>
+                </a>
+            </div>
         </div>
-    </center>
-    <hr>
-    <center>
-        <b>
-        WebPage Last Updated Monday, December 19, 2005 18:56:50 GMT/CUT
-        </b>
-        <br>
-        Copyright 2003, 2004, 2005
-        <br>
-        <strong>
-        <b>
-        <a href="http://www.hagborg.com">
-        Hagborg Community Systems Ltd.
-        </a>
-        </b>
-        </strong>
-        All Rights Reserved.
-        <br>
-    </center>
-    <!-- Enhanced navigation and search scripts -->
-    <script src="/auntruth/new/js/navigation.js" defer>
-    </script>
-    <script src="/auntruth/new/js/search.js" defer>
-    </script>
-    </body>
+    </main>
+
+    <!-- Footer -->
+    <footer class="gallery-footer">
+        <nav id="headlinks">
+            <a href="../">Home</a>
+            <a href="XF291.htm">Back to Margaret's Page</a>
+        </nav>
+        <hr>
+        <div class="copyright">
+            <p>
+                <strong>WebPage Last Updated 2005-12-19T18:56:50Z</strong>
+            </p>
+            <p>
+                Copyright 2003-now
+                <br>
+                <strong>
+                    <a href="http://www.hagborg.com">Hagborg Community Systems Ltd.</a>
+                </strong>
+                All Rights Reserved.
+            </p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="/auntruth/new/js/navigation.js" defer></script>
+    <script src="/auntruth/new/js/search.js" defer></script>
+</body>
 </html>

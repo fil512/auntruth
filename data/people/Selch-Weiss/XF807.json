@@ -49,19 +49,22 @@
       "name": "Hell's Angel Balladeer on Front Steps",
       "date": "Sunday, August 01, 1948",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1505.htm"
+      "url": "/auntruth/new/htm/L6/XI1505.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj49.jpg"
     },
     {
       "name": "Albert & Linda Wedding",
       "date": "Thursday, June 01, 1944",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1765.htm"
+      "url": "/auntruth/new/htm/L6/XI1765.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg004.jpg"
     },
     {
       "name": "Quadruple Wedding",
       "date": "Tuesday, June 01, 1943",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1802.htm"
+      "url": "/auntruth/new/htm/L6/XI1802.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg040.jpg"
     }
   ],
   "photographedBy": [],

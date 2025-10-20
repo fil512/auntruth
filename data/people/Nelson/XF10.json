@@ -61,31 +61,36 @@
       "name": "Setting up Lorraine's Tripod",
       "date": "Sunday, December 25, 1983",
       "location": "Ottawa Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI475.htm"
+      "url": "/auntruth/new/htm/L1/XI475.htm",
+      "thumbnailSrc": "/auntruth/jpg/ow10.jpg"
     },
     {
       "name": "Christmas",
       "date": "Saturday, December 24, 1983",
       "location": "Ottawa Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI474.htm"
+      "url": "/auntruth/new/htm/L1/XI474.htm",
+      "thumbnailSrc": "/auntruth/jpg/ow9.jpg"
     },
     {
       "name": "At the lake with the Hays - the Stigmata?",
       "date": "Wednesday, July 01, 1964",
       "location": "Caddy Lake Manitoba Canada",
-      "url": "/auntruth/new/htm/L3/XI421.htm"
+      "url": "/auntruth/new/htm/L3/XI421.htm",
+      "thumbnailSrc": "/auntruth/jpg/mx52.jpg"
     },
     {
       "name": "Uncle Bill Nelson family",
       "date": "Saturday, June 01, 1907",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1363.htm"
+      "url": "/auntruth/new/htm/L0/XI1363.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn856.jpg"
     },
     {
       "name": "Uncle Bill ('Willie')",
       "date": "Monday, February 02, 1891",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L0/XI1362.htm"
+      "url": "/auntruth/new/htm/L0/XI1362.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn855.jpg"
     }
   ],
   "photographedBy": [],

@@ -61,13 +61,15 @@
       "name": "At Auntie Esther & Uncle Carl's cottage",
       "date": "Sunday, September 22, 1963",
       "location": "Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1480.htm"
+      "url": "/auntruth/new/htm/L1/XI1480.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn973.jpg"
     },
     {
       "name": "In the Liebensraum",
       "date": "Sunday, September 30, 1962",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1405.htm"
+      "url": "/auntruth/new/htm/L1/XI1405.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn898.jpg"
     }
   ],
   "photographedBy": [],

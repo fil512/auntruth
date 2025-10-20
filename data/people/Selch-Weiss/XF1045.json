@@ -34,49 +34,57 @@
       "name": "At Allison's",
       "date": "Tuesday, October 15, 2002",
       "location": "Guelph Ontario Canada",
-      "url": "/auntruth/new/htm/L6/XI1962.htm"
+      "url": "/auntruth/new/htm/L6/XI1962.htm",
+      "thumbnailSrc": "/auntruth/jpg/dp007.jpg"
     },
     {
       "name": "Allison & Al",
       "date": "Thursday, February 01, 2001",
       "location": "Guelph Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI1982.htm"
+      "url": "/auntruth/new/htm/L1/XI1982.htm",
+      "thumbnailSrc": "/auntruth/jpg/dp027.jpg"
     },
     {
       "name": "Connie, Allison & Gramma",
       "date": "Wednesday, November 01, 2000",
       "location": "Guelph Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI1986.htm"
+      "url": "/auntruth/new/htm/L1/XI1986.htm",
+      "thumbnailSrc": "/auntruth/jpg/dp031.jpg"
     },
     {
       "name": "Allison & Gramma/Grampa",
       "date": "Wednesday, November 01, 2000",
       "location": "Guelph Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI1985.htm"
+      "url": "/auntruth/new/htm/L1/XI1985.htm",
+      "thumbnailSrc": "/auntruth/jpg/dp030.jpg"
     },
     {
       "name": "Allison & Mom",
       "date": "Friday, October 15, 1999",
       "location": "Guelph Ontario Canada",
-      "url": "/auntruth/new/htm/L1/XI1989.htm"
+      "url": "/auntruth/new/htm/L1/XI1989.htm",
+      "thumbnailSrc": "/auntruth/jpg/dp034.jpg"
     },
     {
       "name": "At Dinner",
       "date": "Wednesday, June 01, 1994",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI758.htm"
+      "url": "/auntruth/new/htm/L1/XI758.htm",
+      "thumbnailSrc": "/auntruth/jpg/sn245.jpg"
     },
     {
       "name": "Cousins",
       "date": "Sunday, August 01, 1993",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1606.htm"
+      "url": "/auntruth/new/htm/L1/XI1606.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj123.jpg"
     },
     {
       "name": "Children's Choir",
       "date": "Sunday, August 01, 1993",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1584.htm"
+      "url": "/auntruth/new/htm/L1/XI1584.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj146.jpg"
     }
   ],
   "photographedBy": [],

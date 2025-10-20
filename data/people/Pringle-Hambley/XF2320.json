@@ -35,13 +35,15 @@
       "name": "Moffatt-Hambley Family",
       "date": "Tuesday, June 21, 2005",
       "location": "Roland Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI2668.htm"
+      "url": "/auntruth/new/htm/L1/XI2668.htm",
+      "thumbnailSrc": "/auntruth/jpg/hs049.jpg"
     },
     {
       "name": "After Uncle Jack's Funeral",
       "date": "Wednesday, September 30, 1964",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L3/XI1620.htm"
+      "url": "/auntruth/new/htm/L3/XI1620.htm",
+      "thumbnailSrc": "/auntruth/jpg/mh9.jpg"
     }
   ],
   "photographedBy": [],

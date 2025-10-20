@@ -53,13 +53,15 @@
       "name": "Jean, Alison & Dave P.",
       "date": "Wednesday, December 25, 2002",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1945.htm"
+      "url": "/auntruth/new/htm/L1/XI1945.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd266.jpg"
     },
     {
       "name": "Alison, Jean & Ron",
       "date": "Wednesday, December 25, 2002",
       "location": "Winnipeg Manitoba Canada",
-      "url": "/auntruth/new/htm/L1/XI1939.htm"
+      "url": "/auntruth/new/htm/L1/XI1939.htm",
+      "thumbnailSrc": "/auntruth/jpg/cd260.jpg"
     }
   ],
   "photographedBy": [],

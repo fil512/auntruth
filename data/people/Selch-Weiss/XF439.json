@@ -55,13 +55,15 @@
       "name": "At Della & Eric's Wedding",
       "date": "Friday, September 01, 1950",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1800.htm"
+      "url": "/auntruth/new/htm/L6/XI1800.htm",
+      "thumbnailSrc": "/auntruth/jpg/bg038.jpg"
     },
     {
       "name": "Eric & Della Wedding",
       "date": "Friday, September 01, 1950",
       "location": "Beausejour Manitoba Canada",
-      "url": "/auntruth/new/htm/L6/XI1529.htm"
+      "url": "/auntruth/new/htm/L6/XI1529.htm",
+      "thumbnailSrc": "/auntruth/jpg/bj73.jpg"
     }
   ],
   "photographedBy": [],
