@@ -193,10 +193,7 @@ class Phase2Integration {
     });
     await this.components.search.init();
 
-    // Show search interface by default
-    if (this.components.search.searchContainer) {
-      this.components.search.searchContainer.classList.add('active');
-    }
+    // Don't auto-show search - wait for user to click "Search People" or press Ctrl+K
   }
 
   async initializeDefaultComponents() {
