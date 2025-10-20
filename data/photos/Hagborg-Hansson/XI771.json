@@ -1,0 +1,31 @@
+{
+  "id": "XI771",
+  "name": "In the Houseboat",
+  "filename": "sn258",
+  "imageSrc": "/auntruth/jpg/sn258.jpg",
+  "date": "Saturday, August 15, 1992",
+  "location": "Galley",
+  "city": "Kenora",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Lindsey Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF531.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

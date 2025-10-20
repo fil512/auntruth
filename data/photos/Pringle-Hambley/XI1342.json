@@ -1,0 +1,37 @@
+{
+  "id": "XI1342",
+  "name": "In Back Yard",
+  "filename": "sn835",
+  "imageSrc": "/auntruth/jpg/sn835.jpg",
+  "date": "Wednesday, June 30, 1982",
+  "location": "915 Oakenwald Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF179.htm"
+  },
+  "people": [
+    {
+      "name": "Hemfrid Johnsson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF127.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF178.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [
+    "Ilse Johnssson"
+  ],
+  "notes": null
+}

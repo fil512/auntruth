@@ -1,0 +1,27 @@
+{
+  "id": "XI1589",
+  "name": "In Kitchen",
+  "filename": "bj140",
+  "imageSrc": "/auntruth/jpg/bj140.jpg",
+  "date": "Sunday, August 01, 1993",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "Janice (Jan) DeMarco-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF508.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

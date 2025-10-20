@@ -1,0 +1,36 @@
+{
+  "id": "XI1363",
+  "name": "Uncle Bill Nelson family",
+  "filename": "sn856",
+  "imageSrc": "/auntruth/jpg/sn856.jpg",
+  "date": "Saturday, June 01, 1907",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Vilhelm Bill Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF10.htm"
+    },
+    {
+      "name": "Anna Victoria Sundin-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF155.htm"
+    },
+    {
+      "name": "George Leslie Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF20.htm"
+    },
+    {
+      "name": "Hilding Vilhelm Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF23.htm"
+    },
+    {
+      "name": "Doris Alexandra Nelson-Gustafson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF21.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

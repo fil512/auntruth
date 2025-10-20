@@ -1,0 +1,27 @@
+{
+  "id": "XI1635",
+  "name": "Auntie Ruth 100th",
+  "filename": "ar9",
+  "imageSrc": "/auntruth/jpg/ar9.jpg",
+  "date": "Saturday, May 18, 2002",
+  "location": "77 University Crescent",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L0/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Curtis Harris [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1819.htm"
+    },
+    {
+      "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF335.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

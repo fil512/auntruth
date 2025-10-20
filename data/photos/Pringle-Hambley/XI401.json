@@ -1,0 +1,23 @@
+{
+  "id": "XI401",
+  "name": "William Pringle House built 1850",
+  "filename": "ph55",
+  "imageSrc": "/auntruth/jpg/ph55.jpg",
+  "date": "Friday, June 04, 1915",
+  "location": null,
+  "city": "Pringle Hill",
+  "state": "Pennsylvania",
+  "country": "United States of America",
+  "photographer": {
+    "name": "Lucy Idella Pringle-Stage-Barkdall [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF300.htm"
+  },
+  "people": [
+    {
+      "name": "William Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF222.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

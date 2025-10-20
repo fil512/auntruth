@@ -1,0 +1,39 @@
+{
+  "id": "XI820",
+  "name": "Kitchen Ladies",
+  "filename": "sn308",
+  "imageSrc": "/auntruth/jpg/sn308.jpg",
+  "date": "Monday, July 01, 1985",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Pamela Sharon Klappratt-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF556.htm"
+    },
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

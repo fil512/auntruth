@@ -1,0 +1,27 @@
+{
+  "id": "XI1867",
+  "name": "Under the Tree with Unk",
+  "filename": "tg01",
+  "imageSrc": "/auntruth/jpg/tg01.jpg",
+  "date": "Thursday, December 25, 1980",
+  "location": null,
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Joseph (Guy) Guy Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF538.htm"
+  },
+  "people": [
+    {
+      "name": "Dominique (Dom) Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF539.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

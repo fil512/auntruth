@@ -1,0 +1,35 @@
+{
+  "id": "XI968",
+  "name": "60th Anniversary",
+  "filename": "sn460",
+  "imageSrc": "/auntruth/jpg/sn460.jpg",
+  "date": "Thursday, December 20, 1956",
+  "location": "Dugald Farm",
+  "city": null,
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Margaret Pringle-Palmquist [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF291.htm"
+    },
+    {
+      "name": "Walter Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF293.htm"
+    },
+    {
+      "name": "Ella Aiken-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF290.htm"
+    },
+    {
+      "name": "Ira Daniel Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF289.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "XI1630",
+  "name": "Auntie Ruth 100th",
+  "filename": "ar4",
+  "imageSrc": "/auntruth/jpg/ar4.jpg",
+  "date": "Saturday, May 18, 2002",
+  "location": "77 University Crescent",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L0/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Nancy Elaine Hambley-Gullickson-ZZZ [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF346.htm"
+    },
+    {
+      "name": "Darrell Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF338.htm"
+    },
+    {
+      "name": "Robert Alan Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF186.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

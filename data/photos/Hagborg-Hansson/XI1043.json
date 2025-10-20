@@ -1,0 +1,35 @@
+{
+  "id": "XI1043",
+  "name": "Visit from Cowboys",
+  "filename": "sn537",
+  "imageSrc": "/auntruth/jpg/sn537.jpg",
+  "date": "Monday, August 01, 1977",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "Wayne Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF503.htm"
+    },
+    {
+      "name": "Terry Kubish-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF504.htm"
+    },
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

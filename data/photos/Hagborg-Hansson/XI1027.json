@@ -1,0 +1,27 @@
+{
+  "id": "XI1027",
+  "name": "Just Purchased",
+  "filename": "sn520",
+  "imageSrc": "/auntruth/jpg/sn520.jpg",
+  "date": "Sunday, June 01, 1980",
+  "location": "12 Canada Cres",
+  "city": "Brandon",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

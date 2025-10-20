@@ -1,0 +1,31 @@
+{
+  "id": "XI691",
+  "name": "With Ngoc Yen and Phuoc Luong",
+  "filename": "sn178",
+  "imageSrc": "/auntruth/jpg/sn178.jpg",
+  "date": "Sunday, August 01, 1999",
+  "location": "100 Cornell Dr",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [
+    "Luong Ngoc Yen",
+    "Luong Phuoc"
+  ],
+  "notes": null
+}

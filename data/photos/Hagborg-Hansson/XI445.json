@@ -1,0 +1,27 @@
+{
+  "id": "XI445",
+  "name": "Bob's Wedding",
+  "filename": "bj1",
+  "imageSrc": "/auntruth/jpg/bj1.jpg",
+  "date": "Saturday, July 07, 1990",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    },
+    {
+      "name": "Pamela Sharon Klappratt-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF556.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

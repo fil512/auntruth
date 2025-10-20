@@ -1,0 +1,55 @@
+{
+  "id": "XI1606",
+  "name": "Cousins",
+  "filename": "bj123",
+  "imageSrc": "/auntruth/jpg/bj123.jpg",
+  "date": "Sunday, August 01, 1993",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lindsey Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF531.htm"
+    },
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Deborah Selch-Johnson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF530.htm"
+    },
+    {
+      "name": "Kenneth Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF546.htm"
+    },
+    {
+      "name": "Allison Huntley-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1045.htm"
+    },
+    {
+      "name": "Dominique Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF889.htm"
+    },
+    {
+      "name": "Dana Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF547.htm"
+    },
+    {
+      "name": "Brendan Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF529.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

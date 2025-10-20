@@ -1,0 +1,23 @@
+{
+  "id": "XI1796",
+  "name": "Leo",
+  "filename": "bg035",
+  "imageSrc": "/auntruth/jpg/bg035.jpg",
+  "date": "Tuesday, August 01, 1972",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Albert Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF409.htm"
+  },
+  "people": [
+    {
+      "name": "Leo Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF400.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

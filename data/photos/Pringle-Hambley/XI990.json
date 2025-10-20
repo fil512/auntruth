@@ -1,0 +1,35 @@
+{
+  "id": "XI990",
+  "name": "With Grandchildren",
+  "filename": "sn483",
+  "imageSrc": "/auntruth/jpg/sn483.jpg",
+  "date": "Saturday, December 15, 1984",
+  "location": null,
+  "city": "Vancouver",
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": {
+    "name": "Jane MacGreer-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF311.htm"
+  },
+  "people": [
+    {
+      "name": "Maurice(Jerry) Ervin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF309.htm"
+    },
+    {
+      "name": "Woodson(Woody)( Richard Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF320.htm"
+    },
+    {
+      "name": "Mark Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF322.htm"
+    },
+    {
+      "name": "Matthew Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF323.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

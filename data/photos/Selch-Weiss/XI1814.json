@@ -1,0 +1,39 @@
+{
+  "id": "XI1814",
+  "name": "Freddy Selch Family",
+  "filename": "bg052",
+  "imageSrc": "/auntruth/jpg/bg052.jpg",
+  "date": "Monday, December 01, 1969",
+  "location": null,
+  "city": "Kelvington",
+  "state": "Saskatchewan",
+  "country": "Canada",
+  "photographer": {
+    "name": "Albert Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF409.htm"
+  },
+  "people": [
+    {
+      "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF413.htm"
+    },
+    {
+      "name": "Bruce Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF419.htm"
+    },
+    {
+      "name": "Richard Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF418.htm"
+    },
+    {
+      "name": "Beverly Selch-Hemish [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF428.htm"
+    },
+    {
+      "name": "Ida Young-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF414.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

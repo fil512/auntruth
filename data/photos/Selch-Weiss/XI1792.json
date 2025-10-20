@@ -1,0 +1,35 @@
+{
+  "id": "XI1792",
+  "name": "Oma with Gilbert, Brenda, Diane",
+  "filename": "bg031",
+  "imageSrc": "/auntruth/jpg/bg031.jpg",
+  "date": "Monday, August 01, 1949",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Reinhold(Roy) Langner [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF421.htm"
+  },
+  "people": [
+    {
+      "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L0/XF384.htm"
+    },
+    {
+      "name": "Gilbert Albert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF411.htm"
+    },
+    {
+      "name": "Brenda Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF431.htm"
+    },
+    {
+      "name": "Diane Langner-Tyndall-Stevenson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF424.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

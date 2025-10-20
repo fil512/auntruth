@@ -1,0 +1,33 @@
+{
+  "id": "XI1575",
+  "name": "Under the Rome Umbrella",
+  "filename": "bj119",
+  "imageSrc": "/auntruth/jpg/bj119.jpg",
+  "date": "Thursday, July 05, 1990",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    }
+  ],
+  "nonFamily": [
+    "Dennis Gray"
+  ],
+  "notes": null
+}

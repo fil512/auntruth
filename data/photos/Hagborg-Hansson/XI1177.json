@@ -1,0 +1,31 @@
+{
+  "id": "XI1177",
+  "name": "Visit from Phoenix's",
+  "filename": "sn670",
+  "imageSrc": "/auntruth/jpg/sn670.jpg",
+  "date": "Sunday, June 15, 1969",
+  "location": "22 Morley Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Sean Michael Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF535.htm"
+    },
+    {
+      "name": "Allan David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF534.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

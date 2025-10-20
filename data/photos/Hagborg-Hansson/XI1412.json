@@ -1,0 +1,39 @@
+{
+  "id": "XI1412",
+  "name": "Picnic in a brook",
+  "filename": "sn905",
+  "imageSrc": "/auntruth/jpg/sn905.jpg",
+  "date": "Saturday, September 01, 1928",
+  "location": null,
+  "city": null,
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF173.htm"
+  },
+  "people": [
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    },
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    },
+    {
+      "name": "Fredrica Jane Englund-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF168.htm"
+    },
+    {
+      "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF167.htm"
+    },
+    {
+      "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF178.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

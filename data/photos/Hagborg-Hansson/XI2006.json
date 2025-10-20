@@ -1,0 +1,35 @@
+{
+  "id": "XI2006",
+  "name": "Mandi, Rebecca & Marie",
+  "filename": "dp051",
+  "imageSrc": "/auntruth/jpg/dp051.jpg",
+  "date": "Friday, January 01, 1999",
+  "location": null,
+  "city": "Victoria",
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Mandi Lonsberry-Lott [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2914.htm"
+    },
+    {
+      "name": "Donna Dorothy Marie Phoenix-Lott [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF730.htm"
+    },
+    {
+      "name": "Rebecca Erickson-Lott [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF2316.htm"
+    },
+    {
+      "name": "Bridgette Susan Marie Lott [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF838.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

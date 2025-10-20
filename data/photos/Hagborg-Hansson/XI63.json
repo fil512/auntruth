@@ -1,0 +1,31 @@
+{
+  "id": "XI63",
+  "name": "Tower of London - Guide;s Dissertation",
+  "filename": "ro43",
+  "imageSrc": "/auntruth/jpg/ro43.jpg",
+  "date": "Saturday, May 11, 1974",
+  "location": null,
+  "city": "London",
+  "state": "UK General",
+  "country": "United Kingdom",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

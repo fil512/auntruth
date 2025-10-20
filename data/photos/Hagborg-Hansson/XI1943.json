@@ -1,0 +1,27 @@
+{
+  "id": "XI1943",
+  "name": "Chris & Tim",
+  "filename": "cd264",
+  "imageSrc": "/auntruth/jpg/cd264.jpg",
+  "date": "Wednesday, December 25, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Christopher Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF553.htm"
+    },
+    {
+      "name": "Timothy Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF554.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

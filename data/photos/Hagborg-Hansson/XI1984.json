@@ -1,0 +1,35 @@
+{
+  "id": "XI1984",
+  "name": "Bob Selch Family",
+  "filename": "dp029",
+  "imageSrc": "/auntruth/jpg/dp029.jpg",
+  "date": "Sunday, December 24, 2000",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Katrina Natalie Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1027.htm"
+    },
+    {
+      "name": "Pamela Sharon Klappratt-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF556.htm"
+    },
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    },
+    {
+      "name": "Erik Christian Robert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2319.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

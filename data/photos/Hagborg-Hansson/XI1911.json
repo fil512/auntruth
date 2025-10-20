@@ -1,0 +1,31 @@
+{
+  "id": "XI1911",
+  "name": "With Auntie Lorraine",
+  "filename": "cd231",
+  "imageSrc": "/auntruth/jpg/cd231.jpg",
+  "date": "Tuesday, December 24, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Katrina Natalie Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1027.htm"
+    },
+    {
+      "name": "Erik Christian Robert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2319.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

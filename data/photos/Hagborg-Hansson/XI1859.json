@@ -1,0 +1,35 @@
+{
+  "id": "XI1859",
+  "name": "Sisters",
+  "filename": "cd200",
+  "imageSrc": "/auntruth/jpg/cd200.jpg",
+  "date": "Saturday, November 30, 2002",
+  "location": "443 William Ave",
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm"
+    },
+    {
+      "name": "Donna Selch-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF548.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

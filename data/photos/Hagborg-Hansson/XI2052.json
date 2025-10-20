@@ -1,0 +1,27 @@
+{
+  "id": "XI2052",
+  "name": "Cousins Encore",
+  "filename": "cd310",
+  "imageSrc": "/auntruth/jpg/cd310.jpg",
+  "date": "Sunday, April 20, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dominique (Dom) Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF539.htm"
+    },
+    {
+      "name": "Shannon Dorothy Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF536.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

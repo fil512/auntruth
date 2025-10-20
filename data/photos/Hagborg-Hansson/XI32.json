@@ -1,0 +1,31 @@
+{
+  "id": "XI32",
+  "name": "Autostrada Ristorante",
+  "filename": "ro12",
+  "imageSrc": "/auntruth/jpg/ro12.jpg",
+  "date": "Wednesday, May 01, 1974",
+  "location": null,
+  "city": null,
+  "state": "Italy General",
+  "country": "Italy",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "XI1178",
+  "name": "In a Photo-Booth",
+  "filename": "sn671",
+  "imageSrc": "/auntruth/jpg/sn671.jpg",
+  "date": "Sunday, August 01, 1965",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Douglas Bruce Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF189.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

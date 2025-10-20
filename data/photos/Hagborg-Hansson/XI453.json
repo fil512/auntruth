@@ -1,0 +1,31 @@
+{
+  "id": "XI453",
+  "name": "Backyard 915 Ilse & Hemfrid Johnson",
+  "filename": "bj9",
+  "imageSrc": "/auntruth/jpg/bj9.jpg",
+  "date": "Thursday, July 01, 1982",
+  "location": "915 Oakenwald",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF178.htm"
+    },
+    {
+      "name": "Hemfrid Johnsson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF127.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "XI715",
+  "name": "At Joyce's",
+  "filename": "sn202",
+  "imageSrc": "/auntruth/jpg/sn202.jpg",
+  "date": "Thursday, August 01, 1996",
+  "location": "54 Dawn Ridge Trail",
+  "city": "Brampton",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF335.htm"
+  },
+  "people": [
+    {
+      "name": "Ian David Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF190.htm"
+    },
+    {
+      "name": "Rosa Maria Rodrigues Mesa-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2318.htm"
+    },
+    {
+      "name": "Irina Visoiu-Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2235.htm"
+    },
+    {
+      "name": "Kenneth Harold Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF182.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

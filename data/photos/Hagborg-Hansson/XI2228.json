@@ -1,0 +1,35 @@
+{
+  "id": "XI2228",
+  "name": "Apres-Pool",
+  "filename": "cd497",
+  "imageSrc": "/auntruth/jpg/cd497.jpg",
+  "date": "Tuesday, July 01, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

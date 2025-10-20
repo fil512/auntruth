@@ -1,0 +1,42 @@
+{
+  "id": "XI732",
+  "name": "At Seaside Restaurant with Tage",
+  "filename": "sn219",
+  "imageSrc": "/auntruth/jpg/sn219.jpg",
+  "date": "Saturday, August 05, 1995",
+  "location": "White Rock",
+  "city": "Vancouver",
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Gowan Morison-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF187.htm"
+    },
+    {
+      "name": "Rosa Maria Rodrigues Mesa-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2318.htm"
+    },
+    {
+      "name": "Ian David Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF190.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [
+    "Tage Garm"
+  ],
+  "notes": null
+}

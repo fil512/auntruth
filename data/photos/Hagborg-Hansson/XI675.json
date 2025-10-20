@@ -1,0 +1,39 @@
+{
+  "id": "XI675",
+  "name": "Topple at Auntie Joyce's",
+  "filename": "sn163",
+  "imageSrc": "/auntruth/jpg/sn163.jpg",
+  "date": "Saturday, December 20, 1986",
+  "location": null,
+  "city": "Stratford",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    },
+    {
+      "name": "Ian David Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF190.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Gowan Morison-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF187.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "XI247",
+  "name": "En-Route in Toronto",
+  "filename": "cu20",
+  "imageSrc": "/auntruth/jpg/cu20.jpg",
+  "date": "Wednesday, February 06, 1980",
+  "location": null,
+  "city": "Toronto",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Robert Alan Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF186.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

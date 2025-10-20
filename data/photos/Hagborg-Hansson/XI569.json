@@ -1,0 +1,27 @@
+{
+  "id": "XI569",
+  "name": "Who is this Uncle Don?",
+  "filename": "sn68",
+  "imageSrc": "/auntruth/jpg/sn68.jpg",
+  "date": "Monday, May 30, 1983",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Ernest Donald Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF181.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

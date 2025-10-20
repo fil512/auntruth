@@ -1,0 +1,27 @@
+{
+  "id": "XI900",
+  "name": "In our Livingroom",
+  "filename": "sn386",
+  "imageSrc": "/auntruth/jpg/sn386.jpg",
+  "date": "Tuesday, March 15, 1983",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Darrell Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF338.htm"
+    },
+    {
+      "name": "Janet Ruth Campbell-Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF337.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

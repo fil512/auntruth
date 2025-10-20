@@ -1,0 +1,23 @@
+{
+  "id": "XI1773",
+  "name": "Brenda",
+  "filename": "bg012",
+  "imageSrc": "/auntruth/jpg/bg012.jpg",
+  "date": "Thursday, December 01, 1960",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Bonny Greifenberger-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF412.htm"
+  },
+  "people": [
+    {
+      "name": "Brenda Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF431.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "XI943",
+  "name": "Motel with 'Every Minute Fixit'",
+  "filename": "sn435",
+  "imageSrc": "/auntruth/jpg/sn435.jpg",
+  "date": "Thursday, August 01, 1929",
+  "location": null,
+  "city": null,
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": {
+    "name": "Maurice Franklin Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF284.htm"
+  },
+  "people": [
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Rose(Rosella) Ward-Pringle [Ward]",
+      "url": "/auntruth/new/htm/L5/XF285.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

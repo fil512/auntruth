@@ -1,0 +1,31 @@
+{
+  "id": "XI121",
+  "name": "On the Beach",
+  "filename": "ro101",
+  "imageSrc": "/auntruth/jpg/ro101.jpg",
+  "date": "Saturday, June 01, 1974",
+  "location": null,
+  "city": "Positano",
+  "state": "Lazio",
+  "country": "Italy",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

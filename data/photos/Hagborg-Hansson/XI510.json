@@ -1,0 +1,23 @@
+{
+  "id": "XI510",
+  "name": "Belle of the Ball",
+  "filename": "sn8",
+  "imageSrc": "/auntruth/jpg/sn8.jpg",
+  "date": "Thursday, June 15, 2000",
+  "location": "100 Cornell Dr",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

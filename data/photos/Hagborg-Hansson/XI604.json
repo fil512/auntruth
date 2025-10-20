@@ -1,0 +1,31 @@
+{
+  "id": "XI604",
+  "name": "At Bob Selch's",
+  "filename": "bj22",
+  "imageSrc": "/auntruth/jpg/bj22.jpg",
+  "date": "Saturday, March 30, 2002",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Chloe Abrie Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2715.htm"
+    },
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

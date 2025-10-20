@@ -1,0 +1,35 @@
+{
+  "id": "XI742",
+  "name": "Party",
+  "filename": "sn229",
+  "imageSrc": "/auntruth/jpg/sn229.jpg",
+  "date": "Wednesday, February 01, 1995",
+  "location": "100 Cornell Dr",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF193.htm"
+  },
+  "people": [
+    {
+      "name": "Ronald (Ron) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF507.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Janice (Jan) DeMarco-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF508.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "XI1026",
+  "name": "Famiglia Fenske",
+  "filename": "sn519",
+  "imageSrc": "/auntruth/jpg/sn519.jpg",
+  "date": "Saturday, December 01, 1984",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Colleen Stebbe-Dziad-Fenske [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF498.htm"
+    },
+    {
+      "name": "Brian Fenske [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF500.htm"
+    },
+    {
+      "name": "Ashley Fenske [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF502.htm"
+    },
+    {
+      "name": "Darrin Fenske [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF501.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

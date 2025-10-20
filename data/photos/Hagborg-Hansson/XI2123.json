@@ -1,0 +1,23 @@
+{
+  "id": "XI2123",
+  "name": "Patti",
+  "filename": "cd381",
+  "imageSrc": "/auntruth/jpg/cd381.jpg",
+  "date": "Thursday, June 05, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Patricia Marilyn Hambley-Leclair-Dewhurst [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF332.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

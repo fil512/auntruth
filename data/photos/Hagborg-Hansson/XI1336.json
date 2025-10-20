@@ -1,0 +1,37 @@
+{
+  "id": "XI1336",
+  "name": "At the Hays",
+  "filename": "sn829",
+  "imageSrc": "/auntruth/jpg/sn829.jpg",
+  "date": "Tuesday, July 01, 1958",
+  "location": "Foxwarren",
+  "city": null,
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Rose(Rosella) Ward-Pringle [Ward]",
+      "url": "/auntruth/new/htm/L5/XF285.htm"
+    },
+    {
+      "name": "Gowan Morison-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF187.htm"
+    },
+    {
+      "name": "Alex F. Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF188.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [
+    "Myrtle Smith"
+  ],
+  "notes": null
+}

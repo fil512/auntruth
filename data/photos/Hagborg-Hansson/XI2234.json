@@ -1,0 +1,31 @@
+{
+  "id": "XI2234",
+  "name": "Shady Waiting",
+  "filename": "cd500",
+  "imageSrc": "/auntruth/jpg/cd500.jpg",
+  "date": "Saturday, July 05, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    },
+    {
+      "name": "Ronald (Ron) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF507.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

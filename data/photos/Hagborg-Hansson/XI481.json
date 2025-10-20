@@ -1,0 +1,27 @@
+{
+  "id": "XI481",
+  "name": "First Birthday",
+  "filename": "ow16",
+  "imageSrc": "/auntruth/jpg/ow16.jpg",
+  "date": "Friday, April 20, 1984",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

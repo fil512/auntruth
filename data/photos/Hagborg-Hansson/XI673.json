@@ -1,0 +1,27 @@
+{
+  "id": "XI673",
+  "name": "Story-Time at the Holiday Inn",
+  "filename": "sn161",
+  "imageSrc": "/auntruth/jpg/sn161.jpg",
+  "date": "Monday, July 27, 1987",
+  "location": null,
+  "city": "Burlington",
+  "state": "Vermont",
+  "country": "United States of America",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

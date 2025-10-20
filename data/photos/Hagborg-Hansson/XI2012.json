@@ -1,0 +1,35 @@
+{
+  "id": "XI2012",
+  "name": "Carolling",
+  "filename": "dp057",
+  "imageSrc": "/auntruth/jpg/dp057.jpg",
+  "date": "Monday, December 24, 2001",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Lindsey Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF531.htm"
+    },
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Katrina Natalie Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1027.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

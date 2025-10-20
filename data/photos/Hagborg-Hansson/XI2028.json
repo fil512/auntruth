@@ -1,0 +1,31 @@
+{
+  "id": "XI2028",
+  "name": "Cake",
+  "filename": "cd289",
+  "imageSrc": "/auntruth/jpg/cd289.jpg",
+  "date": "Saturday, February 01, 2003",
+  "location": "Boston Pizza",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Katrina Natalie Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1027.htm"
+    },
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    },
+    {
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

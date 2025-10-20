@@ -1,0 +1,39 @@
+{
+  "id": "XI1492",
+  "name": "Soldiers Visit",
+  "filename": "bj36",
+  "imageSrc": "/auntruth/jpg/bj36.jpg",
+  "date": "Saturday, May 02, 1942",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "August (Art) Arthur Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF442.htm"
+  },
+  "people": [
+    {
+      "name": "Edward Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF398.htm"
+    },
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    },
+    {
+      "name": "Ralph Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF491.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF413.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

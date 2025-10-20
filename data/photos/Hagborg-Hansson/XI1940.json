@@ -1,0 +1,41 @@
+{
+  "id": "XI1940",
+  "name": "Family Room",
+  "filename": "cd261",
+  "imageSrc": "/auntruth/jpg/cd261.jpg",
+  "date": "Wednesday, December 25, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Shannon Dorothy Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF536.htm"
+    },
+    {
+      "name": "Timothy Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF554.htm"
+    },
+    {
+      "name": "Christopher Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF553.htm"
+    },
+    {
+      "name": "Lindsey Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF531.htm"
+    },
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    }
+  ],
+  "nonFamily": [
+    "Curtis"
+  ],
+  "notes": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "XI739",
+  "name": "Formal Dress",
+  "filename": "sn226",
+  "imageSrc": "/auntruth/jpg/sn226.jpg",
+  "date": "Tuesday, August 01, 1995",
+  "location": null,
+  "city": "Vancouver",
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Ian David Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF190.htm"
+    },
+    {
+      "name": "Rosa Maria Rodrigues Mesa-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2318.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

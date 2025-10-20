@@ -1,0 +1,39 @@
+{
+  "id": "XI633",
+  "name": "Under the Tree",
+  "filename": "sn122",
+  "imageSrc": "/auntruth/jpg/sn122.jpg",
+  "date": "Tuesday, December 20, 1983",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Kenneth Harold Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF182.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Cheryl Anne Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF183.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

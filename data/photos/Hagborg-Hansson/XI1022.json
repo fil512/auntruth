@@ -1,0 +1,30 @@
+{
+  "id": "XI1022",
+  "name": "On the Swing with Lidia & Aimone del Ponte",
+  "filename": "sn515",
+  "imageSrc": "/auntruth/jpg/sn515.jpg",
+  "date": "Tuesday, August 01, 1978",
+  "location": "Pinehaven",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    }
+  ],
+  "nonFamily": [
+    "Lidia Ercole",
+    "Aimone(Imo) del Ponte"
+  ],
+  "notes": null
+}

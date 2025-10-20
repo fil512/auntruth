@@ -1,0 +1,27 @@
+{
+  "id": "XI1520",
+  "name": "Front Yard",
+  "filename": "bj64",
+  "imageSrc": "/auntruth/jpg/bj64.jpg",
+  "date": "Thursday, June 01, 1967",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF537.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Ronald (Ron) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF507.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

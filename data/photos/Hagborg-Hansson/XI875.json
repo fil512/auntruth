@@ -1,0 +1,31 @@
+{
+  "id": "XI875",
+  "name": "Popcorn Machine",
+  "filename": "sn362",
+  "imageSrc": "/auntruth/jpg/sn362.jpg",
+  "date": "Tuesday, November 12, 1985",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Dominique (Dom) Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF539.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

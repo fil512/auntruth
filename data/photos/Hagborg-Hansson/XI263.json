@@ -1,0 +1,23 @@
+{
+  "id": "XI263",
+  "name": "Have a drink",
+  "filename": "cu36",
+  "imageSrc": "/auntruth/jpg/cu36.jpg",
+  "date": "Monday, February 11, 1980",
+  "location": null,
+  "city": null,
+  "state": "Veradero",
+  "country": "Cuba",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

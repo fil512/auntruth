@@ -1,0 +1,43 @@
+{
+  "id": "XI1944",
+  "name": "Playing Gender Gap",
+  "filename": "cd265",
+  "imageSrc": "/auntruth/jpg/cd265.jpg",
+  "date": "Wednesday, December 25, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lindsey Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF531.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Dominique Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF889.htm"
+    },
+    {
+      "name": "Brendan Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF529.htm"
+    }
+  ],
+  "nonFamily": [
+    "Lisa Driscoll",
+    "Pat",
+    "Curtis"
+  ],
+  "notes": null
+}

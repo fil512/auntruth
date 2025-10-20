@@ -1,0 +1,48 @@
+{
+  "id": "XI1626",
+  "name": "Campbell Family",
+  "filename": "mh15",
+  "imageSrc": "/auntruth/jpg/mh15.jpg",
+  "date": "Thursday, December 20, 1984",
+  "location": null,
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Darrell Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF338.htm"
+    },
+    {
+      "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF335.htm"
+    },
+    {
+      "name": "William Philip Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF336.htm"
+    },
+    {
+      "name": "Patricia Reitmeyer-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1920.htm"
+    },
+    {
+      "name": "Janet Ruth Campbell-Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF337.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Ian Philip Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF342.htm"
+    },
+    {
+      "name": "Gail Louise Campbell-Smadella-Sharland [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF340.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

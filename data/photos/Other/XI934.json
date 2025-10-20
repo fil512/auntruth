@@ -1,0 +1,24 @@
+{
+  "id": "XI934",
+  "name": "Wedding Picture",
+  "filename": "sn425",
+  "imageSrc": "/auntruth/jpg/sn425.jpg",
+  "date": "Sunday, July 01, 1900",
+  "location": "Tonica",
+  "city": null,
+  "state": "Illinois",
+  "country": "United States of America",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Maurice Franklin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF284.htm"
+    },
+    {
+      "name": "Rose(Rosella) Ward-Pringle [Ward]",
+      "url": "/auntruth/new/htm/L5/XF285.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

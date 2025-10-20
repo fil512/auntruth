@@ -1,0 +1,35 @@
+{
+  "id": "XI713",
+  "name": "At Joyce's",
+  "filename": "sn200",
+  "imageSrc": "/auntruth/jpg/sn200.jpg",
+  "date": "Tuesday, October 01, 1996",
+  "location": null,
+  "city": "Brampton",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF335.htm"
+  },
+  "people": [
+    {
+      "name": "Douglas Bruce Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF189.htm"
+    },
+    {
+      "name": "Ian David Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF190.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Kenneth Harold Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF182.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

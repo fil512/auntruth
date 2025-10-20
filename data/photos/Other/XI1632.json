@@ -1,0 +1,31 @@
+{
+  "id": "XI1632",
+  "name": "Auntie Ruth 100th",
+  "filename": "ar6",
+  "imageSrc": "/auntruth/jpg/ar6.jpg",
+  "date": "Saturday, May 18, 2002",
+  "location": "77 University Crescent",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L0/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Gail Louise Campbell-Smadella-Sharland [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF340.htm"
+    },
+    {
+      "name": "Janet Ruth Campbell-Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF337.htm"
+    },
+    {
+      "name": "Jillian Janet Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1227.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

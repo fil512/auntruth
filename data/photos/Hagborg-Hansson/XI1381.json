@@ -1,0 +1,35 @@
+{
+  "id": "XI1381",
+  "name": "The Original Borje Hansson Home and Water Delivery Cart",
+  "filename": "sn874",
+  "imageSrc": "/auntruth/jpg/sn874.jpg",
+  "date": "Tuesday, June 01, 1897",
+  "location": "309 Ellen St.",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Anders(Andrew) Hagborg(Hansson) [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF64.htm"
+  },
+  "people": [
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    },
+    {
+      "name": "Olaf Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF13.htm"
+    },
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    },
+    {
+      "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF173.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

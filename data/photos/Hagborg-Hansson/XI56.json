@@ -1,0 +1,27 @@
+{
+  "id": "XI56",
+  "name": "L'Arche de Triomphe",
+  "filename": "ro36",
+  "imageSrc": "/auntruth/jpg/ro36.jpg",
+  "date": "Wednesday, May 08, 1974",
+  "location": null,
+  "city": "Paris",
+  "state": "France General",
+  "country": "France",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": "l'Etoile in background"
+}

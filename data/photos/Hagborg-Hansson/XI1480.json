@@ -1,0 +1,45 @@
+{
+  "id": "XI1480",
+  "name": "At Auntie Esther & Uncle Carl's cottage",
+  "filename": "sn973",
+  "imageSrc": "/auntruth/jpg/sn973.jpg",
+  "date": "Sunday, September 22, 1963",
+  "location": "Dorothy Lake",
+  "city": null,
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Anna (Annie) Naomi Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF5.htm"
+    },
+    {
+      "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF173.htm"
+    },
+    {
+      "name": "Carl Gustav Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF174.htm"
+    },
+    {
+      "name": "Ellida Augusta Nelson-Pearson(Pehrson) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF6.htm"
+    },
+    {
+      "name": "Frances Maria Pearson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF18.htm"
+    },
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    }
+  ],
+  "nonFamily": [
+    "Kay Loewen"
+  ],
+  "notes": null
+}

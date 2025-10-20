@@ -1,0 +1,27 @@
+{
+  "id": "XI2220",
+  "name": "Fun with Wally",
+  "filename": "cd488",
+  "imageSrc": "/auntruth/jpg/cd488.jpg",
+  "date": "Tuesday, July 01, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

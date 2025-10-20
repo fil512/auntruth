@@ -1,0 +1,27 @@
+{
+  "id": "XI584",
+  "name": "I Like my Aunt Pam",
+  "filename": "sn83",
+  "imageSrc": "/auntruth/jpg/sn83.jpg",
+  "date": "Tuesday, June 03, 1986",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Pamela Sharon Klappratt-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF556.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

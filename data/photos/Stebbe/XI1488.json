@@ -1,0 +1,39 @@
+{
+  "id": "XI1488",
+  "name": "Family Portrait",
+  "filename": "bj32",
+  "imageSrc": "/auntruth/jpg/bj32.jpg",
+  "date": "Monday, April 01, 1946",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lawrence (Larry Stebbe [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF496.htm"
+  },
+  "people": [
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Ronald (Ron) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF507.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

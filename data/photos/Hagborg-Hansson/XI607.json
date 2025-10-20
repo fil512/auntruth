@@ -1,0 +1,31 @@
+{
+  "id": "XI607",
+  "name": "In the Kitchen at Bob's",
+  "filename": "bj25",
+  "imageSrc": "/auntruth/jpg/bj25.jpg",
+  "date": "Saturday, March 30, 2002",
+  "location": null,
+  "city": "Beausejour",
+  "state": null,
+  "country": null,
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

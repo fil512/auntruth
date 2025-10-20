@@ -1,0 +1,27 @@
+{
+  "id": "XI911",
+  "name": "Wedding Picture",
+  "filename": "sn397",
+  "imageSrc": "/auntruth/jpg/sn397.jpg",
+  "date": "Monday, July 25, 1977",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "Joseph (Guy) Guy Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF538.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

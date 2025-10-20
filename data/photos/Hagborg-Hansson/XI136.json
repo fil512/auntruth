@@ -1,0 +1,31 @@
+{
+  "id": "XI136",
+  "name": "In Stonehenge",
+  "filename": "ro116",
+  "imageSrc": "/auntruth/jpg/ro116.jpg",
+  "date": "Monday, May 13, 1974",
+  "location": "Salisbury Plain",
+  "city": "Stonehenge",
+  "state": "UK General",
+  "country": "United Kingdom",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

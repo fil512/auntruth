@@ -1,0 +1,27 @@
+{
+  "id": "XI959",
+  "name": "Picnic Stop",
+  "filename": "sn451",
+  "imageSrc": "/auntruth/jpg/sn451.jpg",
+  "date": "Monday, August 12, 1929",
+  "location": null,
+  "city": null,
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": {
+    "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF179.htm"
+  },
+  "people": [
+    {
+      "name": "Maurice Franklin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF284.htm"
+    },
+    {
+      "name": "Rose(Rosella) Ward-Pringle [Ward]",
+      "url": "/auntruth/new/htm/L5/XF285.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

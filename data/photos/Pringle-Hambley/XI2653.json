@@ -1,0 +1,61 @@
+{
+  "id": "XI2653",
+  "name": "Pringle Family in Mather",
+  "filename": "Part 2",
+  "imageSrc": "/auntruth/jpg/math2.jpg",
+  "date": "Saturday, March 02, 1912",
+  "location": "SchoolHouse",
+  "city": "Mather",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/htm/L3/XF325.htm"
+  },
+  "people": [
+    {
+      "name": "Maurice Franklin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/htm/L3/XF284.htm"
+    },
+    {
+      "name": "Rose(Rosella) Ward-Pringle [Ward]",
+      "url": "/auntruth/htm/L5/XF285.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Ira Howard Pringle [Pringle-Hambley]",
+      "url": "/auntruth/htm/L3/XF301.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Maurice(Jerry) Ervin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/htm/L3/XF309.htm"
+    },
+    {
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm"
+    },
+    {
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm"
+    },
+    {
+      "name": "",
+      "url": "/auntruth/htm/L0/XF0.htm"
+    }
+  ],
+  "nonFamily": [
+    "William King",
+    "Mrs. Daly",
+    "Arnold Daly",
+    "Sia Daly",
+    "John (Jack) Daly"
+  ],
+  "notes": "From 'Crocus Country, a History of Mather and Surrounding Districts' (published by D.W. Friesen & Sons Altona MB 1981)"
+}

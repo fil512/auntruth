@@ -1,0 +1,32 @@
+{
+  "id": "XI1416",
+  "name": "At Nordin Farm",
+  "filename": "sn909",
+  "imageSrc": "/auntruth/jpg/sn909.jpg",
+  "date": "Wednesday, August 01, 1917",
+  "location": "Teulon",
+  "city": null,
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Arthur Nordin [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2433.htm"
+    },
+    {
+      "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF178.htm"
+    },
+    {
+      "name": "Helmer Nordin [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2430.htm"
+    },
+    {
+      "name": "Henry Nordin [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF2429.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

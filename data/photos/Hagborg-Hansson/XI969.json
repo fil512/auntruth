@@ -1,0 +1,31 @@
+{
+  "id": "XI969",
+  "name": "Christmas in Dugald",
+  "filename": "sn462",
+  "imageSrc": "/auntruth/jpg/sn462.jpg",
+  "date": "Thursday, December 20, 1956",
+  "location": "Uncle Ira's Farm",
+  "city": null,
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Ella Aiken-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF290.htm"
+    },
+    {
+      "name": "Ira Daniel Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF289.htm"
+    },
+    {
+      "name": "John(Jack) J. Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF326.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

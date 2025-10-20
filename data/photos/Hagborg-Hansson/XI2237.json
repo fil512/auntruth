@@ -1,0 +1,31 @@
+{
+  "id": "XI2237",
+  "name": "Lazy Saturday",
+  "filename": "cd503",
+  "imageSrc": "/auntruth/jpg/cd503.jpg",
+  "date": "Saturday, July 05, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    },
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

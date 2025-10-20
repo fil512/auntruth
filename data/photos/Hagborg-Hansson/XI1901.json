@@ -1,0 +1,39 @@
+{
+  "id": "XI1901",
+  "name": "Living Room",
+  "filename": "cd221",
+  "imageSrc": "/auntruth/jpg/cd221.jpg",
+  "date": "Tuesday, December 24, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Michael David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF533.htm"
+    },
+    {
+      "name": "Pamela Sharon Klappratt-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF556.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Leslie Selch-Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF528.htm"
+    },
+    {
+      "name": "Chloe Abrie Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2715.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

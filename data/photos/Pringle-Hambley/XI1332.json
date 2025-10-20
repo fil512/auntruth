@@ -1,0 +1,31 @@
+{
+  "id": "XI1332",
+  "name": "On the Deck",
+  "filename": "sn825",
+  "imageSrc": "/auntruth/jpg/sn825.jpg",
+  "date": "Monday, July 01, 1974",
+  "location": "Pinehaven",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF179.htm"
+  },
+  "people": [
+    {
+      "name": "Elinor Mae Hagborg-Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF180.htm"
+    },
+    {
+      "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF178.htm"
+    },
+    {
+      "name": "Ernest Donald Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF181.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

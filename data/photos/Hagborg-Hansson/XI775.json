@@ -1,0 +1,35 @@
+{
+  "id": "XI775",
+  "name": "Peter's Burial",
+  "filename": "sn262",
+  "imageSrc": "/auntruth/jpg/sn262.jpg",
+  "date": "Thursday, August 20, 1992",
+  "location": "By chicken barn",
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

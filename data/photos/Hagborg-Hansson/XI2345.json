@@ -1,0 +1,27 @@
+{
+  "id": "XI2345",
+  "name": "Folklorama - Synge I Kor",
+  "filename": "cd633",
+  "imageSrc": "/auntruth/jpg/cd633.jpg",
+  "date": "Wednesday, August 13, 2003",
+  "location": "Scandinavian Centre",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

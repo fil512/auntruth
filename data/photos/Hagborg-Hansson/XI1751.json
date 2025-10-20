@@ -1,0 +1,30 @@
+{
+  "id": "XI1751",
+  "name": "Everyone at Con & Jane's",
+  "filename": "cd140",
+  "imageSrc": "/auntruth/jpg/cd140.jpg",
+  "date": "Monday, September 02, 2002",
+  "location": "486 Edison Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [
+    "Jane Haight",
+    "Con Haight"
+  ],
+  "notes": null
+}

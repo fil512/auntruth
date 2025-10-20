@@ -1,0 +1,27 @@
+{
+  "id": "XI1",
+  "name": "Pinehaven Summer",
+  "filename": "cl1",
+  "imageSrc": "/auntruth/jpg/cl1.jpg",
+  "date": "Wednesday, July 01, 1970",
+  "location": "On the cottage deck",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

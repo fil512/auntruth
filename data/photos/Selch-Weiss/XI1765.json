@@ -1,0 +1,43 @@
+{
+  "id": "XI1765",
+  "name": "Albert & Linda Wedding",
+  "filename": "bg004",
+  "imageSrc": "/auntruth/jpg/bg004.jpg",
+  "date": "Thursday, June 01, 1944",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Bonny Greifenberger-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF412.htm"
+  },
+  "people": [
+    {
+      "name": "Daniel Rosentreter [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF807.htm"
+    },
+    {
+      "name": "Frederic(Freddy Martin [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF693.htm"
+    },
+    {
+      "name": "Albert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF409.htm"
+    },
+    {
+      "name": "Linda Sss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF410.htm"
+    },
+    {
+      "name": "Elizabeth (Bett Selch-Martin [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF692.htm"
+    },
+    {
+      "name": "Lily Selch-Rosentreter [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF808.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

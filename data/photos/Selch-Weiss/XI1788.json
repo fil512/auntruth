@@ -1,0 +1,27 @@
+{
+  "id": "XI1788",
+  "name": "Oma & Auntie Linda",
+  "filename": "bg027",
+  "imageSrc": "/auntruth/jpg/bg027.jpg",
+  "date": "Sunday, July 30, 1950",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Albert Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF409.htm"
+  },
+  "people": [
+    {
+      "name": "Linda Sss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF410.htm"
+    },
+    {
+      "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L0/XF384.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

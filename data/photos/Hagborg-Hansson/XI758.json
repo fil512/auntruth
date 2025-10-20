@@ -1,0 +1,31 @@
+{
+  "id": "XI758",
+  "name": "At Dinner",
+  "filename": "sn245",
+  "imageSrc": "/auntruth/jpg/sn245.jpg",
+  "date": "Wednesday, June 01, 1994",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Allan David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF534.htm"
+    },
+    {
+      "name": "Allison Huntley-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1045.htm"
+    },
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

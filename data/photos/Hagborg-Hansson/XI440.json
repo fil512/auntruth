@@ -1,0 +1,31 @@
+{
+  "id": "XI440",
+  "name": "At the Lake",
+  "filename": "mx71",
+  "imageSrc": "/auntruth/jpg/mx71.jpg",
+  "date": "Saturday, July 01, 1978",
+  "location": "Pinehaven",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

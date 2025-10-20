@@ -1,0 +1,33 @@
+{
+  "id": "XI2059",
+  "name": "Brandy 20th",
+  "filename": "cd317",
+  "imageSrc": "/auntruth/jpg/cd317.jpg",
+  "date": "Sunday, April 20, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dominique (Dom) Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF539.htm"
+    },
+    {
+      "name": "Shannon Dorothy Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF536.htm"
+    },
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    }
+  ],
+  "nonFamily": [
+    "Vars Bacler"
+  ],
+  "notes": null
+}

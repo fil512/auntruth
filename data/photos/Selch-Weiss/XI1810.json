@@ -1,0 +1,27 @@
+{
+  "id": "XI1810",
+  "name": "Rick Confirmation",
+  "filename": "bg048",
+  "imageSrc": "/auntruth/jpg/bg048.jpg",
+  "date": "Sunday, May 01, 1960",
+  "location": null,
+  "city": "Kelvington",
+  "state": "Saskatchewan",
+  "country": "Canada",
+  "photographer": {
+    "name": "Ida Young-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF414.htm"
+  },
+  "people": [
+    {
+      "name": "Richard Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF418.htm"
+    },
+    {
+      "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF413.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,28 @@
+{
+  "id": "XI97",
+  "name": "At the Relatives",
+  "filename": "ro77",
+  "imageSrc": "/auntruth/jpg/ro77.jpg",
+  "date": "Tuesday, May 21, 1974",
+  "location": null,
+  "city": "Malmo",
+  "state": "Sweden General",
+  "country": "Sweden",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Herman Hakanson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF88.htm"
+    },
+    {
+      "name": "Manfred Martensson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF141.htm"
+    },
+    {
+      "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF178.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

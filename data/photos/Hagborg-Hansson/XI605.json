@@ -1,0 +1,27 @@
+{
+  "id": "XI605",
+  "name": "The Guys",
+  "filename": "bj23",
+  "imageSrc": "/auntruth/jpg/bj23.jpg",
+  "date": "Saturday, March 30, 2002",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Corey Johnson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2563.htm"
+    },
+    {
+      "name": "Paul Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2712.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

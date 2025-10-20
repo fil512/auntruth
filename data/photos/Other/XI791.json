@@ -1,0 +1,24 @@
+{
+  "id": "XI791",
+  "name": "Bob & Pam",
+  "filename": "sn279",
+  "imageSrc": "/auntruth/jpg/sn279.jpg",
+  "date": "Sunday, July 01, 1990",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Pamela Sharon Klappratt-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF556.htm"
+    },
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

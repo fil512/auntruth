@@ -1,0 +1,43 @@
+{
+  "id": "XI2255",
+  "name": "Cousins",
+  "filename": "cd525",
+  "imageSrc": "/auntruth/jpg/cd525.jpg",
+  "date": "Sunday, July 06, 2003",
+  "location": "14 Cuthbertson",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Scott Catserlis [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1108.htm"
+    },
+    {
+      "name": "Ashley Fenske [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF502.htm"
+    },
+    {
+      "name": "Jonathan Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1110.htm"
+    },
+    {
+      "name": "Darrin Fenske [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF501.htm"
+    },
+    {
+      "name": "Emily Ann Catserlis [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1107.htm"
+    },
+    {
+      "name": "Kate Gross [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1111.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

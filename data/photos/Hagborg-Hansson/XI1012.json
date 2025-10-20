@@ -1,0 +1,47 @@
+{
+  "id": "XI1012",
+  "name": "Auld Lang Syne",
+  "filename": "sn505",
+  "imageSrc": "/auntruth/jpg/sn505.jpg",
+  "date": "Monday, December 31, 1979",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "Steen Otto Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF545.htm"
+    },
+    {
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm"
+    },
+    {
+      "name": "Kenneth Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF546.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

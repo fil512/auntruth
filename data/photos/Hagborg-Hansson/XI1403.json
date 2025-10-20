@@ -1,0 +1,31 @@
+{
+  "id": "XI1403",
+  "name": "At the Dock",
+  "filename": "sn896",
+  "imageSrc": "/auntruth/jpg/sn896.jpg",
+  "date": "Thursday, August 31, 1961",
+  "location": "Pinehaven",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Anna (Annie) Naomi Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF5.htm"
+    },
+    {
+      "name": "George Leslie Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF20.htm"
+    },
+    {
+      "name": "Hilding Vilhelm Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF23.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

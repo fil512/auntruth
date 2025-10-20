@@ -1,0 +1,31 @@
+{
+  "id": "XI1411",
+  "name": "Cousins",
+  "filename": "sn904",
+  "imageSrc": "/auntruth/jpg/sn904.jpg",
+  "date": "Wednesday, June 05, 1974",
+  "location": null,
+  "city": "Malmo",
+  "state": "Sweden General",
+  "country": "Sweden",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF178.htm"
+    },
+    {
+      "name": "Manfred Martensson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF141.htm"
+    },
+    {
+      "name": "Herman Hakanson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF88.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

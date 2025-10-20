@@ -1,0 +1,36 @@
+{
+  "id": "XI1387",
+  "name": "Charlie Nelson Family",
+  "filename": "sn880",
+  "imageSrc": "/auntruth/jpg/sn880.jpg",
+  "date": "Wednesday, July 10, 1929",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Clifford Emil Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF31.htm"
+    },
+    {
+      "name": "Florence Muriel Nelson-Ridgeway-Westberg [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF30.htm"
+    },
+    {
+      "name": "Edith Vivian Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF788.htm"
+    },
+    {
+      "name": "Karl Eric Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF48.htm"
+    },
+    {
+      "name": "Paul Vincent Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF29.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

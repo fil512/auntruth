@@ -1,0 +1,31 @@
+{
+  "id": "XI1985",
+  "name": "Allison & Gramma/Grampa",
+  "filename": "dp030",
+  "imageSrc": "/auntruth/jpg/dp030.jpg",
+  "date": "Wednesday, November 01, 2000",
+  "location": null,
+  "city": "Guelph",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Allison Huntley-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1045.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

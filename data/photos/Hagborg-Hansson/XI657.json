@@ -1,0 +1,37 @@
+{
+  "id": "XI657",
+  "name": "In Gramma Selch's Kitchen with Phuoc Luong",
+  "filename": "sn145",
+  "imageSrc": "/auntruth/jpg/sn145.jpg",
+  "date": "Tuesday, August 01, 1989",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Donna Selch-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF548.htm"
+    },
+    {
+      "name": "Christopher Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF553.htm"
+    }
+  ],
+  "nonFamily": [
+    "Luong Phuoc"
+  ],
+  "notes": null
+}

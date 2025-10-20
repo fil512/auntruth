@@ -1,0 +1,39 @@
+{
+  "id": "XI1435",
+  "name": "Dinner",
+  "filename": "SN928",
+  "imageSrc": "/auntruth/jpg/sn928.jpg",
+  "date": "Wednesday, September 18, 1929",
+  "location": "783 Bannatyne Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF167.htm"
+    },
+    {
+      "name": "Fredrica Jane Englund-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF168.htm"
+    },
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    },
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    },
+    {
+      "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF173.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

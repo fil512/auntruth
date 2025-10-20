@@ -1,0 +1,27 @@
+{
+  "id": "XI518",
+  "name": "Mmm Good",
+  "filename": "sn17",
+  "imageSrc": "/auntruth/jpg/sn17.jpg",
+  "date": "Monday, November 12, 1984",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

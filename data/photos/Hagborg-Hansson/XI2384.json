@@ -1,0 +1,32 @@
+{
+  "id": "XI2384",
+  "name": "Old Ottawa Group",
+  "filename": "cd701",
+  "imageSrc": "/auntruth/jpg/cd701.jpg",
+  "date": "Tuesday, August 26, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    }
+  ],
+  "nonFamily": [
+    "Peter Tikovt",
+    "Elena Tikovt",
+    "Ene Tikovt",
+    "Matti Tikovt"
+  ],
+  "notes": null
+}

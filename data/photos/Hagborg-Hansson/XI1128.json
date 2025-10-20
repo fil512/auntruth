@@ -1,0 +1,31 @@
+{
+  "id": "XI1128",
+  "name": "At the SandPit",
+  "filename": "sn621",
+  "imageSrc": "/auntruth/jpg/sn621.jpg",
+  "date": "Tuesday, August 01, 1972",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    },
+    {
+      "name": "Allan David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF534.htm"
+    },
+    {
+      "name": "Sean Michael Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF535.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

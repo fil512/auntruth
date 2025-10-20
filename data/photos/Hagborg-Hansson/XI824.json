@@ -1,0 +1,33 @@
+{
+  "id": "XI824",
+  "name": "Kitchen with Phuoc Luong",
+  "filename": "sn312",
+  "imageSrc": "/auntruth/jpg/sn312.jpg",
+  "date": "Tuesday, July 01, 1980",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Pamela Sharon Klappratt-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF556.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [
+    "Luong Phuoc"
+  ],
+  "notes": null
+}

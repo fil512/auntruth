@@ -1,0 +1,31 @@
+{
+  "id": "XI1287",
+  "name": "In the front yard",
+  "filename": "sn780",
+  "imageSrc": "/auntruth/jpg/sn780.jpg",
+  "date": "Monday, July 15, 1935",
+  "location": "783 Bannatyne",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

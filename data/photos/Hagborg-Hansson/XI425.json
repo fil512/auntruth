@@ -1,0 +1,43 @@
+{
+  "id": "XI425",
+  "name": "At the Pump-House",
+  "filename": "mx56",
+  "imageSrc": "/auntruth/jpg/mx56.jpg",
+  "date": "Saturday, April 01, 1967",
+  "location": "Pinehaven",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Alex F. Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF188.htm"
+    },
+    {
+      "name": "Gowan Morison-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF187.htm"
+    },
+    {
+      "name": "Douglas Bruce Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF189.htm"
+    },
+    {
+      "name": "Ian David Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF190.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "XI2057",
+  "name": "Brandy 20th Birthday",
+  "filename": "cd315",
+  "imageSrc": "/auntruth/jpg/cd315.jpg",
+  "date": "Sunday, April 20, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    }
+  ],
+  "nonFamily": [
+    "Vars Bacler"
+  ],
+  "notes": null
+}

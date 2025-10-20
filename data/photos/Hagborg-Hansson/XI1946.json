@@ -1,0 +1,31 @@
+{
+  "id": "XI1946",
+  "name": "Kitchen Workers",
+  "filename": "cd267",
+  "imageSrc": "/auntruth/jpg/cd267.jpg",
+  "date": "Wednesday, December 25, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Janice (Jan) DeMarco-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF508.htm"
+    },
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

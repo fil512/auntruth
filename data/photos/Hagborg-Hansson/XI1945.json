@@ -1,0 +1,31 @@
+{
+  "id": "XI1945",
+  "name": "Jean, Alison & Dave P.",
+  "filename": "cd266",
+  "imageSrc": "/auntruth/jpg/cd266.jpg",
+  "date": "Wednesday, December 25, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Jean Bush-Cunningham [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2907.htm"
+    },
+    {
+      "name": "Alison Cunningham- [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2909.htm"
+    },
+    {
+      "name": "Michael David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF533.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

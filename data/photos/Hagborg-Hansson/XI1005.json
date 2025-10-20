@@ -1,0 +1,23 @@
+{
+  "id": "XI1005",
+  "name": "Graduation",
+  "filename": "sn498",
+  "imageSrc": "/auntruth/jpg/sn498.jpg",
+  "date": "Monday, June 30, 1980",
+  "location": null,
+  "city": "Toronto",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF185.htm"
+  },
+  "people": [
+    {
+      "name": "Douglas Bruce Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF189.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

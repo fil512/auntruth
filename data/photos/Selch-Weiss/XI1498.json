@@ -1,0 +1,31 @@
+{
+  "id": "XI1498",
+  "name": "Front of House",
+  "filename": "bj42",
+  "imageSrc": "/auntruth/jpg/bj42.jpg",
+  "date": "Sunday, October 11, 1942",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "August (Art) Arthur Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF442.htm"
+  },
+  "people": [
+    {
+      "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF413.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "Gustaf(Gus) Freund [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF378.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

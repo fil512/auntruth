@@ -1,0 +1,39 @@
+{
+  "id": "XI1477",
+  "name": "At a motel",
+  "filename": "sn970",
+  "imageSrc": "/auntruth/jpg/sn970.jpg",
+  "date": "Monday, July 25, 1938",
+  "location": null,
+  "city": null,
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    },
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    },
+    {
+      "name": "Elinor Mae Hagborg-Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF180.htm"
+    },
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

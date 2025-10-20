@@ -1,0 +1,39 @@
+{
+  "id": "XI1958",
+  "name": "Phoenix Family",
+  "filename": "dp003",
+  "imageSrc": "/auntruth/jpg/dp003.jpg",
+  "date": "Monday, December 30, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Michael David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF533.htm"
+    },
+    {
+      "name": "Shannon Dorothy Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF536.htm"
+    },
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    },
+    {
+      "name": "Allan David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF534.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "XI1768",
+  "name": "At Uncle Freddy's",
+  "filename": "bg007",
+  "imageSrc": "/auntruth/jpg/bg007.jpg",
+  "date": "Wednesday, July 13, 1955",
+  "location": null,
+  "city": "Kelvington",
+  "state": "Saskatchewan",
+  "country": "Canada",
+  "photographer": {
+    "name": "Bonny Greifenberger-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF412.htm"
+  },
+  "people": [
+    {
+      "name": "Gilbert Albert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF411.htm"
+    },
+    {
+      "name": "Sharon Elaine Selch-Nicholson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1097.htm"
+    },
+    {
+      "name": "Bruce Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF419.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

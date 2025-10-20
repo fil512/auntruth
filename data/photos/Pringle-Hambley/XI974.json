@@ -1,0 +1,31 @@
+{
+  "id": "XI974",
+  "name": "Backyard",
+  "filename": "sn467",
+  "imageSrc": "/auntruth/jpg/sn467.jpg",
+  "date": "Monday, July 01, 1985",
+  "location": "915 Oakenwald",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF179.htm"
+  },
+  "people": [
+    {
+      "name": "Janet Ruth Campbell-Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF337.htm"
+    },
+    {
+      "name": "Wendy Leilani Stevens-McCools [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF184.htm"
+    },
+    {
+      "name": "Jessica Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF339.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

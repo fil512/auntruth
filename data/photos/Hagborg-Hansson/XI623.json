@@ -1,0 +1,31 @@
+{
+  "id": "XI623",
+  "name": "With Grandma & Grandpa Selch",
+  "filename": "sn112",
+  "imageSrc": "/auntruth/jpg/sn112.jpg",
+  "date": "Tuesday, July 08, 1986",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

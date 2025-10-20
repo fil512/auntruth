@@ -1,0 +1,52 @@
+{
+  "id": "XI1577",
+  "name": "Full Family Picture",
+  "filename": "bj121",
+  "imageSrc": "/auntruth/jpg/bj121.jpg",
+  "date": "Saturday, July 02, 1983",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Janice (Jan) DeMarco-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF508.htm"
+    },
+    {
+      "name": "Lindsey Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF531.htm"
+    },
+    {
+      "name": "Gordon (Gordie) Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF550.htm"
+    },
+    {
+      "name": "Donna Selch-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF548.htm"
+    },
+    {
+      "name": "Ronald (Ron) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF507.htm"
+    },
+    {
+      "name": "Joseph (Guy) Guy Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF538.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

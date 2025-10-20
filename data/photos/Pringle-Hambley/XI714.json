@@ -1,0 +1,31 @@
+{
+  "id": "XI714",
+  "name": "In Kanata",
+  "filename": "sn201",
+  "imageSrc": "/auntruth/jpg/sn201.jpg",
+  "date": "Thursday, August 01, 1996",
+  "location": null,
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF335.htm"
+  },
+  "people": [
+    {
+      "name": "Ian Philip Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF342.htm"
+    },
+    {
+      "name": "Scott Ian Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1921.htm"
+    },
+    {
+      "name": "Samantha Smadella [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1918.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

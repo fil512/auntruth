@@ -1,0 +1,25 @@
+{
+  "id": "XI351",
+  "name": "John Whitaker",
+  "filename": "mx36",
+  "imageSrc": "/auntruth/jpg/mx36.jpg",
+  "date": "Friday, August 15, 1980",
+  "location": null,
+  "city": "Lake Catherine",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [
+    "John Whitaker"
+  ],
+  "notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "XI2",
+  "name": "Pinehaven",
+  "filename": "cl2",
+  "imageSrc": "/auntruth/jpg/cl2.jpg",
+  "date": "Wednesday, July 01, 1970",
+  "location": "On the cottage deck",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

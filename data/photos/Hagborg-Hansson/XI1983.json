@@ -1,0 +1,27 @@
+{
+  "id": "XI1983",
+  "name": "Pam & Gramma",
+  "filename": "dp028",
+  "imageSrc": "/auntruth/jpg/dp028.jpg",
+  "date": "Monday, December 25, 2000",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "Pamela Sharon Klappratt-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF556.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,43 @@
+{
+  "id": "XI912",
+  "name": "Diningroom",
+  "filename": "sn398",
+  "imageSrc": "/auntruth/jpg/sn398.jpg",
+  "date": "Tuesday, March 01, 1977",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    },
+    {
+      "name": "Shannon Dorothy Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF536.htm"
+    },
+    {
+      "name": "Michael David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF533.htm"
+    },
+    {
+      "name": "Kenneth Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF546.htm"
+    },
+    {
+      "name": "Edna Stebbe-Fedorco [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF486.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

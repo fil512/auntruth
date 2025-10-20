@@ -1,0 +1,31 @@
+{
+  "id": "XI964",
+  "name": "With Great-Grandparents",
+  "filename": "sn456",
+  "imageSrc": "/auntruth/jpg/sn456.jpg",
+  "date": "Sunday, September 07, 1952",
+  "location": "Edmonton",
+  "city": null,
+  "state": "Alberta",
+  "country": "Canada",
+  "photographer": {
+    "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF335.htm"
+  },
+  "people": [
+    {
+      "name": "Maurice Franklin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF284.htm"
+    },
+    {
+      "name": "Rose(Rosella) Ward-Pringle [Ward]",
+      "url": "/auntruth/new/htm/L5/XF285.htm"
+    },
+    {
+      "name": "Janet Ruth Campbell-Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF337.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

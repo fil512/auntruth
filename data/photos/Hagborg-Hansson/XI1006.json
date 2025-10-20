@@ -1,0 +1,35 @@
+{
+  "id": "XI1006",
+  "name": "At a restaurant",
+  "filename": "sn499",
+  "imageSrc": "/auntruth/jpg/sn499.jpg",
+  "date": "Friday, September 03, 1982",
+  "location": "White Rock",
+  "city": "Vancouver",
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": {
+    "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF185.htm"
+  },
+  "people": [
+    {
+      "name": "Alex F. Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF188.htm"
+    },
+    {
+      "name": "Gowan Morison-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF187.htm"
+    },
+    {
+      "name": "Robert Alan Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF186.htm"
+    },
+    {
+      "name": "Maurice(Jerry) Ervin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF309.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

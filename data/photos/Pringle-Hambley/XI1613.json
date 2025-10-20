@@ -1,0 +1,55 @@
+{
+  "id": "XI1613",
+  "name": "Marion & Phil's Wedding",
+  "filename": "mh2",
+  "imageSrc": "/auntruth/jpg/mh2.jpg",
+  "date": "Saturday, July 01, 1950",
+  "location": "Edmonton",
+  "city": "Calgary",
+  "state": "Alberta",
+  "country": "Canada",
+  "photographer": {
+    "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF325.htm"
+  },
+  "people": [
+    {
+      "name": "Elinor Mae Hagborg-Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF180.htm"
+    },
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    },
+    {
+      "name": "Keith Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF303.htm"
+    },
+    {
+      "name": "Bruce Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF329.htm"
+    },
+    {
+      "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF335.htm"
+    },
+    {
+      "name": "Bryan Spencer Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF343.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Maurice(Jerry) Ervin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF309.htm"
+    },
+    {
+      "name": "Rose(Rosella) Ward-Pringle [Ward]",
+      "url": "/auntruth/new/htm/L5/XF285.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

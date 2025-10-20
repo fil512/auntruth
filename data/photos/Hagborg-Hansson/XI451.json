@@ -1,0 +1,39 @@
+{
+  "id": "XI451",
+  "name": "Playing with Shane",
+  "filename": "bj7",
+  "imageSrc": "/auntruth/jpg/bj7.jpg",
+  "date": "Thursday, July 07, 1983",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    },
+    {
+      "name": "Ronald (Ron) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF507.htm"
+    },
+    {
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm"
+    },
+    {
+      "name": "Steen Otto Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF545.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

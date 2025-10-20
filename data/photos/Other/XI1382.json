@@ -1,0 +1,32 @@
+{
+  "id": "XI1382",
+  "name": "Hagborg Family 1898",
+  "filename": "sn875",
+  "imageSrc": "/auntruth/jpg/sn875.jpg",
+  "date": "Thursday, December 01, 1898",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    },
+    {
+      "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF167.htm"
+    },
+    {
+      "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF173.htm"
+    },
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

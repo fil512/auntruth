@@ -1,0 +1,35 @@
+{
+  "id": "XI459",
+  "name": "Cousins and an aunt",
+  "filename": "bj15",
+  "imageSrc": "/auntruth/jpg/bj15.jpg",
+  "date": "Thursday, July 07, 1983",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Kenneth Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF546.htm"
+    },
+    {
+      "name": "Leslie Selch-Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF528.htm"
+    },
+    {
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm"
+    },
+    {
+      "name": "Deborah Selch-Johnson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF530.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

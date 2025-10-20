@@ -1,0 +1,34 @@
+{
+  "id": "XI1330",
+  "name": "In the Trees",
+  "filename": "sn823",
+  "imageSrc": "/auntruth/jpg/sn823.jpg",
+  "date": "Monday, July 01, 1957",
+  "location": "Pinehaven",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Elinor Mae Hagborg-Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF180.htm"
+    },
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [
+    "Elinor Harvey",
+    "Violet Magner"
+  ],
+  "notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "XI2436",
+  "name": "Mom's Best Friend",
+  "filename": "cd757",
+  "imageSrc": "/auntruth/jpg/cd757.jpg",
+  "date": "Thursday, December 25, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "Donna Selch-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF548.htm"
+    }
+  ],
+  "nonFamily": [
+    "Shady"
+  ],
+  "notes": null
+}

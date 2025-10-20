@@ -1,0 +1,27 @@
+{
+  "id": "XI611",
+  "name": "New Mother",
+  "filename": "bj29",
+  "imageSrc": "/auntruth/jpg/bj29.jpg",
+  "date": "Saturday, March 30, 2002",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Chloe Abrie Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2715.htm"
+    },
+    {
+      "name": "Leslie Selch-Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF528.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

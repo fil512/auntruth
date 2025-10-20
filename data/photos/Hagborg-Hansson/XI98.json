@@ -1,0 +1,47 @@
+{
+  "id": "XI98",
+  "name": "At Manfred Martensson's",
+  "filename": "ro78",
+  "imageSrc": "/auntruth/jpg/ro78.jpg",
+  "date": "Tuesday, May 21, 1974",
+  "location": null,
+  "city": "Malmo",
+  "state": "Sweden General",
+  "country": "Sweden",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Ingrid Martensson-Svenson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF143.htm"
+    },
+    {
+      "name": "Bo Svenson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF144.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Herman Hakanson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF88.htm"
+    },
+    {
+      "name": "Manfred Martensson [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF141.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

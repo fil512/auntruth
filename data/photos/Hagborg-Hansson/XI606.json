@@ -1,0 +1,31 @@
+{
+  "id": "XI606",
+  "name": "Kitchen",
+  "filename": "bj24",
+  "imageSrc": "/auntruth/jpg/bj24.jpg",
+  "date": "Saturday, March 30, 2002",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Donna Selch-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF548.htm"
+    },
+    {
+      "name": "Janice (Jan) DeMarco-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF508.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

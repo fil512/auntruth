@@ -1,0 +1,23 @@
+{
+  "id": "XI1870",
+  "name": "New Trike",
+  "filename": "tg04",
+  "imageSrc": "/auntruth/jpg/tg04.jpg",
+  "date": "Friday, December 26, 1980",
+  "location": null,
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Joseph (Guy) Guy Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF538.htm"
+  },
+  "people": [
+    {
+      "name": "Dominique (Dom) Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF539.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

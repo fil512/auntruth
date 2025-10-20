@@ -1,0 +1,35 @@
+{
+  "id": "XI1410",
+  "name": "Dinner",
+  "filename": "sn903",
+  "imageSrc": "/auntruth/jpg/sn903.jpg",
+  "date": "Wednesday, December 20, 1933",
+  "location": "783 Bannatyne",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF167.htm"
+    },
+    {
+      "name": "Fredrica Jane Englund-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF168.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

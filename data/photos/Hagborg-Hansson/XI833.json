@@ -1,0 +1,27 @@
+{
+  "id": "XI833",
+  "name": "Dame et Fillette",
+  "filename": "sn321",
+  "imageSrc": "/auntruth/jpg/sn321.jpg",
+  "date": "Saturday, August 15, 1987",
+  "location": null,
+  "city": "Quebec",
+  "state": "Quebec",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

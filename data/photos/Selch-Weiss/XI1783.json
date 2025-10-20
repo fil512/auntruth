@@ -1,0 +1,27 @@
+{
+  "id": "XI1783",
+  "name": "Albert & Linda",
+  "filename": "bg022",
+  "imageSrc": "/auntruth/jpg/bg022.jpg",
+  "date": "Thursday, May 01, 1975",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Bonny Greifenberger-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF412.htm"
+  },
+  "people": [
+    {
+      "name": "Linda Sss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF410.htm"
+    },
+    {
+      "name": "Albert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF409.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

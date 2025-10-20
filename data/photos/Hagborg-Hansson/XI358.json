@@ -1,0 +1,25 @@
+{
+  "id": "XI358",
+  "name": "Arrival with Muoi",
+  "filename": "cl9",
+  "imageSrc": "/auntruth/jpg/cl9.jpg",
+  "date": "Friday, November 30, 1979",
+  "location": "Pinehaven",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [
+    "Luong Muoi"
+  ],
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "XI947",
+  "name": "At Sylvan Lake",
+  "filename": "sn439",
+  "imageSrc": "/auntruth/jpg/sn439.jpg",
+  "date": "Monday, July 01, 1929",
+  "location": null,
+  "city": null,
+  "state": "Alberta",
+  "country": "Canada",
+  "photographer": {
+    "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF325.htm"
+  },
+  "people": [
+    {
+      "name": "Maurice Franklin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF284.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Maurice(Jerry) Ervin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF309.htm"
+    },
+    {
+      "name": "Rose(Rosella) Ward-Pringle [Ward]",
+      "url": "/auntruth/new/htm/L5/XF285.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

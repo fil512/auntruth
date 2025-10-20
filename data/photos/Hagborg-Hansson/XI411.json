@@ -1,0 +1,25 @@
+{
+  "id": "XI411",
+  "name": "Dr Fajar Fajarsson",
+  "filename": "cl27",
+  "imageSrc": "/auntruth/jpg/cl27.jpg",
+  "date": "Tuesday, August 01, 1972",
+  "location": "Pinehaven",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [
+    "Fajar Fajarsson"
+  ],
+  "notes": null
+}

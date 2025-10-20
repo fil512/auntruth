@@ -1,0 +1,27 @@
+{
+  "id": "XI46",
+  "name": "Palais des nations",
+  "filename": "ro26",
+  "imageSrc": "/auntruth/jpg/ro26.jpg",
+  "date": "Monday, May 06, 1974",
+  "location": null,
+  "city": "Genve",
+  "state": "Switzerland General",
+  "country": "Switzerland",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

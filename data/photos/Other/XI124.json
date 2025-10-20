@@ -1,0 +1,32 @@
+{
+  "id": "XI124",
+  "name": "Atop Mt Vesuvius",
+  "filename": "ro104",
+  "imageSrc": "/auntruth/jpg/ro104.jpg",
+  "date": "Friday, May 31, 1974",
+  "location": null,
+  "city": "Pompei",
+  "state": "Lazio",
+  "country": "Italy",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF178.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

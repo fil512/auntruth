@@ -1,0 +1,31 @@
+{
+  "id": "XI2254",
+  "name": "Basking in Sun",
+  "filename": "cd524",
+  "imageSrc": "/auntruth/jpg/cd524.jpg",
+  "date": "Sunday, July 06, 2003",
+  "location": "14 Cuthbertson",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Jan Stebbe-Ash-Gross [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF505.htm"
+    },
+    {
+      "name": "Anne Lewko-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF497.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

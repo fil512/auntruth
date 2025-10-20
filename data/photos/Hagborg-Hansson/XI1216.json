@@ -1,0 +1,27 @@
+{
+  "id": "XI1216",
+  "name": "In the Back Yard",
+  "filename": "sn709",
+  "imageSrc": "/auntruth/jpg/sn709.jpg",
+  "date": "Saturday, July 04, 1959",
+  "location": "915 Oakenwald Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF185.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Elinor Mae Hagborg-Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF180.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

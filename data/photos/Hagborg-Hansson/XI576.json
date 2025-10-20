@@ -1,0 +1,23 @@
+{
+  "id": "XI576",
+  "name": "Mixin' it Up",
+  "filename": "sn75",
+  "imageSrc": "/auntruth/jpg/sn75.jpg",
+  "date": "Saturday, June 01, 1985",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

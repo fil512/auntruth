@@ -1,0 +1,35 @@
+{
+  "id": "XI1802",
+  "name": "Quadruple Wedding",
+  "filename": "bg040",
+  "imageSrc": "/auntruth/jpg/bg040.jpg",
+  "date": "Tuesday, June 01, 1943",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Vilhelm (Bill) Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF405.htm"
+  },
+  "people": [
+    {
+      "name": "Frederic(Freddy Martin [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF693.htm"
+    },
+    {
+      "name": "Elizabeth (Bett Selch-Martin [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF692.htm"
+    },
+    {
+      "name": "Daniel Rosentreter [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF807.htm"
+    },
+    {
+      "name": "Lily Selch-Rosentreter [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF808.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

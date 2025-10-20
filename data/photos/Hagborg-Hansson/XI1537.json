@@ -1,0 +1,39 @@
+{
+  "id": "XI1537",
+  "name": "Grandchildren",
+  "filename": "bj81",
+  "imageSrc": "/auntruth/jpg/bj81.jpg",
+  "date": "Monday, July 05, 1976",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "Kenneth Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF546.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Deborah Selch-Johnson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF530.htm"
+    },
+    {
+      "name": "Leslie Selch-Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF528.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

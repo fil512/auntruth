@@ -1,0 +1,33 @@
+{
+  "id": "XI1920",
+  "name": "Family Room",
+  "filename": "cd241",
+  "imageSrc": "/auntruth/jpg/cd241.jpg",
+  "date": "Tuesday, December 24, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dominique Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF889.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Shannon Dorothy Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF536.htm"
+    }
+  ],
+  "nonFamily": [
+    "Naadha"
+  ],
+  "notes": null
+}

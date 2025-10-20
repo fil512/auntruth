@@ -1,0 +1,35 @@
+{
+  "id": "XI1407",
+  "name": "Wedding",
+  "filename": "sn900",
+  "imageSrc": "/auntruth/jpg/sn900.jpg",
+  "date": "Wednesday, December 28, 1932",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF167.htm"
+  },
+  "people": [
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    },
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    },
+    {
+      "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF173.htm"
+    },
+    {
+      "name": "Carl Gustav Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF174.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XI1617",
+  "name": "Hambley Family",
+  "filename": "mh6",
+  "imageSrc": "/auntruth/jpg/mh6.jpg",
+  "date": "Thursday, January 01, 1948",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF179.htm"
+  },
+  "people": [
+    {
+      "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF335.htm"
+    },
+    {
+      "name": "John(Jack) J. Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF326.htm"
+    },
+    {
+      "name": "Bruce Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF329.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Bryan Spencer Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF343.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

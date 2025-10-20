@@ -1,0 +1,47 @@
+{
+  "id": "XI726",
+  "name": "Cousins",
+  "filename": "sn213",
+  "imageSrc": "/auntruth/jpg/sn213.jpg",
+  "date": "Thursday, June 01, 1995",
+  "location": "Kitchen",
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dominique (Dom) Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF539.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Lindsey Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF531.htm"
+    },
+    {
+      "name": "Christopher Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF553.htm"
+    },
+    {
+      "name": "Brendan Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF529.htm"
+    },
+    {
+      "name": "Timothy Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF554.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XI1493",
+  "name": "Horsing Around",
+  "filename": "bj37",
+  "imageSrc": "/auntruth/jpg/bj37.jpg",
+  "date": "Thursday, August 31, 1939",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Betty Schreyer-Girvitz []",
+    "url": "/auntruth/new/htm/L0/XF396.htm"
+  },
+  "people": [
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Edward Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF398.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L0/XF384.htm"
+    },
+    {
+      "name": "Alex Girvitz []",
+      "url": "/auntruth/new/htm/L0/XF397.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

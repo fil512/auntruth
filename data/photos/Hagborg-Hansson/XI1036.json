@@ -1,0 +1,27 @@
+{
+  "id": "XI1036",
+  "name": "Robbie's 14th Birthday Party",
+  "filename": "sn530",
+  "imageSrc": "/auntruth/jpg/sn530.jpg",
+  "date": "Tuesday, March 01, 1977",
+  "location": "22 Morley Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Kenneth Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF546.htm"
+    },
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

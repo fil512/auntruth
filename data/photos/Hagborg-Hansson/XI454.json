@@ -1,0 +1,45 @@
+{
+  "id": "XI454",
+  "name": "Lindhardsens & Rick Mueller",
+  "filename": "bj10",
+  "imageSrc": "/auntruth/jpg/bj10.jpg",
+  "date": "Thursday, July 07, 1983",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Dana Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF547.htm"
+    },
+    {
+      "name": "Steen Otto Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF545.htm"
+    },
+    {
+      "name": "Svend Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF543.htm"
+    },
+    {
+      "name": "Grete -Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF544.htm"
+    }
+  ],
+  "nonFamily": [
+    "Rick Mueller"
+  ],
+  "notes": null
+}

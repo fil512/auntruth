@@ -1,0 +1,27 @@
+{
+  "id": "XI821",
+  "name": "Kitchen Men",
+  "filename": "sn309",
+  "imageSrc": "/auntruth/jpg/sn309.jpg",
+  "date": "Monday, July 01, 1985",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Robert Alan Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF186.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

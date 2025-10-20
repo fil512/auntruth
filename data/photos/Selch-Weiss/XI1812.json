@@ -1,0 +1,27 @@
+{
+  "id": "XI1812",
+  "name": "Engagement Announcement",
+  "filename": "bg050",
+  "imageSrc": "/auntruth/jpg/bg050.jpg",
+  "date": "Monday, July 01, 2002",
+  "location": null,
+  "city": "Minot",
+  "state": "North Dakota",
+  "country": "United States of America",
+  "photographer": {
+    "name": "Richard Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF418.htm"
+  },
+  "people": [
+    {
+      "name": "Derek Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1104.htm"
+    },
+    {
+      "name": "Heidi Brenden-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2904.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

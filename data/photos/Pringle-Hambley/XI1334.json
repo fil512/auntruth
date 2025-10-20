@@ -1,0 +1,33 @@
+{
+  "id": "XI1334",
+  "name": "Dinner",
+  "filename": "sn827",
+  "imageSrc": "/auntruth/jpg/sn827.jpg",
+  "date": "Thursday, August 01, 1985",
+  "location": "915 Oakenwald",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF179.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    }
+  ],
+  "nonFamily": [
+    "Agostino Chiaramonte",
+    "Heidi Ludwig-?-Chiaramonte-Bilodeau",
+    "Tatjana Chiaramonte",
+    "Barbara Tobin",
+    "Brian Tobin"
+  ],
+  "notes": null
+}

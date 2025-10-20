@@ -1,0 +1,28 @@
+{
+  "id": "XI1512",
+  "name": "School Picture Grade 8A",
+  "filename": "bj56",
+  "imageSrc": "/auntruth/jpg/bj56.jpg",
+  "date": "Thursday, May 31, 1962",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Dale DeMarco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF525.htm"
+    },
+    {
+      "name": "Janice (Jan) DeMarco-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF508.htm"
+    },
+    {
+      "name": "Brenda Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF431.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

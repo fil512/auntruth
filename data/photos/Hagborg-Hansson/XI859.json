@@ -1,0 +1,27 @@
+{
+  "id": "XI859",
+  "name": "Cousins",
+  "filename": "sn346",
+  "imageSrc": "/auntruth/jpg/sn346.jpg",
+  "date": "Monday, June 02, 1986",
+  "location": "915 Oakenwald",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Jessica Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF339.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

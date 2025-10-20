@@ -1,0 +1,23 @@
+{
+  "id": "XI953",
+  "name": "Hambley House",
+  "filename": "sn445",
+  "imageSrc": "/auntruth/jpg/sn445.jpg",
+  "date": "Wednesday, September 02, 1931",
+  "location": "Mulvey Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF179.htm"
+  },
+  "people": [
+    {
+      "name": "Bruce Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF329.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "XI1789",
+  "name": "Oma and Grandchildren",
+  "filename": "bg028",
+  "imageSrc": "/auntruth/jpg/bg028.jpg",
+  "date": "Sunday, July 30, 1950",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Albert Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF409.htm"
+  },
+  "people": [
+    {
+      "name": "Gilbert Albert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF411.htm"
+    },
+    {
+      "name": "Sharon Elaine Selch-Nicholson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1097.htm"
+    },
+    {
+      "name": "Linda Sss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF410.htm"
+    },
+    {
+      "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L0/XF384.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

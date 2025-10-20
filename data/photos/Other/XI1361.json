@@ -1,0 +1,36 @@
+{
+  "id": "XI1361",
+  "name": "Nils Persson Family Portrait in Sweden",
+  "filename": "sn854",
+  "imageSrc": "/auntruth/jpg/sn854.jpg",
+  "date": "Friday, December 05, 1890",
+  "location": null,
+  "city": null,
+  "state": "Sweden General",
+  "country": "Sweden",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Nils Persson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF1.htm"
+    },
+    {
+      "name": "Kristina Hansdotter-Persson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF2.htm"
+    },
+    {
+      "name": "Otto Ernest Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF15.htm"
+    },
+    {
+      "name": "Franz Erhard Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF8.htm"
+    },
+    {
+      "name": "Anna (Annie) Naomi Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF5.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

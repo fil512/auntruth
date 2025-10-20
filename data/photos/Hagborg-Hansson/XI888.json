@@ -1,0 +1,27 @@
+{
+  "id": "XI888",
+  "name": "In Livingroom",
+  "filename": "sn374",
+  "imageSrc": "/auntruth/jpg/sn374.jpg",
+  "date": "Monday, August 01, 1983",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

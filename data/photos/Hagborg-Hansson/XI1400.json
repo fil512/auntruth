@@ -1,0 +1,27 @@
+{
+  "id": "XI1400",
+  "name": "37th Anniversary",
+  "filename": "sn893",
+  "imageSrc": "/auntruth/jpg/sn893.jpg",
+  "date": "Saturday, September 14, 1929",
+  "location": "783 Bannatyne Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF173.htm"
+  },
+  "people": [
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    },
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

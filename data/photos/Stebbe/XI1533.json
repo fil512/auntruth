@@ -1,0 +1,37 @@
+{
+  "id": "XI1533",
+  "name": "On Baler",
+  "filename": "bj77",
+  "imageSrc": "/auntruth/jpg/bj77.jpg",
+  "date": "Saturday, June 01, 1957",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF399.htm"
+  },
+  "people": [
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Donna Selch-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF548.htm"
+    },
+    {
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm"
+    }
+  ],
+  "nonFamily": [
+    "Wilma McConachie"
+  ],
+  "notes": null
+}

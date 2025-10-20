@@ -1,0 +1,27 @@
+{
+  "id": "XI1873",
+  "name": "Cousins",
+  "filename": "hg01",
+  "imageSrc": "/auntruth/jpg/hg01.jpg",
+  "date": "Friday, February 01, 1963",
+  "location": "915 Oakenwald Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Ronald Carl Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF175.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

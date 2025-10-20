@@ -1,0 +1,31 @@
+{
+  "id": "XI2251",
+  "name": "Bay of Belles",
+  "filename": "II",
+  "imageSrc": "/auntruth/jpg/cd519.jpg",
+  "date": "Sunday, July 06, 2003",
+  "location": "14 Cuthbertson",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    },
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

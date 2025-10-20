@@ -1,0 +1,32 @@
+{
+  "id": "XI1279",
+  "name": "At Old House",
+  "filename": "KFMIS Trip to Nanaimo",
+  "imageSrc": "/auntruth/jpg/sn772.jpg",
+  "date": "Monday, August 30, 1976",
+  "location": "Comox",
+  "city": null,
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    },
+    {
+      "name": "Shannon Dorothy Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF536.htm"
+    },
+    {
+      "name": "Michael David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF533.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

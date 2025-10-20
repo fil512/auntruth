@@ -1,0 +1,36 @@
+{
+  "id": "XI1179",
+  "name": "Stevens Family",
+  "filename": "sn672",
+  "imageSrc": "/auntruth/jpg/sn672.jpg",
+  "date": "Tuesday, August 01, 1967",
+  "location": "Nohili",
+  "city": "Honolulu",
+  "state": "Hawaii",
+  "country": "United States of America",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Elinor Mae Hagborg-Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF180.htm"
+    },
+    {
+      "name": "Wendy Leilani Stevens-McCools [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF184.htm"
+    },
+    {
+      "name": "Ernest Donald Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF181.htm"
+    },
+    {
+      "name": "Cheryl Anne Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF183.htm"
+    },
+    {
+      "name": "Kenneth Harold Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF182.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

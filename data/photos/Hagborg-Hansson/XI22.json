@@ -1,0 +1,27 @@
+{
+  "id": "XI22",
+  "name": "Walkway in front of home",
+  "filename": "ro3",
+  "imageSrc": "/auntruth/jpg/ro3.jpg",
+  "date": "Wednesday, May 01, 1974",
+  "location": "Via Giorgio da Sebenico 9",
+  "city": "Roma",
+  "state": "Lazio",
+  "country": "Italy",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

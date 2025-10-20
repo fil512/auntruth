@@ -1,0 +1,36 @@
+{
+  "id": "XI1385",
+  "name": "Hagborg Family 1907",
+  "filename": "sn878",
+  "imageSrc": "/auntruth/jpg/sn878.jpg",
+  "date": "Sunday, December 01, 1907",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    },
+    {
+      "name": "Helmer Vilhelm Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF160.htm"
+    },
+    {
+      "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF167.htm"
+    },
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    },
+    {
+      "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF173.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

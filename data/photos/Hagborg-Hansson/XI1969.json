@@ -1,0 +1,27 @@
+{
+  "id": "XI1969",
+  "name": "Erik & Pam",
+  "filename": "dp014",
+  "imageSrc": "/auntruth/jpg/dp014.jpg",
+  "date": "Tuesday, December 25, 2001",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Erik Christian Robert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2319.htm"
+    },
+    {
+      "name": "Pamela Sharon Klappratt-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF556.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,25 @@
+{
+  "id": "XI319",
+  "name": "Still Pressing with Joe",
+  "filename": "mx4",
+  "imageSrc": "/auntruth/jpg/mx4.jpg",
+  "date": "Wednesday, October 01, 1980",
+  "location": "14 Canada Cresc",
+  "city": "Brandon",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [
+    "Joe Barcellona"
+  ],
+  "notes": null
+}

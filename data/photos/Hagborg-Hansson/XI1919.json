@@ -1,0 +1,29 @@
+{
+  "id": "XI1919",
+  "name": "Living Room",
+  "filename": "cd240",
+  "imageSrc": "/auntruth/jpg/cd240.jpg",
+  "date": "Tuesday, December 24, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lindsey Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF531.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [
+    "Jason Proulx"
+  ],
+  "notes": null
+}

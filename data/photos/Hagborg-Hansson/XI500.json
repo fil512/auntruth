@@ -1,0 +1,23 @@
+{
+  "id": "XI500",
+  "name": "In the BackYard",
+  "filename": "ow35",
+  "imageSrc": "/auntruth/jpg/ow35.jpg",
+  "date": "Friday, August 10, 1984",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

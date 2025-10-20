@@ -1,0 +1,31 @@
+{
+  "id": "XI1994",
+  "name": "Auntie Anne & Uncle Lawrence",
+  "filename": "dp039",
+  "imageSrc": "/auntruth/jpg/dp039.jpg",
+  "date": "Monday, March 01, 1999",
+  "location": null,
+  "city": "Victoria",
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Anne Lewko-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF497.htm"
+    },
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    },
+    {
+      "name": "Lawrence (Larry Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF496.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

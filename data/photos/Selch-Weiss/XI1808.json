@@ -1,0 +1,27 @@
+{
+  "id": "XI1808",
+  "name": "Fred & Ida",
+  "filename": "bg046",
+  "imageSrc": "/auntruth/jpg/bg046.jpg",
+  "date": "Sunday, December 01, 1946",
+  "location": null,
+  "city": "Wadena",
+  "state": "Saskatchewan",
+  "country": "Canada",
+  "photographer": {
+    "name": "August (Art) Arthur Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF442.htm"
+  },
+  "people": [
+    {
+      "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF413.htm"
+    },
+    {
+      "name": "Ida Young-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF414.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

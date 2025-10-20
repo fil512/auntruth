@@ -1,0 +1,35 @@
+{
+  "id": "XI2080",
+  "name": "Auntie Ruth 101st",
+  "filename": "cd338",
+  "imageSrc": "/auntruth/jpg/cd338.jpg",
+  "date": "Sunday, May 18, 2003",
+  "location": "22 St. Moritz",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF335.htm"
+    },
+    {
+      "name": "Janet Ruth Campbell-Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF337.htm"
+    },
+    {
+      "name": "John Bryan Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF347.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

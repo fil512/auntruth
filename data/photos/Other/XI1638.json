@@ -1,0 +1,47 @@
+{
+  "id": "XI1638",
+  "name": "Auntie Ruth 100th",
+  "filename": "ar12",
+  "imageSrc": "/auntruth/jpg/ar12.jpg",
+  "date": "Saturday, May 18, 2002",
+  "location": "77 University Crescent",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L0/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    },
+    {
+      "name": "Lisa Rowena Hambley-Byrnes-Burke [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF348.htm"
+    },
+    {
+      "name": "Elaine (Jo) Josefina Chantler-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF344.htm"
+    },
+    {
+      "name": "David J. Dewhurst [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1816.htm"
+    },
+    {
+      "name": "Patricia Marilyn Hambley-Leclair-Dewhurst [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF332.htm"
+    },
+    {
+      "name": "Ian Philip Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF342.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

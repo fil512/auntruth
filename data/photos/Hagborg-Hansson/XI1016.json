@@ -1,0 +1,27 @@
+{
+  "id": "XI1016",
+  "name": "Deep Discussion",
+  "filename": "sn509",
+  "imageSrc": "/auntruth/jpg/sn509.jpg",
+  "date": "Monday, October 01, 1979",
+  "location": "Armadale Hollows",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "Svend Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF543.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

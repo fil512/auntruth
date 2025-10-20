@@ -1,0 +1,35 @@
+{
+  "id": "XI488",
+  "name": "With the Muellers & Gagnons",
+  "filename": "ow23",
+  "imageSrc": "/auntruth/jpg/ow23.jpg",
+  "date": "Sunday, May 01, 1988",
+  "location": null,
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm"
+    },
+    {
+      "name": "Ron Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1088.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [
+    "Hari Mueller",
+    "Gerry Way-Mueller"
+  ],
+  "notes": null
+}

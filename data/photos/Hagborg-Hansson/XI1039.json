@@ -1,0 +1,27 @@
+{
+  "id": "XI1039",
+  "name": "Aunt & Niece",
+  "filename": "sn533",
+  "imageSrc": "/auntruth/jpg/sn533.jpg",
+  "date": "Thursday, September 30, 1976",
+  "location": "Armadale Hollows",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Edna Stebbe-Fedorco [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF486.htm"
+    },
+    {
+      "name": "Donna Selch-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF548.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

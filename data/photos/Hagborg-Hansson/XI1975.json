@@ -1,0 +1,31 @@
+{
+  "id": "XI1975",
+  "name": "Uncle Albert & Dad",
+  "filename": "dp020",
+  "imageSrc": "/auntruth/jpg/dp020.jpg",
+  "date": "Wednesday, August 01, 2001",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Albert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF409.htm"
+    },
+    {
+      "name": "Jeffrey Gilbert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1095.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

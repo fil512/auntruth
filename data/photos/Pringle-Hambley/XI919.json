@@ -1,0 +1,35 @@
+{
+  "id": "XI919",
+  "name": "Picnic",
+  "filename": "sn405",
+  "imageSrc": "/auntruth/jpg/sn405.jpg",
+  "date": "Friday, August 01, 1975",
+  "location": null,
+  "city": null,
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": {
+    "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF179.htm"
+  },
+  "people": [
+    {
+      "name": "Alex F. Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF188.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF178.htm"
+    },
+    {
+      "name": "Gowan Morison-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF187.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

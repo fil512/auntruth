@@ -1,0 +1,35 @@
+{
+  "id": "XI909",
+  "name": "At Uncle George's",
+  "filename": "sn395",
+  "imageSrc": "/auntruth/jpg/sn395.jpg",
+  "date": "Saturday, July 01, 1978",
+  "location": null,
+  "city": "Calgary",
+  "state": "Alberta",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Gregory Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF1126.htm"
+    },
+    {
+      "name": "Connie Trithart-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF489.htm"
+    },
+    {
+      "name": "George Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF488.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

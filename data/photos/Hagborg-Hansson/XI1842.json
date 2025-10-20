@@ -1,0 +1,27 @@
+{
+  "id": "XI1842",
+  "name": "Living Room",
+  "filename": "cd182",
+  "imageSrc": "/auntruth/jpg/cd182.jpg",
+  "date": "Saturday, November 30, 2002",
+  "location": "443 William Ave",
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Albert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF409.htm"
+    },
+    {
+      "name": "Gordon (Gordie) Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF550.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "XI986",
+  "name": "Wedding",
+  "filename": "sn479",
+  "imageSrc": "/auntruth/jpg/sn479.jpg",
+  "date": "Saturday, September 10, 1955",
+  "location": null,
+  "city": "Calgary",
+  "state": "Alberta",
+  "country": "Canada",
+  "photographer": {
+    "name": "Ira Howard Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF301.htm"
+  },
+  "people": [
+    {
+      "name": "Rose(Rosella) Ward-Pringle [Ward]",
+      "url": "/auntruth/new/htm/L5/XF285.htm"
+    },
+    {
+      "name": "Rita Comm-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF302.htm"
+    },
+    {
+      "name": "Helen Bosal-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF304.htm"
+    },
+    {
+      "name": "Jane MacGreer-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF311.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

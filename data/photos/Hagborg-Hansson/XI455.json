@@ -1,0 +1,27 @@
+{
+  "id": "XI455",
+  "name": "On the Trike",
+  "filename": "bj11",
+  "imageSrc": "/auntruth/jpg/bj11.jpg",
+  "date": "Thursday, July 07, 1983",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

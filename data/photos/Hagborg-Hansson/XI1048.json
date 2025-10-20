@@ -1,0 +1,29 @@
+{
+  "id": "XI1048",
+  "name": "Suzanne Peterson",
+  "filename": "sn542",
+  "imageSrc": "/auntruth/jpg/sn542.jpg",
+  "date": "Monday, August 30, 1976",
+  "location": "Dave & Lorraine's",
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    }
+  ],
+  "nonFamily": [
+    "Suzanne Peterson"
+  ],
+  "notes": null
+}

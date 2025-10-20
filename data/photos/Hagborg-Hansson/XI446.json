@@ -1,0 +1,31 @@
+{
+  "id": "XI446",
+  "name": "At Pam's Wedding",
+  "filename": "bj2",
+  "imageSrc": "/auntruth/jpg/bj2.jpg",
+  "date": "Saturday, July 07, 1990",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    },
+    {
+      "name": "Ronald (Ron) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF507.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

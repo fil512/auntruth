@@ -1,0 +1,35 @@
+{
+  "id": "XI991",
+  "name": "At Front Planter",
+  "filename": "sn484",
+  "imageSrc": "/auntruth/jpg/sn484.jpg",
+  "date": "Saturday, November 01, 1958",
+  "location": "915 Oakenwald",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Margaret Pringle-Palmquist [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF291.htm"
+    },
+    {
+      "name": "Ella Aiken-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF290.htm"
+    },
+    {
+      "name": "Ira Daniel Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF289.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

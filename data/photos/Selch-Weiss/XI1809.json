@@ -1,0 +1,27 @@
+{
+  "id": "XI1809",
+  "name": "Wedding Ida & Fred",
+  "filename": "bg047",
+  "imageSrc": "/auntruth/jpg/bg047.jpg",
+  "date": "Sunday, December 01, 1946",
+  "location": null,
+  "city": "Kelvington",
+  "state": "Saskatchewan",
+  "country": "Canada",
+  "photographer": {
+    "name": "Albert Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF409.htm"
+  },
+  "people": [
+    {
+      "name": "Ida Young-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF414.htm"
+    },
+    {
+      "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF413.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

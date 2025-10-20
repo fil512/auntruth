@@ -1,0 +1,29 @@
+{
+  "id": "XI1337",
+  "name": "In the Front Hallway",
+  "filename": "sn830",
+  "imageSrc": "/auntruth/jpg/sn830.jpg",
+  "date": "Monday, July 01, 1957",
+  "location": "915 Oakenwald Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Rose(Rosella) Ward-Pringle [Ward]",
+      "url": "/auntruth/new/htm/L5/XF285.htm"
+    }
+  ],
+  "nonFamily": [
+    "Myrtle Smith"
+  ],
+  "notes": null
+}

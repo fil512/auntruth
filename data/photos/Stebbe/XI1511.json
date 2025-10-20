@@ -1,0 +1,35 @@
+{
+  "id": "XI1511",
+  "name": "Toward the West",
+  "filename": "bj55",
+  "imageSrc": "/auntruth/jpg/bj55.jpg",
+  "date": "Sunday, July 01, 1951",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF399.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "Ronald (Ron) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF507.htm"
+    },
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "XI1574",
+  "name": "Family Picture 40th",
+  "filename": "bj118",
+  "imageSrc": "/auntruth/jpg/bj118.jpg",
+  "date": "Saturday, July 02, 1983",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dana Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF547.htm"
+    },
+    {
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm"
+    },
+    {
+      "name": "Leslie Selch-Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF528.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "Shannon Dorothy Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF536.htm"
+    },
+    {
+      "name": "Allan David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF534.htm"
+    },
+    {
+      "name": "Deborah Selch-Johnson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF530.htm"
+    },
+    {
+      "name": "Lindsey Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF531.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

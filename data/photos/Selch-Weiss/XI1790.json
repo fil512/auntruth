@@ -1,0 +1,39 @@
+{
+  "id": "XI1790",
+  "name": "In front of Red Barn",
+  "filename": "bg029",
+  "imageSrc": "/auntruth/jpg/bg029.jpg",
+  "date": "Wednesday, March 20, 1940",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Albert Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF409.htm"
+  },
+  "people": [
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    },
+    {
+      "name": "Thelma Selch-Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF420.htm"
+    },
+    {
+      "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L0/XF384.htm"
+    },
+    {
+      "name": "Hilda(Hulda?) Selch-Litke [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF402.htm"
+    },
+    {
+      "name": "Marlene Langner-Kiel [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF436.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XI1739",
+  "name": "1469 Wellington Crescent - Auntie Ruth & Uncle Jack's old home",
+  "filename": "cd128",
+  "imageSrc": "/auntruth/jpg/cd128.jpg",
+  "date": "Thursday, August 29, 2002",
+  "location": "1469 Wellington Crescent",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "John(Jack) J. Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF326.htm"
+    },
+    {
+      "name": "Bruce Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF329.htm"
+    },
+    {
+      "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF335.htm"
+    },
+    {
+      "name": "Bryan Spencer Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF343.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

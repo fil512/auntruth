@@ -1,0 +1,34 @@
+{
+  "id": "XI447",
+  "name": "Front Steps with Rick Mueller & Joyce Kamaraus-Mueller",
+  "filename": "bj3",
+  "imageSrc": "/auntruth/jpg/bj3.jpg",
+  "date": "Thursday, July 07, 1983",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm"
+    },
+    {
+      "name": "Dana Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF547.htm"
+    },
+    {
+      "name": "Steen Otto Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF545.htm"
+    }
+  ],
+  "nonFamily": [
+    "Rick Mueller",
+    "Joyce Kamaraus-Mueller"
+  ],
+  "notes": null
+}

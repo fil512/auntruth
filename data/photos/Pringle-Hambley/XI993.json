@@ -1,0 +1,43 @@
+{
+  "id": "XI993",
+  "name": "Visiting",
+  "filename": "sn487",
+  "imageSrc": "/auntruth/jpg/sn487.jpg",
+  "date": "Friday, December 20, 1985",
+  "location": "Out Merivale Rd",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Randy Smadella [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF341.htm"
+  },
+  "people": [
+    {
+      "name": "Gail Louise Campbell-Smadella-Sharland [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF340.htm"
+    },
+    {
+      "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF335.htm"
+    },
+    {
+      "name": "William Philip Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF336.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

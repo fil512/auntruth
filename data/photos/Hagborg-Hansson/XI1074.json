@@ -1,0 +1,34 @@
+{
+  "id": "XI1074",
+  "name": "At Dinner",
+  "filename": "sn569",
+  "imageSrc": "/auntruth/jpg/sn569.jpg",
+  "date": "Friday, July 25, 1975",
+  "location": "Via Giorgio da Sebenico 9",
+  "city": "Roma",
+  "state": "Lazio",
+  "country": "Italy",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    }
+  ],
+  "nonFamily": [
+    "Emygdio Cadima",
+    "Mila Cadima"
+  ],
+  "notes": null
+}

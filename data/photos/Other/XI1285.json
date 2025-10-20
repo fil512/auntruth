@@ -1,0 +1,24 @@
+{
+  "id": "XI1285",
+  "name": "Wedding Picture",
+  "filename": "sn778",
+  "imageSrc": "/auntruth/jpg/sn778.jpg",
+  "date": "Friday, November 04, 1932",
+  "location": null,
+  "city": "Toronto",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF178.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

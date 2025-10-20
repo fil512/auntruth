@@ -1,0 +1,26 @@
+{
+  "id": "XI811",
+  "name": "Tino & Heidi",
+  "filename": "sn299",
+  "imageSrc": "/auntruth/jpg/sn299.jpg",
+  "date": "Monday, August 01, 1988",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [
+    "Agostino Chiaramonte",
+    "Heidi Ludwig-?-Chiaramonte-Bilodeau"
+  ],
+  "notes": null
+}

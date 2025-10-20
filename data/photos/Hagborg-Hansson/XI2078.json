@@ -1,0 +1,39 @@
+{
+  "id": "XI2078",
+  "name": "At Janet & Darrells'",
+  "filename": "cd336",
+  "imageSrc": "/auntruth/jpg/cd336.jpg",
+  "date": "Sunday, May 18, 2003",
+  "location": "22 St. Moritz",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Bryan Spencer Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF343.htm"
+    },
+    {
+      "name": "Darrell Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF338.htm"
+    },
+    {
+      "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF335.htm"
+    },
+    {
+      "name": "Jillian Janet Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1227.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

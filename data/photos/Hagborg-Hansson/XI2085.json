@@ -1,0 +1,31 @@
+{
+  "id": "XI2085",
+  "name": "In Janet's Kitchen",
+  "filename": "cd343",
+  "imageSrc": "/auntruth/jpg/cd343.jpg",
+  "date": "Sunday, May 18, 2003",
+  "location": "22 St. Moritz",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF335.htm"
+    },
+    {
+      "name": "Jillian Janet Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1227.htm"
+    },
+    {
+      "name": "Fred Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1916.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

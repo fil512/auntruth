@@ -1,0 +1,27 @@
+{
+  "id": "XI2081",
+  "name": "Bryan & Darrell",
+  "filename": "cd339",
+  "imageSrc": "/auntruth/jpg/cd339.jpg",
+  "date": "Sunday, May 18, 2003",
+  "location": "22 St. Moritz",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Bryan Spencer Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF343.htm"
+    },
+    {
+      "name": "Darrell Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF338.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

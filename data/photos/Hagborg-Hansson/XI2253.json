@@ -1,0 +1,39 @@
+{
+  "id": "XI2253",
+  "name": "Siblings",
+  "filename": "cd522",
+  "imageSrc": "/auntruth/jpg/cd522.jpg",
+  "date": "Sunday, July 06, 2003",
+  "location": "14 Cuthbertson",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Anne Lewko-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF497.htm"
+    },
+    {
+      "name": "Lawrence (Larry Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF496.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "Michael David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF533.htm"
+    },
+    {
+      "name": "Wayne Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF503.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

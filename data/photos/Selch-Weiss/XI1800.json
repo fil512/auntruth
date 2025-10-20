@@ -1,0 +1,31 @@
+{
+  "id": "XI1800",
+  "name": "At Della & Eric's Wedding",
+  "filename": "bg038",
+  "imageSrc": "/auntruth/jpg/bg038.jpg",
+  "date": "Friday, September 01, 1950",
+  "location": "Zion Lutheran Church",
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Albert Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF409.htm"
+  },
+  "people": [
+    {
+      "name": "Adele (Della) Selch-Muth [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF438.htm"
+    },
+    {
+      "name": "Eric Muth [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF439.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

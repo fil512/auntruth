@@ -1,0 +1,35 @@
+{
+  "id": "XI1004",
+  "name": "Famiglia Parent in front of fireplace",
+  "filename": "sn497",
+  "imageSrc": "/auntruth/jpg/sn497.jpg",
+  "date": "Wednesday, September 01, 1982",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Joseph (Guy) Guy Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF538.htm"
+    },
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "Dominique (Dom) Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF539.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

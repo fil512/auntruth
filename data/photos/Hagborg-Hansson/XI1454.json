@@ -1,0 +1,51 @@
+{
+  "id": "XI1454",
+  "name": "More Picnic",
+  "filename": "sn947",
+  "imageSrc": "/auntruth/jpg/sn947.jpg",
+  "date": "Friday, July 01, 1932",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Fredrica Jane Englund-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF168.htm"
+    },
+    {
+      "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF167.htm"
+    },
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    },
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    },
+    {
+      "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF173.htm"
+    },
+    {
+      "name": "Carl Gustav Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF174.htm"
+    },
+    {
+      "name": "Agnes Oman-Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF828.htm"
+    },
+    {
+      "name": "Hilding Vilhelm Nelson [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF23.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

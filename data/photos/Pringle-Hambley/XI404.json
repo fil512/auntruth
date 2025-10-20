@@ -1,0 +1,27 @@
+{
+  "id": "XI404",
+  "name": "Site of Isaac Pringle house",
+  "filename": "ph58",
+  "imageSrc": "/auntruth/jpg/ph58.jpg",
+  "date": "Friday, June 04, 1915",
+  "location": null,
+  "city": "Johnstown",
+  "state": "Pennsylvania",
+  "country": "United States of America",
+  "photographer": {
+    "name": "Lucy Idella Pringle-Stage-Barkdall [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF300.htm"
+  },
+  "people": [
+    {
+      "name": "Isaac Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF255.htm"
+    },
+    {
+      "name": "Mary Alice Dunmire-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF257.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

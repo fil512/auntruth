@@ -1,0 +1,23 @@
+{
+  "id": "XI430",
+  "name": "Uncle Jerry Pringle's Plane",
+  "filename": "mx61",
+  "imageSrc": "/auntruth/jpg/mx61.jpg",
+  "date": "Wednesday, April 10, 1963",
+  "location": null,
+  "city": "Blakely Island",
+  "state": "Washington",
+  "country": "United States of America",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

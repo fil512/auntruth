@@ -1,0 +1,31 @@
+{
+  "id": "XI1815",
+  "name": "Derek 1 Year",
+  "filename": "bg053",
+  "imageSrc": "/auntruth/jpg/bg053.jpg",
+  "date": "Thursday, December 01, 1977",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Bruce Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF419.htm"
+  },
+  "people": [
+    {
+      "name": "Derek Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1104.htm"
+    },
+    {
+      "name": "Joan Selch-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF426.htm"
+    },
+    {
+      "name": "Richard Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF418.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

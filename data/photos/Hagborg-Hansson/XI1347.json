@@ -1,0 +1,31 @@
+{
+  "id": "XI1347",
+  "name": "At Uncle Helmer's",
+  "filename": "sn840",
+  "imageSrc": "/auntruth/jpg/sn840.jpg",
+  "date": "Monday, October 01, 1973",
+  "location": "Niagara Falls",
+  "city": null,
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "Helmer Vilhelm Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF160.htm"
+    },
+    {
+      "name": "Dorothy XX-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF159.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

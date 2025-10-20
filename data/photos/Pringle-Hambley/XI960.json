@@ -1,0 +1,27 @@
+{
+  "id": "XI960",
+  "name": "In the Park Smooching",
+  "filename": "sn452",
+  "imageSrc": "/auntruth/jpg/sn452.jpg",
+  "date": "Sunday, July 01, 1928",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF179.htm"
+  },
+  "people": [
+    {
+      "name": "Ira Howard Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF301.htm"
+    },
+    {
+      "name": "Rita Comm-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF302.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

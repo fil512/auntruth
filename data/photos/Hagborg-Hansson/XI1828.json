@@ -1,0 +1,35 @@
+{
+  "id": "XI1828",
+  "name": "Thanksgiving DiningRoom at Phoenix's",
+  "filename": "cd162",
+  "imageSrc": "/auntruth/jpg/cd162.jpg",
+  "date": "Sunday, October 13, 2002",
+  "location": "Nova Vista",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Michael David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF533.htm"
+    },
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    }
+  ],
+  "nonFamily": [
+    "Pat",
+    "Curtis",
+    "Vars Baclen"
+  ],
+  "notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "XI321",
+  "name": "Mitzi",
+  "filename": "mx6",
+  "imageSrc": "/auntruth/jpg/mx6.jpg",
+  "date": "Monday, September 01, 1980",
+  "location": "12 Canada Cresc",
+  "city": "Brandon",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

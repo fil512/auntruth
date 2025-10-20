@@ -1,0 +1,31 @@
+{
+  "id": "XI1507",
+  "name": "Front Yard",
+  "filename": "bj51",
+  "imageSrc": "/auntruth/jpg/bj51.jpg",
+  "date": "Saturday, July 01, 1950",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF399.htm"
+  },
+  "people": [
+    {
+      "name": "Jean Davidson-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF492.htm"
+    },
+    {
+      "name": "Sandra Stebbe-Ucci-Gibson [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF493.htm"
+    },
+    {
+      "name": "Ralph Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF491.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

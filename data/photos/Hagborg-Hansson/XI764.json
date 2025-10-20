@@ -1,0 +1,39 @@
+{
+  "id": "XI764",
+  "name": "At Great-Grandparents Hagborg Grave",
+  "filename": "sn251",
+  "imageSrc": "/auntruth/jpg/sn251.jpg",
+  "date": "Sunday, August 01, 1993",
+  "location": "Brookside Cemetery",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    },
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    },
+    {
+      "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF173.htm"
+    },
+    {
+      "name": "Carl Gustav Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF174.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

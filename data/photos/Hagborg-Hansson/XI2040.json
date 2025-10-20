@@ -1,0 +1,27 @@
+{
+  "id": "XI2040",
+  "name": "At the CopaCabana NightClub",
+  "filename": "emh001",
+  "imageSrc": "/auntruth/jpg/emh001.jpg",
+  "date": "Thursday, January 01, 1959",
+  "location": "Portage Avenue",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Elinor Mae Hagborg-Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF180.htm"
+    }
+  ],
+  "nonFamily": [
+    "Esther Magner",
+    "Tom Wolfe",
+    "Agnes Charette"
+  ],
+  "notes": null
+}

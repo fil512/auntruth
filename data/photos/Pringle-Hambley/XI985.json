@@ -1,0 +1,43 @@
+{
+  "id": "XI985",
+  "name": "Dinner at Palmquist Farm",
+  "filename": "sn475",
+  "imageSrc": "/auntruth/jpg/sn475.jpg",
+  "date": "Tuesday, November 01, 1955",
+  "location": "Dugald",
+  "city": null,
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Margaret Pringle-Palmquist [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF291.htm"
+  },
+  "people": [
+    {
+      "name": "Ruth-Ann Pringle-McVicar [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF296.htm"
+    },
+    {
+      "name": "Ruth Johnson-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF294.htm"
+    },
+    {
+      "name": "Walter Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF293.htm"
+    },
+    {
+      "name": "Ira Daniel Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF289.htm"
+    },
+    {
+      "name": "Ella Aiken-Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF290.htm"
+    },
+    {
+      "name": "James(Jimmy) Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF295.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "XI1417",
+  "name": "Formal Portrait",
+  "filename": "sn910",
+  "imageSrc": "/auntruth/jpg/sn910.jpg",
+  "date": "Tuesday, December 01, 1914",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF167.htm"
+    },
+    {
+      "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF173.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

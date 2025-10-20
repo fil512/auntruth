@@ -1,0 +1,27 @@
+{
+  "id": "XI34",
+  "name": "Lake Lausanne",
+  "filename": "ro14",
+  "imageSrc": "/auntruth/jpg/ro14.jpg",
+  "date": "Wednesday, May 22, 1974",
+  "location": null,
+  "city": "Lausanne",
+  "state": "Switzerland General",
+  "country": "Switzerland",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

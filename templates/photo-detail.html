@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ photo.name }} | Photo {{ photo.id }} | AuntieRuth.com</title>
+    <link href="/auntruth/new/css/main.css" rel="stylesheet" type="text/css">
+    <link href="/auntruth/new/css/navigation.css" rel="stylesheet">
+    <link href="/auntruth/new/css/photo-detail.css" rel="stylesheet">
+    <link rel="preload" href="/auntruth/new/js/navigation.js" as="script">
+    <link rel="preload" href="/auntruth/new/js/search.js" as="script">
+    <meta name="description" content="{{ photo.name }}{% if photo.date %} - {{ photo.date }}{% endif %}{% if photo.location %}, {{ photo.location }}{% endif %}">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="photo-detail-nav">
+        <div id="headlinks">
+            <a href="../">Home</a>
+            <a href="#" onclick="history.back(); return false;">Back to Gallery</a>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="photo-detail-header">
+        <h1>
+            <span class="photo-id">Photo {{ photo.id[2:] }}</span>
+            <br>
+            <span class="photo-name">{{ photo.name }}</span>
+        </h1>
+        {% if photo.date %}
+        <p class="photo-date">{{ photo.date }}</p>
+        {% endif %}
+    </header>
+
+    <!-- Photo Detail Content -->
+    <main class="photo-detail-container">
+        <!-- Main Photo -->
+        <div class="photo-display-card">
+            {% if photo.imageSrc %}
+            <img src="{{ photo.imageSrc }}" alt="{{ photo.name }}" class="photo-detail-image">
+            {% else %}
+            <div class="no-image-placeholder">
+                <span class="no-image-icon">📷</span>
+                <p>Image not available</p>
+                {% if photo.filename %}
+                <p class="filename-info">Expected: {{ photo.filename }}</p>
+                {% endif %}
+            </div>
+            {% endif %}
+        </div>
+
+        <!-- Photo Metadata -->
+        <div class="photo-metadata-card">
+            <h2>Photo Details</h2>
+
+            <dl class="metadata-list">
+                {% if photo.date %}
+                <div class="metadata-item">
+                    <dt>📅 Date:</dt>
+                    <dd>{{ photo.date }}</dd>
+                </div>
+                {% endif %}
+
+                {% if photo.location or photo.city or photo.state or photo.country %}
+                <div class="metadata-item">
+                    <dt>📍 Location:</dt>
+                    <dd>
+                        {% if photo.location %}{{ photo.location }}{% if photo.city or photo.state or photo.country %}, {% endif %}{% endif %}
+                        {% if photo.city %}{{ photo.city }}{% if photo.state or photo.country %}, {% endif %}{% endif %}
+                        {% if photo.state %}{{ photo.state }}{% if photo.country %}, {% endif %}{% endif %}
+                        {% if photo.country %}{{ photo.country }}{% endif %}
+                    </dd>
+                </div>
+                {% endif %}
+
+                {% if photo.photographer %}
+                <div class="metadata-item">
+                    <dt>📸 Photographer:</dt>
+                    <dd>
+                        {% if photo.photographer.url %}
+                        <a href="{{ photo.photographer.url }}" class="person-link">{{ photo.photographer.name }}</a>
+                        {% else %}
+                        {{ photo.photographer }}
+                        {% endif %}
+                    </dd>
+                </div>
+                {% endif %}
+
+                {% if photo.filename %}
+                <div class="metadata-item">
+                    <dt>🗂️ Filename:</dt>
+                    <dd class="filename">{{ photo.filename }}</dd>
+                </div>
+                {% endif %}
+            </dl>
+        </div>
+
+        <!-- People in Photo -->
+        {% if photo.people and photo.people|length > 0 %}
+        <div class="people-card">
+            <h2>People in This Photo</h2>
+            <ul class="people-list">
+                {% for person in photo.people %}
+                <li>
+                    {% if person.url %}
+                    <a href="{{ person.url }}" class="person-link">{{ person.name }}</a>
+                    {% else %}
+                    {{ person }}
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+        <!-- Non-Family Members -->
+        {% if photo.nonFamily and photo.nonFamily|length > 0 %}
+        <div class="non-family-card">
+            <h2>Also in This Photo</h2>
+            <ul class="people-list">
+                {% for person in photo.nonFamily %}
+                <li>
+                    {% if person.url %}
+                    <a href="{{ person.url }}" class="person-link">{{ person.name }}</a>
+                    {% else %}
+                    {{ person }}
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+        <!-- Notes -->
+        {% if photo.notes %}
+        <div class="notes-card">
+            <h2>Notes</h2>
+            <p class="photo-notes">{{ photo.notes }}</p>
+        </div>
+        {% endif %}
+    </main>
+
+    <!-- Footer -->
+    <footer class="photo-detail-footer">
+        <nav id="headlinks">
+            <a href="../">Home</a>
+            <a href="#" onclick="history.back(); return false;">Back to Gallery</a>
+        </nav>
+        <hr>
+        <div class="copyright">
+            <p>
+                <strong>WebPage Last Updated 2005-12-19T18:53:59Z</strong>
+            </p>
+            <p>
+                Copyright 2003-2025
+                <br>
+                <strong>
+                    <a href="http://www.hagborg.com">Hagborg Community Systems Ltd.</a>
+                </strong>
+                All Rights Reserved.
+            </p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="/auntruth/new/js/navigation.js" defer></script>
+    <script src="/auntruth/new/js/search.js" defer></script>
+</body>
+</html>

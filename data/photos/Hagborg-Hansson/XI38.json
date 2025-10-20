@@ -1,0 +1,27 @@
+{
+  "id": "XI38",
+  "name": "San Gothardo Train Ferry",
+  "filename": "ro18",
+  "imageSrc": "/auntruth/jpg/ro18.jpg",
+  "date": "Sunday, May 05, 1974",
+  "location": null,
+  "city": null,
+  "state": "Switzerland General",
+  "country": "Switzerland",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

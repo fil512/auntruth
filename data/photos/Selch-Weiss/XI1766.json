@@ -1,0 +1,31 @@
+{
+  "id": "XI1766",
+  "name": "With Freddy & Ida",
+  "filename": "bg005",
+  "imageSrc": "/auntruth/jpg/bg005.jpg",
+  "date": "Monday, December 01, 1947",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Albert Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF409.htm"
+  },
+  "people": [
+    {
+      "name": "Ida Young-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF414.htm"
+    },
+    {
+      "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF413.htm"
+    },
+    {
+      "name": "Linda Sss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF410.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

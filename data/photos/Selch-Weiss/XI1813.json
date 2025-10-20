@@ -1,0 +1,31 @@
+{
+  "id": "XI1813",
+  "name": "Beverley, Fred & Ida",
+  "filename": "bg051",
+  "imageSrc": "/auntruth/jpg/bg051.jpg",
+  "date": "Monday, July 01, 1968",
+  "location": null,
+  "city": "Kelvington",
+  "state": "Saskatchewan",
+  "country": "Canada",
+  "photographer": {
+    "name": "Richard Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF418.htm"
+  },
+  "people": [
+    {
+      "name": "Frederick (Freddy) Henry Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF413.htm"
+    },
+    {
+      "name": "Ida Young-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF414.htm"
+    },
+    {
+      "name": "Beverly Selch-Hemish [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF428.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

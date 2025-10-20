@@ -1,0 +1,39 @@
+{
+  "id": "XI1816",
+  "name": "Rick Selch Family",
+  "filename": "bg054",
+  "imageSrc": "/auntruth/jpg/bg054.jpg",
+  "date": "Wednesday, December 01, 1982",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Bruce Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF419.htm"
+  },
+  "people": [
+    {
+      "name": "Derek Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1104.htm"
+    },
+    {
+      "name": "Trevor Mark Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1105.htm"
+    },
+    {
+      "name": "Kevin Johnathan Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF427.htm"
+    },
+    {
+      "name": "Richard Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF418.htm"
+    },
+    {
+      "name": "Joan Selch-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF426.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XI1634",
+  "name": "Auntie Ruth 100th",
+  "filename": "ar8",
+  "imageSrc": "/auntruth/jpg/ar8.jpg",
+  "date": "Saturday, May 18, 2002",
+  "location": "77 University Crescent",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L0/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Arthur Royce Warman [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2458.htm"
+    },
+    {
+      "name": "John Bryan Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF347.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

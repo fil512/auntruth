@@ -1,0 +1,31 @@
+{
+  "id": "XI81",
+  "name": "Aboard Dover Ferry",
+  "filename": "ro61",
+  "imageSrc": "/auntruth/jpg/ro61.jpg",
+  "date": "Tuesday, May 14, 1974",
+  "location": null,
+  "city": null,
+  "state": "UK General",
+  "country": "United Kingdom",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

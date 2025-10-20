@@ -1,0 +1,35 @@
+{
+  "id": "XI1639",
+  "name": "Auntie Ruth 100th",
+  "filename": "ar13",
+  "imageSrc": "/auntruth/jpg/ar13.jpg",
+  "date": "Saturday, May 18, 2002",
+  "location": "77 University Crescent",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L0/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Kris Breckman [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF572.htm"
+    },
+    {
+      "name": "John Bryan Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF347.htm"
+    },
+    {
+      "name": "William Philip Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF336.htm"
+    },
+    {
+      "name": "Robert Burke [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF1814.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

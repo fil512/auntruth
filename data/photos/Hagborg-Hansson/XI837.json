@@ -1,0 +1,27 @@
+{
+  "id": "XI837",
+  "name": "Playing",
+  "filename": "sn325",
+  "imageSrc": "/auntruth/jpg/sn325.jpg",
+  "date": "Friday, March 20, 1987",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dana Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF547.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "XI1429",
+  "name": "In front",
+  "filename": "sn922",
+  "imageSrc": "/auntruth/jpg/sn922.jpg",
+  "date": "Wednesday, February 05, 1919",
+  "location": "783 Bannatyne Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF173.htm"
+  },
+  "people": [
+    {
+      "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF167.htm"
+    },
+    {
+      "name": "Borje Hansson(Hagborg) [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF4.htm"
+    },
+    {
+      "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF178.htm"
+    },
+    {
+      "name": "Karolina Nelson-Hansson(Hagborg) [Nelson]",
+      "url": "/auntruth/new/htm/L2/XF3.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

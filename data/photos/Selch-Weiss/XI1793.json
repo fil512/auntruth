@@ -1,0 +1,23 @@
+{
+  "id": "XI1793",
+  "name": "Oma",
+  "filename": "bg032",
+  "imageSrc": "/auntruth/jpg/bg032.jpg",
+  "date": "Tuesday, July 30, 1940",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Albert Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF409.htm"
+  },
+  "people": [
+    {
+      "name": "Amalia (Oma) Weiss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L0/XF384.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

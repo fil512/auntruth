@@ -1,0 +1,31 @@
+{
+  "id": "XI906",
+  "name": "LivingRoom",
+  "filename": "sn392",
+  "imageSrc": "/auntruth/jpg/sn392.jpg",
+  "date": "Saturday, July 01, 1978",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF537.htm"
+  },
+  "people": [
+    {
+      "name": "George Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF488.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,35 @@
+{
+  "id": "XI1624",
+  "name": "Pringle Men",
+  "filename": "mh13",
+  "imageSrc": "/auntruth/jpg/mh13.jpg",
+  "date": "Saturday, March 01, 1997",
+  "location": null,
+  "city": "Orlando",
+  "state": "Florida",
+  "country": "United States of America",
+  "photographer": {
+    "name": "Helen Bosal-Pringle [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF304.htm"
+  },
+  "people": [
+    {
+      "name": "Bruce Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF306.htm"
+    },
+    {
+      "name": "Keith Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF303.htm"
+    },
+    {
+      "name": "Howard(Howie) Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF305.htm"
+    },
+    {
+      "name": "Keith II Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2877.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

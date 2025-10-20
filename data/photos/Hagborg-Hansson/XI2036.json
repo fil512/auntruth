@@ -1,0 +1,27 @@
+{
+  "id": "XI2036",
+  "name": "Jan & Sandy",
+  "filename": "cd298",
+  "imageSrc": "/auntruth/jpg/cd298.jpg",
+  "date": "Saturday, February 01, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Janice (Jan) DeMarco-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF508.htm"
+    },
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

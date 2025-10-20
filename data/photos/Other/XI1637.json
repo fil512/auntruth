@@ -1,0 +1,27 @@
+{
+  "id": "XI1637",
+  "name": "Auntie Ruth 100th",
+  "filename": "ar11",
+  "imageSrc": "/auntruth/jpg/ar11.jpg",
+  "date": "Saturday, May 18, 2002",
+  "location": "77 University Crescent",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L0/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Grant Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF2532.htm"
+    },
+    {
+      "name": "Robert Alan Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF186.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

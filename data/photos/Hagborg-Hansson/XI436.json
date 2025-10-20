@@ -1,0 +1,23 @@
+{
+  "id": "XI436",
+  "name": "Some kind of bug?",
+  "filename": "mx67",
+  "imageSrc": "/auntruth/jpg/mx67.jpg",
+  "date": "Wednesday, July 01, 1964",
+  "location": "Pinehaven",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF178.htm"
+  },
+  "people": [
+    {
+      "name": "Kenneth Harold Stevens [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF182.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

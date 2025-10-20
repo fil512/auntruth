@@ -1,0 +1,31 @@
+{
+  "id": "XI1986",
+  "name": "Connie, Allison & Gramma",
+  "filename": "dp031",
+  "imageSrc": "/auntruth/jpg/dp031.jpg",
+  "date": "Wednesday, November 01, 2000",
+  "location": null,
+  "city": "Guelph",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Connie Selch-Vogel (Vogelgesang)-Lindhardsen-Smith [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF541.htm"
+    },
+    {
+      "name": "Allison Huntley-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1045.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

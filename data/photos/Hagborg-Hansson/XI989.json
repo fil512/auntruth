@@ -1,0 +1,35 @@
+{
+  "id": "XI989",
+  "name": "At Restaurant",
+  "filename": "sn482",
+  "imageSrc": "/auntruth/jpg/sn482.jpg",
+  "date": "Friday, September 03, 1982",
+  "location": "Wite Rock",
+  "city": "Vancouver",
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": {
+    "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF185.htm"
+  },
+  "people": [
+    {
+      "name": "Robert Alan Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF186.htm"
+    },
+    {
+      "name": "Maurice(Jerry) Ervin Pringle [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF309.htm"
+    },
+    {
+      "name": "Elaine (Jo) Josefina Chantler-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF344.htm"
+    },
+    {
+      "name": "Bryan Spencer Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF343.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

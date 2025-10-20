@@ -1,0 +1,31 @@
+{
+  "id": "XI818",
+  "name": "At Bryan & Colleen Fenske's",
+  "filename": "sn306",
+  "imageSrc": "/auntruth/jpg/sn306.jpg",
+  "date": "Sunday, July 10, 1988",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "Joseph (Guy) Guy Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF538.htm"
+    },
+    {
+      "name": "Wayne Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF503.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

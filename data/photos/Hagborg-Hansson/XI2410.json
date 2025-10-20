@@ -1,0 +1,23 @@
+{
+  "id": "XI2410",
+  "name": "Uncle Albin Tombstone",
+  "filename": "cd733",
+  "imageSrc": "/auntruth/jpg/cd733.jpg",
+  "date": "Monday, July 01, 1957",
+  "location": "Garry Memorial Park",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF167.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

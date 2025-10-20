@@ -1,0 +1,27 @@
+{
+  "id": "XI1860",
+  "name": "Gramma",
+  "filename": "cd201",
+  "imageSrc": "/auntruth/jpg/cd201.jpg",
+  "date": "Saturday, November 30, 2002",
+  "location": "443 William Ave",
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Janice (Jan) DeMarco-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF508.htm"
+    },
+    {
+      "name": "Chloe Abrie Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2715.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

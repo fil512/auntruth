@@ -1,0 +1,27 @@
+{
+  "id": "XI1041",
+  "name": "In Livingroom",
+  "filename": "sn535",
+  "imageSrc": "/auntruth/jpg/sn535.jpg",
+  "date": "Sunday, October 01, 1978",
+  "location": "Armadale Hollows",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Gordon (Gordie) Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF550.htm"
+    },
+    {
+      "name": "Donna Selch-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF548.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

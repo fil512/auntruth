@@ -1,0 +1,31 @@
+{
+  "id": "XI1861",
+  "name": "Bedroom",
+  "filename": "cd202",
+  "imageSrc": "/auntruth/jpg/cd202.jpg",
+  "date": "Saturday, November 30, 2002",
+  "location": "443 William Ave",
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Pamela Sharon Klappratt-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF556.htm"
+    },
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

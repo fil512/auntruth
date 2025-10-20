@@ -1,0 +1,23 @@
+{
+  "id": "XI326",
+  "name": "Backyard",
+  "filename": "mx11",
+  "imageSrc": "/auntruth/jpg/mx11.jpg",
+  "date": "Friday, August 01, 1980",
+  "location": "12 Canada Cresc",
+  "city": "Brandon",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

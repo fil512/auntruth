@@ -1,0 +1,31 @@
+{
+  "id": "XI910",
+  "name": "At Sandy & Dave's",
+  "filename": "sn396",
+  "imageSrc": "/auntruth/jpg/sn396.jpg",
+  "date": "Thursday, August 10, 1978",
+  "location": "Comox",
+  "city": null,
+  "state": "British Columbia",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Shannon Dorothy Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF536.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

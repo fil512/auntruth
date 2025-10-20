@@ -1,0 +1,25 @@
+{
+  "id": "XI2291",
+  "name": "Man And Dog",
+  "filename": "cd574",
+  "imageSrc": "/auntruth/jpg/cd574.jpg",
+  "date": "Saturday, August 02, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Michael David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF533.htm"
+    }
+  ],
+  "nonFamily": [
+    "Oreo"
+  ],
+  "notes": null
+}

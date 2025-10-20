@@ -1,0 +1,27 @@
+{
+  "id": "XI1976",
+  "name": "Brendan & Tina",
+  "filename": "dp021",
+  "imageSrc": "/auntruth/jpg/dp021.jpg",
+  "date": "Saturday, September 01, 2001",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Brendan Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF529.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "XI1875",
+  "name": "Dinner at 915 with Les's  Bert",
+  "filename": "hg03",
+  "imageSrc": "/auntruth/jpg/hg03.jpg",
+  "date": "Saturday, September 21, 1968",
+  "location": "915 Oakenwald Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Carl Gustav Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF174.htm"
+    },
+    {
+      "name": "Esther Marie Hagborg-Sahlgren [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF173.htm"
+    }
+  ],
+  "nonFamily": [
+    "Berthe Hilding"
+  ],
+  "notes": null
+}

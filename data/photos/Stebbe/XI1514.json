@@ -1,0 +1,35 @@
+{
+  "id": "XI1514",
+  "name": "Phoenixes",
+  "filename": "bj58",
+  "imageSrc": "/auntruth/jpg/bj58.jpg",
+  "date": "Monday, July 01, 1968",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+    "url": "/auntruth/new/htm/L7/XF399.htm"
+  },
+  "people": [
+    {
+      "name": "Allan David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF534.htm"
+    },
+    {
+      "name": "Michael David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF533.htm"
+    },
+    {
+      "name": "Sandra (Sandy) Noreen Selch-Phoenix [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF532.htm"
+    },
+    {
+      "name": "Sean Michael Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF535.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

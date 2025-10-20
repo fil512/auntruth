@@ -1,0 +1,31 @@
+{
+  "id": "XI2014",
+  "name": "In Kitchen",
+  "filename": "dp059",
+  "imageSrc": "/auntruth/jpg/dp059.jpg",
+  "date": "Tuesday, December 25, 2001",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Erik Christian Robert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2319.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Ronald (Ron) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF507.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "XI1616",
+  "name": "Hambley Family",
+  "filename": "mh5",
+  "imageSrc": "/auntruth/jpg/mh5.jpg",
+  "date": "Saturday, January 01, 1938",
+  "location": "1469 Wellington Crescent",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+    "url": "/auntruth/new/htm/L3/XF179.htm"
+  },
+  "people": [
+    {
+      "name": "Marion Hambley-Campbell [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF335.htm"
+    },
+    {
+      "name": "John(Jack) J. Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF326.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Bryan Spencer Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF343.htm"
+    },
+    {
+      "name": "Bruce Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF329.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

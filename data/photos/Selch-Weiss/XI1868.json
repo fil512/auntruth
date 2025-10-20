@@ -1,0 +1,31 @@
+{
+  "id": "XI1868",
+  "name": "Assembling with Dad",
+  "filename": "tg02",
+  "imageSrc": "/auntruth/jpg/tg02.jpg",
+  "date": "Thursday, December 25, 1980",
+  "location": null,
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF537.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Dominique (Dom) Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF539.htm"
+    },
+    {
+      "name": "Joseph (Guy) Guy Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF538.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

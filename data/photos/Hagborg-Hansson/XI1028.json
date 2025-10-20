@@ -1,0 +1,27 @@
+{
+  "id": "XI1028",
+  "name": "Out on the Estate",
+  "filename": "sn521",
+  "imageSrc": "/auntruth/jpg/sn521.jpg",
+  "date": "Wednesday, April 15, 1981",
+  "location": "12 Canada Cres",
+  "city": "Brampton",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

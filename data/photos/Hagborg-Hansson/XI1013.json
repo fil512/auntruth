@@ -1,0 +1,31 @@
+{
+  "id": "XI1013",
+  "name": "Skating St. Vital Park with Ngoc Yen, Ngoc Chanh & Phuoc Luong",
+  "filename": "sn506",
+  "imageSrc": "/auntruth/jpg/sn506.jpg",
+  "date": "Thursday, January 10, 1980",
+  "location": null,
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "Steen Otto Lindhardsen [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF545.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [
+    "Luong Ngoc Yen",
+    "Luong Ngoc Chan",
+    "Luong Phuoc"
+  ],
+  "notes": null
+}

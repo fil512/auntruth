@@ -1,0 +1,27 @@
+{
+  "id": "XI1522",
+  "name": "DiningRoom",
+  "filename": "bj66",
+  "imageSrc": "/auntruth/jpg/bj66.jpg",
+  "date": "Monday, September 01, 1969",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Janice (Jan) DeMarco-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF508.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

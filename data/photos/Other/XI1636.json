@@ -1,0 +1,34 @@
+{
+  "id": "XI1636",
+  "name": "Auntie Ruth 100th",
+  "filename": "ar10",
+  "imageSrc": "/auntruth/jpg/ar10.jpg",
+  "date": "Saturday, May 18, 2002",
+  "location": "77 University Crescent",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L0/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Bryan Spencer Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF343.htm"
+    },
+    {
+      "name": "John Bryan Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF347.htm"
+    }
+  ],
+  "nonFamily": [
+    "Nelda McKay",
+    "Cliff McKAy"
+  ],
+  "notes": null
+}

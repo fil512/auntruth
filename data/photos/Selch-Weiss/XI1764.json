@@ -1,0 +1,45 @@
+{
+  "id": "XI1764",
+  "name": "On Back Porch",
+  "filename": "bg003",
+  "imageSrc": "/auntruth/jpg/bg003.jpg",
+  "date": "Sunday, July 01, 1956",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Bonny Greifenberger-Selch [Selch-Weiss]",
+    "url": "/auntruth/new/htm/L6/XF412.htm"
+  },
+  "people": [
+    {
+      "name": "Brenda Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF431.htm"
+    },
+    {
+      "name": "Gilbert Albert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF411.htm"
+    },
+    {
+      "name": "Sharon Elaine Selch-Nicholson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1097.htm"
+    },
+    {
+      "name": "Clifford Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF433.htm"
+    },
+    {
+      "name": "Gerald Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF434.htm"
+    },
+    {
+      "name": "Diane Langner-Tyndall-Stevenson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF424.htm"
+    }
+  ],
+  "nonFamily": [
+    "Joan Dugas"
+  ],
+  "notes": null
+}

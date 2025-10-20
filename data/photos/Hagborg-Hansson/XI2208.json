@@ -1,0 +1,31 @@
+{
+  "id": "XI2208",
+  "name": "Auntie Ruth - Immersion",
+  "filename": "cd476",
+  "imageSrc": "/auntruth/jpg/cd476.jpg",
+  "date": "Monday, June 30, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF193.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

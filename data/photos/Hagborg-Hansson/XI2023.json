@@ -1,0 +1,39 @@
+{
+  "id": "XI2023",
+  "name": "Out for Pizza",
+  "filename": "cd284",
+  "imageSrc": "/auntruth/jpg/cd284.jpg",
+  "date": "Saturday, February 01, 2003",
+  "location": "Boston Pizza",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "Katrina Natalie Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF1027.htm"
+    },
+    {
+      "name": "Robert David Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF555.htm"
+    },
+    {
+      "name": "Erik Christian Robert Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2319.htm"
+    },
+    {
+      "name": "Pamela Sharon Klappratt-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF556.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

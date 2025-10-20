@@ -1,0 +1,39 @@
+{
+  "id": "XI1559",
+  "name": "40th Picnic Table",
+  "filename": "bj103",
+  "imageSrc": "/auntruth/jpg/bj103.jpg",
+  "date": "Monday, August 01, 1983",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Hermina(Minnie) Zieske-Zieske-Litke [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF404.htm"
+    },
+    {
+      "name": "Thelma Selch-Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF420.htm"
+    },
+    {
+      "name": "Reinhold(Roy) Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF421.htm"
+    },
+    {
+      "name": "Linda Sss-Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF410.htm"
+    },
+    {
+      "name": "Martha (Mardy) Lachman-Langner [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF423.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

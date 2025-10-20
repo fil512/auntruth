@@ -1,0 +1,27 @@
+{
+  "id": "XI2124",
+  "name": "Tea Grannies",
+  "filename": "cd382",
+  "imageSrc": "/auntruth/jpg/cd382.jpg",
+  "date": "Thursday, June 05, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Patricia Marilyn Hambley-Leclair-Dewhurst [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF332.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

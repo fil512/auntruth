@@ -1,0 +1,23 @@
+{
+  "id": "XI1010",
+  "name": "Huh?",
+  "filename": "sn503",
+  "imageSrc": "/auntruth/jpg/sn503.jpg",
+  "date": "Tuesday, August 01, 1978",
+  "location": "Willowdale",
+  "city": "Toronto",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Joyce Marion Hagborg-Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF185.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

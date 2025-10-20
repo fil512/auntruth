@@ -1,0 +1,23 @@
+{
+  "id": "XI746",
+  "name": "This is crazy!",
+  "filename": "sn233",
+  "imageSrc": "/auntruth/jpg/sn233.jpg",
+  "date": "Monday, August 01, 1994",
+  "location": null,
+  "city": "Rapid City",
+  "state": "South Dakota",
+  "country": "United States of America",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

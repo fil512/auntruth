@@ -1,0 +1,27 @@
+{
+  "id": "XI1903",
+  "name": "Corey & Debbie",
+  "filename": "cd223",
+  "imageSrc": "/auntruth/jpg/cd223.jpg",
+  "date": "Tuesday, December 24, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Corey Johnson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2563.htm"
+    },
+    {
+      "name": "Deborah Selch-Johnson [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF530.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

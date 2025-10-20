@@ -1,0 +1,31 @@
+{
+  "id": "XI1604",
+  "name": "Polka",
+  "filename": "bj125",
+  "imageSrc": "/auntruth/jpg/bj125.jpg",
+  "date": "Sunday, August 01, 1993",
+  "location": null,
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF192.htm"
+  },
+  "people": [
+    {
+      "name": "Eleanor Mae Selch-Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF537.htm"
+    },
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Connie Trithart-Stebbe [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF489.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

@@ -1,0 +1,27 @@
+{
+  "id": "XI1409",
+  "name": "Mom",
+  "filename": "sn902",
+  "imageSrc": "/auntruth/jpg/sn902.jpg",
+  "date": "Wednesday, November 01, 1944",
+  "location": "906 North Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Emil Albin Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF167.htm"
+  },
+  "people": [
+    {
+      "name": "Stanley Arnold Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF169.htm"
+    },
+    {
+      "name": "Fredrica Jane Englund-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF168.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

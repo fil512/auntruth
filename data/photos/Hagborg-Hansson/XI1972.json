@@ -1,0 +1,27 @@
+{
+  "id": "XI1972",
+  "name": "Gramma & Grampa",
+  "filename": "dp017",
+  "imageSrc": "/auntruth/jpg/dp017.jpg",
+  "date": "Tuesday, December 25, 2001",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "Michael David Phoenix [Phoenix-Rogerson]",
+    "url": "/auntruth/new/htm/L9/XF533.htm"
+  },
+  "people": [
+    {
+      "name": "Dorothy Emmelina Stebbe-Selch-Selch [Stebbe]",
+      "url": "/auntruth/new/htm/L7/XF399.htm"
+    },
+    {
+      "name": "August (Art) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF442.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

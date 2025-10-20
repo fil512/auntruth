@@ -1,0 +1,33 @@
+{
+  "id": "XI2168",
+  "name": "LivingRoom",
+  "filename": "cd428",
+  "imageSrc": "/auntruth/jpg/cd428.jpg",
+  "date": "Sunday, June 22, 2003",
+  "location": "170 Vista",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Dominique (Dom) Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF539.htm"
+    },
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Shannon Dorothy Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF536.htm"
+    }
+  ],
+  "nonFamily": [
+    "Lisa Greenwood"
+  ],
+  "notes": null
+}

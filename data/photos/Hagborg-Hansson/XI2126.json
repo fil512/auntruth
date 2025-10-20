@@ -1,0 +1,45 @@
+{
+  "id": "XI2126",
+  "name": "Auntie Ruth Dinner by Patti",
+  "filename": "cd384",
+  "imageSrc": "/auntruth/jpg/cd384.jpg",
+  "date": "Thursday, June 05, 2003",
+  "location": "100 Cornell Drive",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Janet Ruth Campbell-Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF337.htm"
+    },
+    {
+      "name": "Ruth Marie Pringle-Hambley [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF325.htm"
+    },
+    {
+      "name": "Sara Brandyn Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Darrell Newediuk [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF338.htm"
+    },
+    {
+      "name": "Patricia Marilyn Hambley-Leclair-Dewhurst [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF332.htm"
+    }
+  ],
+  "nonFamily": [
+    "Vars Bacler"
+  ],
+  "notes": null
+}

@@ -1,0 +1,33 @@
+{
+  "id": "XI2161",
+  "name": "Kitchen",
+  "filename": "cd421",
+  "imageSrc": "/auntruth/jpg/cd421.jpg",
+  "date": "Sunday, June 22, 2003",
+  "location": "170 Vista",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Leslie Selch-Falco [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF528.htm"
+    },
+    {
+      "name": "Dominique (Dom) Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF539.htm"
+    },
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    }
+  ],
+  "nonFamily": [
+    "Lisa Greenwood"
+  ],
+  "notes": null
+}

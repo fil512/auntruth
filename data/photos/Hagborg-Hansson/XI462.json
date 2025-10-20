@@ -1,0 +1,23 @@
+{
+  "id": "XI462",
+  "name": "Pizza",
+  "filename": "bj18",
+  "imageSrc": "/auntruth/jpg/bj18.jpg",
+  "date": "Monday, December 20, 1982",
+  "location": "1253 Meadowlands Dr",
+  "city": "Ottawa",
+  "state": "Ontario",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Ian David Hay [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF190.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

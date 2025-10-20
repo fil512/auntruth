@@ -1,0 +1,23 @@
+{
+  "id": "XI2379",
+  "name": "Habitat for Humanity",
+  "filename": "1st Year",
+  "imageSrc": "/auntruth/jpg/hab99.jpg",
+  "date": "Tuesday, June 01, 1999",
+  "location": "Valour Road",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

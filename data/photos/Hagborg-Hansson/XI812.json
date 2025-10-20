@@ -1,0 +1,27 @@
+{
+  "id": "XI812",
+  "name": "Canoeing",
+  "filename": "sn300",
+  "imageSrc": "/auntruth/jpg/sn300.jpg",
+  "date": "Monday, August 01, 1988",
+  "location": "Green Bay Resort",
+  "city": "Caddy Lake",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Krystyna Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF540.htm"
+    },
+    {
+      "name": "Joseph (Guy) Guy Parent [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF538.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

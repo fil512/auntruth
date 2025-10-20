@@ -1,0 +1,31 @@
+{
+  "id": "XI858",
+  "name": "Luongs and Bob & Irene Hedlin",
+  "filename": "sn345",
+  "imageSrc": "/auntruth/jpg/sn345.jpg",
+  "date": "Monday, June 02, 1986",
+  "location": "915 Oakenwald",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": null,
+  "people": [
+    {
+      "name": "David Walter Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF191.htm"
+    },
+    {
+      "name": "Lorraine Dorothy Selch-Hagborg [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF192.htm"
+    },
+    {
+      "name": "Mary Irene Pringle-Hagborg [Pringle-Hambley]",
+      "url": "/auntruth/new/htm/L3/XF179.htm"
+    }
+  ],
+  "nonFamily": [
+    "Bob Hedlin",
+    "Irene Hedlin"
+  ],
+  "notes": null
+}

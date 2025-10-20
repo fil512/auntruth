@@ -1,0 +1,31 @@
+{
+  "id": "XI1939",
+  "name": "Alison, Jean & Ron",
+  "filename": "cd260",
+  "imageSrc": "/auntruth/jpg/cd260.jpg",
+  "date": "Wednesday, December 25, 2002",
+  "location": "170 Vista Ave",
+  "city": "Winnipeg",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Alison Cunningham- [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2909.htm"
+    },
+    {
+      "name": "Jean Bush-Cunningham [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF2907.htm"
+    },
+    {
+      "name": "Ronald (Ron) Arthur Selch [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF507.htm"
+    }
+  ],
+  "nonFamily": [],
+  "notes": null
+}

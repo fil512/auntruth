@@ -1,0 +1,29 @@
+{
+  "id": "XI1843",
+  "name": "Kitchen",
+  "filename": "cd183",
+  "imageSrc": "/auntruth/jpg/cd183.jpg",
+  "date": "Saturday, November 30, 2002",
+  "location": "443 William Ave",
+  "city": "Beausejour",
+  "state": "Manitoba",
+  "country": "Canada",
+  "photographer": {
+    "name": "David Walter Hagborg [Hagborg-Hansson]",
+    "url": "/auntruth/new/htm/L1/XF191.htm"
+  },
+  "people": [
+    {
+      "name": "Donna Selch-Peluk [Selch-Weiss]",
+      "url": "/auntruth/new/htm/L6/XF548.htm"
+    },
+    {
+      "name": "Allan David Phoenix [Phoenix-Rogerson]",
+      "url": "/auntruth/new/htm/L9/XF534.htm"
+    }
+  ],
+  "nonFamily": [
+    "Ken Trapp"
+  ],
+  "notes": null
+}
