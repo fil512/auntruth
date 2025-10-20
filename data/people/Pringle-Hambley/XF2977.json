@@ -10,36 +10,36 @@
   "father": {
     "id": "XF1278",
     "name": "Charles Hambley [Pringle-Hambley]",
-    "url": "/auntruth/htm/L3/XF1278.htm"
+    "url": "/auntruth/new/htm/L3/XF1278.htm"
   },
   "mother": {
     "id": "XF1279",
     "name": "Suzannah Hambley-Hambley [Pringle-Hambley]",
-    "url": "/auntruth/htm/L3/XF1279.htm"
+    "url": "/auntruth/new/htm/L3/XF1279.htm"
   },
   "spouses": [
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],

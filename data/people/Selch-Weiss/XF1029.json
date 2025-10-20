@@ -10,36 +10,36 @@
   "father": {
     "id": "XF0",
     "name": "",
-    "url": "/auntruth/htm/L0/XF0.htm"
+    "url": "/auntruth/new/htm/L0/XF0.htm"
   },
   "mother": {
     "id": "XF0",
     "name": "",
-    "url": "/auntruth/htm/L0/XF0.htm"
+    "url": "/auntruth/new/htm/L0/XF0.htm"
   },
   "spouses": [
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],
@@ -47,13 +47,13 @@
     {
       "id": "XF394",
       "name": "John   Schreyer",
-      "url": "/auntruth/htm/L6/XF394.htm",
+      "url": "/auntruth/new/htm/L6/XF394.htm",
       "birthDate": null
     },
     {
       "id": "XF393",
       "name": "Jacob J. Schreyer",
-      "url": "/auntruth/htm/L6/XF393.htm",
+      "url": "/auntruth/new/htm/L6/XF393.htm",
       "birthDate": null
     }
   ],

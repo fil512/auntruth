@@ -10,36 +10,36 @@
   "father": {
     "id": "XF0",
     "name": "",
-    "url": "/auntruth/htm/L0/XF0.htm"
+    "url": "/auntruth/new/htm/L0/XF0.htm"
   },
   "mother": {
     "id": "XF0",
     "name": "",
-    "url": "/auntruth/htm/L0/XF0.htm"
+    "url": "/auntruth/new/htm/L0/XF0.htm"
   },
   "spouses": [
     {
       "id": "XF65",
       "name": "Johanna Wall-Hagborg(Hansson)-Carlson [Hagborg-Hansson]",
-      "url": "/auntruth/htm/L1/XF65.htm",
+      "url": "/auntruth/new/htm/L1/XF65.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],
@@ -47,31 +47,31 @@
     {
       "id": "XF736",
       "name": "Irene   Carlson",
-      "url": "/auntruth/htm/L1/XF736.htm",
+      "url": "/auntruth/new/htm/L1/XF736.htm",
       "birthDate": "06/03/1923"
     },
     {
       "id": "XF633",
       "name": "Edith(Ede)   Carlson",
-      "url": "/auntruth/htm/L1/XF633.htm",
+      "url": "/auntruth/new/htm/L1/XF633.htm",
       "birthDate": "04/20/1910"
     },
     {
       "id": "XF74",
       "name": "Arthur   Carlson",
-      "url": "/auntruth/htm/L1/XF74.htm",
+      "url": "/auntruth/new/htm/L1/XF74.htm",
       "birthDate": "06/20/1908"
     },
     {
       "id": "XF1272",
       "name": "Harold   Carlson",
-      "url": "/auntruth/htm/L1/XF1272.htm",
+      "url": "/auntruth/new/htm/L1/XF1272.htm",
       "birthDate": "01/01/1907"
     },
     {
       "id": "XF734",
       "name": "Doris   Carlson",
-      "url": "/auntruth/htm/L1/XF734.htm",
+      "url": "/auntruth/new/htm/L1/XF734.htm",
       "birthDate": null
     }
   ],

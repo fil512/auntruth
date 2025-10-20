@@ -10,36 +10,36 @@
   "father": {
     "id": "XF74",
     "name": "Arthur Carlson [Hagborg-Hansson]",
-    "url": "/auntruth/htm/L1/XF74.htm"
+    "url": "/auntruth/new/htm/L1/XF74.htm"
   },
   "mother": {
     "id": "XF75",
     "name": "Hilda -Carlson [Hagborg-Hansson]",
-    "url": "/auntruth/htm/L1/XF75.htm"
+    "url": "/auntruth/new/htm/L1/XF75.htm"
   },
   "spouses": [
     {
       "id": "XF1776",
       "name": "Andy Larkin []",
-      "url": "/auntruth/htm/L0/XF1776.htm",
+      "url": "/auntruth/new/htm/L0/XF1776.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],
@@ -47,13 +47,13 @@
     {
       "id": "XF1778",
       "name": "Jodi   Larkin",
-      "url": "/auntruth/htm/L0/XF1778.htm",
+      "url": "/auntruth/new/htm/L0/XF1778.htm",
       "birthDate": "01/24/1985"
     },
     {
       "id": "XF1777",
       "name": "Jill   Larkin",
-      "url": "/auntruth/htm/L0/XF1777.htm",
+      "url": "/auntruth/new/htm/L0/XF1777.htm",
       "birthDate": "04/01/1983"
     }
   ],

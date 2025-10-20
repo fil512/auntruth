@@ -10,36 +10,36 @@
   "father": {
     "id": "XF1029",
     "name": "Schreyer [Selch-Weiss]",
-    "url": "/auntruth/htm/L6/XF1029.htm"
+    "url": "/auntruth/new/htm/L6/XF1029.htm"
   },
   "mother": {
     "id": "XF0",
     "name": "",
-    "url": "/auntruth/htm/L0/XF0.htm"
+    "url": "/auntruth/new/htm/L0/XF0.htm"
   },
   "spouses": [
     {
       "id": "XF392",
       "name": "Florence Weiss [Selch-Weiss]",
-      "url": "/auntruth/htm/L6/XF392.htm",
+      "url": "/auntruth/new/htm/L6/XF392.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],
@@ -47,13 +47,13 @@
     {
       "id": "XF396",
       "name": "Betty   Schreyer",
-      "url": "/auntruth/htm/L6/XF396.htm",
+      "url": "/auntruth/new/htm/L6/XF396.htm",
       "birthDate": "10/01/1913"
     },
     {
       "id": "XF1832",
       "name": "Vicky   Schreyer",
-      "url": "/auntruth/htm/L6/XF1832.htm",
+      "url": "/auntruth/new/htm/L6/XF1832.htm",
       "birthDate": null
     }
   ],

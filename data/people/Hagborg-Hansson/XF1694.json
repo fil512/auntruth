@@ -10,36 +10,36 @@
   "father": {
     "id": "XF74",
     "name": "Arthur Carlson [Hagborg-Hansson]",
-    "url": "/auntruth/htm/L1/XF74.htm"
+    "url": "/auntruth/new/htm/L1/XF74.htm"
   },
   "mother": {
     "id": "XF75",
     "name": "Hilda -Carlson [Hagborg-Hansson]",
-    "url": "/auntruth/htm/L1/XF75.htm"
+    "url": "/auntruth/new/htm/L1/XF75.htm"
   },
   "spouses": [
     {
       "id": "XF1695",
       "name": "Rae -Carlson []",
-      "url": "/auntruth/htm/L0/XF1695.htm",
+      "url": "/auntruth/new/htm/L0/XF1695.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],
@@ -47,7 +47,7 @@
     {
       "id": "XF1696",
       "name": "Jonathan   Carlson",
-      "url": "/auntruth/htm/L1/XF1696.htm",
+      "url": "/auntruth/new/htm/L1/XF1696.htm",
       "birthDate": "02/21/1994"
     }
   ],

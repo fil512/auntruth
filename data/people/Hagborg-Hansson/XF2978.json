@@ -10,36 +10,36 @@
   "father": {
     "id": "XF182",
     "name": "Kenneth Harold Stevens [Hagborg-Hansson]",
-    "url": "/auntruth/htm/L1/XF182.htm"
+    "url": "/auntruth/new/htm/L1/XF182.htm"
   },
   "mother": {
     "id": "XF2235",
     "name": "Irina Visoiu-Stevens [Hagborg-Hansson]",
-    "url": "/auntruth/htm/L1/XF2235.htm"
+    "url": "/auntruth/new/htm/L1/XF2235.htm"
   },
   "spouses": [
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],

@@ -10,36 +10,36 @@
   "father": {
     "id": "XF1690",
     "name": "Douglas Carlson [Hagborg-Hansson]",
-    "url": "/auntruth/htm/L1/XF1690.htm"
+    "url": "/auntruth/new/htm/L1/XF1690.htm"
   },
   "mother": {
     "id": "XF1691",
     "name": "Blanche -Carlson []",
-    "url": "/auntruth/htm/L0/XF1691.htm"
+    "url": "/auntruth/new/htm/L0/XF1691.htm"
   },
   "spouses": [
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],

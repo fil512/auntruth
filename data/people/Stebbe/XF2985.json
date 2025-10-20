@@ -10,36 +10,36 @@
   "father": {
     "id": "XF0",
     "name": "",
-    "url": "/auntruth/htm/L0/XF0.htm"
+    "url": "/auntruth/new/htm/L0/XF0.htm"
   },
   "mother": {
     "id": "XF0",
     "name": "",
-    "url": "/auntruth/htm/L0/XF0.htm"
+    "url": "/auntruth/new/htm/L0/XF0.htm"
   },
   "spouses": [
     {
       "id": "XF2984",
       "name": "Carol Kubesh-Weselak [Stebbe]",
-      "url": "/auntruth/htm/L7/XF2984.htm",
+      "url": "/auntruth/new/htm/L7/XF2984.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],

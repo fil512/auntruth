@@ -796,53 +796,91 @@ hr[noshade] {
   }
 }
 /* Portrait and Gallery Link Styles */
-.person-portrait {
-    text-align: center;
+/* Two-column layout for photo and content on larger screens */
+.person-content-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
     margin: 2rem 0;
 }
 
+@media (min-width: 768px) {
+    .person-content-wrapper {
+        grid-template-columns: 300px 1fr;
+        gap: 2.5rem;
+    }
+}
+
+.person-portrait {
+    text-align: center;
+    margin: 0;
+}
+
 .portrait-image {
-    max-width: 400px;
+    max-width: 250px;
     width: 100%;
     height: auto;
     border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.portrait-image:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .gallery-link-section {
     text-align: center;
-    margin: 2rem 0;
+    margin: 1.5rem 0 0 0;
 }
 
+/* Updated gallery button to match site theme */
 .gallery-link-button {
     display: inline-block;
-    padding: 1rem 2rem;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 0.75rem 1.5rem;
+    background: #0066cc;
     color: white;
     text-decoration: none;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+    border-radius: 6px;
+    border: 2px solid #0066cc;
+    box-shadow: 0 2px 4px rgba(0, 102, 204, 0.2);
     transition: all 0.3s ease;
+    font-size: 0.9rem;
 }
 
 .gallery-link-button:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+    background: #0052a3;
+    border-color: #0052a3;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 102, 204, 0.3);
 }
 
 .gallery-link-button h2 {
     margin: 0;
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 600;
+}
+
+/* Ensure person sections are in the right column on desktop */
+@media (min-width: 768px) {
+    .person-portrait-sidebar {
+        display: flex;
+        flex-direction: column;
+    }
 }
 
 @media (max-width: 768px) {
     .portrait-image {
-        max-width: 300px;
+        max-width: 200px;
     }
-    
+
+    .gallery-link-button {
+        padding: 0.6rem 1.2rem;
+        font-size: 0.85rem;
+    }
+
     .gallery-link-button h2 {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 }
 

@@ -10,36 +10,36 @@
   "father": {
     "id": "XF0",
     "name": "",
-    "url": "/auntruth/htm/L0/XF0.htm"
+    "url": "/auntruth/new/htm/L0/XF0.htm"
   },
   "mother": {
     "id": "XF0",
     "name": "",
-    "url": "/auntruth/htm/L0/XF0.htm"
+    "url": "/auntruth/new/htm/L0/XF0.htm"
   },
   "spouses": [
     {
       "id": "XF2990",
       "name": "Ralph Percy [Hagborg-Hansson]",
-      "url": "/auntruth/htm/L1/XF2990.htm",
+      "url": "/auntruth/new/htm/L1/XF2990.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],
@@ -47,7 +47,7 @@
     {
       "id": "XF576",
       "name": "Reta   Percy",
-      "url": "/auntruth/htm/L1/XF576.htm",
+      "url": "/auntruth/new/htm/L1/XF576.htm",
       "birthDate": "07/09/1934"
     }
   ],

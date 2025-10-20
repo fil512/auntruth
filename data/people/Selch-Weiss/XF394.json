@@ -10,36 +10,36 @@
   "father": {
     "id": "XF1029",
     "name": "Schreyer [Selch-Weiss]",
-    "url": "/auntruth/htm/L6/XF1029.htm"
+    "url": "/auntruth/new/htm/L6/XF1029.htm"
   },
   "mother": {
     "id": "XF0",
     "name": "",
-    "url": "/auntruth/htm/L0/XF0.htm"
+    "url": "/auntruth/new/htm/L0/XF0.htm"
   },
   "spouses": [
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],
@@ -47,7 +47,7 @@
     {
       "id": "XF395",
       "name": "Edward   Schreyer",
-      "url": "/auntruth/htm/L6/XF395.htm",
+      "url": "/auntruth/new/htm/L6/XF395.htm",
       "birthDate": null
     }
   ],

@@ -10,36 +10,36 @@
   "father": {
     "id": "XF574",
     "name": "Victor Carlson [Hagborg-Hansson]",
-    "url": "/auntruth/htm/L1/XF574.htm"
+    "url": "/auntruth/new/htm/L1/XF574.htm"
   },
   "mother": {
     "id": "XF65",
     "name": "Johanna Wall-Hagborg(Hansson)-Carlson [Hagborg-Hansson]",
-    "url": "/auntruth/htm/L1/XF65.htm"
+    "url": "/auntruth/new/htm/L1/XF65.htm"
   },
   "spouses": [
     {
       "id": "XF737",
       "name": "Jim Rothwell []",
-      "url": "/auntruth/htm/L0/XF737.htm",
+      "url": "/auntruth/new/htm/L0/XF737.htm",
       "marriageDate": "Wednesday, January 01, 1947"
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],
@@ -47,43 +47,43 @@
     {
       "id": "XF1898",
       "name": "David   Rothwell",
-      "url": "/auntruth/htm/L0/XF1898.htm",
+      "url": "/auntruth/new/htm/L0/XF1898.htm",
       "birthDate": "03/05/1961"
     },
     {
       "id": "XF1895",
       "name": "Bruce   Rothwell",
-      "url": "/auntruth/htm/L0/XF1895.htm",
+      "url": "/auntruth/new/htm/L0/XF1895.htm",
       "birthDate": "12/27/1957"
     },
     {
       "id": "XF1807",
       "name": "Neil   Rothwell",
-      "url": "/auntruth/htm/L0/XF1807.htm",
+      "url": "/auntruth/new/htm/L0/XF1807.htm",
       "birthDate": "06/02/1956"
     },
     {
       "id": "XF1804",
       "name": "Brian   Rothwell",
-      "url": "/auntruth/htm/L0/XF1804.htm",
+      "url": "/auntruth/new/htm/L0/XF1804.htm",
       "birthDate": "12/26/1950"
     },
     {
       "id": "XF740",
       "name": "David   Rothwell",
-      "url": "/auntruth/htm/L1/XF740.htm",
+      "url": "/auntruth/new/htm/L1/XF740.htm",
       "birthDate": null
     },
     {
       "id": "XF739",
       "name": "Bruce   Rothwell",
-      "url": "/auntruth/htm/L1/XF739.htm",
+      "url": "/auntruth/new/htm/L1/XF739.htm",
       "birthDate": null
     },
     {
       "id": "XF738",
       "name": "Brian   Rothwell",
-      "url": "/auntruth/htm/L1/XF738.htm",
+      "url": "/auntruth/new/htm/L1/XF738.htm",
       "birthDate": null
     }
   ],

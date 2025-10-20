@@ -33,27 +33,29 @@ b.         Wednesday, January 01, 1964
         </span>
     </div>
 </header>
-<!-- Portrait Photo -->
+<!-- Two-column layout: Photo sidebar + Content -->
+<div class="person-content-wrapper">
+    <!-- Left Column: Portrait and Gallery Link -->
+    <div class="person-portrait-sidebar">
+        <!-- Portrait Photo -->
 
-<!-- Link to Photo Gallery -->
-<div class="gallery-link-section">
-    <a href="THF2987.htm" class="gallery-link-button">
-        <h2>View Photo Gallery (3 photos)</h2>
-    </a>
-</div>
+        <!-- Link to Photo Gallery -->
+        <div class="gallery-link-section">
+            <a href="THF2987.htm" class="gallery-link-button">
+                <h2>View Photo Gallery (3 photos)</h2>
+            </a>
+        </div>
+    </div>
 
-<!-- Person Information Sections -->
-<div class="person-sections">
+    <!-- Right Column: Person Information Sections -->
+    <div class="person-sections">
     <!-- Essential Information -->
-<section class="disclosure-section open">
-    <button class="disclosure-section-toggle"
-            aria-expanded="true"
-            aria-label="Toggle Essential Information">
+<details class="disclosure-section" open>
+    <summary class="disclosure-section-toggle">
         <span class="disclosure-icon">INFO</span>
         <span class="disclosure-title">Essential Information</span>
-        <span class="disclosure-toggle">▼</span>
-    </button>
-    <div class="disclosure-content" style="display: block">
+    </summary>
+    <div class="disclosure-content">
         
 <div class="essential-info">
     <dl class="data-list">
@@ -77,28 +79,25 @@ b.         Wednesday, January 01, 1964
     </dl>
 </div>
     </div>
-</section>
+</details>
 
     <!-- Family Relationships -->
-<section class="disclosure-section open">
-    <button class="disclosure-section-toggle"
-            aria-expanded="true"
-            aria-label="Toggle Family Relationships">
+<details class="disclosure-section" open>
+    <summary class="disclosure-section-toggle">
         <span class="disclosure-icon">FAMILY</span>
         <span class="disclosure-title">Family Relationships</span>
-        <span class="disclosure-toggle">▼</span>
-    </button>
-    <div class="disclosure-content" style="display: block">
+    </summary>
+    <div class="disclosure-content">
         
 <div class="family-relationships">
     <div class="parents-section">
         <h4>Parents</h4>
         <ul class="family-list">
-            <li><strong>Father:</strong>         <a href="/auntruth/htm/L1/XF2988.htm" class="person-link">
+            <li><strong>Father:</strong>         <a href="/auntruth/new/htm/L1/XF2988.htm" class="person-link">
             <strong>Burrows [Hagborg-Hansson]</strong>
         </a>
 </li>
-            <li><strong>Mother:</strong>         <a href="/auntruth/htm/L0/XF0.htm" class="person-link">
+            <li><strong>Mother:</strong>         <a href="/auntruth/new/htm/L0/XF0.htm" class="person-link">
             <strong></strong>
         </a>
 </li>
@@ -109,26 +108,26 @@ b.         Wednesday, January 01, 1964
         <h4>Spouses</h4>
         <ul class="family-list">
             <li>
-                        <a href="/auntruth/htm/L1/XF193.htm" class="person-link">
+                        <a href="/auntruth/new/htm/L1/XF193.htm" class="person-link">
             <strong>Sara Brandyn Hagborg-Burrows [Hagborg-Hansson]</strong>
         </a>
 
  (m.         Sunday, May 01, 2005
 )            </li>
             <li>
-                        <a href="/auntruth/htm/L0/XF0.htm" class="person-link">
+                        <a href="/auntruth/new/htm/L0/XF0.htm" class="person-link">
             <strong></strong>
         </a>
 
             </li>
             <li>
-                        <a href="/auntruth/htm/L0/XF0.htm" class="person-link">
+                        <a href="/auntruth/new/htm/L0/XF0.htm" class="person-link">
             <strong></strong>
         </a>
 
             </li>
             <li>
-                        <a href="/auntruth/htm/L0/XF0.htm" class="person-link">
+                        <a href="/auntruth/new/htm/L0/XF0.htm" class="person-link">
             <strong></strong>
         </a>
 
@@ -137,18 +136,15 @@ b.         Wednesday, January 01, 1964
     </div>
 </div>
     </div>
-</section>
+</details>
 
     <!-- Biographical Details -->
-<section class="disclosure-section ">
-    <button class="disclosure-section-toggle"
-            aria-expanded="false"
-            aria-label="Toggle Biographical Details">
+<details class="disclosure-section" >
+    <summary class="disclosure-section-toggle">
         <span class="disclosure-icon">BIO</span>
         <span class="disclosure-title">Biographical Details</span>
-        <span class="disclosure-toggle">▶</span>
-    </button>
-    <div class="disclosure-content" style="display: none">
+    </summary>
+    <div class="disclosure-content">
         <div class="biographical-details">
     <dl class="data-list">
 
@@ -171,9 +167,10 @@ b.         Wednesday, January 01, 1964
     </dl>
 </div>
     </div>
-</section>
+</details>
 
     <!-- Research & Sources -->
+    </div>
 </div>
 
 <!-- Children Section (if any) -->
@@ -201,7 +198,7 @@ b.         Wednesday, January 01, 1964
     <script src="/auntruth/new/js/search.js" defer></script>
 
     <!-- Phase 3 Integration -->
-    <script type="module" src="/auntruth/new/js/phase3-integration.js?v=20250927f"></script>
+    <script type="module" src="/auntruth/new/js/phase3-integration.js?v=20251020f"></script>
 
 </body>
 </html>

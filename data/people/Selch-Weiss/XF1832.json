@@ -10,36 +10,36 @@
   "father": {
     "id": "XF393",
     "name": "Jacob J. Schreyer [Selch-Weiss]",
-    "url": "/auntruth/htm/L6/XF393.htm"
+    "url": "/auntruth/new/htm/L6/XF393.htm"
   },
   "mother": {
     "id": "XF392",
     "name": "Florence Weiss [Selch-Weiss]",
-    "url": "/auntruth/htm/L6/XF392.htm"
+    "url": "/auntruth/new/htm/L6/XF392.htm"
   },
   "spouses": [
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],

@@ -49,7 +49,23 @@ class InformationDisclosureComponent extends BaseComponent {
 
   async render() {
     try {
-      // Find existing table structure
+      // Check if disclosure sections already exist (new template-based pages)
+      const existingDisclosures = this.$$('.disclosure-section');
+
+      if (existingDisclosures && existingDisclosures.length > 0) {
+        console.log('Found existing disclosure sections from template');
+
+        // Also check for children table with fallback attribute and show it
+        const childrenTable = this.$('table[data-disclosure-fallback="true"]');
+        if (childrenTable) {
+          childrenTable.style.display = '';
+          childrenTable.removeAttribute('data-disclosure-fallback');
+        }
+        // Don't call attachEventListeners() here - init() will call it after render() returns
+        return;
+      }
+
+      // Find existing table structure (legacy pages)
       this.originalTable = this.$('table#List') || this.$('table[id*="List"]') || this.$('table');
 
       if (!this.originalTable) {
@@ -81,10 +97,27 @@ class InformationDisclosureComponent extends BaseComponent {
   }
 
   attachEventListeners() {
+    console.log('[DEBUG] attachEventListeners called, finding buttons...');
+    console.log('[DEBUG] this.$$ is:', typeof this.$$);
+    console.log('[DEBUG] this.handleSectionToggle is:', typeof this.handleSectionToggle);
+
     // Section toggle handlers
     const toggleButtons = this.$$('.disclosure-section-toggle');
-    toggleButtons.forEach(button => {
-      button.addEventListener('click', this.handleSectionToggle.bind(this));
+    console.log(`[DEBUG] Found ${toggleButtons.length} disclosure toggle buttons`);
+    console.log('[DEBUG] toggleButtons array:', toggleButtons);
+
+    toggleButtons.forEach((button, index) => {
+      const title = button.querySelector('.disclosure-title')?.textContent;
+      console.log(`[DEBUG] Attaching listener ${index} to: ${title}`);
+
+      try {
+        const boundHandler = this.handleSectionToggle.bind(this);
+        console.log(`[DEBUG] Bound handler type:`, typeof boundHandler);
+        button.addEventListener('click', boundHandler);
+        console.log(`[DEBUG] Successfully attached listener to ${title}`);
+      } catch (error) {
+        console.error(`[DEBUG] Error attaching listener to ${title}:`, error);
+      }
     });
 
     // Show/hide original table toggle
@@ -385,27 +418,58 @@ class InformationDisclosureComponent extends BaseComponent {
   }
 
   handleSectionToggle(event) {
-    const button = event.currentTarget;
-    const section = button.closest('.disclosure-section');
-    const content = section.querySelector('.disclosure-section-content');
-    const arrow = button.querySelector('.toggle-arrow');
+    console.log('[DEBUG] handleSectionToggle called!!! Event:', event);
+    console.log('[DEBUG] event.currentTarget:', event.currentTarget);
+    console.log('[DEBUG] this:', this);
 
-    const isOpen = content.hidden;
+    const button = event.currentTarget;
+    console.log('[DEBUG] button:', button);
+    const section = button.closest('.disclosure-section');
+    console.log('[DEBUG] section:', section);
+
+    // Support both old new class names
+    const content = section.querySelector('.disclosure-section-content') || section.querySelector('.disclosure-content');
+    const arrow = button.querySelector('.toggle-arrow') || button.querySelector('.disclosure-toggle');
+
+    if (!content) {
+      console.warn('No content element found for disclosure section');
+      return;
+    }
+
+    // Determine current state - check both hidden attribute and display style
+    let isCurrentlyOpen = false;
+    if (content.hasAttribute('hidden')) {
+      isCurrentlyOpen = !content.hidden;
+    } else {
+      isCurrentlyOpen = content.style.display !== 'none';
+    }
 
     // Toggle visibility
-    content.hidden = !isOpen;
-    button.setAttribute('aria-expanded', isOpen.toString());
-    arrow.textContent = isOpen ? '▼' : '▶';
-    arrow.classList.toggle('open', isOpen);
+    if (content.hasAttribute('hidden')) {
+      content.hidden = isCurrentlyOpen;
+    } else {
+      content.style.display = isCurrentlyOpen ? 'none' : 'block';
+    }
+
+    const newState = !isCurrentlyOpen;
+    button.setAttribute('aria-expanded', newState.toString());
+
+    if (arrow) {
+      arrow.textContent = newState ? '▼' : '▶';
+      arrow.classList.toggle('open', newState);
+    }
+
+    // Toggle open class on section
+    section.classList.toggle('open', newState);
 
     // Save preference
     const sectionKey = section.dataset.section;
-    this.userPreferences[sectionKey] = isOpen;
+    this.userPreferences[sectionKey] = newState;
     this.saveUserPreferences();
 
     // Dispatch event
     document.dispatchEvent(new CustomEvent('disclosure-section-toggled', {
-      detail: { section: sectionKey, isOpen }
+      detail: { section: sectionKey, isOpen: newState }
     }));
   }
 

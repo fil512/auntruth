@@ -4,11 +4,11 @@
  * Manages cross-component communication and advanced features
  */
 
-import RelationshipNavigatorComponent from './components/relationship-navigator.js';
-import TimelineComponent from './components/timeline.js';
-import InformationDisclosureComponent from './components/information-disclosure.js';
-import urlRouter from './utils/url-router.js';
-import DataManager from './core/data-manager.js';
+import RelationshipNavigatorComponent from './components/relationship-navigator.js?v=20251020f';
+import TimelineComponent from './components/timeline.js?v=20251020f';
+import InformationDisclosureComponent from './components/information-disclosure.js?v=20251020f';
+import urlRouter from './utils/url-router.js?v=20251020f';
+import DataManager from './core/data-manager.js?v=20251020f';
 
 class Phase3Integration {
   constructor() {

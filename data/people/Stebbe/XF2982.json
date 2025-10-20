@@ -10,36 +10,36 @@
   "father": {
     "id": "XF2979",
     "name": "Ralph Kubesh [Stebbe]",
-    "url": "/auntruth/htm/L7/XF2979.htm"
+    "url": "/auntruth/new/htm/L7/XF2979.htm"
   },
   "mother": {
     "id": "XF2980",
     "name": "Lillian X-Kubesh [Stebbe]",
-    "url": "/auntruth/htm/L7/XF2980.htm"
+    "url": "/auntruth/new/htm/L7/XF2980.htm"
   },
   "spouses": [
     {
       "id": "XF2983",
       "name": "Mary X-Kubesh [Stebbe]",
-      "url": "/auntruth/htm/L7/XF2983.htm",
+      "url": "/auntruth/new/htm/L7/XF2983.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     },
     {
       "id": "XF0",
       "name": "",
-      "url": "/auntruth/htm/L0/XF0.htm",
+      "url": "/auntruth/new/htm/L0/XF0.htm",
       "marriageDate": null
     }
   ],

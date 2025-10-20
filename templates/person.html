@@ -9,24 +9,29 @@
 <!-- Page Header -->
 {% include "components/person-header.html" %}
 
-<!-- Portrait Photo -->
-{% if person.portrait %}
-<div class="person-portrait">
-    <img src="{{ person.portrait }}" alt="Portrait of {{ person.name }}" class="portrait-image">
-</div>
-{% endif %}
+<!-- Two-column layout: Photo sidebar + Content -->
+<div class="person-content-wrapper">
+    <!-- Left Column: Portrait and Gallery Link -->
+    <div class="person-portrait-sidebar">
+        <!-- Portrait Photo -->
+        {% if person.portrait %}
+        <div class="person-portrait">
+            <img src="{{ person.portrait }}" alt="Portrait of {{ person.name }}" class="portrait-image">
+        </div>
+        {% endif %}
 
-<!-- Link to Photo Gallery -->
-{% if person.photos %}
-<div class="gallery-link-section">
-    <a href="THF{{ person.id[2:] }}.htm" class="gallery-link-button">
-        <h2>View Photo Gallery ({{ person.photos|length }} photos)</h2>
-    </a>
-</div>
-{% endif %}
+        <!-- Link to Photo Gallery -->
+        {% if person.photos %}
+        <div class="gallery-link-section">
+            <a href="THF{{ person.id[2:] }}.htm" class="gallery-link-button">
+                <h2>View Photo Gallery ({{ person.photos|length }} photos)</h2>
+            </a>
+        </div>
+        {% endif %}
+    </div>
 
-<!-- Person Information Sections -->
-<div class="person-sections">
+    <!-- Right Column: Person Information Sections -->
+    <div class="person-sections">
     <!-- Essential Information -->
     {% if person.birthDate or person.birthLocation or person.deathDate or person.deathLocation or person.deceased %}
     {% call section_card("Essential Information", "INFO", open=true) %}
@@ -54,6 +59,7 @@
         {% include "components/research-section.html" %}
     {% endcall %}
     {% endif %}
+    </div>
 </div>
 
 <!-- Children Section (if any) -->
