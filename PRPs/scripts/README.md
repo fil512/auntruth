@@ -256,6 +256,18 @@ These scripts work exclusively with the `docs/new` directory:
 ## Multi-Directory Scripts (`both/`)
 These scripts can work with either directory or provide options for both:
 
+### both/cleanup_orphaned_l0_files.py
+**Purpose:** Remove orphaned HTML files from docs/new/htm/L0/ that don't have corresponding JSON sources
+**Usage:** `python3 both/cleanup_orphaned_l0_files.py [--dry-run|--delete]`
+**Features:**
+- Identifies person files (XF*.htm) in L0 that don't match Other lineage JSON data
+- Validates against data/people/Other/ JSON source files
+- Removes duplicates that belong to other lineages (Hagborg-Hansson, Selch-Weiss, Nelson, etc.)
+- Dry-run mode shows what would be deleted without making changes
+- Preserves legitimate Other lineage files (73 files)
+- Successfully cleaned up 10 orphaned files including 830KB duplicate of XF191
+- Safe deletion with file size reporting for review
+
 ### both/normalize-file-extensions.py
 **Purpose:** Normalize all file extensions to lowercase across the entire site
 **Usage:** `python3 both/normalize-file-extensions.py [--target-dir docs] [--dry-run] [--files-only] [--refs-only] [--limit N]`
