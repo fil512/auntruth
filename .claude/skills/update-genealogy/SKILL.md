@@ -58,13 +58,18 @@ For every update request, follow these steps:
      python3 PRPs/scripts/both/validate_json_data.py --input data/people/{lineage}/{person_id}.json
      Fix any validation errors before proceeding
 
-☐ 6. COMMIT
+☐ 6. COMMIT JSON DATA ONLY
      git add data/people/{lineage}/*.json
      git commit -m "Update XF###: [description]"
+     git push
+
+     IMPORTANT: Do NOT regenerate HTML pages manually!
+     GitHub Actions will automatically regenerate ALL HTML pages on push.
 
 ☐ 7. REPORT
      Show summary: files changed, validation status
-     Remind: GitHub Actions will auto-regenerate HTML pages
+     Explain: GitHub Actions will auto-regenerate HTML pages within 3-5 minutes
+     Tell user to wait for the automated workflow to complete before checking the live site
 ```
 
 ## Common Update Patterns
@@ -212,10 +217,16 @@ If updates fail:
 4. Re-run validation
 5. If still failing, use `git checkout` to revert (NO .backup files)
 
-## Post-Update
+## Post-Update - Automated Workflow
 
-After successful commit:
-- GitHub Actions automatically validates all data
-- CI regenerates affected HTML pages (3-4 min)
-- Pages deploy to production automatically
-- User does NOT need to manually regenerate pages
+After successful `git push`:
+1. GitHub Actions workflow triggers automatically
+2. Validates all JSON data (30 seconds)
+3. Regenerates ALL 3,004 HTML pages from JSON (2-3 minutes)
+4. Auto-commits regenerated HTML back to repo
+5. Deploys to GitHub Pages (1-2 minutes)
+
+**Total time**: 3-5 minutes from push to live site update
+
+**IMPORTANT**: User does NOT need to manually regenerate HTML pages!
+The workflow handles everything automatically.
