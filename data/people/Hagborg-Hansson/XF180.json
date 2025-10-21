@@ -4,9 +4,9 @@
   "lineage": "Hagborg-Hansson",
   "birthDate": "Tuesday, April 17, 1934",
   "birthLocation": "Winnipeg MB   CAN",
-  "deathDate": null,
+  "deathDate": "2024-03-31",
   "deathLocation": null,
-  "deceased": "No",
+  "deceased": true,
   "father": {
     "id": "XF178",
     "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
@@ -445,7 +445,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2005-12-19T18:53:57Z",
+    "lastUpdated": "2025-10-21T12:41:37Z",
     "originalHtmlPath": "docs/new/htm/L1/XF180.htm",
     "extractionDate": "2025-10-01T22:03:04.528599Z"
   },
