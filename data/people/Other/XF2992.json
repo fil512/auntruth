@@ -1,0 +1,37 @@
+{
+  "id": "XF2992",
+  "name": "Robert Hopkins Newton",
+  "lineage": "Other",
+  "birthDate": null,
+  "birthLocation": null,
+  "deathDate": null,
+  "deathLocation": null,
+  "deceased": false,
+  "father": null,
+  "mother": null,
+  "spouses": [
+    {
+      "id": "XF193",
+      "name": "Sara Brandyn Hagborg Newton [Hagborg-Hansson]",
+      "url": "/auntruth/new/htm/L1/XF193.htm",
+      "marriageDate": "2024-08-05"
+    }
+  ],
+  "children": [],
+  "occupation": null,
+  "address": "2022 Argyle Ave, Los Angeles, CA 90068",
+  "email": null,
+  "phone": null,
+  "website": null,
+  "languages": [],
+  "causeOfDeath": null,
+  "genetics": null,
+  "notes": null,
+  "photos": [],
+  "photographedBy": [],
+  "metadata": {
+    "lastUpdated": "2025-10-21T12:02:39Z",
+    "originalHtmlPath": null,
+    "extractionDate": null
+  }
+}
