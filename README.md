@@ -1,15 +1,20 @@
 # AuntieRuth.com - Genealogy Website
 
-Family history website spanning 16th Century Denmark to 2003 Canada, with 2,985+ family members across 10 lineages and 11,069 pages.
+Family history website spanning 16th Century Denmark to 2025 Canada, with 3,004 family members across 10 lineages and 11,516 fully modernized pages.
 
 ## Project Overview
 
 This repository contains the modernized genealogy website for AuntieRuth.com, featuring:
 
-- **2,985+ Family Members** across 10 family lineages
-- **11,069 Pages** with auto-generated content from structured JSON data
+- **3,004 Family Members** across 10 family lineages
+- **11,516 Pages** with auto-generated content from structured JSON data
+  - 3,004 person pages (XF*.htm)
+  - 2,762 photo detail pages (XI*.htm)
+  - 4,276 photo gallery pages (TH*.htm)
+  - 1,474 other pages (indices, lineage pages, etc.)
 - **Phase 3 Advanced Features** including relationship navigator, timeline visualization, and modern URL routing
-- **Full CI/CD Pipeline** with GitLab for automated page generation and deployment
+- **Full CI/CD Pipeline** with GitHub Actions for automated page generation and deployment
+- **Claude Code Skill** for safe genealogy data updates with validation
 - **16th-21st Century Coverage** from Denmark to Canada
 
 ## Quick Start
@@ -97,14 +102,22 @@ auntruth/
 ### Making Changes
 
 **To update a person's information:**
+
+**Option 1: Use Claude Code Skill (Recommended)**
+```
+/skill update-genealogy
+```
+Provides guided updates with automatic validation and bidirectional relationship consistency.
+
+**Option 2: Manual Update**
 1. Edit JSON file: `data/people/{lineage}/{person_id}.json`
 2. Validate: `python3 PRPs/scripts/both/validate_json_data.py --input ...`
-3. Commit to git - CI regenerates page automatically
+3. Commit to git - GitHub Actions regenerates ALL pages automatically
 
 **To change page design:**
-1. Edit template: `templates/person.html`
+1. Edit template: `templates/person.html` (or other templates)
 2. Test locally: `python3 PRPs/scripts/both/generate_pages.py ...`
-3. Commit to git - CI regenerates ALL pages
+3. Commit to git - GitHub Actions regenerates ALL pages automatically
 
 See `CLAUDE.md` for detailed instructions.
 
@@ -155,13 +168,49 @@ See `PRPs/scripts/README.md` for complete script documentation.
 
 ## CI/CD Pipeline
 
-Automated via GitLab CI with 4 stages:
-1. **validate** - JSON data and template syntax
-2. **generate** - All 3,004 HTML pages (3-4 min)
-3. **test** - HTML5 compliance and data integrity
-4. **deploy** - Production deployment (manual approval)
+Automated via GitHub Actions (`.github/workflows/build-and-deploy.yml`):
 
-Nightly rebuilds at 2 AM for continuous validation.
+**Build Job:**
+1. **Setup** - Node.js 18 + Python 3.11
+2. **Regenerate HTML** - Auto-generate all 3,004 person pages from JSON
+3. **Auto-commit** - Commit regenerated HTML back to repo ([skip ci])
+4. **Build Assets** - Create data chunks and search indices
+5. **Test & Validate** - HTML5 compliance and data integrity
+6. **Upload** - Prepare artifacts for deployment
+
+**Deploy Job:**
+- **Deploy to GitHub Pages** - Automatic deployment on main branch
+- **Live URL**: https://fil512.github.io/auntruth/
+
+**Deployment time**: 3-5 minutes from push to live site.
+
+## Recent Enhancements (October 2025)
+
+### Photo Pages Modernization
+- **2,762 Photo Detail Pages (XI*.htm)** - Complete redesign with high-res display, zoom, metadata preservation
+- **4,276 Photo Gallery Pages (TH*.htm)** - Location/theme galleries with responsive grids and lazy loading
+- **Template Integration** - All photo pages now use Jinja2 templates for consistency
+- **Mobile Optimization** - Touch-friendly image viewing and responsive layouts
+- **SEO & Accessibility** - Proper meta tags, alt text, ARIA labels, structured data
+
+### Claude Code Skill
+- **Genealogy Update Skill** - Safe data updates with automatic validation
+- **Bidirectional Consistency** - Maintains relationship integrity across all records
+- **GitHub Actions Integration** - Auto-regenerates pages after updates
+- **Complete Documentation** - Workflow guides in `.claude/skills/update-genealogy/`
+
+### CI/CD Migration
+- **GitHub Actions** - Migrated from GitLab to GitHub Actions
+- **Auto-regeneration** - Person pages automatically regenerated on every data commit
+- **Auto-commit** - Regenerated HTML committed back to repo with [skip ci]
+- **GitHub Pages** - Automatic deployment to https://fil512.github.io/auntruth/
+
+### Bug Fixes & Improvements
+- **Search Functionality** - Fixed search modal visibility and window sizing
+- **Person Pages** - Restored portrait photos, fixed disclosure widgets, corrected URL paths
+- **Navigation** - Fixed URL routing without navigation regression
+- **Home Page** - Prevented search modal from auto-opening on page load
+- **Photo Links** - Separated gallery links, fixed missing photo detail pages
 
 ## Phase 3 Features (Available but Not Activated)
 
@@ -197,13 +246,18 @@ See `docs/RUNBOOK.md` for complete emergency procedures.
 
 ## Statistics
 
-- **Pages:** 11,069 total (3,004 auto-generated)
-- **People:** 2,985+ family members
+- **Pages:** 11,516 total (all auto-generated)
+  - 3,004 person pages (XF*.htm)
+  - 2,762 photo detail pages (XI*.htm)
+  - 4,276 photo gallery pages (TH*.htm)
+  - 1,474 other pages (indices, lineage pages, etc.)
+- **People:** 3,004 family members
 - **Lineages:** 10 family lines
-- **Time Span:** 16th Century Denmark → 2003 Canada
+- **Time Span:** 16th Century Denmark → 2025 Canada
 - **Extraction Success:** 99.3% (3,004/3,025 files)
 - **Validation Success:** 98.7% (2,966/3,004 files)
-- **Generation Time:** 3-4 minutes for all pages
+- **CI/CD Platform:** GitHub Actions with auto-deployment
+- **Generation Time:** 2-3 minutes for person pages, 3-5 minutes total deployment
 
 ## License
 

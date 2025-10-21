@@ -230,18 +230,44 @@ To activate Phase 3 features on any HTML page:
 5. **Complete relationship finder modal** implementation (optional enhancement)
 - You can curl the contents of the docs folder at the endpoint localhost:8000/auntruth/. You never need to run a server; this server is always running. If you need to see the server code, it is in PRPs/server
 
+## Claude Code Skill: Genealogy Data Updates
+
+**A specialized Claude Code skill is available for safely updating genealogy data.**
+
+### Using the Genealogy Update Skill
+
+When you need to update genealogy data (birth/death dates, marriages, children, contact info), invoke the skill:
+
+```
+/skill update-genealogy
+```
+
+The skill provides:
+- **Safe updates** with automatic validation
+- **Bidirectional consistency** for relationships (spouse/parent/child)
+- **Automated workflow** integration with GitHub Actions
+- **Complete documentation** in `.claude/skills/update-genealogy/`
+
+**Key Features:**
+- Updates 3,004 people across 10 lineages
+- Validates schema compliance before commit
+- Auto-regenerates HTML pages via GitHub Actions
+- Maintains relationship integrity across all affected records
+
+See `.claude/skills/update-genealogy/SKILL.md` for complete documentation.
+
 ## Page Generation System - PRODUCTION (Phase 3 Complete)
 
-**Phase 3 of the page generation system is now COMPLETE and IN PRODUCTION** (October 2025). The system auto-generates all 3,004+ genealogy person pages from structured JSON data using Jinja2 templates.
+**Phase 3 of the page generation system is now COMPLETE and IN PRODUCTION** (October 2025). The system auto-generates all 11,516 genealogy pages from structured JSON data using Jinja2 templates.
 
 ### System Overview
 
-**Pages are now auto-generated from data + templates via GitLab CI/CD.**
+**Pages are now auto-generated from data + templates via GitHub Actions CI/CD.**
 
 ```
-JSON Data (3,004 files) + Jinja2 Templates → Generated HTML (3,004 pages)
+JSON Data (3,004 files) + Jinja2 Templates → Generated HTML (11,516 pages)
          ↓                                           ↓
-   Git Commit                                  GitLab CI Pipeline
+   Git Commit                                GitHub Actions Pipeline
          ↓                                           ↓
    Validation                                  Auto-deployment
 ```
@@ -250,11 +276,15 @@ JSON Data (3,004 files) + Jinja2 Templates → Generated HTML (3,004 pages)
 
 - **📁 10 Lineages**: All family lineages extracted and automated
 - **👥 3,004 People**: JSON records for entire genealogy database
-- **📄 3,004 Pages**: Automatically generated HTML pages
+- **📄 11,516 Total Pages**: Fully modernized and auto-generated
+  - 3,004 person pages (XF*.htm)
+  - 2,762 photo detail pages (XI*.htm)
+  - 4,276 photo gallery pages (TH*.htm)
+  - 1,474 other pages (indices, lineage pages, etc.)
 - **✅ 99.3% Extraction Success**: 21 files failed due to missing source data (incomplete HTML)
 - **✅ 98.7% Validation Success**: 38 files with schema issues (missing names in source)
-- **🚀 Automated CI/CD**: Full pipeline with validation, generation, testing, deployment
-- **⏱️ 3-4 Min Generation**: All 3,004 pages generated in single CI run
+- **🚀 Automated CI/CD**: GitHub Actions with validation, generation, testing, deployment
+- **⏱️ 2-3 Min Generation**: All person pages regenerated in single CI run
 
 ### Directory Structure
 
@@ -277,17 +307,21 @@ templates/                      # Jinja2 templates
   ├── components/              # Reusable components (header, family, etc.)
   └── macros/                  # Template macros (links, dates, cards)
 
-docs/new/htm/L0-L9/            # AUTO-GENERATED HTML (DO NOT EDIT MANUALLY!)
-  ├── L0/  (Other)
-  ├── L1/  (Hagborg-Hansson)
-  ├── L2/  (Nelson)
-  ├── L3/  (Pringle-Hambley)
-  ├── L4/  (Lathrop-Lothropp)
-  ├── L5/  (Ward)
-  ├── L6/  (Selch-Weiss)
-  ├── L7/  (Stebbe)
-  ├── L8/  (Lentz)
-  └── L9/  (Phoenix-Rogerson)
+docs/new/htm/                  # AUTO-GENERATED HTML (DO NOT EDIT MANUALLY!)
+  ├── L0-L9/                   # Person pages by lineage (3,004 pages)
+  │   ├── L0/  (Other - 72 people)
+  │   ├── L1/  (Hagborg-Hansson - 404 people)
+  │   ├── L2/  (Nelson - 308 people)
+  │   ├── L3/  (Pringle-Hambley - 409 people)
+  │   ├── L4/  (Lathrop-Lothropp - 686 people)
+  │   ├── L5/  (Ward - 123 people)
+  │   ├── L6/  (Selch-Weiss - 384 people)
+  │   ├── L7/  (Stebbe - 153 people)
+  │   ├── L8/  (Lentz - 77 people)
+  │   └── L9/  (Phoenix-Rogerson - 388 people)
+  ├── XI*.htm                  # Photo detail pages (2,762 pages)
+  ├── TH*.htm                  # Photo gallery pages (4,276 pages)
+  └── Other indices and pages  # Lineage indices, search, etc.
 ```
 
 ### ⚠️ CRITICAL: Never Manually Edit Generated HTML
@@ -305,14 +339,16 @@ docs/new/htm/L0-L9/            # AUTO-GENERATED HTML (DO NOT EDIT MANUALLY!)
 1. Edit JSON file: `data/people/{lineage}/{person_id}.json`
 2. Validate locally: `python3 PRPs/scripts/both/validate_json_data.py --input data/people/{lineage}/{person_id}.json`
 3. Commit to git: `git add . && git commit -m "Update person data" && git push`
-4. GitLab CI automatically validates, generates page, and deploys
+4. GitHub Actions automatically validates, regenerates ALL pages, and deploys
+
+**Better yet**: Use the Claude Code skill `/skill update-genealogy` for guided updates with automatic validation!
 
 #### To Change Page Design/Layout
 
 1. Edit template: `templates/person.html` (or components/macros)
 2. Test locally: `python3 PRPs/scripts/both/generate_pages.py --lineage Hagborg-Hansson --input-dir data/people/Hagborg-Hansson --output-dir test-output`
 3. Commit to git: `git add . && git commit -m "Update page design" && git push`
-4. GitLab CI automatically regenerates ALL 3,004 pages with new design
+4. GitHub Actions automatically regenerates ALL 3,004 person pages with new design
 
 #### To Add a New Person
 
@@ -334,17 +370,29 @@ docs/new/htm/L0-L9/            # AUTO-GENERATED HTML (DO NOT EDIT MANUALLY!)
 - `PRPs/scripts/both/validate_json_data.py` - Validate JSON schema compliance
 - `PRPs/scripts/both/validate_all_lineages.py` - Validate all 10 lineages
 
-### GitLab CI/CD Pipeline
+### GitHub Actions CI/CD Pipeline
 
-**Configured in `.gitlab-ci.yml`** with 4 stages:
+**Configured in `.github/workflows/build-and-deploy.yml`** with automated deployment:
 
-1. **validate** - Validate JSON data and template syntax
-2. **generate** - Generate all 3,004 HTML pages (3-4 minutes)
-3. **test** - Validate HTML5 compliance and data integrity
-4. **deploy** - Deploy to production (manual trigger required)
+**Build Job:**
+1. **Checkout** - Pull latest code from repository
+2. **Setup** - Configure Node.js 18 and Python 3.11
+3. **Regenerate HTML** - Auto-generate all 3,004 person pages from JSON
+4. **Auto-commit** - Commit regenerated HTML back to repo (with [skip ci])
+5. **Build Assets** - Create data chunks and search indices
+6. **Optimize** - Optimize assets for production
+7. **Test & Validate** - Run tests and validate data integrity
+8. **Upload** - Prepare artifacts for deployment
 
-**Scheduled Jobs**:
-- Nightly full rebuild at 2 AM (validates + regenerates everything)
+**Deploy Job:**
+- **Deploy to GitHub Pages** - Automatic deployment on main branch
+- **Live URL**: https://fil512.github.io/auntruth/
+
+**Key Features**:
+- Triggers automatically on every push to main
+- Regenerates person pages from JSON data
+- Auto-commits changes (marked with [skip ci] to avoid loops)
+- Full deployment in 3-5 minutes from push to live site
 
 ### Local Development
 
@@ -393,15 +441,41 @@ rsync -avz /var/www/auntruth/backups/latest/ /var/www/auntruth/new/htm/
 
 **See `docs/RUNBOOK.md` for complete emergency procedures.**
 
+### Photo Pages Modernization (October 2025)
+
+**All photo-related pages have been modernized and integrated into the template system.**
+
+**Photo Detail Pages (XI*.htm) - 2,762 pages:**
+- Complete redesign with modern responsive layout
+- High-resolution image display with zoom capabilities
+- Metadata preservation (date, location, people, photographer)
+- Cross-linking to related people and galleries
+- Mobile-optimized image viewing
+
+**Photo Gallery Pages (TH*.htm) - 4,276 pages:**
+- Location-based and theme-based galleries
+- Thumbnail grids with lazy loading
+- Integration with person pages and photo details
+- Breadcrumb navigation and search integration
+- Responsive grid layouts for all screen sizes
+
+**Key Features:**
+- All pages use Jinja2 templates for consistency
+- Integrated with Phase 3 features (search, navigation)
+- SEO-optimized with proper meta tags and structured data
+- Accessibility improvements (alt text, ARIA labels)
+- Fast loading with optimized images and lazy loading
+
 ### Phase 3 Achievements
 
 - ✅ **All 10 lineages extracted** (3,004/3,025 files, 99.3% success)
 - ✅ **Schema compliance validated** (2,966/3,004 files, 98.7% success)
-- ✅ **GitLab CI/CD pipeline** fully automated
-- ✅ **Comprehensive documentation** (developer guide, runbook)
+- ✅ **GitHub Actions CI/CD pipeline** fully automated
+- ✅ **Photo pages modernized** (2,762 detail + 4,276 gallery pages)
+- ✅ **Claude Code skill created** for safe genealogy data updates
+- ✅ **Comprehensive documentation** (developer guide, runbook, skills)
 - ✅ **Templates created** with Phase 4 design system integration
-- ✅ **Production deployment** automated with manual approval gate
-- ✅ **Nightly rebuilds** scheduled for continuous validation
+- ✅ **Production deployment** automated to GitHub Pages
 
 ### Lineage Directory Mapping
 
@@ -422,4 +496,4 @@ rsync -avz /var/www/auntruth/backups/latest/ /var/www/auntruth/new/htm/
 
 **Phase 3 Status**: ✅ **COMPLETE AND IN PRODUCTION** (October 2025)
 
-**Key Takeaway**: Data-driven page generation system with full CI/CD automation for 3,004 genealogy pages across 10 family lineages.
+**Key Takeaway**: Data-driven page generation system with full GitHub Actions CI/CD automation for 11,516 genealogy pages (3,004 person pages + 2,762 photo detail pages + 4,276 photo gallery pages) across 10 family lineages. Includes Claude Code skill for safe genealogy data updates.
