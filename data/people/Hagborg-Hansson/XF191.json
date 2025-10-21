@@ -4,9 +4,9 @@
   "lineage": "Hagborg-Hansson",
   "birthDate": "Sunday, November 12, 1944",
   "birthLocation": "906 Riverwood Ave Winnipeg MB R3T 3N2 CAN",
-  "deathDate": null,
+  "deathDate": "2025-09-25",
   "deathLocation": null,
-  "deceased": "No",
+  "deceased": true,
   "father": {
     "id": "XF178",
     "name": "Walter Arnold Hagborg [Hagborg-Hansson]",
@@ -12822,7 +12822,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2005-12-19T18:55:35Z",
+    "lastUpdated": "2025-10-21T13:02:25Z",
     "originalHtmlPath": "docs/new/htm/L1/XF191.htm",
     "extractionDate": "2025-10-01T22:03:05.482836Z"
   },
