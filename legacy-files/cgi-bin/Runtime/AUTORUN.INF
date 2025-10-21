@@ -1,0 +1,59 @@
+[autorun]
+OPEN=setup.EXE /AUTORUN
+ICON=setup.EXE,1
+
+shell\configure=&Configure...
+shell\configure\command=setup.EXE
+
+shell\install=&Install...
+shell\install\command=setup.EXE
+
+[ProductFeatures]
+Feature1=ACCESSFiles
+Feature2=ProductFiles
+Feature3=WORDFiles
+Feature4=EXCELFiles
+Feature5=PPTFiles
+Feature6=OUTLOOKFiles
+
+[ProductInformation]
+ProductCode={00180409-78E1-11D2-B60F-006097C998E7}
+DisplayName=Microsoft Access 2000 Runtime
+Version=9.0
+;Make this be 1 to do autorun even if the product is installed.  Default for Office
+;is to not autorun maintenance mode setup if the product is installed.
+;AutorunIfInstalled=1
+
+[ServicePack]
+NTVersion=4
+; 0x300 as a decimal number.
+SPLevel=768
+MessageText=%s cannot be installed on this computer.  This product requires Microsoft Windows NT Version 4.0 Service Pack 3 or higher.  Please download the service pack from www.microsoft.com prior to installing.
+
+[InstallFont]
+Font=Tahoma (TrueType)
+FontAlt=Tahoma(TrueType)
+FontAlt2=Tahoma
+Version=Version 2.30
+Path=Windows\Fonts\Tahoma.TTF
+Force=No
+
+[InstallFontBold]
+Font=Tahoma Bold (TrueType)
+FontAlt=Tahoma Bold(TrueType)
+FontAlt2=Tahoma Bold
+Version=Version 2.30
+Path=Windows\Fonts\TahomaBD.TTF
+Force=No
+
+[InstallMSI]
+;Make this be zero to aways suppress installing Windows installer
+;If this is missing or one, we upgrade Windows installer only on systems
+;prior to NT 5.
+;Make this be 2 to upgrade Windows installer even on NT 5 and later.
+InstMsi=2
+
+[IE]
+;before 5.00.0909.1400, IE uses msls3.dll 317.  After 5.00.0909.1400, IE uses msls3.dll 325
+Version=5.00.0909.1400
+MessageText=This beta version of Microsoft Windows 2000 must be upgraded to install %s.

@@ -1,0 +1,42 @@
+:Base snapview.hlp>Ref
+:Title Snapshot Viewer Version 9.0
+2 Open the Readme file for late-breaking information=!EF("readme.txt","",1)
+1 Working with Report Snapshots
+2 About report snapshots and Snapshot Viewer=acconAboutWorkingWithReportSnapshots
+2 Open a report snapshot=achowOpenReportSnapshotInSnapshotViewer@snapview.hlp>HowTo
+2 View a report snapshot=achowViewReportSnapshotInSnapshotViewer@snapview.hlp>HowTo
+2 View a report snapshot at different magnifications=achowViewReportSnapshotAtDifferentMagnificationsInSnapshotViewer@snapview.hlp>HowTo
+2 Print a report snapshot=achowPrintReportSnapshotFromSnapshotViewer@snapview.hlp>HowTo
+2 Send a report snapshot in electronic mail by using the Send command=achowSendReportSnapshotInElectronicMailMessageFromSnapshotViewer@snapview.hlp>HowTo
+2 Send a report snapshot in electronic mail by using the SendObject action=achowAutomateSendingOfReportSnapshotInElectronicMail@snapview.hlp>Ref
+2 Create a report snapshot=achowExportReportToSnapshotFormat@snapview.hlp>HowTo
+2 Create a report snapshot with the OutputTo action and publish it to the Web=achowAutomateCreationOfSnapshotReport@snapview.hlp>Ref
+2 Shortcut keys for report snapshots=acrefUseShortcutKeysInSnapshotViewer@snapview.hlp>Ref
+1 Troubleshooting the Printing and Viewing of Report Snapshots
+2 I can't open a report snapshot.=actbcICantOpenReportSnapshot@snapview.hlp>Ref
+2 I get the Web page instead of the report when I print a report snapshot.=actbcIGetBlankPageWhenIPrintReportSnapshot@snapview.hlp>Ref
+2 I can't send a report snapshot in electronic mail.=actbcICantSendReportSnapshotInElectronicMail@snapview.hlp>Ref
+1 Snapshot Viewer Language Reference
+2 Events
+3 FirstPage, LastPage, NextPage, PrevPage Events=acevtFirstLastNextPrevPage@snapview.hlp>LangRef
+3 Progress Event=acevtProgress@snapview.hlp>LangRef
+3 ReadyStateChange Event=acevtReadyStateChanged@snapview.hlp>LangRef
+2 Methods
+3 AboutBox Method=acmthAboutBox@snapview.hlp>LangRef
+3 FirstPage, LastPage, NextPage, PreviousPage Methods=acmthFirstLastNextPreviousPage@snapview.hlp>LangRef
+3 PrintSnapshot Method=acmthPrintSnapshot@snapview.hlp>LangRef
+2 Properties
+3 AllowContextMenu Property=acproAllowContextMenu@snapview.hlp>LangRef
+3 CurrentPage Property=acproCurrentPage@snapview.hlp>LangRef
+3 Error Property=acproError@snapview.hlp>LangRef
+3 PageCount Property=acproPageCount@snapview.hlp>LangRef
+3 ReadyState Property=acproReadyState@snapview.hlp>LangRef
+3 ShowNavigationButtons Property=acproShowNavigationButtons@snapview.hlp>LangRef
+3 SnapshotPath Property=acproSnapshotPath@snapview.hlp>LangRef
+3 Zoom Property=acproZoom@snapview.hlp>LangRef
+1 Exporting Report Snapshots=acmthsendobjectandoutputto@snapview.hlp>LangRef
+1 Glossary
+2 Fill=IDH_acdefFill@snapview.hlp>Ref
+2 report snapshot=IDH_acdefReportSnapshot@snapview.hlp>Ref
+2 Snapshot Viewer=IDH_acdefSnapshotViewer@snapview.hlp>Ref
+2 Snapshot Viewer control=IDH_acdefSnapshotViewerActiveXControl@snapview.hlp>Ref
